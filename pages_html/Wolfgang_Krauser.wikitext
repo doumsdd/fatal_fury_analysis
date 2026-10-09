@@ -1,0 +1,533 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Wolfgang_Krauser_Profile.webp|thumb|Ruled the sinister underbelly of society as the Emperor of Darkness, until he fell in battle to the resilient fang of the Hungry Wolf—or so the rumors, spread by his own offspring, would have the public believe.<br>
+Now, years later, the son of the sovereign has a fighting tournament of his own; for Krauser, whose ruthlessness has only grown with time, it is the perfect chance to strike.<br>
+The stage is set—not a requiem for the fallen, but an overture to revenge.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15~23f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Kneeling Hammer - [[image:fd.gif]] + [[image:a.gif]]
+
+Blitz Strike - [[image:fd.gif]] + [[image:c.gif]]
+
+Command Combo - Close [[image:c.gif]] > [[image:fd.gif]] + [[image:c.gif]]
+
+
+'''REV Blows'''
+
+Chariot Bash - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Imperial Skyfall - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Blitz Ball - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (Hold OK)
+
+Leg Tomahawk - [[image:qcf.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*) 
+
+Phoenix Slam - [[image:hcb.gif]][[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Kaiser Claw - [[image:dp.gif]] + [[image:a.gif]]  / [[image:c.gif]]
+
+Knee Halberd - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' Knee Halberd: Stab - [[image:bk.gif]] / [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Knee Halberd: Lunge - (REV Knee Halberd) [[image:bk.gif]] / [[image:fd.gif]] + [[image:b.gif]] (* 2nd hit) / [[image:d.gif]] (* 2nd hit) 
+
+
+'''Ignition / Redline Gears'''
+
+Kaiser Wave - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (Hold OK)
+
+Gigantic Cyclone - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Hidden Gear'''
+
+Unlimited Desire X - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+A memorable villain who [[The King of Fighters '98 UMFE/Wolfgang Krauser|last appeared in KOF '98 UM]], Wolfgang Krauser is a well-rounded bully character who is defined by his screen presence, big damage, and ability to completely overwhelm his opponent. 
+
+Krauser has a bit of an unusual moveset, with fireballs reminiscent of Sagat's Tiger Shot, an anti-air grab, armored command grab, a pair of advancing specials, and long-reaching normals, which seems simple enough on paper. But where they truly shine are in their collective ability to completely overpower opponents' responses to them. Krauser can charge his fireballs to simply beat opponents' projectiles, his anti-air grab can't be Just Defended, and above-average damage on his normals means he simply wins trades; alas, challenging Krauser directly is tantamount to chiseling your own gravestone. If Krauser gets a clean hit, he can hit incredibly hard with his high combo damage, ending with a hard knockdown to continue his assault, whether it be up close or even from afar with a charged Blitz Ball or Kaiser Wave.
+
+Krauser may thus seem like an unstoppable force at first, but look closer and you will see this emperor's flaws. None of his special moves are invincible instantly, forcing him to rely on his valuable meter for an invincible reversal. As a character on the slow side with poor reward from his lows, he lacks the ability to stop an opponent from moving around the screen to evade his big attacks. This stacks with being a big body, giving faster characters ample opportunity to strike if he commits to one of his bigger attacks.
+
+All in all, Krauser is a solid character, perfect for players who enjoy simply overpowering their adversaries. With his simple game plan, easy-to-execute combos and dominant neutral, he's also a great choice for new players. 
+
+{{StrengthsAndWeaknesses
+| intro = Krauser is a brutish all-rounder who can overpower opponents anywhere on the screen with his long reach, high damage, and unique moves.
+| pros=
+* '''Omnipresent''': Krauser is a constant threat from anywhere on the screen. He can zone with fast fireballs from long range, overpower other characters' projectiles with his own, duke it out in mid-range with his massive normals, pressure the opponent up close with his multiple tools, and everything in between, and in all of the above cases, he has tools to simply overpower the opponent's response. 
+* '''Absurd Damage''': Krauser's combo damage is absolutely massive, with light-to-heavy links, above-average damage on many normals and special moves, and intense counter hit routes; it's possible to hit 700 damage in a combo even on a normal hit. 
+* '''Unstoppable Anti-Air''': Krauser is the only character in the game whose main anti-air option cannot be Just Defended. As an anti-air grab, Kaiser Claw (623P) prevents the opponent from resorting to the simple answer of jumping over his fireballs or normals, as doing so puts them in a hard knockdown.
+* '''Says No to REV Blow''': With an air-invincible grab, a command grab with guard point, good light strings, and a reasonably quick super, Krauser has an easy time shutting down REV Blows, even outside of S.P.G. 
+* '''REV Gauge Buildup:''' Krauser has multiple ways to drive up the opponent's REV Gauge when he has the advantage, with multiple plus-on-block specials and long-reaching moves, not to mention a hard knockdown into charged Kaiser Wave putting a whopping 70% REV buildup or more on the opponent's wakeup. 
+
+|cons=
+* '''No Meterless Reversal''': Krauser's only invincible reversals are Gigantic Cyclone and his Hidden Gear, meaning he will struggle to deal with pressure and mix-ups. While his unique command grab has fast guard point to break frame traps, the grab itself is too slow to be a reliable defensive option on top of being a high risk low reward option. 
+* '''Unrewarding Lows''': Krauser's only low starter is his 2B and he has a singular hyperspecific way to convert into REV moves from it, making his low presence usually very underwhelming without a conversion into super. 
+* '''Somewhat Slow''': Krauser doesn't move very quickly; his walk and dash speeds are slower than your average character. More nimble characters can throw him off his game as he can't quickly reposition to keep opponents where he wants them. 
+* '''Vulnerable to Whiff Punishes''': The hurtboxes on Krauser's longer pokes stay out for a while on whiff, leaving him more vulnerable to Wild Punishes than many other characters. 
+
+ }}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=krauser_fa
+|description= Krauser stabs forward. Has massive range and an all around great button to use in confirms and in neutral as a poke
+*Not special cancelable
+*Best 3 hit light string ender due to range and great chain option after a spaced 2B
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=krauser_fb
+|description=Amazing far B, one of Krauser's best buttons and has alot of uses in his game plan.
+*Special cancelable
+* Great 3 hit light string ender.
+*Combos meterlessly to 214A at any range.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=krauser_fc
+|description=Double handed slap with average range that also hits crouchers. Good button in neutral to check dash/run ins or to start blockstrings.
+*Wild Punish +25 (+24 when Feint Cancelled)
+*Special cancelable 
+* Massive cancel window
+* Links after both feinted close D and close C 
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=krauser_fd
+|description= 
+*Wild Punish +23
+*Super cancelable
+*Use with caution
+Massive roundhouse kick with good range. Has significant recovery and very weak to jump ins. The hitbox is quite good at catching hops and can be used as a situational anti-air at ranges where Krauser's anti-air grab whiffs.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=krauser_cla
+|description=
+*Special cancellable
+*Krauser's fastest normal.
+*Starts Combination Attack.
+It is worth nothing that the cl.A cl.B chain can be linked into cr. C at point-blank range, providing access to REV combos. It will fall out at further range, however. From crossup, though, cl.A is Krauser's most consistent combo starter, allowing for the cl.A > cl.B, cr.C link from a jump-in. In addition to this, it can hop check due to its height.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=krauser_clb
+|description=
+*Cancellable
+*Links into cr.C
+*Links into cl.C and cl.D on crossup
+Probably Krauser's best light normal. Close B allows for access to REV combos due to being linkable into cr.C. Its 6-frame startup also makes it ideal for punishing specials that cl.C can't punish. In addition, it can be linked into cl.D on crossup. This provides a higher-damaging, albeit less consistent crossup conversion than cl.A. It is also +3 on block, making it great for light chain blockstrings and command grab tick throws.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=krauser_clc
+|description=
+*Wild Punish +23 (+30 when Feint Cancelled)
+*Cancellable
+*Hits twice but only cancels on the second hit; special cancels buffered during the first hit will not come out 
+Krauser's other combo starter from jump-ins. A pretty lackluster button on its own, being -6 on block. One saving grace of regular cl.C is its link from cl.B on crossup. On regular jump-ins or particularly deep crossups, however, it's always best to do the 4/6C followup to enable more damage. Just use cl.D.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=krauser_cld
+|input=cl.D
+|description=
+*Wild Punish +22 (+30 when Feint Cancelled)
+*Cancellable
+*Forces stand on hit
+Despite being Krauser's slowest close normal, it boasts the highest raw damage of Krauser's close normals. Close D also shines as his main starter with cl.D > feint, f.C, providing better scaling than cl.C > 4/6C. It also has other benefits.
+
+First, crossup j.C, cl.B, cl.D > feint, 2C is Krauser's highest-damaging combo starter, with conversions doing on average having 1-2% more damage over cl.C > 4/6C > feint, 2C conversions from any jump-in. 
+
+Second, it is a fantastic punish button, being +15 on CH and +22 on WP when grounded. This allows for maximized routing with CH cl.D > feint, 66 cl.C.
+
+Lastly, it is Krauser's safest normal when feinted, sporting a +3 on block with Feint Blitzball, enabling his command grab game to a scary degree.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=krauser_cra
+|description=
+*Special cancellable
+Krauser's safest crouching normal, being only -1 on block.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=krauser_crb
+|description=
+*Krauser's fastest crouching normal
+*Cannot chain into itself
+Good at stuffing dashes and grabs, plus it has good range for a 2B. While it is super cancellable and can chain into 2A, f.A and f.B for more cancels, only 2A and f.B are special cancellable. Even then, there are plenty of ranges where 2B > 2A and 2B > f.B fall out. All of this compounds into a central weakness of Krauser; he lacks consistent rewards from lows.
+
+Sorry y'all, he can't have it all.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=krauser_crc
+|description=
+*Cancellable
+*Wild Punish +18 (+23 when Feint Cancelled)
+One of Krauser's long-reaching cancellable heavies. It is also his fastest at 9 frames. Deceptively long, as it hits a little less that a full character length away.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=krauser_crd
+|description=
+*Forward-advancing
+*On Wild Punish, puts opponents into a state where they can be OTG’d with another sweep, low Blitz Ball, or Kaiser Wave
+Krauser's sweep boasts good range and it moves him forward. It also chains from 2A on hit, despite not being mentioned in-game.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=krauser_ja
+|description=
+*Krauser's fastest air normal
+*Active for eight frames, the longest of all his air normals
+*Cancels to REV Blow on hit, block or air JD, but will not combo
+Krauser's lil' slap is his fastest air-to-air, if a bit more specific in application. It hits pretty high, but works well against full jumps.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=krauser_jb
+|description=
+*Long and strong
+Krauser's primary air-to-air. It boasts good range and hits lower, stuffing hops early.
+* Has a cross-up hitbox on Krasuer's right knee and another hitbox on his extended left leg. The cross up hitbox is quite small so it is recommended to use jump C as Krasuer's main crossup tool
+
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=krauser_jc
+|description= Krauser swipes the area in front of him. Great jump in button but this button suprisingly has a very strong cross up hitbox that is very easy to land and hard to react to.
+*Massive cross-up hitbox
+* Go to Jump in button
+
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=krauser_jd
+|captions=
+|description=
+*Launches on air hit, allowing for followup combos
+Massive flying knee that is another good option for jump ins. Extremely strong hitboxes all around.This button puts the opponent in a juggle state on hit which allows Krauser to get follow-ups, theoretically making it his best air to air move.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=krauser_cla_5c,krauser_cla_5c_5c,krauser_cla_5c_5d,krauser_cla_5c_6d,krauser_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description5=*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=krauser_throw
+|description= Important tool in Krauser's arsenal, as an easy to follow-up-on throw. When an opponent is in the corner, Krauser can follow up forward throw with meaty 214[AC], dash to be +8 and in their face.
+
+*Krauser could charge Kaiser Wave to try hitting the opponent on their wake up, but it is not a strong option as Krauser will be punished universally by the cast and the opponent can do a hyper jump on wake up and avoid the projectile if Krauser tries to charge it.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=krauser_4throw
+|description=
+Though the throws have similar animations at first, the voice clip tells you which direction you’re about to be tossed. During a back throw, Krauser will shout “I will… crush you!”
+}}
+
+==Command Moves==
+====Kneeling Hammer====
+{{FrameDataCargo-COTW
+|moveId=krauser_6a
+|captions=
+|description= Krauser's strongest and scariest overhead. Has MASSIVE range and fast start-up. will always combo into 2A on hit.
+
+* Has quite distinct start up which makes it slightly easier to react to when compared to other command overhead moves and only 2 active frames, so it is hard to get strong conversions using it.
+}}
+
+====Blitz Strike====
+{{FrameDataCargo-COTW
+|moveId=krauser_6c
+|captions=
+|description=
+*Super cancellable
+*Long reach
+While it is very unsafe at point-blank range, 6C is very long-reaching, hits crouchers, and is super cancellable on reaction. 
+}}
+
+====Command Combo====
+{{FrameDataCargo-COTW
+|moveId=krauser_clc_6c
+|captions=
+|description=
+Krauser throws a quick upwards hook using his other arm.
+* Scales combos by an extra 5% on hit, which makes this feint route into a 2C do less damage than close D > feint, far C in combos.
+}}
+
+==REV Blows==
+====Chariot Bash====
+{{FrameDataCargo-COTW
+|moveId=krauser_cd
+|description= * Damage value factors in S.P.G bonus. 
+Krauser does a lunging swipe with good range. Pretty average REV Blow, all things considered, and does its job well. Unfortunately it is quite slow at 25 frames startup, and the opponent can neutral jump to easily make it whiff. Otherwise it's combo friendly and does massive corner carry while still giving good okizeme.
+}}
+
+====Imperial Skyfall====
+{{FrameDataCargo-COTW
+|moveId=krauser_jcd
+|input=j.CD
+|description= * Damage value factors in S.P.G bonus. 
+* Hits OTG. 
+Krauser slams vertically down with his fist. Has a massive tendency to go completely over the opponent when done above them, making it whiff. Due to this and its long startup, it's quite risky to use in neutral. Thus best used strictly as a combo filler, or confirmed from a raw REV Leg Tomahawk. 
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=krauser_5bc
+|description=* Mimics Leg Tomahawk, Krauser's slowest Feint.
+}}
+
+====Forward / Down Feint====
+{{FrameDataCargo-COTW
+|moveId=krauser_2bc
+|description=* Krauser's fastest feint and the one used in his framedata.
+*Mimics Blitzball.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=krauser_2crev
+|description=* Cannot be cancelled on block.
+* Wins against jumping attacks, standing normals and REV Blows. Triggers a slowdown if it meets any of these.
+* Small hitbox and slow startup compared to most High Dodge Attacks.
+Lackluster high dodge attack. The hitbox is smaller than it looks, and it's rather slow to start up in comparison to other characters, but despite all these flaws, it still has a place in Krauser's game plan.
+
+When Counter Hitting or Wild Punishing an airborne opponent, it always combos to Kaiser Claw, no matter how high it hits. If it doesn't connect too high, you can instead cancel to heavy Knee Halberd for a full, albeit scaled, combo.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=krauser_crev
+|description=* Universal overhead, wins against lows and throws. Triggers a slowdown if it meets either of these.
+* On Counter Hit or Wild Punish, links to close D up close, or 2C if too far away for the former.
+* Meaty setups for this move do exist for Krauser, making it up to +6 on hit and +1 on block.
+Average universal overhead and low crush. Great hitbox and range.
+}}
+
+==Special Moves==
+====Blitz Ball====
+{{FrameDataCargo-COTW
+|moveId=krauser_214a,krauser_214c,Krauser_214ac
+|input=214A/C/AC
+Hold 214[A]/[C]/[AC]
+|input2=qcb+A/C/AC
+Hold qcb+[A]/[C]/[AC]
+|description3=Krauser underhands a fireball forward.
+* Light version is the high fireball; faster to startup and recover, but whiffs on crouch.
+* Heavy version is the low fireball; can hit crouching characters but is slow to recover, being minus on hit point blank. It also hits OTG. 
+* The meterless versions have near-identical startup animations, making telling them apart extremely difficult until they come out. 
+* REV version is the slowest to startup, and is the height of your average fireball. It travels slowly at first but accelerates over time. It also launches on Counter Hit. 
+* Every version can be held; if held long enough, they do extra damage, are more plus on hit/block, and out-prioritize other basic projectiles. REV/Super projectiles will still beat them.
+A highly variable fireball that forms the crux of Krauser's long-range game, Blitz Ball is a very daunting projectile for the opponent to navigate around in neutral. The projectiles are fast, can go high or low, and can be held to mix up the timing and make predicting them much harder. 
+
+Each version has its own weaknesses; the light version whiffs on crouching opponents, while the heavy version is highly vulnerable to jumps. Since each version of Blitz Ball can cover the other's flaws, you will always want to alternate unpredictably between high and low, instant and held, so that it becomes harder for the opponent to predict and avoid/punish. Mixing feints into your zoning can also be quite powerful. 
+}}
+
+====Leg Tomahawk====
+{{FrameDataCargo-COTW
+|moveId=krauser_236b,krauser_236d,krauser_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=Krauser does a flying axe kick that has massive range. 
+* All versions are breakable before the hit, stopping Krauser short. 
+* Light version becomes active faster but covers less range and is slightly minus. 
+* Heavy version is slow and reactable but covers a wider range while being up to +3 on crouching block. It can also go over most standard projectiles and punish them. 
+* REV version is a happy medium, being only one frame slower than the light version but has the heavy version's plus frames.
+* Heavy and REV versions leave Krauser outside of close heavies' range, but surprisingly, Krauser is still left in throw range.
+* All versions don't hit grounded opponents until the fourth active frame, making them 26/28/27 frames startup against them respectively. 
+The infamous Leg Tomahawk is an extremely potent neutral tool, especially after making the opponent block a fireball. Its huge range and anti-projectile capabilities mean the opponent always has to be watching out for it. 
+
+In advantage, it's also a good option for ending blockstrings to catch movement, backdashes, and some buttons. They can all be jabbed or High Dodge Attacked on reaction, however, so be careful not to overuse them. 
+}}
+
+====Phoenix Slam====
+{{FrameDataCargo-COTW
+|moveId=krauser_632146b,krauser_632146d,krauser_632146bd
+|input=632146B/D/BD
+|input2=hcb,f+B/D/BD
+|description3=Krauser lunges forward to grab the opponent, slamming them back down to the ground. 
+* Heavy and REV versions have guard point from frame 3 until recovery
+* REV version instead lifts the opponent up and strikes them in the back, switching sides before allowing REV Accel.
+Krauser's grounded command grab. While slow on startup, 632146K is still great for a lot of reasons. 632146D/BD both have near-instant guard point and reliably catch backdashes in the corner. 63214B, while lacking the guard point, is also the fastest at 22 frames and good for cancelling from lights. An important thing to note is that Krauser has strings and normals that are +3 on block, making 632146B/BD a good option against abare buttons, especially with the guard point absorbing infinite hits.
+
+The REV version allows for combos as well, although they scale worse than cancels, around 10~30 less damage than usual. It is committal, though, being jumpable and very punishable in recovery. Even with that, it's still a great tool and integral to pressure.
+}}
+
+====Kaiser Claw====
+{{FrameDataCargo-COTW
+|moveId=krauser_623a,krauser_623c,krauser_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description3=Krauser reaches up for an airborne opponent and slams them back down behind him. 
+* Heavy and REV versions are air invuln frame 1 to recovery.
+* Cannot be Just Defended. 
+* A meterless hard knockdown that you can combo into. 
+Krauser's anti-air grab is one of his best tools, providing a hard knockdown on all versions. The Heavy and REV versions  have air invuln on frame 1, shutting down most air approaches or attempts to evade Blitzball. Even in most REV combos, 623A is still the highest-damaging non-metered ender. By design, however, Kaiser Claw cannot hit grounded opponents. In addition, it does sideswitch on hit, making the move risky should you put yourself in the corner, even if it gives great, consistent okizeme.
+
+The REV version is almost identical to the Heavy version, but has REV Accel properties, allowing you to combo afterward.
+}}
+
+====Knee Halberd====
+{{FrameDataCargo-COTW
+|moveId=krauser_214b,krauser_214d,Krauser_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3= Krauser lunges forward with a knee.
+* All versions are Brakeable before the hit.
+* Unsafe up close, but can be made plus when spaced
+* Light version is his most consistent special from lights
+* Light version leaves a grounded opponent standing, heavy and REV versions knock down on hit and launch on Counter Hit. 
+* Heavy version is great combo filler in juggles. 
+Krauser's rekka and main combo special. Notably, 214B/D/BD.BR itself lacks a hitbox much like 236B/D/BD.BR and thus means he has only one Brake combo and it isn't even damage-optimal. In REV combos, the heavy version can follow up 214AC for juggles into Gigantic Cyclone or Kaiser Claw.
+}}
+
+====Knee Halberd Followups====
+<!-- Knee Halberd: Stab -->
+{{FrameDataCargo-COTW
+|moveId=krauser_214b_4b,krauser_214d_4b
+|input=214B/D > 4/6K
+|input2=qcb+B/D > b/fK
+|description2=
+*Very minus on block
+*Soft knockdown
+The end of the rekka and damage-optimal on hit. -7 on block, bad in blockstrings.
+}}
+
+<!-- Knee Halberd: Lunge -->
+{{FrameDataCargo-COTW
+|moveId=krauser_214bd_4b
+|input=214BD > 4/6K
+|input2=qcb+BD > b/fK
+|description=
+*Brakeable on first hit only
+*214BD > 4/6D.BR is only -3 on block.
+THIS is why Krauser does the damage he does. 214BD > 4/6D is most likely Krauser's best way to start REV combos, reliably cancelling into every REV special except 632146BD. Even without REV cancels, it juggles into every super as well as 623A. It is also Krauser's only Brake with a hitbox. While not damage-optimal to brake on hit, 214BD > 4/6D.BR is -3 on block, making it safe.
+}}
+
+==Super Special Moves==
+====Kaiser Wave====
+{{FrameDataCargo-COTW
+|moveId=krauser_236236a,krauser_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+Krauser shoots up a massive projectile, in a very similar way to Marco's fireball super. 
+* Extrtemely tall hitbox, very difficult to jump unless very close
+* Neither version is fully invincible on startup, not even the Redline version 
+* All versions hit OTG
+* Worse damage than Gigantic Cyclone, but better okizeme
+This super has a lot of utility and is potentially one of the strongest supers in the game. Extremely combo-friendly and easy to link to. 
+
+Despite looking quite gimmicky, this super is EXTREMELY HARD to deal with even outside of combos, due to its ability to be held to avoid Just Defense. Oftentimes, the opponent will have to choose between blocking the hit and suffering the REV buildup, simply taking the hit to protect their REV, or try to challenge it and potentially get hit. However, this super is extremely minus on block at all ranges and has more recovery the longer it is charged. Punishing Kaiser Wave on block depends on the range and character-specific tools. Marco's Haou Shoukou Ken, Rock's Shining Knuckle, Terry's Buster Wolf, and Preecha's P=Mc^2 are all great and fairly consistent punish options if the projectile was not blocked from completely full screen.
+
+Notably, this super can be held to boost its properties. After being held for 45 frames, the super becomes purple, and after being held for 120 frames, it will become red. It can be held for up to 225 frames (Ignition) / 229 frames (Redline) before Krauser releases it automatically. When held for at least 45 frames, Kaiser Wave can no longer be Just Defended, gains increased damage depending on charge length, has massively increased REV buildup (70%/85% for purple, 75%/95% for red) and completely beats out other supers of the same strength (Rock's Raging Storm, Marco's Haoh Shoukou Ken, etc.) unless they have projectile invincibility.
+
+Almost all of Krauser's hard knockdowns give him time to charge Kaiser Wave this long, forcing the opponent to potentially make a difficult decision between getting hit or getting Overheated. 
+}}
+
+====Gigantic Cyclone====
+{{FrameDataCargo-COTW
+|moveId=krauser_236236b,krauser_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=Krauser takes the opponent for a spin and tosses them away. 
+* Krauser's best invincible reversal.
+* Despite the animation, it’s a hitgrab that only hits front.
+* On block, pulls the opponent in without dealing any chip damage or REV buildup. 
+* Krauser’s highest-damage ender, but needs specific routes to juggle it due to the small hitbox.
+* '''Cannot hit opponents in grounded, throw-invincible states''' (such as during hitstun, or if the opponent backdashes or does a Low Dodge Attack). Thus the only way to combo into it is with a juggle.
+* Redline version has slightly more range, allowing it to combo from slightly more optimal routes ending with a REV Leg Tomahawk.
+
+The more damaging of Krauser's supers, Gigantic Cyclone is also used as a reversal. You can combo into it from some juggles as well, and is generally your preferred ender when available due to its damage and okizeme. Notably, though, it is no longer a grab in contrast to its past appearances. 
+
+In the current version of the game, Gigantic Cyclone comes with massive caveats. You cannot combo into it on the ground, and when used as a reversal, it loses to grounded, throw-invincible moves such as most Low Dodge Attacks. However, it can still hit airborne opponents just fine. 
+}}
+
+==Hidden Gear==
+====Unlimited Desire X====
+{{FrameDataCargo-COTW
+|moveId=krauser_236236rev
+|name=Unlimited Desire X
+|description= Krauser rushes the opponent down Ranbu-style. On hit, transitions to a cinematic. 
+* Resets the Rev meter to 0%, even during Overheat.
+* Only available during S.P.G. Damage value factors in S.P.G. bonus.
+* Hits from slightly further than round start range, making some things punishable exclusively by this move.
+Krauser's Hidden Gear is his best combo ender and a good reversal that does what Gigantic Cyclone cannot. It's great for closing out rounds, using as a reversal, maximizing your damage, instantly escaping Overheat via resetting your REV gauge, or punishing some -6 attacks that are otherwise safe. 
+
+Due to its lack of okizeme in comparison to Kaiser Wave or Gigantic Cyclone, it may be better to not immediately resort to Hidden Gear and instead use one of your basic supers to keep your momentum. This is especially important when you need to make a comeback. Resetting to neutral as Krauser isn't too bad a move, either, though. 
+}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Wolfgang Krauser]]

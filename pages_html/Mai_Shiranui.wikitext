@@ -1,0 +1,569 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW Mai Profile.png|thumb| Successor to Shiranui-style ninjutsu.
+Following an important tip-off from dutiful monk Sokaku Mochizuki, this modern-day kunoichi proceeds to South Town with purpose—her intense flame and ever-refined techniques lighting up the darkness therein.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~23f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+----
+
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+
+Ukihane - [[image:dn.gif]] + [[image:b.gif]] (Midair Only)
+
+Koukaku no Mai - [[image:df.gif]] + [[image:d.gif]]
+
+Yume Kachou - (In Air) [[image:a.gif]][[image:b.gif]]
+
+Sankaku-Tobi - [[image:uf.gif]] (Near Wall) (Midair Only)
+
+Command Combo - (close)[[image:c.gif]] > [[image:df.gif]][[image:d.gif]] > [[image:d.gif]] / (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+'''REV Blows'''
+
+Homura Niren - (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+Yumihari no Mai - (S.P.G. active, in air) [[image:c.gif]][[image:d.gif]]
+
+
+
+'''Special Moves'''
+
+Kachousen - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Ryuuenbu - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Hissatsu Shinobi-Bachi - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Sayo Chidori - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Hana Arashi - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Musasabi no Mai (Move) - [[image:dn.gif]] ~ [[image:uf.gif]] / [[image:up.gif]] / [[image:ub.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:┗Musasabi no Mai (Fall) - [[image:a.gif]] / [[image:c.gif]]
+
+Air Musasabi no Mai - (In Air) [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+'''Ignition / Redline Gears'''
+
+Kagerou no Mai - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Chou Hissatsu Shinobi Bachi - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Ouran no Mai: Akasuzumi - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Mai in CotW is one of the more defensive characters in the game, being well-rounded with emphasis on neutral control and mobility. 
+
+Mai can command the neutral with her great moveset that consists of a projectile, brakable anti-air, and some of the game’s best neutral pokes. These alone do well enough, but as icing on the cake, Mai retains all of her mobility options from older games, such as her wall jump, making her better still at playing the keepaway game. For when Mai lands a hit and has the advantage, she has multiple ways to keep her turn, including multiple plus-on-block special moves and ways to reposition at will.
+
+Mai's weaknesses come in the form of inconsistency.; while she has lots of plus frames, she doesn't have any great mixup options, and her multihit specials are weak to Hyper Defense. Her normals are great, but she can struggle to connect some of them against crouching opponents in neutral, her fan toss is uniquely strong in exchange for not having an anti-fireball super, and her damage is lower than other characters until she gets a super stocked.
+
+If a highly neutral-oriented take on a CotW shoto with some stylish optimal combos sounds like fun, consider trying Mai out.
+{{StrengthsAndWeaknesses
+| intro = Mai Shiranui is a neutral-focused character with good normals, mobility and zoning, with little emphasis on offense.
+| pros=
+* '''Amazing Footsies''': Mai has great range on all of her normals, especially her light attacks which are potentially the best in the game. While 3D lets her safely fish for counterhits from midrange and serves as a long range, safe low attack which are rare properties for slide attacks to have. Combined with her great walkspeed and massive range buttons which have great conversion ability. Mai can play a very effective footsies game. There is no real area or ranges where Mai is weak which makes her quite stable to play into various matchups.
+* '''Zoning''': Mai is equipped with a DP and a great fireball, letting her play a traditional shoto fireball game, supplemented by an occasional airthrow. Mai also has best in class air to airs in j.A and j.C . Additionally, her EX fireball excels at countering other EX fireballs specifically, and it can let her rapidly approach in cojunction with her command jump. Her walljump and backwards command jump also give her better runaway than most characters.
+* '''Mobility''': Mai has access to a variety of advancing attacks, a command jump, and also excels in the air with tools like her divekick, wall jump, and j.2B to stall momentum, letting her mix up her approach and stay unpredictable.
+
+| cons=
+* '''Just hold downback bro...''': Mai's offense is as basic as it gets, and she doesn't have any majorly powerful tools to make it that threatening, lacking good high/low mixup tools in particular. This invades other aspects of her gameplay too, as her only consistently rewarding heavy poke whiffs on crouchers at range, which hurts her risk reward significantly in neutral and pressure.On top of her plus on block REV special moves having significant pushback on block. Opening up opponents with Mai takes considerable effort.
+* '''Low Average Damage''': Mai tends to deal below average damage on hits when she doesn't have a super available, and all of her grounded normals lack extra reward on counterhit. Note that her super/corner combos are very powerful, however the best ones are also VERY difficult.
+* ''' Weakness to Hyper Defend''': Every Rev enhanced special Mai has is multi-hitting with a long animation time (the ones viable in pressure at least), making them easy to counter for experienced players. Both of her close heavies are also multi-hitting.
+
+* '''Significant pushback on plus on block moves''':All of Mai's moves except for close D push her back so far that she is out of throw range. Mai has a hard time setting up throws except by taking significant risks like dash up throwing or walking up slowly and throwing. Against overly defensive opponents, Mai will have to take alot of risks to land a throw or a 2B. She is also unable to tick throw after a blocked cl.A. Even with Mai's amazing frame traps, if the opponent is willing to take block your frame trap attempts, there is not much Mai can threaten with.
+}}
+
+==Normals==
+===Close Normals===
+====close A====
+{{FrameDataCargo-COTW
+|name=Close A
+|moveId=mai_cl.A
+|input=cl.A
+|description=
+* Mai's fastest move.
+* Chains into itself.
+One of her most important moves, especially for crossup confirms.
+}}
+
+====close B====
+{{FrameDataCargo-COTW
+|name=Close B
+|moveId=mai_cl.B
+|input=cl.B
+|description=
+Pretty much Mai's best pressure normal. +3 on block as standard and a whopping +8 on hit, meaning it can link to 2C and lead into all of Mai's highest damage routes. 
+*Has unusually high pushback on both hit and block. which can cause 2C to Whiff completely ( especially on standing opponents).
+* Only light normal that combos into REV Ryuunbu, very strong option to chain into from lights but only point blank
+}}
+
+====close C====
+{{FrameDataCargo-COTW
+|name=Close C
+|moveId=mai_cl.C
+|input=cl.C
+|description=
+* Starts her Command Combo.
+* On counter hit, can be comboed into itself with a feint.
+* Frame traps and combos after a blocked close D feint
+* A cancel into REV Ryuunbu starts most of her combos and is a very safe ender
+Very generous proximity range.this is Mai's main heavy confirm; you will use it a lot. Keen opponents can hyper-defend the second hit on a hard read. Great cancel options with the best one being REV Sayo Chidori for a true frame trap and plus frames on block. Has another strong cancel option into heavy sayo chidori( For plus frames) and light ryuunbu( for catching back dashes or jumps)
+
+}}
+
+====close D====
+{{FrameDataCargo-COTW
+|name=Close D
+|moveId=mai_cl.D
+|input=cl.D
+|description=
+Mai's main normal for feint cancels, but it's so painfully slow it can't even connect after a jumpin and leaves a massive gap if you want to dash in and reset pressure with it.Close D is only +2 on feint cancel block, quite lower than other Close D buttons, but it leaves Mai in range for her 6 frame Close C. As such it's best as a meaty or a punish route filler when it's confirmed.
+
+*Meterlessly frame traps if canceled to heavy Sayo Chidori and Mai's only way to frame trap 5-frame lights using heavy Chidori.
+* Leaves Mai in range to connect a 2B which is very strong to catch walk backs or hops
+
+|display=175x175px
+}}
+
+===Far Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|name=Far A
+|moveId=mai_f.A
+|input=f.A
+|description=
+One of her best normals and potentially the best Far A in the game.Mai's main ender when chaining lights. Great button to use after Heavy Sayo Chidori or or the REV version to frame trap.On counter hit you can go into a full combo using REV  ryunbuu, or buffer into a safe ender with light Sayo Chidori or a Fan fireball. Cancelling into REV ryuunbu is a very strong option that is low risk but high reward. Will always link from a 2B after any range after patch 3.00
+
+
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=mai_f.B
+|input=f.B
+|description=
+* Whiffs on Crouching opponents from long ranges.
+*Super cancelable
+*Extremely strong and opressive neutral button
+Great range but the lack of cancels means you won't see it used often. This button is a great poke in neutral that is quite hard to deal with for the opponent due to the fast start up and low recovery frames. This move also always connects after any light attack if the opponent is standing. A tip range 2B will always link into Far B which helps her dash low confirms greatly. Due to the unique and elevated hitbox angle of this button. Far B can be an extremely strong option to catch forward dashes, backdashes, and most importantly, hops after ending block strings
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=mai_f.C
+|input=f.C
+|description=
+* Whiffs on Crouching opponents from long ranges.
+Great range and starts her big combos with ease. Its speed and weakness to crouching are the drawbacks you need to remember when using it.
+
+Far C should always be canceled into something, as the frame data on both hit and block are very bad. Safe cancels can be into Light Sayo chidori or a Fireball. If the opponent is conditioned to block. Mai can start canceling Far C into Heavy Sayo chidori to start some offense and pressure. Overall a great button with alot of cancel options and uses.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=mai_f.D
+|input=f.D
+|description=
+*Super cancelable with a generous window for confirming
+Mai takes a step forward and goes for a long horizontal kick. Mai's longest normal and a great button in neutral, great for fishing for Counter Hits and Wild Punishes. However, it's -5 with little pushback and lots of forward movement, which means it's actually punishable more often than not by far lights (or Rock's 2C which can easily lose you the round). Be very careful with spacing it.
+
+ 
+}}
+
+===Crouching Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=Crouching A
+|moveId=mai_2A
+|input=2A
+|description=
+* Hitbox is shorter than the animation.
+* Links after 214D.
+* 6 frame start up 2A which is uncommon, but has more range to compensate
+A decent poke held back by Mai's deceptive animations, it will look like it hit but won't.
+}}
+
+====Crouching B====
+{{FrameDataCargo-COTW
+|name=Crouching B
+|moveId=mai_2B
+|input=2B
+|description=
+* Super cancelable
+Her main low, needs to be chained into other lights to get a confirm. Crouching B will link into Far B very consistently on a standing hit.
+In Ver.1.7.2 allows Mai to link 2 hits of crouching B into a far A
+}}
+
+====Crouching C====
+{{FrameDataCargo-COTW
+|name=Crouching C
+|moveId=mai_2C
+|input=2C
+|description=
+Seriously lacks range, meaning it's basically just a combo tool, where it's important for linking out of c.B. +1 on feint cancel but Mai has a hard time enforcing anything off of it outside of lights that lead to little damage. Commonly used in Mai's optimal damage combos for reversal punishes
+}}
+
+====Crouching D====
+{{FrameDataCargo-COTW
+|name=Crouching D
+|moveId=mai_2D
+|input=2D
+|description=
+A sweep with great range and fast start up. 
+}}
+
+===Jumping Normals===
+====Jumping A====
+{{FrameDataCargo-COTW
+|name=Jumping A
+|moveId=mai_j.A
+|input=j.A
+|description=
+Air to air with great range,large active frame count, and speed. Can be followed up with a cancel to divekick, Rev Blow, or air super to bait JD or combo on counterhit/WP. Overall an extremely important Aerial normal for Mai and one of the  best air to airs in the game.
+}}
+
+====Jumping B====
+{{FrameDataCargo-COTW
+|name=Jumping B
+|moveId=mai_j.B
+|input=j.B
+|description=
+* Can hit as a crossup.
+Her main crossup button, does its job well.
+}}
+
+====Jumping C====
+{{FrameDataCargo-COTW
+|name=Jumping C
+|moveId=mai_j.C
+|input=j.C
+|description=
+Good for air to airs and jump ins.
+}}
+
+====Jumping D====
+{{FrameDataCargo-COTW
+|name=Jumping D
+|moveId=mai_j.D
+|input=j.D
+|description=
+More horizontal range than the other buttons. 5 active frames, making it great for safe jumps. Go to button for safe jumps
+}}
+
+===Command Normals===
+====Ukihane====
+{{FrameDataCargo-COTW
+|name=Ukihane
+|moveId=mai_j.2B
+|input=j.2B
+|description=
+* Active hitbox till landing
+* Can be punished on hit.
+* Can be canceled into j214AC and air rev blow.
+* Can change air trajectory slightly
+Possibly the worst version of this move, there is no hiding it. Use with caution.
+}}
+
+====Koukaku no Mai====
+{{FrameDataCargo-COTW
+|name=Koukaku no Mai
+|moveId=mai_3D
+|input=3D
+|description=
+*Long range 2 hitting command normal low
+* Can be canceled into from close C but becomes a mid.
+* Links into cl.C on Counter Hits but the link is extremely range dependent.
+*Great option to use after REV Sayo Chidori and REV Kachosen to catch walkback
+Reworked after its last appearance. Safe on block, fast and overall a great move that can fish for Counters.
+
+Note: Despite being a great move in Mai's kit. This move is extremely weak to hops and jumps. Try using it only when you know the opponent will stay grounded.
+}}
+
+====Yume Kachou====
+{{FrameDataCargo-COTW
+|name=Yume Kachou
+|moveId=mai_j.AB
+|input=j.AB
+|description=
+A great air throw that let's her start her pressure.A great option to counter Air rev blows.
+}}
+
+====Sankaku-Tobi====
+{{FrameDataCargo-COTW
+|name=Sankaku-Tobi
+|moveId=mai_walljump
+|input=j.7 (near the wall)
+|description=
+* Can do air Normals and j214AC afterwards.
+Her classic walljump, same as usual. Mai jumps off the corner wall extremely high in the air( some times going off screen) at the opponent. The high jump arc can be quite difficult to anti-air if the opponent is not expecting it. A great way to get out of the corner, but don't overuse it much as it is very easy for the opponent to air to air if you become too predicatble.
+}}
+
+====Command Combo====
+{{FrameDataCargo-COTW
+|moveId=mai_cl.C_3D,mai_cl.C_3D_D,mai_cl.C_3D_CD
+|captions=<br>3D follow-up,<br>D ender,<br>CD ender
+|input=cl.C > 3D / 3D > 6D / CD
+|display=150x150px
+|description2=* Last hit is an Overhead.
+Rarely used due to its high risk and low reward, but a good option to close out rounds as a knowledge check.
+|description3=Only available during S.P.G., replaces the last hit with her Rev Blow.
+}}
+
+==Universal Options==
+===Throw===
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=mai_AB
+|input=AB
+|description=
+Gives her plenty oki to get her game going.Can set up a meaty +6 overhead  anywhere on screen by doing a forward hop frame kill.In the corner you can do a neutral hop frame kill into light fireball to get a meaty +11 fireball, but this setup loses to reversals and most light DPs.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=mai_4AB
+|input=4AB
+|description=
+Worse oki but she still has the advantage. Can wave dash to make said advantage better.
+}}
+
+===Rev Blow===
+====Homura Niren====
+{{FrameDataCargo-COTW
+|name=Homura Niren
+|moveId=mai_CD
+|input=CD
+|description=
+Faster than average for a REV Blow, but stubby. It'd be a great anti air but crossups tend to beat it.
+|display=200x200px
+}}
+
+====Yumihari no Mai====
+{{FrameDataCargo-COTW
+|name=Yumihari no Mai
+|moveId=mai_j.CD
+|input=j.CD
+|description=
+Much better than her grounded Rev Blow. Has a decent air-to-air hitbox and is very easy to combo into off of Rev DP or Divekick. With precise cancel timing out of her Rev Specials, it's possible to only land the first hit, which sends the opponent absurdly high into the air, which enables some of Mai's strongest corner routing.
+}}
+
+===Dodge Attacks===
+====High Dodge====
+{{FrameDataCargo-COTW
+|name=High Dodge
+|moveId=mai_2CRev
+|input=2CRev
+|description=
+* Moves her forward.
+Decent ranged 2CRev, but the forward movement leaves Mai punishable 99% of the time if it isn't cancelled. The hitbox is also bad for anti-airing, honestly do not bother outside of desperate reads in neutral.
+}}
+
+====Low Dodge====
+{{FrameDataCargo-COTW
+|name=High Dodge
+|moveId=mai_5CRev
+|input=5CRev
+|description=
+* Beats Lows and Throws.
+Great range for an overhead but it will get blocked a majority of the time due to its slow speed, that being said Mai still appreciates any tool that can punish permanent crouchblocking in neutral. Can be plus enough as a meaty to link out of but good luck landing that against anyone that's not literally asleep.
+}}
+
+==Specials==
+====Kachousen====
+{{FrameDataCargo-COTW
+|name=Kachousen
+|moveId=mai_236A/C,mai_236AC
+|input=236A/C/AC
+|description2=
+* Light travels slow, heavy travels fast
+* Rev version throws 2 fans. Acting as 2 EX projectiles.
+Mai's classic fan throw, as always a good zoning option, and the Rev version is great at keeping her plus. Not good as an approach projectile by itself, but the Rev version can be cancelled into [2]9AC, which works as a surprise approach occasionally.
+}}
+
+====Ryuuenbu====
+{{FrameDataCargo-COTW
+|name=Ryuuenbu
+|moveId=mai_214A,mai_214C,mai_214AC
+|input=214A/C/AC
+|description3=
+* Light version won't normally combo. Causes a launch on Counter Hit.
+* Heavy version comboes from Lights. Rev version combos from a counter hit light attack
+* Only the Light version deletes projectiles.
+* Rev version frame traps from lights into a full combo
+*The heavy version is Mai's best meterless combo ender
+Mai's classic fiery move. The heavy version is her main light confirm and a great ender, whilst the Rev version starts all her combos. The light version has seen better days, not that good or safe, but still lets here delete projectiles, and fish for counterhits from a surprisingly long distance just make sure it's spaced, since at -5 it can still be punished. It can lead to a lot of damage midscreen on CH, so it's a good frametrap or DP punish.
+}}
+
+====Hissatsu Shinobi-Bachi====
+{{FrameDataCargo-COTW
+|name=Hissatsu Shinobi-Bachi
+|moveId=mai_236B,mai_236D,mai_236BD
+|input=236B/D/BD
+|description3=
+* Light version comboes from lights.
+* Heavy and Rev versions can be braked.
+* Light and Heavy do fewer hits on higher height hits.
+* [Possible bug] Be aware that this move is not effected by the SNK "longcut" (2369X) and will often be interpreted as Hana Arashi(623K) by the input reader when done out of a forward dash.
+* Counterhitting with the elbow hitbox will lead to a launch
+Another important move in Mai's kit, most of her combos require at least one of these. Can be made safe with a brake but never plus.The heavy version on counterhit leaves Mai at +6, which allows a link into close C.
+
+'''Important note about the light version:''' In 99% of the time when ending your combos meterlessly, using 214C is always the better option than 236B. 214C has better damage and better oki on hit, on top of being much safer if you miss your confirm. The only reason to use 236B is to get SLIGHTLY more corner carry which in most cases is not worth the damage and oki sacrifice.
+}}
+
+====Sayo Chidori====
+{{FrameDataCargo-COTW
+|name=Sayo Chidori
+|moveId=mai_214B,mai_214D,mai_214BD
+|input=214B/D/BD
+|description3=
+* Despite looks, they're all mids.
+* Heavy version comboes only after clD. Links into 2A on hit.
+* Light and Heavy become +11 on Counter Hit and link with farC.
+* Heavy version and Rev versions are both +2 on block. 
+Another great tool in her arsenal, mainly for pressure and for Counter Hit combos. On Counter, both versions become high damage starters, as she gets a link into far C or 2C. The heavy version frame traps from close D and leaves Mai plus, which can lead to looping pressure that requires a Guard Cancel or risky mashing to escape.
+
+
+Heavy Sayo Chidori in particular is one of Mai's strongest tools and one of the strongest specials in the game, as it is a strong cancel option that is plus +2 on block and adds to the mental stack of the opponent while blocking Mai. The counter play to this move is also quite niche as the best counterplay  is to Just Defend the hit, but at 23 Frames of startup, most opponents will not be ready to react correctly. She can also mix it up with her Light Sayo Chidori to throw off their timing
+
+The Rev version frame traps from f.C and c.C, but on block it is fairly easy to just reaction Hyper Defense it. Due to this it's mostly reserved for combo extensions, but there's it's present in basically every metered combo Mai has.
+
+
+}}
+
+====Hana Arashi====
+{{FrameDataCargo-COTW
+|name=Hana Arashi
+|moveId=mai_623B,mai_623D,mai_623BD
+|input=623B/D/BD
+|description3=
+* Can hit behind her but tends to whiff crossups.
+Her classic DP, making its return after decades since the last SNK game with it. Gets her combos started from Lights and Heavies, and works as a combo extender/ender, Mai's best extender off lights if she can't afford c.B > 214AC. Its bad against crossups, so knowing how to crosscut DP is a fairly useful skill for using it properly. Besides that, brake hitbox is decent, and the full move goes quite high, but with comparatively poor horizontal reach.
+}}
+
+====Musasabi no Mai (Move)====
+{{FrameDataCargo-COTW
+|name=Musasabi no Mai (Move)
+|moveId=mai_27/8/9A,mai_27/8/9C,mai_27/8/9AC
+|input=[2]7/8/9A/C/AC
+|description3=
+* Light, Heavy and Rev change trajectory and speed.
+* 7 and 8 jump back whilst 9 jumps forward.
+Mai's command jump, gives her the unique ability to do an air special from a back jump without it being a Rev Art. Its charge time is slower than others, but its shortened for Rev Accel cancels into it.
+|display=100x100px
+}}
+
+====Musasabi no Mai (Fall)====
+{{FrameDataCargo-COTW
+|name=Musasabi no Mai (Fall)
+|moveId=mai_27/8/9A/C~A,mai_27/8/9A/C~C,mai_27/8/9AC~A,mai_27/8/9AC~C
+|input=[2]7/8/9A/C/AC ~ A/C
+|description4=
+* Light and Heavy have different angles but same speed.
+* If done after the Rev versions, it moves faster.
+The dive, can be death for you if used wrong. Aim for the legs to make it safe on block, or plus but highly pushed out on the EX version.
+}}
+
+====Air Musasabi no Mai====
+{{FrameDataCargo-COTW
+|name=Air Musasabi no Mai
+|moveId=mai_j.214A,mai_j.214C,mai_j.214AC
+|input=j.214A/C/AC
+|description3=
+* Light and Heavy keep their angles from the follow up version.
+* Rev versions act like the Heavy.
+* Non-enhanced versions can never be plus.
+* Launches on grounded and aerial counter hit, and knocks down on normal hit.
+Standalone versions of the dive, nothing different about them besides being cancellable into from j.A. This one is more immediately available compared to its alternative, so it's used to cover ground to escape the corner or similarly mess with anti-airs, and its launch on Counter Hit gives way to Mai's best corner combos. It can be used against jumping guard cancels or after a counter hit air-to-air j.A, but is fairly slow and unreliable depending on the oponent's height, so Rev Blow is better when available. 
+
+}}
+
+==Supers==
+===Ignition Gears===
+====Kagerou no Mai====
+{{FrameDataCargo-COTW
+|name=Kagerou no Mai
+|moveId=mai_236236A
+|input=236236A
+|description=
+* Fully invulnerable, but with a rather terrible hitbox for a reversal. Doesn't hit behind her either.
+* The highest damage an Ignition Gear can have.
+
+Mai's super reversal with a godawful hitbox. Do not use this if you can help it, but it ''is'' an option. For combos it's very easy to juggle into, easier than 236236B/D, but also less rewarding. Great move to use against air Rev Blows or special moves that approach from high jump arcs due to the long active frames and high hitbox.
+
+}}
+
+====Chou Hissatsu Shinobi Bachi====
+{{FrameDataCargo-COTW
+|name=Chou Hissatsu Shinobi Bachi
+|moveId=mai_236236B,mai_j.236236B
+|input=236236B/j.236236B
+|description=
+Mai's best general use super. Has obscene damage, works in ranged confirms from light and has decent corner carry. Mai's best and highest damage combo ender, especially in the corner. Probably what most of your meter should go into. Has a tendency to not connect all hits on airborne opponents, needs to be manually delayed in some combos.
+|description2=
+A new, faster air version. Basically worthless against grounded opponents, but part of Mai's optimal routing in juggles as an instant air super, where its possible to combo after for either resource gain or a second super.
+}}
+
+===Redline Gears===
+====Kagerou no Mai====
+{{FrameDataCargo-COTW
+|name=Kagerou no Mai
+|moveId=mai_236236C
+|input=236236C
+|description=
+* Fully invulnerable and as fast as her DP.
+* Still doesn't hit behind her.
+Hits big and is very combo friendly, but there is no reason to use it when 236236D or 236236Rev are available. Still probably Mai's best reversal on wakeup.
+}}
+
+====Chou Hissatsu Shinobi Bachi====
+{{FrameDataCargo-COTW
+|name=Chou Hissatsu Shinobi Bachi
+|moveId=mai_236236D,mai_j.236236D
+|input=236236D/j.236236D
+|description=
+* Fully Invul.
+* Can be braked on hit.
+Ranged reversal (sadly not great against fireballs) and more damaging combo tool than Redline Kagerou. Can be braked, when you have this as your starter (eg.: as a reversal) you get to do marginally higher damage than you otherwise would while building a bit of Power Gauge back by dumping your entire Rev gauge into a combo, so if you're going for a kill combo and have Rev to spare it's useful.
+|description2=
+* Fully Invul.
+A jumpscare waiting to happen. Unless you're trying to bait anti-airs in style this is probably a terrible usage of meter, as it does low damage and can't be followed up with a second super due to cost.
+}}
+
+===Hidden Gear===
+====Ouran no Mai: Akasuzumi====
+{{FrameDataCargo-COTW
+|name=Ouran no Mai: Akasuzumi
+|moveId=mai_236236REV
+|input=236236REV
+|description=
+* Fully invulnerable.
+* Available only in SPG.
+
+Potentially the worst Hidden gear in the game, the hitbox on the move is much, MUCH smaller than most, which can cause drops in baffling situations, like after two lights, and utterly kills any serious uses in neutral. Will usually connect off of DP breaks, but proceed with caution. When it connects it's as good as any.
+
+
+}}
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Mai Shiranui]]

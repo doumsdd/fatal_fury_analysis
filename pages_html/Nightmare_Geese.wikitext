@@ -1,0 +1,708 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Nightmare_Geese_Profile.png|thumb|Former emperor of South Town.<br>
+Revered by some, reviled by others, and targeted for revenge by a hungry few—a legend in his own right, even in the afterlife.<br>
+Though no longer of this world, the horrors of Geese Howard remain a bane to all who knew him.<br>
+His legacy is a testament to the power of one terrible truth: Legends never die. Their nightmare lives on...
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15~20f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Ha - [[image:a.gif]] + [[image:c.gif]]
+
+
+'''REV Blows'''
+
+Ja’ei Ken - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Ja’ei Ken: Kuu - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Reppuu Ken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Shippuu Ken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (Midair Only)
+
+Hishou Nichirin Zan - [[image:dp.gif]] + [[image:a.gif]] (*) / [[image:c.gif]] (*)
+
+Fudou Ken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Fudou Ken: O - [[image:a.gif]]
+:'''┗''' Fudou Ken: Ba - [[image:b.gif]]
+:'''┗''' Fudou Ken: A - [[image:c.gif]]
+:'''┗''' Fudou Ken: Un - [[image:d.gif]]
+
+Raimei Shin - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Joudan Atemi Nage - [[image:qcb.gif]] + [[image:b.gif]]
+
+Gedan Atemi Nage - [[image:qcb.gif]] + [[image:d.gif]]
+
+Chuudan Atemi Nage - [[image:qcb.gif]] + [[image:b.gif]] + [[image:d.gif]]
+
+Raimei Gouha Nage - [[image:hcb.gif]][[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Explosion Ball - [[image:hcb.gif]][[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Raging Storm - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' True Raging Storm - [[image:db.gif]][[image:hcb.gif]][[image:df.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Deadly Rave  - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' True Deadly Rave - [[image:qcb.gif]][[image:db.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]], [[image:a.gif]], [[image:a.gif]], [[image:b.gif]], [[image:b.gif]], [[image:b.gif]], [[image:c.gif]], [[image:c.gif]], [[image:c.gif]], [[image:qcb.gif]] + [[image:c.gif]] 
+
+
+'''Hidden Gear'''
+
+Rashomon: Setsuna - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Nightmare Geese has a devious game plan befitting of the villainy of his past life. At first, he looks like a zoner, with best-in-class fireballs and impressive-reaching normals. These give him something of a defensive, condition-based neutral game.
+
+In truth, where Geese truly shines is when the opponent caves and gives him a chance to punish them. It’s here where the nightmare begins, as Geese has some of the deepest variation of offense in the game. He’s got lows, overheads, frame traps, plus-frame resets, a command grab, fast Wild Punishers, and more, and with REV to spare, he can combo from all of the above. When the opponent makes a desperate attempt to escape this suffocating offensive, Geese can shut down counterattacks instantly with his iconic counters, or punish poor use of reversals with some of the game’s highest combo damage, ending with a hard knockdown to either continue his offense, or retreat behind the fireball game to defend his lead. 
+
+If the opponent doesn’t give in to Geese’s strong neutral game, he isn’t ''that'' scary. Geese has virtually no answers to jump-ins, as he is severely lacking in reliable anti-airs. Potent as his offense is, he has no gap-closer outside of his REV Blow, which hinders his access to his damage and momentum. Thus Geese has a hard time getting his offense started on his terms, and with enough patience, opponents can exploit his poor defense and turn this nightmare on itself.
+
+Getting to that point against Geese isn’t easy, though, especially when you know how to use his potent neutral weapons. Once you get the hang of them, all it takes is one or two favorable interactions, and those yellow-bellies will DIE FOREVER.
+
+{{StrengthsAndWeaknesses
+| intro = Nightmare Geese is a balanced character who uses his strong neutral control to goad the opponent into opening themselves up for huge punishment.
+| pros=
+* '''Mid-Range Threat''': Geese can control space easily with his advancing far heavies (with far C being cancellable), his long reaching and cancellable Far B and a long low in the form of 2B, and can counter-poke with his command normal 5AC. Using his long reaching and hard-hitting normals, Nightmare Geese is a poking and whiff punish machine.
+* '''Nightmarish Combos''': Geese boasts some of the highest overall combo damage in the game, easily capable of hitting the 700-damage benchmark midscreen. He can two-touch opponents without spending a bar of meter, and should he score a Wild Punish off his Far D, he's likely to deal round-winning damage. Not to mention, should his opponent survive, they are likely cornered through the immense corner carry in his combos.
+* '''Hard Knockdowns''': Unusual for a non-grappling character, Geese has plenty of routes into hard knockdowns, enabling suffocating okizeme from various combos. He can even choose which side he wants his opponent on through the use of Raimei Gouha Nage, heavy Raimei Shin, or his supers. This means whenever he lands a hit, Geese can always put the opponent where he wants them.
+* '''Unpredictabo Mixups''': Geese’s Fudou Ken is a swiss army knife of mix-up potential, enabling Geese to go overhead, low, or mid, while simultaneously creating stagger pressure with by holding and releasing all of the above options. He also has a command grab that he can whiff cancel into and a plus-on-block overhead in Heavy/REV Hishou Nichirin Zan. Thanks to his generous access to hard knockdowns, Geese can push this mix quite often.
+* '''Fireballin’''': Just like his son, Rock's dead dad is great at safely harassing opponents from a distance with with Reppuu Ken and Shippuu Ken. He may even be better at it than Rock due to the absurd travel speed of REV Reppuu Ken and stricter downward angles of Shippuu Ken, making them better suited for standalone usage or punishing certain decisions from the opponent, along with the ability to feint both to bait opponents’ responses.
+
+| cons=
+* '''Terrible Defense''': Geese has no meterless invincible reversals of any kind. His Atemi Nage counters, while fast at 3 frame startup, also leave him wide open if he fails to counter anything and will lose to properly timed meaties. Hishou Nichirin Zan, despite its DP input, has no invincibility and is not an actual reversal that can be used on wakeup or as an anti-air. Only his supers have invincibility, and they are naturally risky to use on defense.
+* '''Poor Anti-Airs''': Geese doesn’t have a reliable anti-air, either. His High Dodge Attack’s pathetic hitbox makes baiting it to whiff quite easy, and his only answer against distant jumps is Double Reppuu Ken. Otherwise, he'll need to spend meter on Raging Storm or attempt a high counter, which will get him punished severely if the opponent does an empty jump.
+* '''Combo Inconsistency At Range''': Geese has frustrating limitations on his mid-range combos. His routes into heavy Fudou Ken (214C) are range dependent, REV combos from the max range of 214C depend on the starter, and Double Reppuu Ken can be very picky to combo into depending on which lights are used. To ensure consistent combo routes, Geese may have to resort to his painfully slow far C, which ''also'' drops links into it at max range.
+* '''Bad Moveset Synergy''': All of the above leads to one central, painful flaw: Geese’s moveset in ''CotW'' just isn’t cohesive. His strong fireballs have no good anti-air or long-range conversion to back them up, and his middling mobility and lack of approach tools outside of REV Blow restrict his access to his strong offense. As a result, all Geese has left to fill the holes in his gameplans are universal mechanics, all of which have substantial counterplay.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_fA
+|description= A short jab with Geese’s front hand. Primarily used as a short-range poke.
+
+* High hitbox placement gives it secondary utility as a hop stopper
+* Combos into '''214A''', '''236B''' and '''236C''' on hit
+
+
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_fB
+|description= A fast, waist-high kick with Geese’s back foot. Primarily used in light confirms and as a low-risk poke.
+
+* Geese's longest-ranged light normal, capable of hitting even after comboing into 2 other chained light attacks before it 
+* Will always combo into '''214A'''. '''236B''' and '''236C''' can combo if the opponent is close enough.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_fC
+|description= Geese does a spinning step forward and strikes his fist at chest level. Primarily used during combos. 
+
+* Moves Geese forward, making special cancels from Far C much more reliable compared to special canceling from other normals in combos.
+* Slow startup and small hitbox make it unsuitable for poking, especially compared to '''2C'''
+
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_fD
+|description= Geese takes a big, spinning step forward to deliver a kick from long range. Primarily used for whiff punishing and counter-poking.
+
+* Moves Geese forward even further than '''Far C'''
+* Normal hits do not combo into anything unless super-canceled
+* Combos into any light punch or '''2B''' on counterhit. On Wild Punish, starts a full combo.
+* Exclusively on whiff, can be canceled into '''6246K''' (command grab) or '''6246P''' (OTG grab), utilizing the forward movement of '''Far D''' to extend the range of these grabs
+
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_clA
+|description= A short, upper elbow strike. Primarily used to pressure an opponent on block at close range.
+
+* Geese's fastest attack
+* Also works as a hop stopper or to start the universal '''Close A > C > C > D''' Combination Attack
+
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_clB
+|description= A short, fast kick at thigh level. Primarily used to pressure an opponent on block at close range.
+
+* Cannot chain into anything else, but combos into his other lights (except '''Far B''') on hit
+* Slower startup, but better advantage on block compared to  '''Far A''' as a frametrap tool
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_clC
+|description= An open-hand strike to the ribs. Primarily used to start high-damage combos and guard pressure.
+
+* Combos into 2C with '''Close C > Feint > 2C'''
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=nightmaregeese_clD
+|input=cl.D
+|description= A double kick with Geese’s front foot. Primarily used to start high-damage combos.
+
+* Forces stand on hit
+* Can be feint-canceled to combo into '''Far C'''. Combos into itself on Counter Hit / Wild Punish (requires micro-dash)
+
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_crA
+|description= A standard crouch jab. Used to start light combos.
+* Reliably chains into itself or '''Far B''' 
+* Combos into '''214A''', '''236B''' and '''236C'''
+* Cannot be dodged by either dodge attack
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_crB
+|description= A quick poke against the floor with Geese's front foot. Primarily used to start light combos with a low attack. 
+* Chains into itself and other light normals
+* '''2B > 2B > Far B > Special / Super''' is one of Geese's primary light confirm strings
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_crC
+|description= An open-hand strike at knee level. Primarily used for poking, but can also start combos.
+* Combos into most specials on hit, but max-range hits may cause some of them to whiff. 
+* Tied for Geese's fastest heavy normal, but does not have a proximity requirement unlike '''Close D'''
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_crD
+|description=A long range sweep against the ground with Geese's back leg. Used as a mid-range low poke. 
+* Very unsafe on block
+* On Wild Punish midscreen, dash up and hit '''236C''' or '''6246P''' to deal extra damage. Both do more damage than hitting a second sweep and '''6246P''' will switch sides. 
+* If it Wild Punishes an opponent in the corner, '''6246[AC]''' will grab the opponent off the ground and start a combo
+
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jA
+|description=
+* Can be cancelled to Shippuu Ken and REV Blow on hit or JD. 
+Since you can cancel this to Shippuu Ken, this is undoubtedly your best best air-to-air; Counter Hits cause the Shippuu Ken to combo and knock down, while resets cause them to deal with the meaty Shippuu Ken when they land. 
+
+The cancel to REV Blow is purely to respond to other REV Blows.
+
+}}
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jB
+|description=* Can cross up. 
+A multi-purpose air normal that you can land with, use to cross up, and even contest other characters in the air from a neutral or back jump thanks to its forward reach.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jC
+|description=
+A deep-hitting jump-in normal. It's a bit slower than his other aerials, but it does its job well. 
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jD
+|description=
+An all-purpose jumping heavy normal. You can use it to jump in, or retreat against grounded opponents with its downward hitbox. 
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_cla_5c,nightmaregeese_cla_5c_5c,nightmaregeese_cla_5c_5d,nightmaregeese_cla_5c_6d,nightmaregeese_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Ko Satsu Shou
+|moveId=nightmaregeese_throw
+|description=Geese grabs the opponent by the neck and launches them off with a palm strike.
+* When used midscreen, throws the opponent 3/4 of the screen away. You can meaty their wakeup with a 236C.
+* In the corner, any safe jump has to be manually timed, but a Reppuu Ken feint allows you to time a meaty, reversal-safe 236A on their wakeup, locking them down for more pressure. 
+Despite how far away this appears to throw them, you have a generous window to push okizeme after the throw. Not only can you easily meaty the opponent with a fireball, but two dashes sets the opponent up perfectly for a mixup using far D whiff cancel. 
+In the corner, while the knockdown time is the same as Explosion Ball, the okizeme is even better due to the distance Geese is left afterward. You basically get to do whatever you want as a mixup there.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Shinkuu Nage
+|moveId=nightmaregeese_4throw
+|description=Geese tosses the opponent over his shoulder, similarly to his command grab from the older games. 
+* When used midscreen, throws the opponent almost an entire screen's length away. You can meaty the opponent's wakeup with a 236A. 
+* In the corner, any safe jump has to be manually timed, but two dashes or an empty fullhop gives you a meaty close heavy, 2C or 5AC.
+Geese's back throw switches sides, though the okizeme isn’t quite as good as his forward throw. You can safely meaty the opponent's wakeup with a Reppuken, which effortlessly sets up your zoning or potentially forces the opponent into a checkmate. 
+}}
+
+==Command Moves==
+====Ha====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_ac
+|description=
+* Wild Punish +21f. 
+* Has an identical animation to Fudou Ken • A (214P~5C). 
+* Can’t be cancelled into anything, not even super.
+* Moves Geese forward on startup. 
+* When it hits meaty, can be up to +5 on hit, enabling a link to 2A. 
+* On Counter Hit, becomes +8 on hit, linking to 2C for a full combo. 
+A fast, advancing palm strike. It isn't cancelable at all, but where this move shines is in whiff punishing. At 8 frames startup it's almost twice as fast as Far D and works as a great counter poke against long reaching attacks or as a spacing trap tool. Getting Wild Punished by this move is absolutely soul-crushing.
+}}
+
+==REV Blows==
+====Ja'ei Ken====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_CD
+|description=A pretty standard REV blow with decent reach. 
+
+Geese gets safe jump setups if he juggles into this move from EX moves like his rekkas.
+}}
+
+====Ja'ei Ken: Kuu====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jCD
+|description=A an armored divebomb at an angle. Used to end combos after EX Shippuu Ken or EX Nichirin Zan, or to contest DPs. Like grounded REV Blow, it gets beaten by High Dodge Attack.
+
+If it hits the opponent low enough to the ground, the second hit won't come out and the REV blow will end instantly, giving Geese extra okizeme or even a combo into Hidden Gear. 
+}}
+
+==Feints==
+====Ground Feint====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_5bc
+|description=* Mimics the startup of Reppuu Ken. As Nightmare Geese's only grounded Feint it's used for Feint cancel links and faking a projectile in neutral.
+}}
+
+====Air Feint====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_jbc
+|description=* Mimics the startup of Shippuu Ken. 
+* Geese still halts his air momentum and sends him backward. 
+* If done high enough, Geese can still do a real Shippuu Ken before landing. 
+This Feint halts Nightmare Geese's jump and moves him backwards a bit, allowing him to bait anti-airs. Geese will be locked out of his normals until he lands, but he can still do a real Shippuu Ken before landing.
+
+If you’re in S.P.G., Geese can even do an aerial REV Blow after the air feint. Combine this with a backwards jump, and Geese have a way to lure opponents into thinking he is retreating, only to surprise them by moving back in. 
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_2CRev
+|description= 
+* Cannot be cancelled on block.
+* Wins against jumping attacks, standing normals and REV Blows. Triggers a slowdown if it meets any of these.
+* Horizontal range is so bad that it doesn't even match the move's animation. 
+Nightmare Geese's most reliable anti-air option. It's got great vertical reach but awful horizontal range.
+When you know the move will Counter Hit or Wild Punish - such as after triggering a slowdown - you can always combo it into 214C for a launch into a full, albeit scaled, combo. 
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_crev
+|description=
+* Universal overhead, wins against lows and throws. Triggers a slowdown if it meets either of these.
+* On Counter Hit or Wild Punish, links to 2C.
+* Second hit’s hitbox reaches so high that it ironically has limited anti-airing capabilities.
+Dodges lows and throws, and in doing so gives Geese a combo afterward. It hits twice, making it easier to confirm an opportunity to link something. It's also good to use on opponents whom you've conditioned to tech the throw or mash against your shimmy. 
+}}
+
+==Special Moves==
+====Reppuu Ken====
+{{FrameDataCargo-COTW
+|name= Reppuu Ken
+|moveId=nightmaregeese_236A,nightmaregeese_236C,nightmaregeese_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=Nightmare Geese's trademark Reppuu Ken. Each version of Reppuu Ken has different properties, making them each useful for different situations.
+
+----
+'''Light Version (236A)'''
+* Nightmare Geese tosses a grounded projectile. The Light version of Reppuu Ken is as standard as projectiles come, used for attacking from a distance.
+----
+'''Heavy Version (236C)'''
+* Nightmare Geese tosses out two Reppuu Kens, a short range one that nullifies non-REV or super projectiles followed by a full screen projectile. Similar in function to Rock's Heavy Reppuu Ken, this move can give Nightmare Geese an edge in fireball wars by eating the opponent's projectile and launching one right back, thus creating an opportunity for him to get in closer.
+----
+'''REV Version (236AC)'''
+* Nightmare Geese tosses out a supercharged, fast, multihitting Reppuu Ken. While it has the slowest startup among his Reppuu Ken versions, the projectile will blow through regular projectiles and cancel out with REV projectiles. Its fast speed lets it snipe opponents from half or even full screen, especially if they are still recovering from throwing their own projectile.
+}}
+
+====Shippuu Ken====
+
+{{FrameDataCargo-COTW
+|name= Shippuu Ken
+|moveId=nightmaregeese_j.214a,nightmaregeese_j.214C,nightmaregeese_j.214ac
+|input=j.214A/C/AC
+|input2=j.qcb+A/C/AC
+|description3=An aerial version of Nightmare Geese's Reppuu Ken. Useful for controlling space from a distance. 
+
+* Can only be performed during a neutral or forwards jump or hop except for the REV version, which can be performed from a backwards jump or hop.
+
+* All versions briefly halt Nightmare Geese's jump momentum, allowing him to mess with the opponent's anti-air timing. The Light and Heavy versions push him backwards and let Nightmare Geese keep his distance while the REV version keeps him moving forward with the exception of the backwards jump/hop version.
+
+* The Light version travels slower and has a very slightly higher angle than the Heavy version.
+
+* The Heavy version travels faster and has a very slightly lower angle than the Light version.
+
+* The REV version fires two Shippuu Kens and generally locks down the opponent at mid range, giving Nightmare Geese an opportunity to close the gap with a dash or Far D.
+
+* Can be Feinted, which halts Nightmare Geese's jump momentum and moves him backward without throwing a projectile. See the above section on his Air Feint for more detailed information. 
+}}
+
+====Hishou Nichirin Zan====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_623A,nightmaregeese_623C,nightmaregeese_623AC
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description3=Nightmare Geese leaps up into the air and slashes downward. 
+Despite its DP input and its similarity to DP type special moves, this move is NOT invincible nor a good anti-air; rather, Hishou Nichirin Zan is another tool in Nightmare Geese's bag of mixup tricks.
+
+* All versions can be Braked on startup, which will make Nightmare Geese leap into the air without performing the slash. This can be useful for empty jump low mixups, especially when done after knockdowns and setups.
+
+----
+'''Light Version''' (623A)
+
+* Numbers in [square brakets] denote values when it hits an opponent in the air.
+
+* The Light version is a safe blockstring ender, though there is a decently-sized gap between any normal cancelled into this move and when the move hits. It cannot hit crossup.
+
+* The frame advantage for this move varies depending on if the opponent blocked it standing or crouching; on standing block it's -2, on crouching block it's 0. Additionally, if spaced properly (about two backdashes away from the opponent) it can become +2 on both standing and crouching block.
+
+* The Light version can hit airborne opponents on the way up and knock them down with the slash hit. The first hit does not connect on grounded opponents and can make for an okay anti-air, though since it has no invincibility of any kind it can be stuffed or trade with the opponent's air buttons. It can be used as a combo ender in situations where Fudou Ken will not work due to having been used earlier in the combo.
+
+* As the startup of all versions of this move can be Braked, this means that Nightmare Geese can get a psuedo-DP Brake combo if he connects with the airborne-only first hit and Brakes. At most heights he won't be able to actually juggle into anything outside of his Hidden Gear, but at higher juggle heights (like those granted by a Counter Hit Heavy Fudou Ken for example) he has just enough time to juggle a Light Hishou Nichiran Zan Brake into Raging Storm, Deadly Rave, or even Light Fudou Ken at the highest juggle.
+
+
+----
+'''Heavy Version (623C)'''
+* A swiss army knife of a special move that can act as an overhead, a pressure reset, a crossup, a meaty, and a hard projectile callout in just one move.
+
+* At 35 frames of startup this move can unfortunately be reacted to very easily, whether by the opponent blocking correctly or by an anti-air. To compensate, Nightmare Geese travels about half the screen and it is always plus on block and able to continue his pressure, though how plus he is differs depending on spacing and if it hit meaty or not.
+
+* =3 on block if done at close range/as a crossup, around +5-6 on block if spaced from two backwards hops away, and +9 on block if spaced to hit at the very tip.
+
+* +5 on standing hit, allowing for a link into Far A. If Nightmare Geese does manage to hit a crouching (read: sleeping) opponent with this move, he'll be +9 (+8 on crossup) and be able to link into 2C. 
+
+* On Counter Hit/Wild Punish Nightmare Geese will be +10 and can link into 2C. Nightmare Geese can put himself in this situation if he preemptively leaps over a projectile with this move and hits the opponent during their projectile recovery. With a healthy amount of REV to spend, at least one bar of super meter and S.P.G. state, Nightmare Geese can get immensely damaging combos out of one good read like this.
+
+----
+'''REV Version (623AC)'''
+
+* Similar to the Heavy version in that it's an overhead and is plus on block. Starts up slightly faster but is still very reactable at 32 frames of startup. Has slightly more horizontal range as well.
+
+* +2 on block if done at close range/as a crossup, +9 on block if spaced to hit at the very tip.
+
+* +3 on standing hit, +7 on crouching hit. Nightmare Geese doesn't get much in the way of combos outside of Far B.
+
+* REV Hishou Nichirin Zan is a good combo tool, as it ground bounces airborne opponents, usually after being REV Acceled from REV Reppuu Ken.
+}}
+
+
+====Fudou Ken====
+{{FrameDataCargo-COTW
+|name=Fudou Ken
+|moveId=nightmaregeese_214a,nightmaregeese_214c,nightmaregeese_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3= Nightmare Geese strikes with his palm. The light and REV versions have follow-ups on hit, block and even whiff. 
+
+Using Fudou Ken on block on its own without using its follow-ups is ill-advised, as the Light, Heavy, and REV versions are all punishable on block. Only the Light version can be comboed into from Light normals.
+
+The Heavy version acts very differently. Instead of a palm strike that can be followed up by a variety of different options, Nightmare Geese performs an upwards palm strike that launches the opponent, allowing for juggles. A staple part of Nightmare Geese's combos, though it only combos from Heavy normals and Counter Hit Light normals.
+}}
+
+====Fudou Ken Followups====
+{{FrameDataCargo-COTW
+|name= Fudou Ken: O
+|moveId=nightmaregeese_214a_a,nightmaregeese_214ac_a
+|input=214A/AC > A
+|input2=qcb+A/AC > A
+|display=200x200px
+|description2= A second palm strike. Unlike the other Fudou Ken followups, this one can't be charged. When using Fudou Ken to end combos, this is Nightmare Geese's most damaging uncharged followup. Use this in situations where juggling into the charged versions of his followups is impossible. Do not use this followup on block, as it is very unsafe and highly punishable.
+
+The REV version isn't very different from the normal version aside from doing slightly more damage and being able to REV Accel out of it.
+}}
+{{FrameDataCargo-COTW
+|name=Fudou Ken: Ba
+|moveId=nightmaregeese_214a_b,nightmaregeese_214ac_b
+|input=214A/AC > B
+|input2=qcb+A/AC > B
+|display=200x200px
+|description2= A low hitting sweep. This is the only uncharged followup to Fudou Ken that is safe on block, being -3. There is no gap between Fudou Ken and Fudou Ken: Ba, keeping Nightmare Geese safe from Guard Cancels barring a Hyper Defense.
+
+* Numbers in [square brakets] denote values for fully-charged versions.
+
+* When charged, this move changes from being -3 to -1 on block, does slightly more damage, and allows Nightmare Geese to follow up with Raimei Gouha Nage on hit.
+
+* The only difference between the normal version and the REV version is that the REV version becomes +2 on block when charged and can be REV Acceled into REV Raimei Gouha Nage or REV Raimei Shin.
+}}
+{{FrameDataCargo-COTW
+|name=Fudou Ken: A
+|moveId=nightmaregeese_214a_c,nightmaregeese_214ac_c
+|input=214A/AC > C
+|input2=qcb+A/AC > C
+|display=200x200px
+|description2= A dual palm strike similar to Nightmare Geese's Ha command normal. While this move might seem redundant compared to Fudou Ken: O since it also hits mid, does less damage, and is also punishable on block, its true strength comes from when it is charged. It also keeps the opponent standing and Nightmare Geese will be +2 on a grounded hit, so he can choose to sacrifice the higher damage and soft knockdown of the A followup in exchange for more pressure.
+
+* Numbers in [square brakets] denote values for fully-charged versions.
+
+* The charged version changes from -5 on block to -3. IT can be used as a frame trap to dissuade the opponent from mashing out of Nightmare Geese's charged followups on block. Nightmare Geese can vary his charge timing and keep the opponent guessing, though he will only be safer on block if he fully charges the attack. If Nightmare Geese very briefly charges this attack, he can frame trap 5F normals from Fudou Ken. 
+
+* On hit, the charged version will leave Nightmare Geese +5, just enough to link into 2A. On Counter Hit the uncharged version is +7, enough to link into Far B. On Counter Hit the charged version is +10, allowing Nightmare Geese to follow up with 2C and start his heavier combos. If Nightmare Geese hits an airborne opponent with the charged version, he can follow up with Raimei Gouha Nage, though midscreen he will usually have to whiff cancel Far D first.
+
+* The REV version is only -2 on block when uncharged and +3 when charged. Its frame data on normal hit and Counter Hit for both the uncharged and charged versions are the same as the normal versions.
+}}
+{{FrameDataCargo-COTW
+|name=Fudou Ken: Un
+|moveId=nightmaregeese_214a_d,nightmaregeese_214ac_d
+|input=214A/AC > D
+|input2=qcb+A/AC > D
+|display=200x200px
+|description2=An overhead axe kick. There will always be a gap between Fudou Ken and Fudou Ken: Un regardless of whether Nightmare Geese charges it or not. It's -5 on block so the opponent can get a small punish, but there's a decent chance they might not block it considering it only has 19 frames of startup.
+
+* Numbers in [square brakets] denote values for fully-charged versions.
+
+* When charged this move goes from being -5 on block to -3 on block, does slightly more damage, and can be followed up with Raimei Gouha Nage.
+
+* The uncharged REV version is unpunishable at -2 and only has one extra frame of startup, allowing Nightmare Geese to keep his fast overhead while also being safe on block, though there is still a gap to worry about. The charged REV version becomes  +3 on block.
+*
+}}
+
+====Raimei Shin====
+{{FrameDataCargo-COTW
+|name= Raimei Shin
+|moveId=nightmaregeese_236b,nightmaregeese_236d,nightmaregeese_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3= Nightmare Geese delivers a heavy foot stomp directed at the opponent's feet. Despite what the low hitting animation might suggest, all versions of this move are mids and can be blocked standing or crouching.
+* Numbers in [square brakets] denote values for OTG hits.
+----
+'''Light Version (236B)'''
+* A safe blockstring ender at -2, providing a less risky but also less rewarding alternative to Fudou Ken mixup attempts. This move can be used as a decent frame trap if done as a delayed cancel from a Light normal, allowing Nightmare Geese to follow up with 2A if up close or Far B at range on Counter Hit.
+----
+'''Heavy Version (236D)'''
+* A very slow but +3 on block pressure reset. Its 27 frame startup means that the opponent has more than enough time to react and punish, but if they are conditioned properly than Heavy Raimei Shin can catch them off guard and score Nightmare Geese some plus frames. 
+ 
+* While Nightmare Geese isn't plus enough on hit to combo afterward normally, he can make himself around +5 or +6 on a meaty hit and link into his 2A. If it Counter Hits, Nightmare Geese can link into 2C.
+ 
+* Also hits OTG, though situations where you can actually connect OTG with this move are rare. Not even a Wild Punish 2D gives Nightmare Geese enough time to link into this move.
+
+* If the move hits the opponent right as they're about to hit the ground, a brief cutscene will play where Geese smirks before punting his opponent, giving extra damage and a hard knockdown. It’s possible to combo into this.
+----
+'''REV Version (236BD)'''
+* A middle ground between the Light and Heavy versions. It has the faster startup of the Light version and is plus on block like the Heavy version, though it's +2 instead of +3, making it a good choice to REV Accel into in REV Art blockstrings.
+ 
+* If this move hits the opponent right as they’re downed from certain attacks, Geese will smirk and punt the opponent, just like the Heavy version, and you can REV Accel this punt into EX OTG Grab. You can combo into this special from various EX Fudou Ken followups depending on the state of the opponent. 
+ 
+* If done after a landing a Wild Punish 2D, this move cannot be REV Acceled.
+}}
+
+====Joudan Atemi Nage====
+{{FrameDataCargo-COTW
+|name= Joudan Atemi Nage
+|moveId=nightmaregeese_214b
+|input=214B
+|input2=qcb+B
+|description= Nightmare Geese's Upper Body counter. At 3 frame startup and 12 active frames it can be a very useful defensive tool, though if Nightmare Geese fails to counter anything he has 29 frames of recovery to deal with before he can act again, which is more than enough time to get punished severely for guessing wrong.
+
+* Its fast 3F startup makes it a great option for Guard Canceling against multi-hit attacks or tight REV Accel sequences, even things that usually beat Guard Cancels like a cancel into a Heavy/REV DP Brake.
+
+* In addition to the long recovery, Nightmare Geese is in a Wild Punish state for the entirety of the move's duration, whether he is hit during the recovery or is hit by something this move cannot counter like a move aimed below his waist or a projectile.
+
+* Nightmare Geese can special cancel into this move. This can be used to make a hard read and call out a Guard Cancel if the opponent Just Defended the previous normal attack.
+}}
+
+====Gedan Atemi Nage====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_214D
+|input=214D
+|input2=qcb+D
+|description= Nightmare Geese's Lower Body counter. 3F startup and 29F recovery, just like the Upper Body counter. Does slightly more damage than the Upper Body counter and tosses the opponent the entire screen's length away from Geese. 
+
+* Although it might seem like this move can only counter attacks classified as Lows, it can also counter Mid attacks that are aimed at the lower body like Terry's 2C, hence why it is a Lower Body counter and not strictly a Low counter.
+
+* Just like with the Upper Body counter, Nightmare Geese is in a Wild Punish state throughout the entire move's duration.
+}}
+
+====Chuudan Atemi Nage====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_214BD
+|input=214BD
+|input2=qcb+BD
+|description= Essentially a REV version of the Upper Body counter. Shares much in common with the other two; 3F startup, 29F recovery, Wild Punishable, tosses the opponent behind him like the normal Upper Body counter. The only difference is that it can be REV Acceled into and out of.
+
+* Meterlesly, Nightmare Geese can either stay on the side he tossed the opponent to but do less damage with Heavy Raimei Shin, or swap sides again to end up on the same side he was when he performed the counter and do more damage by doing dash/Far D into Raimei Gouha Nage.
+
+* In REV Accel blockstrings Nightmare Geese can REV Accel into this move to call out Guard Cancels.
+}}
+
+====Raimei Gouha Nage====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_632146A, nightmaregeese_632146C, nightmaregeese_632146AC
+|input=632146A/C/AC
+|input2=hcb,f+A/C/AC
+|description3= Nightmare Geese's OTG grab.
+
+* This move is very specific on when it can grab the opponent off the ground. Most soft knockdowns and even hard knockdowns like those given by supers, throws, and REV Blows cannot be picked up by any version of this move. Rather, you should treat it more like a built in followup to some of Geese's special moves, such as the charged followups to Fudou Ken, Chuudan Atemi Nage, and REV Raimei Shin, rather than something you can do every time you knock the opponent down.
+
+* This is Geese's highest damage follow-up after Wild Punish 2D, but it switches sides. To keep the same side, OTG with Double Reppuken instead.
+
+* Sideswaps with the opponent, so there might be instances where you would choose not to use this move in the situations where you can in order to not put yourself in the corner.
+
+* The REV version has two versions, an uncharged and charged version. The uncharged version works similarly to the normal versions outside of being able to be REV Acceled into. The charged version has a bit more startup but causes a ground bounce that can be comboed out of with a REV Accel. It is impossible to follow up the ground bounce meterlessly with the exception of a Heavy Raimei Shin in the corner. The numbers in [square brakets] denote values for the fully-charged REV version.
+}}
+
+====Explosion Ball====
+{{FrameDataCargo-COTW
+|moveId=nightmaregeese_632146B, nightmaregeese_632146D, nightmaregeese_632146BD
+|input=632146B/D/BD
+|input2=hcb,f+B/D/BD
+|description3= Nightmare Geese's command grab. Rounds out his wealth of mixup options by allowing Nightmare Geese to show the opponent the hard way that they can't just sit and turtle out his strong offense forever.
+
+* Causes a hard knockdown.
+
+* No version of this move can be comboed into no matter what, not on Counter Hit or close range or Wild Punish or REV Accel.
+
+* Pushes Nightmare Geese back substantially in the corner, though he still has plenty of time to dash back in and apply okizeme.
+
+* The REV version can be REV Acceled out of, giving Nightmare Geese a way to combo out of a command grab though it will be heavily scaled. Your best REV Accel option is generally Reppuu Ken (236AC). 
+}}
+
+==Super Special Moves==
+====Raging Storm====
+{{FrameDataCargo-COTW
+|name= Raging Storm
+|moveId=nightmaregeese_236236a, nightmaregeese_236236c
+|input=236236A/C
+|input2=qcf,qcf+A/C
+|description2= Nightmare Geese's iconic Raging Storm, now repackaged as a double quarter circle input instead of the nightmarish pretzel input it was back in the day. 
+
+* Since Nightmare Geese lacks a meterless invincible reversal, Raging Storm is his go-to wakeup reversal option, though it's obviously very risky and costs meter.
+
+* Also a good anti-air and combo ender. Tends to do slightly more damage than Deadly Rave but has less range, so use that in situations where Raging Storm will whiff.
+}}
+
+{{FrameDataCargo-COTW
+|name= True Raging Storm
+|moveId=nightmaregeese_1632143a, nightmaregeese_1632143c
+|input=1632143A/C/AC
+|input2=db,hcb,df+A/C/AC
+|description2= The pretzel input returns in all its glory. By performing the original Raging Storm input, Nightmare Geese performs a stronger version of the move.
+
+* This is a secret variation of Raging Storm and is not displayed on the command list in-game.
+
+* True Raging Storm does slightly more damage than the double quarter circle version of Raging Storm. It also has a slightly different visual and sound effect so you can tell the difference.
+
+* True Raging Storm can be comboed out of if it connects at a high enough height, around the apex of the opponent's jump height. This can usually be achieved by landing it as a precise anti-air or landing a Counter Hit special move that causes a launch state like Counter Hit Heavy Fudou Ken. After True Raging Storm connects in these contexts you can follow up with (REV) Raimei Gouha Nage or (REV) Raimei Shin and get some more out of them with REV Accel. This applies to the Redline Gear version as well, though as usual the only marginally better damage increase isn't worth spending a second bar in most cases. None of this will work on a normal Raging Storm, only the pretzel input version.
+
+* With all of that said, True Raging Storm is better than Raging Storm in pretty much every single way. There are a few use cases for the easy input version though; it's faster and easier of course, it might be better as a wakeup reversal since in that situation you would care more about getting the opponent off of you over getting slightly higher damage with a more complex input, you'd probably want to do the easier input version if the damage will end the round regardless of which input you use, and it's easier to use in Hyper Defense because of the forward inputs. Still, at least in combos you should always use True Raging Storm unless the input is too hard for you. It's only a very slight increase in damage and the followup combos require very specific situations. Don't worry if you can't pull it off.
+}}
+
+====Deadly Rave====
+{{FrameDataCargo-COTW
+|name=Deadly Rave
+|moveId=nightmaregeese_236236b,nightmaregeese_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2= Nightmare Geese's iconic combo super. It's been simplified compared to prior iterations though, its input having changed to a double quarter circle and the ensuing combo being automatic rather than every hit having to be inputted by the player.
+
+* While it does slightly less damage than Raging Storm and the Ignition Gear (level 1) version isn't invincible, Deadly Rave is still useful for its long horizontal range and corner carry. Because of this you should usually use Deadly Rave in midscreen combos over Raging Storm unless you're in a situation where Raging Storm is the better option (ie. in the corner or if you need the extra damage to KO).
+}}
+
+{{FrameDataCargo-COTW
+|name= True Deadly Rave
+|moveId=nightmaregeese_2141236b, nightmaregeese_2141236d
+|input=2141236B/D
+|input2=qcb,hcf+B/D
+|description2= Just like with Raging Storm, Nightmare Geese's Deadly Rave also has a stronger secret input version. In addition to the different motion input, the player has to manually input every hit in the ensuing combo after the initial lunge.
+
+* The True Deadly Rave button squence is as follows: 2141236B > A > A > B > B > B > C > C > C > 214C.  If you're having trouble memorizing all of that, think of it as just two A presses, three B presses, three C presses, and then a quarter circle back + C press at the end. You can get away with just mashing the correct buttons as long as you know which hits in the animation are which.
+
+* True Deadly Rave does slightly more damage than the normal Deadly Rave. 
+
+* The fact that every hit is a manual input means that the player can choose to stop the combo early, usually right before the 214C ender. Unlike prior games such as Garou: Mark of the Wolves or Capcom vs SNK 2 where stopping early leaves you with enough frame advantage to link a normal into a special move to get back some of your meter, here the only reason to end the combo before the final hit is to be +3 and right in front of the opponent, which compliments Nightmare Geese's strong offense. Losing out on more damage in the short term in exchange for the potential of more damage out of an ensuing mixup is usually worth it in most high level fighting game player's minds unless that short term damage is enough to win the round. Still, you get enough okizeme anyway that you can end it with the cool ki blast if you really want to.
+
+*As usual, there's no real reason to use the Redline Gear version unless the damage will win the round. It doesn't do much more damage than the Ignition Gear version to justify spending a valuable bar of super meter, on top of the fact that the True Deadly Rave combo does the same damage on both the Ignition and Redline versions before the ending hit, meaning there is no reason to use the Redline Gear version if you want to end the super early.
+
+}}
+
+==Hidden Gear==
+====Rashoumon: Setsuna====
+{{FrameDataCargo-COTW
+|name=Sample Hidden Gear
+|moveId=nightmaregeese_236236REV
+|description=A powerful attack with surprising range, especially for a 6-frame move. It deals massive damage on hit, but is only available during SPG.
+* Resets the REV meter to 0%, even during Overheat.
+* Swaps sides with the opponent on hit and gives very little okizeme. If you want momentum after the super, just use your Ignition Gear instead unless you need the REV meter reset. 
+* Due to its fast startup and long range, there are some combos where Hidden Gear is the only super you can end the combo with, and some moves where this attack is the only punish. 
+}}
+
+==Videos, Links & References==
+
+'''NIGHTMARE GEESE｜Character Breakdown by SNK'''
+{{#ev:youtube|FCKHhtxz-DA}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Nightmare Geese]]

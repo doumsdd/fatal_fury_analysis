@@ -1,0 +1,582 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Kenshiro_Profile.png|thumb|Post-apocalyptic savior with seven distinctive scars carved onto his chest.<br>
+As sole successor to the ultimate assassination art, Hokuto Shinken, he treads a perilous path; indeed, a dangerous yearning for Hokuto Shinken by forces unknown is what calls him to the forsaken City of the Wolves in the first place.<br>
+Though worlds collide and divide, Kenshiro's crusade against evil never wavers.<br>
+To the weak, lost, and broken, he extends a helping hand; to those who prey on them, he metes out merciless justice. 
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' ?f
+<br>'''Hop:''' ?f
+<br>'''Dash:''' ?f
+<br>'''Backdash:''' ?f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Boulder-Splitting Slash - [[image:fd.gif]] + [[image:a.gif]]
+
+Hokuto Three-Fist Slaughter - [[image:a.gif]][[image:c.gif]]
+
+Command Combo 1 - [[image: dn.gif]] + [[image:c.gif]] > [[image:d.gif]] > (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Command Combo 2 - [[image:b.gif]] > [[image:a.gif]] (Midair Only)
+
+
+'''REV Blows'''
+
+Hokuto Bone Crusher - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Face-Splitting Fist - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Finger Snap of Emptiness - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Seven Stars of Death - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (Midair only) 
+
+Hokuto Soaring Split Kick - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Hokuto Hundred-Kick Rush - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Celestial Destruction - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] 
+:'''┗''' Follow-Up - [[image:fd.gif]] + [[image:c.gif]]
+
+Two-Fingered Intercept - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Extreme Airflow - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Thousand-Hand Crushing Fist - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Hokuto Fist of Penitence - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+
+Hokuto Hundred-Fist Rush - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+An iconic manga and anime hero who arguably doesn’t need an introduction, ''CotW'' has managed to recreate Kenshiro’s ruthless, brutal fighting style perfectly. In this game, he’s a powerful infighter who can pressure and dish out punishment like no one else in the roster, provided he can get up close where he’s most potent.
+
+It’s the close-range prowess that makes Kenshiro really stand out. He’s second to none when it comes to confirming, pressuring, pushing strike-throw, high-low or even left-right mix, just about anything that involves erasing the opponent’s health bar and doing it quickly. He accomplishes such high damage by activating his opponents’ channeling points with his REV moves, removing their ability to Just Defend and enhancing the next REV move or super that lands on them. With the debuff enabling such crazy offensive potential, by the time opponents know what hit them, odds are that they’re already dead. 
+
+Unfortunately, with most of his moveset dedicated to close-range combat, Kenshiro really can’t do much until he’s up close. While he has multiple tools to answer to projectiles, they don’t help him move in at all, only buy him time to find an opening. As a result, getting in on keen, passive opponents as Kenshiro can be quite the hassle, and in many cases, a strenuous test of patience.
+
+As many will flock to Kenshiro just because of his iconic status, he’ll shine the brightest in the hands of players who patiently wait for their chance to move in and unleash an unpredictable beatdown. Whether you’re a ''Fist of the North Star'' fan, or a fighting game veteran, chances are you’ll enjoy playing Kenshiro and piloting the devastating power of Hokuto Shinken. 
+
+{{StrengthsAndWeaknesses
+| intro = Kenshiro is a high-pressure infighter centered around close-range offense and a myriad of striking moves.
+| pros=
+* '''Close-Range Powerhouse''': No one is scarier when they have the advantage than Kenshiro. He’s damn near got it all; a comboable overhead that he can fake, good lows, left-right mix, frame traps, stagger pressure, super strong hit confirms, and more. Better yet, all of the above leads to combos or plus frames, letting Kenshiro keep going crazy for as long as his REV meter will allow. 
+* '''Debuff''': Kenshiro’s REV attacks apply a debuff that takes away his opponent’s ability to Just Defend and enhances the next REV move or super that hits. With Just Defending off the table whenever opponents are debuffed, Kenshiro can safely pour on the pressure with no fear of a rebuttal via Guard Cancel.  
+* '''Super High Damage''': Kenshiro’s combo damage is absurdly high, off of any hit. On top of the debuff’s repeated application in combos letting Kenshiro put together ridiculous, high-damage punishment, he has links from lights to 5AC that let him seamlessly move into stronger sequences, turning lower-commitment buttons into potentially round-winning damage.
+* '''Offensive Variation''': Kenshiro’s offense is not just about what he hits with, but what he doesn’t, as well. The feint on his overhead and the brake on his Finger Snap of Emptiness can turn opponents into sitting ducks blocking the wrong way amd taking big damage as punishment.
+* '''Side-Switching DP''': It’s not enough that Kenshiro has an invincible DP; it switches sides on hit, too. Landing it when he’s cornered can instantly swing the tide of battle in his favor, escaping the corner while leaving his opponent with little breathing room.
+| cons=
+* '''Limited From a Distance''': With most of his special moves focused on raw offense and enforcing guessing games, Kenshiro is largely ineffective from outside the range of his normals. While he has answers to fireballs, they don’t advance him forward at all, meaning he still has to work his way in to be a threat.
+* '''Easily REV Guarded''': Kenshiro is exceedingly weak against REV Guard, which denies his left-right mixup and causes blocked moves to push the opponent back out of his range. Even REV Accel isn’t guaranteed pressure, as REV Hundred-Kick Rush is easily Hyper Defended.
+* '''Subpar Midscreen Okizeme''': The constant side switching on Kenshiro’s REV Accel combos and his DPs means he may struggle to corner opponents unless he leaves damage on the table or stuns his opponent. Combined with his lack of hard knockdowns without super or REV Blow, Kenshiro’s okizeme can be quite lacking without resources.
+* '''Loses Even More in Overheat''': Just like Mr. Karate, Kenshiro loses more than the average character when Overheated. On top of his DP losing invincibility, being Overheated stops Kenshiro from applying or triggering the debuff without spending meter. This also makes his reversal supers much less threatening.
+}}
+
+==About Kenshiro’s Debuff and the Stun State==
+===Debuff: Activated Channeling Points===
+Kenshiro’s REV Arts, REV Blows, and Hokuto Fist of Penitence super apply a special debuff on hit, where the opponent’s “channeling points” are activated. Debuffed opponents sparkle with a blue lightning effect. The debuff lasts for six seconds if Kenshiro does not trigger its special effect.
+* Debuffed opponents cannot Just Defend nor Hyper Defend. They can still REV Guard to avoid chip damage.
+* When a REV Art, REV Blow, or Ignition/Redline Gear hits a debuffed opponent, it triggers the debuff, granting additional effects to the move that triggered it. 
+* Kenshiro can apply and trigger the debuff multiple times in a combo. 
+* The debuff state does not go away if Kenshiro is hit. Unless Kenshiro triggers the debuff effect, it will only go away after six seconds have passed.
+
+===Stun State===
+Kenshiro can briefly stun an opponent by hitting them with an Ignition or Redline Gear (super) while the debuff is on them. The stun effect is similar to other fighting games that have a stun/dizzy mechanic such as ''Street Fighter'' where the opponent is totally helpless, though it only lasts for around 2 full seconds and requires Kenshiro to be quick if he wants to follow up on it with a combo. 
+
+* The Ignition Gear version of Thousand-Hand Crushing Fist will only stun a debuffed opponent if they're ''grounded''. If Kenshiro hits a debuffed opponent with this move while they're ''airborne'' they will instead be launched upward as if they were hit by a special move Counter Hit, allowing for other followup options.
+
+* The Redline Gear version of Hokuto Fist of Penitence will stun the opponent regardless of whether or not they are debuffed.
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_fA
+|captions=Hokuto Hundred-Jab Mash!
+|description=* Mashable and chains from other lights, but only chains to itself
+* Combos to 623P are range-dependent, but 214A and 236B work at any range
+A good normal overall to mash, confirm, hop check, you name it. Its main downside is its inconvenient pushback on hit and inability to chain to far B, restricting its greater combo potential.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_fB
+|description=* Kenshiro’s longest-ranged light
+* Can be chained into from other lights
+This long-reaching normal has two uses. Besides its obvious utility as a fast poke, it also picks up chains from 2A and 2B, making it essential in super confirms when you’re not close enough for close B. However, having it blocked almost certainly ends your turn. 
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_fC
+|description=* Wild Punish +17 (+22 when feint cancelled)
+* Kenshiro’s highest-damaging cancellable heavy
+* Pretty fast for a far heavy, but its range isn’t that great
+This backhand is your optimal link after close D feint cancel, but its mediocre range limits its reliability outside of Wild Punish or Stun combos. With that said, its speed makes it fantastic to punish whiffed buttons. 
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_fD
+|captions=Footsies
+|description=* Wild Punish +22
+* Kenshiro’s longest-ranged normal, and whiffs surprisingly fast for its range
+* Easily single-hit confirms your supers
+* Loses to High Dodge Attacks
+This is an essential normal to Kenshiro’s gameplan. Kenshiro doesn’t have many normals with good range, so in mid-range, you’ll want to leverage the threat of this normal to keep the opponent honest and work your way in. It’s very difficult to directly contest this move without committing to a risky High Dodge Attack, since it whiffs quickly for a far heavy, and you can make your opponent pay dearly for getting Wild Punished by it.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_clA
+|input=cl.A
+|description=* Kenshiro’s fastest attack at 4f startup
+* Kenshiro’s Combination Attack is accessed from this normal
+* Chains into other lights, most importantly close B, which then goes into your Heavy/REV specials
+If you don’t know what to press up close, just press this. It’s mashable, chainable, and plus on block. You can also access close B > 5AC from this normal, which can give Kenshiro some absurd damage for a 4-frame starter. 
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_clB
+|input=cl.B
+|description=* You can chain into this from other lights
+* On hit, gives a link to 5AC, giving you a route from lights to your stronger specials. 
+An extremely potent normal on offense. It’s quite plus on hit and block, and gives you a combo to Kenshiro’s 5AC command normal for massively upgraded damage. 
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_clC
+|input=cl.C
+|description=* Wild Punish +19 (+24 when feint cancelled)
+* Moves Kenshiro a bit forward on startup
+Kenshiro’s close C is a bit unusual. Despite having no good linking options, not even after a feint cancel, it ends up being useful in jump-ins, sometimes even optimal, due to the extreme precision required to hit a feint cancel BnB from a jump-in. In addition, the forward movement ensures your special cancels will work if you Counter Hit an airborne opponent with it. 
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=kenshiro_clD
+|input=cl.D
+|description=* Wild Punish +22 (+29 if feint cancelled)
+* Forces stand on hit
+* Annoyingly high pushback can situationally limit the combos you get from it
+* On Counter Hit, you can dash up to link a second Close D and still get your full combo, but it’s tight to time
+This is your main combo starter, as it goes into your far C or 2C after a successful feint cancel. Add to this the fact that it’s a whopping +4 on block, and you’ve got one seriously dangerous move when you’re on the attack. 
+
+It comes with the infuriating downside that because of close D’s high pushback, hitting the full feint cancel BnB off of a jump-in is unusually precise. To squeeze out the most damage as Kenshiro, it’s highly recommended to get a feel for this move’s pushback so you know when to go for a feint cancel link, and when to simply special cancel it.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_crA
+|description=* Chains out of and into any light normals, unlike far A
+* Available special cancel combos are the same as far A’s
+Something of a jack-of-all-trades button. It’s a similarly used move to far A, but at the expense of a little range and damage, you actually get to chain out of it. This gives Kenshiro more reliable routes to super from lights. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_crB
+|description=* Kenshiro’s only low combo starter
+* Chains into other light normals, including itself
+* Chains into close B when up close, giving Kenshiro some of the highest damage from a low starter in the game
+An insanely good low normal. 
+
+Not only can you chain repeated lows to stop opponents from walking out of your pressure, but its ability to combo into close B > 5AC up close gives your empty jump lows huge damage potential by ''CotW''’s standards. It’s also set up by feinting your overhead, making for brutal guessing games for debuffed opponents. 
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_crC
+|description=* Wild Punish +19 (+22 when feint cancelled)
+* Kenshiro’s longest-ranged normal that still cancels to special moves
+This move picks up links from cl.D feint cancel decently well thanks to its good reach. It’s also a strong tool for counterpoking or whiff punishing due to its longer range than far C.
+Like most other 2Cs, it’s almost always minus when not cancelled, even on hit - so you will definitely want to cancel it so you can keep up your offense. 
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_crD
+|description=* On Wild Punish, puts opponents into a special OTG state where you can follow up with another sweep
+Your average sweep. Usually safe when spaced, this can get opponents to think twice about simply walking backward out of Kenshiro’s reach and away from his mix. It outranges his 2B, giving it some potential value as a surprise extra-ranged low. 
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_jA
+|description=* Can be cancelled to j.236P and REV Blow, but on Counter Hit, only the j.236P will combo
+A fast air-to-air that can be cancelled to pick up extra damage from a successful air-to-air exchange, or to respond to another character’s REV Blow with your own.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_jB
+|description=* Can cross up
+* Has a Command Combo follow-up when done during a full jump
+The customary cross-up light given to most characters. However, Kenshiro’s j.B comes with solid downward and forward reach, giving it uses as both a jump-in and a retreating aerial. 
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_jC
+|description=This is your main jump-in normal for starting combos. 
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_jD
+|description=This big kick has a lot of reach, making distant jump-ins more threatening than they appear due to the normal’s ability to skirt around less committal anti-airs like hop-checking jabs. You can also chase opponents’ back jumps with this normal. You can start combos by jumping in with it, but j.C is usually preferred for that.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_cla_5c,kenshiro_cla_5c_5c,kenshiro_cla_5c_5d,kenshiro_cla_5c_6d,kenshiro_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_throw
+|description=* Despite the blue spark effect in the animation, this doesn’t interact with the debuff
+As a close-range character with no command grab, you’ll find yourself using this throw a lot to open up opponents. Thanks to its generous knockdown time, you have lots of time for okizeme on the opponent’s wakeup.
+
+Against a cornered opponent, you can backdash after the throw to setup an autotimed safe jump (vs 5f reversals). Video example [https://x.com/jamesjrrrrr/status/2071455476923949352 here]. 
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_4throw
+|description=Has the same setups as Forward Throw when you throw them into the corner. Unfortunately, a Back Throw midscreen chucks them too far away to push any strong okizeme.
+}}
+
+==Command Moves==
+====Boulder-Splitting Slash====
+{{FrameDataCargo-COTW
+|name=Boulder-Splitting Slash
+|moveId=kenshiro_6a
+|description=Kenshiro does an overhead chop. 
+* Links to 5A or 2A on hit and 5AC on Counter Hit
+A core piece of Kenshiro’s offense, this overhead chop is mainly to catch opponents respecting Kenshiro’s low presence, especially if they’re debuffed. You don’t get too much from this overhead normally, but you can combo into a super pretty easily on hit. If you get a Counter Hit or Wild Punish, it links to 5AC, giving you potentially round-winning damage off of an overhead. 
+
+Unlike Low Dodge Attack, though, this overhead is unsafe on block, so use this move sparingly.  
+}}
+
+====Hokuto Three-Fist Slaughter====
+{{FrameDataCargo-COTW
+|name=Hokuto Three-Fist Slaughter
+|moveId=kenshiro_ac
+|description=Kenshiro does a series of three punches. 
+* Very fast for what’s functionally a far heavy, linking from close B on hit
+Kenshiro is absolutely blessed with this 7-frame special cancellable normal that goes into all of his REV moves. It’s your main way of going from various lower-commitment starters into heavy damage, thanks to its link from close B on hit. It also works from various Counter Hits, such as 236AC. Thanks to being three hits, it gives you more time to confirm a hit so you can choose your follow-up special appropriately.
+}}
+
+==REV Blows==
+====Hokuto Bone Crusher====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_CD
+|description=On its own, a fairly standard REV Blow. 
+* Kenshiro takes a big step forward on startup, which allows it to reach even REV Guarding opponents if that’s what it takes to Overheat them. However, it’s impossible to use it in a spacing trap.
+* You can combo after the REV Blow if it hits a debuffed opponent, but it has to be a quick follow-up (like a DP) when done midscreen.
+* The step forward leaves Kenshiro vulnerable to throws before the REV Blow connects.
+
+'''Debuff Trigger:''' Causes a wall bounce on hit, allowing a juggle to 623P or super. The debuff won’t trigger on Counter Hit.  
+}}
+
+====Face-Splitting Fist====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_jCD
+|description= A downward lunge. If it hits a grounded opponent, or a launched opponent who’s close to the ground, he’ll follow up with a hitgrab where he knees them in the face.
+* Doesn’t go into the hitgrab if it hits an airborne opponent, but the full damage of the REV Blow will instead be on the first hit.
+* Also doesn’t go into the hitgrab on Counter Hit, but instead crumples as though it were the grounded REV Blow. 
+* REV Accel’ing into this after j.236AC almost always gives a juggle on the ground, usually to a DP or super.
+
+'''Debuff Trigger:''' Launches a grounded opponent much like a Counter Hit special, or has slightly higher knockback vs an airborne opponent. The debuff won’t trigger on Counter Hit. 
+}}
+
+==Feints==
+====Neutral/Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_5bc
+|description=Mimics the startup of his overhead ('''6A'''). This is Kenshiro’s fastest feint, use this whenever a combo requires a feint.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_2bc
+|description=Mimics the startup for move ('''236K'''). Moves Kenshiro forward by slightly less than the horizontal travel distance of a hop.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_2CRev
+|description=A high roundhouse kick. Primarily used as an anti-air and low-profile poke.
+* Has about as much range as Far D and consistently hits hops at the apex of their jump arc
+* [[https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#High_Dodge_Attack| Click here to read more about the High Dodge Attack.]]
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_crev
+|description=A spinning kick delivered during a short hop. Primarily used for its overhead property.
+* Safer on block than 6A, but requires a counterhit / Wild Punish or a meaty hit to start a combo.
+* [[https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#Low_Dodge_Attack| Click here to read more about the Low Dodge Attack.]]
+}}
+
+==Special Moves==
+====Finger Snap of Emptiness====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_236A,kenshiro_236C,kenshiro_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=Kenshiro slides toward his opponent and snaps his finger in front of them.
+* The finger snap part of the attack is not launched if Kenshiro does not make contact with the opponent by the end of the slide's active frames
+* All versions are safe, but minus on block 
+----
+'''Light version (236A)''': Can be used to safely end blockstrings and fish for counterhits
+* The only version that hits from the front of the opponent instead of behind
+* Combos into Far A on Counter Hit / Wild Punish
+----
+'''Heavy version (236C)''': Used to cross up the opponent
+* Crosses over to the other side of the opponent and delivers the hit from behind, even if the opponent is in the corner
+* Can travel about 2/3-screen distance and still launch the attack if Kenshiro makes contact with the opponent. 
+* Combos into Far A on Counter Hit / Wild Punish
+----
+'''REV version (236AC)''': Used to start combos after the crossup.
+* The only version of this move that can start combos on a normal hit, and this must be done by canceling it into another REV Special via REV Accel
+* Can travel about half-screen distance and still launch the attack if Kenshiro makes contact with the opponent.
+* Combos into AC on Counter Hit / Wild Punish
+
+'''Debuff Trigger:''' If the enemy is debuffed by Channeling Points, this move very briefly pops up the opponent in place for a soft knockdown. 623A, 236236C and 236236R are the only attacks that combo from this without REV Accel canceling into another REV special. If this move hits a debuffed opponent as a Counter Hit, adds exactly 1 extra frame to the tiny launch and allows 623C to hit (and can be braked to continue a combo). This will also add 1 extra frame to each of the soft knockdown advantages.
+}}
+
+====Hokuto Hundred-Kick Rush====
+{{FrameDataCargo-COTW
+|name=Hokuto Hundred-Kick Rush
+|moveId=kenshiro_236b,kenshiro_236d,kenshiro_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=A rapid series of kicks delivered after a short step forward. 
+----
+'''Light version (236B)''': Used as a combo extender and in light confirms
+* Any special-cancelable normal combos into this
+* On hit against an airborne opponent, can continue juggles and combo into other specials 
+* Combos into Far A on Counter Hit / Wild Punish against a grounded opponent
+* Unusually easy to Hyper Defend; simply pressing forward anytime while blocking will cause a Hyper Defense
+----
+'''Heavy version (236D)''': Primarily used to safely end blockstrings when braked, or as a combo ender when not braked.
+* AC and heavies can combo into this
+* Cannot continue juggles, even if braked or against an airborne opponent
+----
+'''REV version (236BD)''': Primarily used in combos
+* AC and heavies can combo into this
+* The last hit applies the Channeling Points debuff to the opponent. If this attack is braked on hit, or canceled into another REV special before the final hit, the Channeling Points debuff will not be applied or triggered
+
+'''Debuff Trigger:''' If the last hit connects against a debuffed opponent, they will be launched slightly higher and closer, allowing the hit to combo into 623A before the opponent hits the floor.
+}}
+
+====Hokuto Soaring Split Kick====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_623A,kenshiro_623C,kenshiro_623AC
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description3=Kenshiro uppercuts, then does a flying kick through the opponent. 
+* All versions have invincibility to air attacks on startup
+* You can brake the heavy and REV versions to prevent the follow-up kick. When braked, they become safe, scaled launchers for combos
+* The follow-up flying kick will not go through a cornered opponent, keeping Kenshiro on the same side
+* All versions are Counter Hit punishable on recovery if you don't brake them
+----
+'''Light version (623A)''': Kenshiro’s main reversal.
+* Fully invincible on startup
+* Kenshiro's fastest special move at 5f
+* Has slightly more range than the other versions
+* The invincibility doesn't last all the way through the uppercut, which can make it trade with jump-ins if done early
+----
+'''Heavy version (623C)''': Kenshiro’s main anti-air.
+* The first hit launches on Counter Hit, causing a high launch if you brake it. Your main combo afterward is 236B > 623A/AC
+* Unlike the light version, the air invincibility lasts all the way through the active frames, making it more generous as an anti-air
+* Kenshiro's best Guard Cancel special, being a fast launcher
+----
+'''REV version (623AC)''': Much like the heavy version, but great combo filler, as well.
+* All the same features as the Heavy version, but is slightly faster and does more damage on its own
+* The follow-up kick can always REV Accel into 236AC
+
+'''Debuff Trigger''': Only the follow-up kick can trigger the debuff. When it does so, it pops the opponent up slightly higher, but otherwise doesn't change Kenshiro's combos. 
+}}
+
+====Extreme Airflow====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_623B,kenshiro_623D,kenshiro_623BD
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=Kenshiro does a backflip. 
+* All versions move Kenshiro backward and give Kenshiro projectile invincibility while airborne
+* Can be cancelled to j.236P upon reaching a certain point in the backflip
+* A ''very'' niche special, but is great at dodging some reversal supers (Raging Storm, Haoh Shoukou Ken, some grab supers, etc.)
+----
+'''Light version (623B)'''
+* Invincible to throws and projectiles on 6~30f
+* Nullifies basic projectiles while ignoring other projectile-type moves
+----
+'''Heavy version (623D)'''
+* Identical to the light version
+----
+'''REV version (623BD)'''
+* The invincibility to throws and projectiles starts 1f earlier (5~30f)
+* Reflects all projectiles of normal or REV strength, but still ignores super-strength projectiles
+}}
+
+====Celestial Destruction====
+{{FrameDataCargo-COTW
+|name=Celestial Destruction
+|moveId=kenshiro_214a,kenshiro_214c,kenshiro_214c_6c,kenshiro_214ac,kenshiro_214ac_6c
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description5=Kenshiro performs a short-ranged ki blast. 
+* All versions leave the opponent standing on hit
+* The heavy and REV versions have an optional follow-up attack that is performed with 6P. It knocks the opponent down on hit
+* Despite Kenshiro using channeled ki to perform it, it’s still a strike and can be countered/parried as usual
+----
+'''Light version (214A)''': A safe ender that’s optimal for damage from light confirms
+* A very straightforward striking special
+* Combos from Kenshiro’s lights
+* On Counter Hit or Wild Punish, links to far A
+* Does more damage than 236B, but leaves Kenshiro further away on hit
+----
+'''Heavy version (214C)''': Kenshiro’s plus-on-block special move
+* +2 on block while being barely fast enough to combo from heavies
+* Both the first hit and the follow-up launch on Counter Hit
+* Links to 5AC on Wild Punish
+* Not very combo-friendly due to its startup
+* You can confirm the follow-up attack easily when you see the first part hit
+----
+'''REV version (214AC)''': The version most commonly used in combos
+* Similar to the heavy version, but is MUCH faster to start up, letting you cancel heavies into it to start combos
+* Both the first hit and the optional follow-up attack have REV Accel properties
+* Kenshiro’s only plus-on-block REV special. Use REV Accel into this on block to keep your offense going
+
+'''Debuff Trigger''': The debuff is applied and triggered by the follow-up attack. When it does so, the knockback is slightly higher, improving Kenshiro’s REV Accel routes and combo conversions. That said, the first hit avoiding the debuff trigger is situationally useful to either keep the debuff on the opponent or to save the trigger for later in the combo.
+}}
+
+====Two-Fingered Intercept====
+{{FrameDataCargo-COTW
+|name=Two-Fingered Intercept
+|moveId=kenshiro_214k,kenshiro_214bd,kenshiro_214k_proj,kenshiro_214bd_proj
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description4=placeholder
+* placeholder
+----
+'''Light version (214B)'''
+* placeholder
+----
+'''Heavy version (214D)'''
+* placeholder
+----
+'''Rev version (214BD)'''
+* placeholder
+}}
+
+====Seven Stars of Death====
+{{FrameDataCargo-COTW
+|moveId=kenshiro_j.236A,kenshiro_j.236C,kenshiro_j.236AC
+|input=j.236A/C/AC
+|input2=j.qcf+A/C/AC
+|description3=placeholder
+* placeholder
+----
+'''Light version (236A)'''
+* placeholder
+----
+'''Heavy version (236C)'''
+* placeholder
+----
+'''Rev version (236AC)'''
+* placeholder
+}}
+
+==Super Special Moves==
+====Thousand-Hand Crushing Fist====
+{{FrameDataCargo-COTW
+|name=Thousand-Hand Crushing Fist
+|moveId=kenshiro_236236A,kenshiro_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=placeholder
+* placeholder
+}}
+
+====Hokuto Fist of Penitence====
+{{FrameDataCargo-COTW
+|name=Hokuto Fist of Penitence
+|moveId=kenshiro_236236B,kenshiro_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=placeholder
+* placeholder
+}}
+
+==Hidden Gear==
+====Hokuto Hundred-Fist Rush====
+{{FrameDataCargo-COTW
+|name=Hokuto Hundred-Fist Rush
+|moveId=kenshiro_236236REV
+|description=Kenshiro adopts a martial stance and lunges forwards with a high kick (a possible reference to his ArcSys Fatal Blow). If this kick connects, he straightens himself into the signature power up pose and a mass of afterimage fists appear behind him. Kenshiro then delivers a flurry of precise strikes into the opponent's pressure points before sending them away with a final jolt into their forehead. He turns his back on his opponent while they violently convulse and rupture from the deadly technique. Kenshiro doesn't declare that his opponent is already dead, a clear travesty.
+* However, if this Hidden Gear will do enough damage to KO, Kenshiro rips his top off, a significantly different animation sequence plays, a custom music track overrides the current BGM and the Hidden Gear deals a lot more damage. He also declares that the opponent is already dead.
+** Despite this bonus damage, the KO margin is solely determined by the damage of the regular non-KO Hidden Gear, as with Tizoc's Hidden Gear.
+}}
+
+==Videos, Links & References==
+
+'''KENSHIRO｜Character Breakdown by SNK'''
+{{#ev:youtube|s43dHBboHw4}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Kenshiro]]

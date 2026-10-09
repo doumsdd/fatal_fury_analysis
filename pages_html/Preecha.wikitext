@@ -1,0 +1,571 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Preecha_Profile.png|thumb|A scientist investigating the wonders and miracles of a fascinating principle known as ki (spirit energy).<br>
+She also happens to be the star pupil of Joe Higashi, the acclaimed Muay Thai champ himself! While her martial arts talent can’t be denied, that’s not to say she’s only in it to win it either; indeed, Preecha fights for academic purposes, not accolades.<br>
+She hates the pain, but sure is willing to endure it—as long as it furthers her research into unique and perplexing fight styles.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15f~22f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Command Combo 1 - Far [[image:b.gif]] > [[image:d.gif]]
+
+Command Combo 2 - Jump [[image:a.gif]] > [[image:b.gif]]
+
+
+'''REV Blows'''
+
+Flame Upper - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Electronic Heel Drop - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Sine-Cosine - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' Tangent - [[image:bk.gif]] / [[image:fd.gif]] + [[image:B.gif]] / [[image:D.gif]]
+
+Circular Step - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Parabola Knee - [[image:bk.gif]] / [[image:fd.gif]] + [[image:d.gif]]
+:'''┗''' Arc Elbow - [[image:bk.gif]] / [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Low Angle Kick - [[image:bk.gif]] / [[image:fd.gif]] + [[image:b.gif]]
+
+Screw Leg - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Hyperbolic Kick - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Preecha's Combination - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Follow Up - [[image:a.gif]] / [[image:c.gif]] (Up to 4 times)
+
+
+'''Ignition / Redline Gears'''
+
+Screw Archimedes Spiral - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+P = mc<sup>2</sup>  - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Preecha's Last Theorem - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Preecha is an offensive machine. Her goal is to use her unique moves to rush her opponent down and push her excellent pressure and mix-ups on them. 
+
+Luckily for Preecha, she has a bunch of tools that are perfect getting up close. First, she has Screw Leg (236K), an arcing fireball that can absorb two of the opponent’s. Hyperbolic Kick (214K) is a leaping attack that can be made plus on block either through spacing or by spending REV. While her options at mid-range are somewhat limited, she’s still able to barge in with her approaching specials, a well-timed REV Blow when it’s available, or by using her fast buttons to punish whiffed normals meant to keep her out.
+
+Once Preecha is in, she becomes an absolute monster. She has amazing frame data up close, great light confirms, looping okizeme from strikes ''and'' throws, setplay via extra-meaty projectile, a grounded crossup special, and high/low mix that can be REV Accel’d to keep her turn. With all this, not only can Preecha push plus frames almost endlessly, but she can threaten from multiple angles at the same time, making defending against her almost impossible. Even in the few situations where Preecha is minus, the threat of her invincible DP can cause the opponent to not press and leave themselves open for even more of her onslaught. 
+
+Where Preecha falls short is in her long-range options; she’s very lacking from half-screen and beyond, which can force her to approach even when it’s not in her best interests to do so. That said, though, approaching usually '' is'' in her best interests, as when it comes to up-close fighting, there’s no one who does it like Preecha.
+
+{{StrengthsAndWeaknesses
+| intro = Preecha is a rushdown fighter who excels at closing the gap and applying pressure.
+| pros=
+* '''Good Pressure''': A significant amount of Preecha's attacks leave her plus on block, or have ambiguous stagger windows that can force the opponent to keep blocking her offense, which in turn lets her frequently reset pressure and chip away at the opponent's Rev Gauge. 
+* ''' Strong Mixups''': Preecha has various specials specifically designed to open people up with High/Low and Left/Right mixups, while her abundance of plus frames and staggers make her good at running a basic strike/throw gameplan.
+* '''Counter Zoning''': While Preecha's normals generally lack range, she is by no means weak to projectile zoning. Her fireball is specifically designed to let her close the distance while it's out, and her various projectile-avoiding attacks force the opponent to stop and think before throwing out fireballs of their own.
+| cons=
+* '''Bad Midrange''': As a rushdown character, Preecha shines when up-close, but her normals generally have subpar range compared to the rest of the cast. This can give her a lot of trouble in matchups where the opponent can play at this range and force her to take major risks to get in.
+}}
+
+==Normals==
+===Far Standing Normals===
+
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=preecha_fa
+|display=200x200px
+|description=* A standard 5 frame poke with decent range, the farthest of your 5 framers.
+* Works as a consistent frametrap from c.B (2f gap), c.D (3f) and c.C > Feint (1f, beats Rev Blow)
+* You'll often cancel this move into braked 623D (provided you're close enough for it to connect), as it can start a combo on hit, and leaves you safe if blocked.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=preecha_fb
+|display=200x200px
+|description=''' A quick poke with good range '''
+* Only super cancellable and it's not a confirm. Conversions off this are pretty limited as a result.
+* Leads into her B>D command combo.
+* Not many uses for this move over all. Use Far C or Far D instead in neutral.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=preecha_fc
+|display=200x200px
+|description=* Lunges forward a bit. Has good range as a result, especially by Preecha's standards.
+* Preecha's longest special cancellable poke, very commonly cancelled into 236AC for combos or plus frames, though it's single hit confirmable so you don't need to spend bar if you're looking only to convert.
+* Also very useful when converting from Wild Punish stagger hits, and it's also a Wild Punish stagger normal itself.
+* One of the strongest Far C attacks in the game that boasts extremely good properties and frame data. This button will be one of your main buttons to use in neutral
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=preecha_fd
+|display=200x200px
+|description='''Long range kick with a small amount of forward movement'''  
+* Preecha's longest normal and very fast for its kind, your main poking button and the only reason Preecha can even play footsies in certain matchups.
+* While not special-cancellable, it can lead to big damage as it staggers on Wild Punish or if you buffer a Super.
+* Does good rev damage on block while being ''mostly'' safe (Hotaru is fine guys).
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=preecha_cla
+|display=200x200px
+|description=* Tied for Preecha's fastest move, but its range is limited.
+* Will be used in light confirms, usually to link after a Cr. B, and to then cancel into a braked 623D.
+* Better than 2A in most abare situations by virtue of its input; 2A is so likely to miss that pressing 5A for an OS between this and f.A is better almost every time.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=preecha_clb
+|display=200x200px
+|description=* Quick light normal and +3 on block, sets up frametraps with f.A, f.B and 2C.
+* Great combo opportunities off this normal, links into c.C and your only light that can combo into 236A/C.
+* Very good after a jumpin or dash and not fully outshined by  c.C, as this is more plus.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=preecha_clc
+|display=200x200px
+|description=* Your main close combo starter, cancellable and combos into any special you'd want.
+* +2 on block and +7 on hit if feint cancelled, great for frametraps and its link into 2C is a core route for Preecha.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=preecha_cld
+|display=200x200px
+|description=* +4 on block if feint cancelled, your best meaty normal if you can get it out in time.
+* Can be confirmed into a combo with Cr.C if it's feint-cancelled. Great for punishes and setting up a rewarding frametrap.
+*In patch 1.7.2, allowed this move to combo to Far C (+8) which deals more damage than Cr.C and opens more damaging routes.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=preecha_cra
+|display=200x200px
+|description=* Preecha's fastest move along with Close A, but with pitiful range. Seriously, it's awful.
+* Only useful as a way to combo after 214A/C > 6C
+* Avoid this move outside of combos, use 5A instead.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=preecha_crb
+|display=180x180px
+|description=* Preecha's fastest low.
+* Deceptive hitbox, it doesn't reach as far as it may appear.
+* Can combo into 2A or 5A, making it your primary light starter.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=preecha_crc
+|display=180x180px
+|description=
+* Links from close.D and close.C feints
+* Okay poke, slightly longer reaching than Far A but still prone to whiffing in footsies.
+* Very fast whiff punish tool for its reward, it leads to a full combo on Wild Punish.
+* Safe on block at all times and only -1 on feint cancel, a decent pressure tool when out of close C and D's range.
+* Great defensive button to check forward movement and a strong frame trap after a blocked close.D and close. C
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=preecha_crd
+|display=200x200px
+|description=*8 frame start up making it one of the fastest sweeps in the game.Unfourtunatly it has less than average range. Not very commonly used.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=preecha_ja,preecha_ha
+|display=180x180px
+|description2=* Fast jump normal with a bad hitbox for jumpins but a better one for air to airs.
+* Can hit standing opponents on the way up for a minimal reward throw bait that also beats jumps and hops.
+* Leads into Preecha's jA > jB command combo, which is only really useful for mixing up guard cancels or air-to-air Just Defense.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=preecha_jb
+|display=200x200px
+|description=* Is able to cross-up, which is naturally very useful.
+* Easily combos into your faster normals, so it's an overall strong jumpin.
+* Has a good air-to-air hitbox as well.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=preecha_jc
+|display=200x200px
+|description=* Good for air-to-airs and surprisingly for jump-ins as well. Generally your best jump normal besides j.B
+* Has the highest base damage of Preecha's air normals, so it's a good combo starter.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=preecha_jd
+|display=200x200px
+|description=* Good jump-in hitbox but a terrible air-to-air one on top of its slow startup.
+* Lower damage than j.C as well, it's usually a better idea to throw that one out instead.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=preecha_cla_5c,preecha_cla_5c_5c,preecha_cla_5c_5d,preecha_cla_5c_6d,preecha_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description5=*Every ender can be done during cl.AC or cl.ACC.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC and cl.ACC is the same move as close C and far C but the framedata and damage is different.
+----
+D ender : Unsafe on block but soft knockdown on hit.
+----
+6D ender : Overhead ender, +2F advantage on hit and block.
+----
+2D ender : Low ender, very unsafe on block.
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=preecha_throw
+|display=200x200px
+|description=* It sends the opponent about 3/4 of the screen away, but plus enough to still get oki.
+* In midscreen,Light Screw Leg can be used right after the throw to make the opponent wake up to a very meaty(+26) projectile.
+* In the corner Preecha's meaty fireball set up becomes weaker, but she gains a scary high-low mix-up by using her circular step stance. After a forward throw in the corner preecha can do a forward hop then do circular step into 3 powerful options: A very meaty arc elbow(+6 overhead), a slightly delayed low angle kick(-4 on block low with pushback), and a very meaty parabola knee, which is 0 on block and gives a massive launch on counterhit.
+
+Preecha's forward throw is an important part of her gameplan and complements her high low gameplan. Preecha gets extremely strong okizeme from her forward throw at any part of the screen and can snowball the rest of the round by one throw.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=preecha_4throw
+|description='''Back throw that leaves the opponent at a fairly close range.'''  
+* The range allows for Preecha to cross-up with a meaty Heavy Hyperbolic Kick.
+}}
+
+==Command Moves==
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=preecha_fb_fd
+|description='''Two hit target combo that's safe on block with no combo options.'''  
+* Improves far B as a poke, if you don't have a confirm this is completely safe to go for unless the opponent is able to hyper defense through it.
+* Pretty unrewarding outside of that, but still better than a standalone far B.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=preecha_ja_jb
+|description=*Only available during jump A, hop A is not cancellable.
+*j.B follow-up is not an overhead.
+* 2nd hit does not combo on normal hit. Needs an aerial counter hit or wild punish to connect
+*Fairly good and fast air to air option, gives alot of plus frames on hit and allows her to start her offense
+}}
+
+==REV Blows==
+====Flame Upper====
+{{FrameDataCargo-COTW
+|moveId=preecha_cd
+|display=200x200px
+|description=* Slow, but far-reaching and safe Rev Blow
+* Can be used as a way to close in, especially against Billy or characters throwing fireballs mid-range.
+* Staggers the enemy on counter-hit, allowing for a combo after.
+* Quite situational to use with not many uses in neutral. Avoid using it too much as opponents can high dodge attack or grab on reaction
+*Combos only from 236AB(LAST HIT) and 236BD( FIRST HIT)
+
+Preecha travels a distance along the ground and does a big uppercut. This rev blow is not very combo-friendly, usually requiring Preecha to do it very early in the combo, or spend a lot of Rev meter to end the combo with it. It however has extremely big corner carry when used at the end of the combo and gives a hard knockdown
+
+}}
+
+====Electronic Heel Drop====
+{{FrameDataCargo-COTW
+|moveId=preecha_jcd
+|description=* A mid, despite looking like an overhead.
+* Available after 214BD, 214AC > 6D, and 623BD (in place of 623BD > 6B/D) to secure a stronger knockdown with added damage.Note that in long juggles, 623BD into Air rev blow has a HIGH tendency to not connect.
+* Preecha's only jumping Guard Cancel, but not particularly good at beating anti-airs or hitting grounded opponents because of its poor hitbox and halted downwards momentum.
+
+Preecha does a flying downward's angled axe kick. This move is very combo friendly and important for Preecha's oki and overhead/low setplay. 
+
+
+
+}}
+
+==Feint==
+====Neutral / Forward / Down Feint====
+{{FrameDataCargo-COTW
+|moveId=preecha_5bc
+|display=200x200px
+|description=Preecha's only feint.
+* Primarily used in combos and pressure, grants Preecha fantastic frames on most of her cancellable heavies.
+* Looks somewhat similar to her fireballs' startup animations which are very weak to jumpins, so you can bait a jump and punish with an anti-air.
+}}
+
+==Dodge attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=preecha_2crev
+|display=180x180px
+|description=
+*Anti-air and panic button against Rev Blow.
+*Mostly ''really'' bad, outdone as an anti-air by 623D feint, and its disappointing range leaves it exclusively as a counterpoke against grounded opponents, where it's very whiff punishable despite its low reward.
+*Can still be useful in scrambles or against hops.
+* On anti air counter hit or wild punish, your best cancel option is 214BC. All other options have a big tendency to whiff.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=preecha_crev
+|display=200x200px
+|description=*Low and Throw invul overhead.
+*Can be timed to be +1 on block or comboable on hit.
+*One of the better low dodge attacks in the game with great range, start up, active, and recovery.
+}}
+
+==Special Moves==
+====Sine-Cosine====
+{{FrameDataCargo-COTW
+|moveId=preecha_623b,preecha_623d,preecha_623bd
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|display=180x180px
+|description3=Preecha's anti air special and combo tool. 
+* B version has full invulnerability and can go through most fireballs, except for a few slower ones. (like Mai’s 236A or Kain’s 236236B)
+* D/REV versions can be cancelled using brake.
+** Braked D version is the ideal anti-air since it allows you to follow-up and remain safer if it's Just Defended.
+** Braked D version is used to combo off of light confirms or extend juggles.
+** Preecha's DP break is one of the best in the game with great range, even allowing her to connect it from a 3 light attack string
+}}
+<!-- Tangent(DP follow-up)-->
+{{FrameDataCargo-COTW
+|moveId=preecha_623b_6b,preecha_623d_6b,preecha_623bd_6b
+|display=200x200px
+|description3='''Follow up to Sine-Cosine, sends the opponent back to the ground .'''  
+* Adds a bit of damage to your DP's, After 623BD you can do a rev blow to get a hard knockdown
+* Worse knockdown than 623B/D midscreen, but near the corner they're about the same so there's little reason not to use this.
+* In patch 1.7.2, added a ground bounce property on the final hit of 623BD >4/6k which allows combo extensions.
+}}
+
+====Circular Step====
+{{FrameDataCargo-COTW
+|moveId=preecha_214a,preecha_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|display=200x200px
+|description2='''Preecha steps back, can be followed up with a variety of moves.'''  
+* On its own, can be used to keep yourself safe, or bait a button or reversal.
+* Can be used as a sort of backdash that can be done as a guard cancel to escape weaker pressure sequences or avoid getting locked down by a projectile.
+* Best used as a meaty, but Rev Circular Step takes noticably less time before its followups come out, which makes it better in blockstrings.
+}}
+
+====Circular Step follow-ups====
+<!-- Parabola Knee -->
+{{FrameDataCargo-COTW
+|moveId=preecha_214a_6d,preecha_214ac_6d
+|input=214A/C/AC > 4/6D
+|input2=qcb+A/C/AC > b/f+D
+|display=200x200px
+|description2='''After Circular Step, Preecha jumps forward with a strong knee strike.'''  
+* Used mainly for combos, as it's unsafe on block and doesn't offer any mix, unlike Preecha's other follow-ups 
+* In midscreen combos, it can connect only by REV cancelling REV Screw Leg (236BD)
+* On counter hit launches the opponent high for a full combo
+}}
+<!-- Arc Elbow -->
+{{FrameDataCargo-COTW
+|moveId=preecha_214a_6a,preecha_214ac_6a
+|input=214A/C/AC > 4/6A/C
+|input2=qcb+A/C/AC > b/f+A/C
+|display=180x180px
+|description2=''' Overhead elbow strike out of Circular Step '''  
+* Useful option to open up an opponent that crouchblocks constantly.
+* Can start a combo if you link with 2A, but some setups can make it up to +6 on hit, which links into c.C.
+* Rev version is +2 at worst on block, but on hit it's identical to the meterless version. Can be made more plus as a meaty.
+*One of Preecha's most powerful moves as it is a meterless safe overhead that gives a combo on hit
+}}
+<!-- Low Angle Kick -->
+{{FrameDataCargo-COTW
+|moveId=preecha_214a_6b,preecha_214ac_6b
+|input=214A/C/AC > 4/6B
+|input2=qcb+A/C/AC > b/f+B
+|display=200x200px
+|description2='''Low kick out of Circular Step, goes into knee strikes on hit'''  
+* Normal version can't be combo'd out of, Rev version can be followed after with any rev special for a combo even after the knee strike animation. Sometimes starting a combo from the rev version is harder than expected so be sure to practice combos after the rev version connects in training mode.
+* The followup animation only plays out on grounded opponents, on air hits Preecha whiffs a throwing animation. It's still possible to cancel the Rev version before this comes out.
+* Faster than the overhead but still unlikely to ever be fuzzy blocked.
+* The normal version is sometimes punishable and the Rev one is safe but minus, both can still be hit meaty to improve frame advantage.
+}}
+
+====Screw Leg====
+{{FrameDataCargo-COTW
+|moveId=preecha_236b,preecha_236d,preecha_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|captions=<br>B version,<br>D/BD second hit
+|display=200x200px
+|description3='''Preecha kicks a tornado forward in an arc'''
+* All versions stay on screen for a very long time, good for getting in or for oki, but quite bad at actually zoning since it does not go full screen.
+* The windup of the D and B+D versions already form a projectile hitbox that eats others without stopping Preecha's tornado from coming out, which can potentially cover your approach for up to two fireballs from the opponent. D version is combo-friendly and allows consistent links into Preecha's P = mc2 super
+* D and B+D versions can be braked after the first tornado appears. This is useful point-blank to squeeze in a throw when the opponent is expecting the second tornado, or to make the first hit plus with spacing or a meaty timing.
+* Avoid using D and B+D versions in neutral as the start-up and recovery are extremely long. Use the B version for screen control and zoning. The D and B+D versions could be used in fireball wars, but use them only to absorb an opponent's fireball as doing them raw is very risky.
+* When executing this move after a forward dash, input a Tiger Knee motion (2369) to avoid accidentally doing a DP.
+*The D version is Preecha's best blockstring ender. Due to being safe and frame trapping off lights,and even setting up a small RPS situation on block with breaking the second hit. The BD version is great to set up Circular step mixups on block.
+}}
+
+====Hyperbolic Kick====
+{{FrameDataCargo-COTW
+|moveId=preecha_214b,preecha_214d,preecha_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|display=200x200px
+|description3='''Preecha jumps forward with a kick that covers a lot of ground'''  
+* Can be used to jump over grounded projectiles, but not traditional fireballs. Has to be preemptive as it doesn't have projectile invulnerability on start up. 
+* All versions are safe, B+D version is actually plus and a combo starter/extender against airborne opponents or on CH/WP.
+*B version doesn't have much uses in Preecha's gameplay. Stick to using the D and BD versions instead.
+* D version can crossup, while the B and B+D versions are always same side, but this is pretty gimmicky outside of Overheat because of Rev Guard.
+* Additionally, the D version is 0 on hit and leaves Preecha outside the reach of her 4 frame 2A, so in reality, even a successful usage of 214D achieves very little beyond its damage.
+* D version starts a small combo on both counter hit and wild punish(+5 advantage which links to Far A).
+*The B+D version is Preecha's best "Neutral Skip" but it doesn't have much range and has alot of recovery on whiff.
+}}
+
+====Preecha's Combination====
+{{FrameDataCargo-COTW
+|moveId=preecha_236a,preecha_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|display=180x180px
+|description2=
+'''Rekka style move that hits up to five times'''
+* An indispensable move, used in combos, pressure, setups and guard crushes.
+* The meterless version is -5 on block with no delay window on its followups, a good opponent will punish this a majority of the time.
+* The first block of the Rev version is the only one that grants you frame advantage (+3). Very useful pressure reset as it's unreactable and leaves you decently close to the opponent.
+* A skillful opponent can Hyper Defend and punish the follow-ups, so be careful when using them for pressure.
+* In patch 1.7.2, allowed this move to combo from lights making it a great ender for 3 hit light strings.
+*Combo ender, always a true block string when canceled from, not a good blockstring ender.
+}}
+<!-- First punch follow-up-->
+{{FrameDataCargo-COTW
+|moveId=preecha_236a_a,preecha_236ac_a
+|input=236A/C/AC > P
+|input2=qcf+A/C/AC > P
+|display=190x190px
+|description2=First Preecha's Combination follow-up.
+
+}}
+<!-- Second punch follow-up-->
+{{FrameDataCargo-COTW
+|moveId=preecha_236a_aa,preecha_236ac_aa
+|input=236A/C/AC > PP
+|input2=qcf+A/C/AC > PP
+|display=170x170px
+|description2=Second Preecha's Combination follow-up.
+}}
+<!-- Third punch follow-up-->
+{{FrameDataCargo-COTW
+|moveId=preecha_236a_aaa,preecha_236ac_aaa
+|input=236A/C/AC > PPP
+|input2=qcf+A/C/AC > PPP
+|display=170x170px
+|description2=Third Preecha's Combination follow-up.
+
+}}
+<!-- Forth punch follow-up-->
+{{FrameDataCargo-COTW
+|moveId=preecha_236a_aaaa,preecha_236ac_aaaa
+|input=236A/C/AC > PPPP
+|input2=qcf+A/C/AC > PPPP
+|display=200x200px
+|description2=Final Preecha's Combination follow-up, really unsafe on block. Never end a blockstring with this move
+}}
+
+==Super Special Moves==
+====Screw Archimedes Spiral====
+{{FrameDataCargo-COTW
+|moveId=preecha_236236a,preecha_236236a_2,preecha_236236c,preecha_236236c_2
+|captions=<br>Attack animation,<br>C super flash
+|input=236236A/C
+|input2=qcfqcf+A/C
+|display=160x200px
+|description4=Throw out a few bruising uppercuts, then finish off with a tornado.
+----
+A version : Preecha's 1 bar metered reversal option and combo ender
+* Good as an anti-air but painfully unreliable as a reversal, it has a random chance to forego the tornados on the first two uppercuts, which increases the damage but basically halves its range and makes it drop against extended hurtboxes.
+* Airborne opponents sometimes drop out of the tornado in specific angles, so even as an anti-air it can be annoying to use.
+* ''Sometimes'' Preecha's highest damage one-bar ender, when it feels like it. On top of the lower frame advantage in comparison to 236236B and just how much more consistent that super is, you're probably better off not using this one outside of reversaling through blockstrings and some anti-airing.
+
+----
+C version : The most damaging fully invincible option preecha has outside of Hidden Gear.
+* Similar to 236236A, has a random chance to do higher damage for no reason. Thankfully its hitboxes remain intact, and are significantly larger, so it's much better for defense.
+* The randomly stronger version also has slightly better frame advantage (+34 from +33 against grounded opponents), which is variable in the first place against airborne opponents. It's hard to tell the versions apart as well, so don't use this for setups.
+* Regardless of the varied advantage, it keeps the corner and leaves you +33 at the very least, which makes it preferable to 236236D as a cashout that won't necessarily kill.
+
+}}
+
+====P = mc<sup>2</sup>====
+{{FrameDataCargo-COTW
+|moveId=preecha_236236b,preecha_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>Attack animation,<br>D super flash
+|display=200x120px
+|description2=Preecha's horizontal super.
+----
+B Version : A far-reaching super that sideswitches unless the opponent is backed against the corner.
+* ''Is NOT projectile invulnerable.'' Still a useful punish or conversion super with its high range.
+* Very easy to confirm, will connect from basically any normal cancel, and its reach can help pick up normally unrewarding hits like a distant fireball.
+* While less damaging than 236236A can be, it can be used as an ender in combos where 236236A would miss, which generally net more damage on top of actually being consistent.
+* +40 on most hits but +42 if combo'd after a 623D break. Both are consistent and useful for setting up a powerful meaty.
+* Should use this super in 99% of Preecha's combos as it is very combo-friendly and is her highest damage 1 bar ender.
+----
+D Version : Nearly full-screen invincible super.
+* Preecha's best reversal and a useful combo ender. 
+* A rewarding punish if you react to an opponent throwing a fireball or whiffing something with long recovery.
+* Can be braked by pressing A+B right after the first hit connects. The following combo will do lower damage than the full super, but you can secure oki from it or keep the corner.
+* Unlike 236236B, it ALWAYS sideswitches (even in the corner) provided you don't brake it. 
+}}
+
+==Hidden Gear==
+==== Preecha's Last Theorem ====
+{{FrameDataCargo-COTW
+|moveId=preecha_236236rev
+|description=An invincible projectile.
+* Can only be executed with S.P.G active and two bars, but is your most damaging combo ender with the highest minimum damage.
+* While its initial range is somewhat limited, it's still pretty easy to juggle into off of almost any special thanks to its speed.
+* Does eventually go further but this is mostly irrelevant, if this is fast enough to punish something at range you probably have better options.
+* Actually very active and technically possible to be made plus, which is completely useless but you can occasionally be funny with it and find meaty setups.
+}}
+
+==Videos, Links & References==
+
+'''Preecha｜Character Breakdown by SNK'''
+{{#ev:youtube|ZkH0EDpncC8}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Preecha]]

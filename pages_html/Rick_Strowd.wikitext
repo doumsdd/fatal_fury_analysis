@@ -1,0 +1,502 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Rick_Strowd_Profile.webp|thumb|Rick started out wowing casino crowds as a show boxer before going on to win it all on the world stage.
+The undisputed champ now spends his days defending the title belt, yet somehow still feels strangely unfulfilled. Then the news arrives: King of Fighters. A chance to tear through the ennui—and the world—once again. The champion's fists can break through anything...even the fangs of a wolf.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15~19f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Aggressor Stance - [[image:bk.gif]] / [[image:fd.gif]] + [[image:a.gif]] [[image:c.gif]]
+:'''┗''' Stance Change - [[image:fd.gif]] > [[image:fd.gif]]
+:'''┗''' Anti-Aggressor - [[image:bk.gif]] > [[image:bk.gif]] / [[image:dn.gif]] > [[image:dn.gif]]
+:'''┗''' Flash - [[image:a.gif]]
+:'''┗''' Starfall - [[image:c.gif]]
+:'''┗''' Shut Out - [[image:b.gif]]
+:'''┗''' Shadow Steal - [[image:d.gif]]
+:'''┗''' Flicker Sunburst - [[image:a.gif]] [[image:c.gif]]
+
+Command Combo 1 - Close [[image:d.gif]] > [[image:fd.gif]] + [[image:c.gif]]
+
+Command Combo 2 - [[image:dn.gif]] + [[image:a.gif]] > [[image:df.gif]] + [[image:c.gif]] (> (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]) (REV Blow only when S.P.G. active)
+
+
+'''REV Blows'''
+
+Tailwind - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Meteor Rain - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Blazing Sunburst - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Full Moon Fever - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Hellion - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Shooting Star - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Shooting Star: Leo - [[image:a.gif]]
+:'''┗''' Shooting Star: Quad - [[image:c.gif]]
+:'''┗''' Shooting Star: Perseid - (REV Shooting Star) [[image:c.gif]] (*)
+
+Divine Step - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' Divine Blast - [[image:a.gif]] / [[image:c.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Gaia Breath - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (Hold OK)
+
+Howling Bull - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+
+Screaming Bull - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Rick Strowd is ''Fatal Fury''’s take on the beloved speed boxer archetype. Using his amazing mobility, this technical rushdown character ducks and weaves his way in before tearing foes apart with an endless barrage of strikes and combinations.
+
+Rick’s game plan is a simple one: get in and don’t stop ‘til they drop. He can keep going seemingly endlessly with his great close normals, stagger pressure, stance transitions, and command dashes with various follow-ups. To open up stubborn opponents, he can go high or low from his Aggressor Stance (4AC/6AC), or keep the advantage with Blazing Sunburst (236P); he’s even equipped with a powerful, Brakable anti-air in Hellion (623P). When they cave and take the hit, use his numerous offensive sequences to confirm his high combo damage, and use Shooting Star (236K) to keep up the attack even after you’ve knocked them down.
+
+As you may have guessed, a character who’s so strong up close, isn’t very capable from afar. Rick relies heavily on his advancing specials to close the gap, and they are easily stuffed or baited to whiff. When things go south for Rick, they go south fast, as he has no invincible reversal aside from his supers. While his one-dimensional neutral can make keeping him out rather easy, he can at least ignore projectiles with Full Moon Fever (214P), or even punish them with Howling Bull (236236K). 
+
+All in all, Rick is a very fun character, but he is by no means an easy one — his highly technical gameplay will challenge your execution, game knowledge, and adaptability. But master this deep character, and you might just “Exceed the Limit” you thought you had as a player!
+
+{{StrengthsAndWeaknesses
+| intro = Rick is a technical rushdown character who combines evasive movement with devastating close-range pressure and high damage.
+| pros=
+* '''High-speed offense''': Rick can maintain a fast pace once he gets close to his opponent. Good use of his fast attacks up close, combined with his command dash and other (mediocre) pressure tools, allow Rick to overwhelm his opponent with high-speed offense and stay one step ahead, at least in theory. His options versus Rev Guard are also uniquely strong such as Blazing Sunburst (236P) doing impressive rev damage and Rev Hellion brake lets him be +3 in his opponent's face with basically no pushback.
+* '''Consistent High Damage''': When Rick finds the big hit he needs he can always make it hurt. His damage is above average even without rev or meter usage. His corner combos in particular are very rev efficient and build a ton of meter.
+
+
+
+|cons=
+* '''Short effective range''': In order to pose any sort of threat, Rick has to move in and constantly take risks. He has no good normals for poking and no reliable gap-closers, meaning he has to pick his openings carefully just to get started. 
+* '''Poor defense''': Rick has no meterless reversal, his anti-air options are mediocre at best, '''236236P''' is a contender for worst reversal super attack in the game with a comically small hitbox, and his Guard Cancel options leave much to be desired. 
+* '''Fake, unrewarding mixups''': If opponents know when to take their turn back, the illusion of constant pressure is shattered. Much of Rick’s mixups come with risk/reward spreads that favor his opponent.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=rick_fa
+|description= 
+
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=rick_fb
+|description=
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=rick_fc
+|description=
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=rick_fd
+|description= 
+
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=rick_cla
+|description=
+
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=rick_clb
+|description=
+
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=rick_clc
+|description=
+
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=rick_cld
+|input=cl.D
+|description=
+
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=rick_cra
+|description=
+
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=rick_crb
+|description=
+
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=rick_crc
+|description=
+
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=rick_crd
+|description=
+
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=rick_ja
+|description=
+
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=rick_jb
+|description=
+
+
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=rick_jc
+|description= 
+
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=rick_jd
+|captions=
+|description=
+
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=rick_cla_5c,rick_cla_5c_5c,rick_cla_5c_5d,rick_cla_5c_6d,rick_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description5=*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender.<br>
+-2 on block, safe unless guard cancelled.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=rick_throw
+|description= 
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=rick_4throw
+|description=
+
+}}
+
+==Command Moves==
+====Aggressor Stance====
+{{FrameDataCargo-COTW
+|name=Aggressor Stance
+|moveId=rick_46ac
+|input=4/6AC
+|input2=b/f+AC
+|captions=
+|description= Stance with multiple follow-ups. A jab, overhead, low, counter and a combo finisher. Can be canceled out of his 236K follow-ups. The cancel is slow so it can't be used to reversals, so Rick has to hard commit to counter to beat them. 
+}}
+
+====Aggressor Stance follow-ups====
+{{FrameDataCargo-COTW
+|name=Stance Change
+|moveId=rick_46ac_66
+|input=4/6AC > 66
+|input2=b/f+AC > ff
+|captions=
+|description= 
+}}
+{{FrameDataCargo-COTW
+|name=Anti-Aggressor
+|moveId=rick_46ac_4422
+|input=4/6AC > 44/22
+|input2=b/f+AC > bb/ff
+|captions=
+|description= 
+}}
+{{FrameDataCargo-COTW
+|name=Flash
+|moveId=rick_46ac_a
+|input=4/6AC > A
+|input2=b/f+AC > A
+|captions=
+|description= Quick jab mainly used for frame trapping the opponent and extending some combos. Best way to deter people mashing out of your mix by frame trapping into desired follow up or just doing more jabs to catch their escape attempt. Overall low reward but is the best way to get any sort of offense started from stance without HKD.
+
+}}
+{{FrameDataCargo-COTW
+|name=Starfall
+|moveId=rick_46ac_c
+|input=4/6AC > C
+|input2=b/f+AC > C
+|captions=
+|description= Overhead follow-up. High risk for pretty low reward, even from a stance jab it can be mashed out with 5 framers, throws and jumped over for a full punish. Pretty fast overhead at frame 20 though so if you make your opponent respect you enough you can open them up with it.
+
+}}
+{{FrameDataCargo-COTW
+|name=Shut Out
+|moveId=rick_46ac_b
+|input=4/6AC > B
+|input2=b/f+AC > B
+|captions=
+|description= Counter from stance that can be used to hard call out reversals, however it loses to projectiles and lows. Not the most rewarding option either since midscreen it gets very little on hit.
+ 
+}}
+{{FrameDataCargo-COTW
+|name=Shadow Steal
+|moveId=rick_46ac_d
+|input=4/6AC > D
+|input2=b/f+AC > D
+|captions=
+|description= Low follow-up. Catches mashes with buttons from stance jab as a frame trap and also combos if the first stance jab was a CH. Other than that, similar risk reward to Starfall as it is still throwable on the gap and jumpable for a full punish.
+
+}}
+{{FrameDataCargo-COTW
+|name=Flicker Sunburst
+|moveId=rick_46ac_ac
+|input=4/6AC > AC
+|input2=b/f+AC > AC
+|captions=
+|description= Automatically exits stance on hit, block or whiff. Pretty punishable on block so be sure to confirm it, also a nice ender from routes that go into stance mid combo.
+
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=rick_clc_6d
+|captions=
+|description=
+
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=rick_cra_3c
+|captions=
+|description=
+
+}}
+
+==REV Blows==
+====Tailwind====
+{{FrameDataCargo-COTW
+|moveId=rick_cd
+|description= 
+
+}}
+
+====Meteor Rain====
+{{FrameDataCargo-COTW
+|moveId=rick_jcd
+|input=j.CD
+|description= 
+
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=rick_5bc
+|description=* Mimics Blazing Sunburst, Rick's only Feint.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=rick_2crev
+|description=* Cannot be cancelled on block.
+* Wins against jumping attacks, standing normals and REV Blows. Triggers a slowdown if it meets any of these.
+
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=rick_crev
+|description=* Universal overhead, wins against lows and throws. Triggers a slowdown if it meets either of these.
+
+}}
+
+==Special Moves==
+====Blazing Sunburst====
+{{FrameDataCargo-COTW
+|moveId=rick_236a,rick_236c,rick_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=
+
+}}
+
+====Full Moon Fever====
+{{FrameDataCargo-COTW
+|moveId=rick_214a,rick_214c,rick_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3=
+
+}}
+
+====Hellion====
+{{FrameDataCargo-COTW
+|moveId=rick_623a,rick_623c,rick_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description3=
+
+}}
+
+====Shooting Star====
+{{FrameDataCargo-COTW
+|moveId=rick_236b,rick_236d,rick_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3= 
+
+}}
+
+====Shooting Star Followups====
+<!-- Shooting Star: Leo -->
+{{FrameDataCargo-COTW
+|moveId=rick_236b_a,rick_236d_a
+|input=236B > P/236D > A
+|input2=qcf+B > P/qcfD > A
+|description2=
+
+}}
+
+<!-- Shooting Star: Quad -->
+{{FrameDataCargo-COTW
+|moveId=rick_236d_c
+|input=236D > C
+|input2=qcf+D > C
+|description=
+
+}}
+
+<!-- Shooting Star: Perseid -->
+{{FrameDataCargo-COTW
+|moveId=rick_236bd_c
+|input=236BD > C
+|input2=qcf+BD > C
+|description=
+
+}}
+
+====Divine Step====
+{{FrameDataCargo-COTW
+|moveId=rick_214b,rick_214d,rick_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=
+
+}}
+
+<!-- Divine Blast -->
+{{FrameDataCargo-COTW
+|moveId=rick_214b_p,rick_214d_p,rick_214bd_p
+|input=214B/D/BD > P
+|input2=qcb+B/D/BD > P
+|description=
+
+}}
+
+
+
+==Super Special Moves==
+====Gaia Breath====
+{{FrameDataCargo-COTW
+|moveId=rick_236236a,rick_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+
+}}
+
+====Howling Bull====
+{{FrameDataCargo-COTW
+|moveId=rick_236236b,rick_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=
+}}
+
+==Hidden Gear==
+====Screaming Bull====
+{{FrameDataCargo-COTW
+|moveId=rick_236236rev
+|name=Screaming Bull
+|description= 
+
+}}
+
+==Videos, Links & References==
+
+'''Rick Strowd｜Character Breakdown by SNK'''
+{{#ev:youtube|9ejD10PryOM}}
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Rick Strowd]]

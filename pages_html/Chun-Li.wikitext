@@ -1,0 +1,548 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Chun-Li_Profile.png|thumb|A battle-hardened Metro City agent who arrives in South Town, by request, to investigate the resurgence of an infamous criminal syndicate.<br>
+Few wolves here can match the strength, style, and grace of this World Warrior—let alone best her outright.<br>
+Perhaps the only one who can hold a candle to her is the fiery kunoichi of the Shiranui clan.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 
+<br>'''Backdash:''' 
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Tiger Thrust - [[image:fd.gif]] + [[image:a.gif]]
+
+Water Lotus Fist - [[image:df.gif]] + [[image:a.gif]]
+
+Hakkei - [[image:bk.gif]] + [[image:c.gif]]
+
+Jaw Strike - [[image:fd.gif]] + [[image:c.gif]]
+
+Peacock Palm - [[image:df.gif]] + [[image:c.gif]]
+
+Crane Kick - [[image:fd.gif]] + [[image:b.gif]]
+
+Falling Crane - [[image:df.gif]] + [[image:b.gif]]
+
+Yokusen Kick - [[image:fd.gif]] + [[image:d.gif]]
+
+Gen Assassin Kick - [[image:df.gif]] + [[image:d.gif]]
+
+Yoso Kick - [[image:dn.gif]] + [[image:b.gif]] (Midair Only) (up to 3 times)
+
+Ryuseiraku - [[image:a.gif]] + [[image:b.gif]] (Midair Only)
+
+Wall Jump - [[image:uf.gif]] (Near Wall) (Midair Only)
+
+Command Combo - [[image:c.gif]] > [[image:c.gif]] (Midair Only)
+
+
+'''REV Blows'''
+
+Hosen Kick - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Falling Phoenix - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Kikoken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Hundred Lightning Kicks - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Aerial Hundred Lightning Kicks - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only)
+
+Spinning Bird Kick - [[image:dn.gif]] ~ [[image:up.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Hazanshu - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Tensho Kicks - [[image:dp.gif]] / [[image:dn.gif]] [[image:dn.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Ignition / Redline Gears'''
+
+Kikosho - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Hoyoku-sen - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Seven Star Shining Kicks - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+''(NOTE: This page is a work in progress.)''
+
+Chun-Li is the second guest character from Street Fighter to grace City of the Wolves. Though she sports her Street Fighter 6 look, this version of Chun-Li plays most like her infamous 3rd Strike version (albeit balanced better), while borrowing many different things from each past version of the character.
+
+Like in 3rd Strike, Chun-Li is very well-rounded, but focuses on strong neutral control and footsies rather than raw aggression. She loves to fight in the mid-range, whittling away the opponent with her very strong normal attacks, both super- and special-cancellable. When the opponent opens themselves up, Chun-Li can use her great normals or her DP to turn one small mistake by her opponent into a ton of damage. Generous frame advantage on some normals really let her freestyle combos, using multiple links or REV Accel — however she wants to rack up her high damage, while also sporting a suite of powerful moves for mix-up potential, like a comboable overhead, low, or a Brake into a throw.
+
+The biggest downside to Chun-Li in this game is that she lacks strong tools for hyper-aggression or zoning. Her only special moves that aren’t punishable on block are her REV fireball and REV legs, (when you Brake it). Not to mention, like Ken and Tizoc, Chun-Li cannot cancel her forward dash into a move, which strips away a layer of offense that the vast majority of the cast has access to. Of course, you can use REV Accel to push an offense, or turtle behind a fireball-DP neutral like a zoner, but Chun-Li really shines when she gets to play a proactive neutral game and out-space her adversary.
+
+If the neutral game, overwhelming your opponent with tons of tools and confirming your way to victory sounds like your kind of character, you will definitely want to put the time into playing Chun-Li. Or if you want… just play her for kicks. Literally.
+
+{{StrengthsAndWeaknesses
+| intro = Chun-Li is an all-rounder who thrives in any situation, but is strongest at mid-range where she can poke and whittle down her opponent.
+| pros=
+* '''Fantastic neutral''': Chun-Li’s long pokes, great walk speed and access to both a projectile and DP make getting in on her a daunting task. Whiffing against her is also dangerous due to long-reaching Wild Punish starters such as her 6C.
+* '''Combo Machine''': Chun-Li can effortlessly confirm into more powerful combos using powerful normal links, single-hit confirms, and her ability to cancel REV specials to supers. 
+* '''Above Average Damage''': Building on the last point, Chun-Li’s damage is unexpectedly high thanks to those same links and confirms resulting in combos scaling less than those that use REV specials, not to mention being able to use two supers in a combo. If Chun-Li has full resources, she can easily do 60% or more, with or without SPG.
+* '''Strong Mix-Up Potential''': Meaty setups off of any hard knockdown, a command crossup in her 3B, an overhead that can be faked out, an overhead that combos on hit, and a cancellable low make Chun-Li’s offense and mixups not only versatile, but highly rewarding and often leading to vortex situations.
+* '''Slippery''': Chun-Li is a difficult character to keep down, with her strong and fast DP, along with multiple tools to escape the corner like her wall jump and 3B.
+| cons=
+* '''Cannot Cancel Dash''': Unlike most characters with a forward dash, Chun-Li’s dash cannot be cancelled into a move, making its use significantly more committal than other characters while taking away surprise throws and dash-up normals that other characters can do. She is thus forced to rely on her above-average walk speed to work her way in.
+* '''Bad Fireball''': Chun-Li’s projectile is very slow to start up and recover compared to other characters, to the point of sometimes being punishable on hit. This heavily limits its use outside of the REV version.
+* '''LET’S GO JUSTIN!''': Many of Chun-Li’s sequences on block, especially safe special cancels, are multiple hits, meaning Just Defense and Hyper Defense are especially effective against Chun-Li if her opponent knows the matchup. This can also make her more vulnerable to comebacks.
+* '''Technically Demanding''': There is very little room for error with Chun-Li when it comes to execution, due to command normals with similar inputs yet wildly different functions, a reliance on linking, and to a lesser extent, input overlap. If you slip up and don’t get the move or combo you want, the mistake can reasonably lend to a round loss.
+}}
+
+==Guest from Metro City==
+Chun-Li, much like Ken, is a guest character from Street Fighter, and as a result follows a few rules of that franchise, even in this game:
+* Chun-Li has no far or close variants of her normals, she gets the same ones regardless of proximity to the opponent.
+* Only one of Chun-Li’s standard heavy attacks has the usual Wild Punish effect and stagger, that being her 5D; however, several command normals also have the Wild Punish effect: 3C, 4C, 6C, 3D, and 6D. The rest of her normals apply standard Counter Hit effects on WP. 
+* EX moves can be cancelled into supers on hit.
+* Neutral jumps and directional jumps result in different jump attacks for Chun-Li.
+* Chun-Li CANNOT cancel her dash into any actions; in exchange, her forward dash is much faster than other characters.
+* Additionally, Chun-Li has a large amount of command normals, and some of her regular normals are very unusual in this game, like a cancellable low poke in 2D.
+
+==Normals==
+===Standing Normals===
+====Stand A====
+{{FrameDataCargo-COTW
+|moveId=chun-li_fa
+|description=* Chains into all of her lights, including itself (best chain option is usually 5B)
+* Leads into her Combination Attack, but at a certain range, the Combination Attack will whiff
+* Good hitbox for checking hops
+Chun has no 4-frame normal, so you will have to settle for this when mashing. That said, it’s a really good button to mash, chaining into itself with little pushback. Chain this into 5B when possible.
+}}
+
+====Stand B====
+{{FrameDataCargo-COTW
+|moveId=chun-li_fb
+|description=* Quite plus on hit and block, especially compared to her other lights
+* You can link this to 2C at most ranges (except when chaining 2+ lights into this)
+* The range is deceptively long
+This goofy-looking normal, taken straight from 3rd Strike, is a core part of her offense in this game. It’s very plus on hit and block, has surprising range, and even links to her heavies with the right combo routes. Chun gets a lot of mileage out of this move with its linking and cancel options, especially since you can chain into it.
+}}
+
+====Stand C====
+{{FrameDataCargo-COTW
+|moveId=chun-li_fc
+|description=* Extremely good on hit and block; links to 2C, 6A, etc. 
+* The range isn’t great, so some links into it will whiff depending on your route
+All-around fantastic button up close. It’s fast, leads to GREAT damage, and is plus with not a whole lot of pushback — making it great for combos and pressure. Its only downside is its range, which is solved by Chun’s other normals.
+}}
+
+====Stand D====
+{{FrameDataCargo-COTW
+|moveId=chun-li_fd
+|description=* Wild Punish +22
+* Has a tiny bit of forward movement on startup
+* Whiffs on crouching opponents
+Chun’s dedicated Wild Punish button. Its startup isn’t great, but the quick recovery (for a heavy normal) makes up for it. Try not to overuse this normal when fishing for whiff punishes, though, as opponents can duck it and punish. 
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=chun-li_cra
+|description=* Chains into all of her lights, including itself
+A standard 2A. It has a slightly shorter range and lower damage than 5A, but you can use it to build charge for SBK, her optimal light combo ender. 
+
+Keep in mind that 3A is her overhead input. You do not want to be inputting the 21-frame overhead accidentally during close-range abare or frame traps.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=chun-li_crb
+|description=* A quick low starter that is as fast as Chun’s other lights
+* Can chain into any light normal, but if you chain it into itself, your only combo afterward is a super
+* Unlike the modern SF games, does not cancel to special moves
+Having the same startup as her A buttons, this normal is just as good to mash or pressure with, since it hits low. You can chain it into itself for repeated lows to stop the opponent from walking away from your offense, but since it’s minus on hit and block, opponents might mash on you after seeing it. 
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=chun-li_crc
+|description=
+* Can link from 5C but has the very annoying tendency to miss if 5C doesn't hit from point blank. In most cases it is safer to cancel straight from 5C since both moves combo into the same special moves.
+* Can also link from 5B with the same pitfalls
+Occasional linking woes aside, Chun’s 2C is an incredible normal. On top of going into all of her special moves on hit, it’s also fast for a non-proximity heavy, has good range, and easily frame traps from other light normals. The downside is that it’s always minus on block, and she has no good cancels to push pressure without spending a ton of REV, but at the very least, it’s safe. 
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=chun-li_crd
+|description=* A long-ranged low starter
+* The only special cancels that combo from long range are her fireballs and 623BD, meaning you will have to commit to your cancels from it
+In-engine, low starters like this are quite powerful, stopping your opponent from simply walking away from your offense and forcing specific block directions for Just Defense. Because of this, Chun’s 2D is one of her best moves on offense and in footsies. 
+
+The issues with 2D, however, are the relatively weak cancels from it, no semblance of a single-hit confirm, and being horrible on block on its own. Thus you’ll be forced to commit to specific special cancels, and you’ll need to spend more REV to get good damage from it. 
+}}
+
+===Jump Normals===
+====Neutral jump A====
+{{FrameDataCargo-COTW
+|moveId=chun-li_8ja
+|description=* A two-hit attack. The hits combo into each other on Counter Hit.
+Fast and decently ranged, this is an interesting air normal that is mainly effective at stopping jumps out of the corner. It has trouble hitting grounded opponents, though. 
+}}
+
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=chun-li_ja
+|description=* Cancels to j.236K and REV Blow. On Counter Hit, both cancels will combo properly.
+Solid air-to-air normal. It’s quite fast and gives you cancel options to up your reward in air battles. Cancelling to REV Lightning Kicks on Counter Hit gives you a juggle to Kikosho on the ground. 
+}}
+
+====Neutral jump B====
+{{FrameDataCargo-COTW
+|moveId=chun-li_8jb
+|description=* Chun-Li’s fastest air normal.
+* Lacking in range, but makes up for it with its absurd active frames
+A good panic button in air-to-air exchanges due to it being Chun’s fastest air normal. When used on offense, you can use its active frames to your advantage, but not great if you’re going for damage. 
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=chun-li_jb
+|description=
+* Both long-ranged and can cross up.
+The preferred cross-up jump in. It’s got some decent range, too, making it the swiss army knife of Chun’s air attacks. 
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=chun-li_jc
+|description=
+Chun-Li does a straight punch in the air.
+* Unlike almost any other air normal in the game, this does not cause a regular flip out or a knockdown. Instead, the opponent is knocked horizontally backwards and falls much more quickly than with standard air normals.
+* The opponent is also left in a juggle state until they reach the ground, after which they will return to a grounded standing state (despite appearing to be in an air reset animation). 
+A weird air normal that you can combo out of even on normal hit, despite appearances. This is to ensure the target combo follow-up works properly, but you can also pick up juggles on the ground from it, such as her supers.
+}}
+
+====Neutral jump D====
+{{FrameDataCargo-COTW
+|moveId=chun-li_8jd
+|description=* Can cross up.
+This air normal has a big hitbox on both sides of Chun-Li. It’s best used after a knockdown in the corner, where you can pressure every wakeup roll option simultaneously with it. 
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=chun-li_jd
+|description=Chun-Li’s preferred jump-in normal. When done low enough to the ground, you can easily confirm 4HP into your strongest combos.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=chun-li_5a_5c,chun-li_5a_5c_5c,chun-li_5a_5c_5d,chun-li_5a_5c_6d,chun-li_5a_5c_2d
+|input=5A > 5C > C > D/6D/2D
+|input2=st.A > st.C > C > D/f+D/cr.D
+|captions=<br>5AC,<br>5ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during 5AC or 5ACC.
+*5AC, 5ACC, 5ACCD are REV Blow cancellable.
+Auto combo that can only be used by starting with 5A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+5AC : First hit of the auto-combo, can only be canceled into a follow-up or an ender.
+----
+5AC > C : Follow-up that can be canceled into any ender or REV Blow. A simple way to deal more damage, increase the REV, or reduce the opponent’s guard bar(Overheat).
+----
+D ender : Just a mid ender, soft knockdown on hit and unsafe on block but it's REV Blow cancellable.
+----
+6D ender : Overhead ender, +2F on hit and block.
+----
+2D ender : Low ender and same move than his 3D, so it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=chun-li_throw
+|description=Doing a forward dash after this throw sets up an autotimed meaty 6D, giving this throw terrifying okizeme.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=chun-li_4throw
+|description=Better oki than her forward throw on paper, but the distance at which she throws them makes pressuring them on wakeup rather awkward. She can meaty the opponent’s wakeup with a fireball, but certain reversal supers will beat it.
+}}
+
+====Air Throw====
+{{FrameDataCargo-COTW
+|moveId=chun-li_athrow
+|description=Yet another strong air-to-air option, especially since this one can’t be Just Defended. 
+
+In the corner, this sets up a meaty 3A overhead, which gets much stronger links. 
+}}
+
+==Command Moves==
+====Tiger Thrust====
+{{FrameDataCargo-COTW
+|moveId=chun-li_6a
+|description=Chun-Li punches with both hands.
+* Links from stand C and works from most ranges where stand C hits. Compared to 2C, it has more range, but is a frame slower and does slightly less damage.
+* On hit, combos to all the REV moves that 2C combos into. 
+}}
+
+====Water Lotus Fist====
+{{FrameDataCargo-COTW
+|moveId=chun-li_3a
+|description=Chun-Li leans into an overhead strike.
+* Links into 5A or 2A on hit, with 5A doing 4 more damage.
+* Can be made up to +7 on hit if hit meaty, allowing stronger links.
+}}
+
+====Hakkei====
+{{FrameDataCargo-COTW
+|moveId=chun-li_4c
+|description=
+Chun-Li’s infamous double palm.
+* One of only two normals which can combo into 236D, which is key to dealing high meterless damage, especially in the corner.
+* If she doesn't have enough time for a jump D, this will be her optimal DP punish starter when cancelled into a forward/down feint.
+* Interestingly, causes a knockdown on a Wild Punish, which may be a reference to this move crush countering in SFV. This is generally suboptimal and Chun-Li is better served doing 6C or 6D to start a Wild Punish.
+}}
+
+====Jaw Strike====
+{{FrameDataCargo-COTW
+|moveId=chun-li_6c
+|description=Chun-Li’s infamous, super-far-reaching Heavy Punch from SFV/SF6.
+* Chun-Li’s longest ranged normal.
+*+22 on Wild Punish, leaving enough time for Chun-Li to dash in for a combo at most ranges.
+}}
+
+====Peacock Palm====
+{{FrameDataCargo-COTW
+|moveId=chun-li_3c
+|description=Chun-Li swipes upward twice from a crouching position.
+* One of only two normals which can combo into 236D, which is key to dealing high meterless damage, especially in the corner.
+* The startup of this move is too slow to combo from any regular jump in without a Counter Hit or Wild Punish.
+}}
+
+====Crane Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_6b
+|description=Chun-Li does a quick thrust kick.
+* Absurdly long range for its speed, at just 7f startup.
+* Poke with fairly low commitment. Can be used to confirm into Supers in ranges where 2C doesn't reach after 5B.
+}}
+
+====Falling Crane====
+{{FrameDataCargo-COTW
+|moveId=chun-li_3b
+|description=Chun-Li jumps over the opponent and turns around to land on the other side with a kick.
+* A cross-up only move.
+* Cannot hit opponents in the corner.
+* Unlike Street Fighter, you cannot combo after this move without Counter Hit or Wild Punish.
+* Airborne for most of its duration, but not immediately, so meaty throws still beat it.
+}}
+
+====Yokusen Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_6d
+|description=
+Chun-Li does a leaping crescent kick of sorts.
+* A low crush that dodges lows much more quickly than her low evade. It also has the added benefit of being a valid Wild Punish heavy which doesn't scale like evasion moves, leading to very high damage.
+* First 2 active frames whiff on crounching characters. Advantage on hit or block will therefore vary by 2 Frames is the opponent is crouching.}}
+
+====Gen Assassin Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_3d
+|description=Chun-Li goes for the ankles with a thrust kick.
+* This is Chun-Li’s sweep. 
+* For a sweep, it’s got good range. Although it’s definitely punishable, it can be spaced to avoid some characters’ meterless punishes.
+* On Wild Punish, causes an OTG state that allows for a second 3D or any version of Hazanshu.
+}}
+
+====Yoso Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_j2b,chun-li_j2b_j2b,chun-li_j2b_j2b_j2b
+|description3=
+Chun-Li stomps on the opponent while in the air.
+* Can be cancelled into any other air move (including normals) on any of the 3 hits.
+* The 3rd stomp hitting a grounded opponent spikes them into the floor for a soft knockdown.
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=chun-li_jc_jc
+|description=* Works from her air stomps, but causes an air reset state and cannot be comboed after.
+}}
+
+==REV Blows==
+====Hosen Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_cd
+|description=* Damage value factors in SPG bonus.
+Nothing really special about this REV Blow, except for all the ways you can combo into it thanks to Chun-Li’s links. You’ll want to route into this often if you’re in SPG, since Chun’s mixups on wakeup — already some of the best in the game — get even more terrifying when hard knockdowns come into play.
+}}
+
+====Falling Phoenix====
+{{FrameDataCargo-COTW
+|moveId=chun-li_jcd
+|description=Chun-Li briefly floats up before coming back down with an axe kick. 
+* Damage value factors in SPG bonus.
+* Nearly impossible to make any better on block than -1.
+Just an okay air REV Blow on its own, but you can use this after REV SBK or DP for hard knockdown setups to set up Chun’s great mix-up game. 
+}}
+
+==Feint==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=chun-li_5bc
+|description=
+* Feints the startup of Hundred Lightning Kicks. Is much slower but looks very convincing and threatening.
+}}
+
+==Feint==
+====Down / Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=chun-li_2bc
+|description=
+* Feints the startup of Kikoken (fireball). The main feint used for combos.
+}}
+
+
+==Dodge attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=chun-li_2crev
+|description=
+* Beats High/Mid, can be used as an anti-air.
+* Combos into 236D on a grounded hit which can be easily confirmed into if it triggers a slowdown on a grounded opponent.
+* Otherwise, combos into 623D brake on a Counter/Wild Punish anti-air. However, missing this confirm against an empty jump leaves Chun-Li punishable.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=chun-li_crev
+|description=
+* Beats Lows and Throws.
+* Outclassed by 3A as an overhead because it doesn't lead to anything on regular hit.
+* Also outclassed by 6D as a low/throw crush as it gains low/throw invulnerability slower and has lower damage potential.
+}}
+
+==Special Moves==
+====Kikoken====
+{{FrameDataCargo-COTW
+|moveId=chun-li_236a,chun-li_236c,chun-li_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=
+Chun-Li fires a mid-height fireball that travels horizontally across the screen.
+Regular versions are very unsafe on block and should not be used at very close distances.
+* A version is slow and stops just short of full screen.
+* C version is fast and fizzles out even sooner, traveling about 2/3's screen width.
+* AC version is as fast as the C version and doesn't dissipate while traveling.
+}}
+
+====Hundred Lightning Kicks====
+{{FrameDataCargo-COTW
+|moveId=chun-li_236b,chun-li_236d,chun-li_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=
+Chun-Li's signature flurry of kicks.
+* B version combos from any light and is safe on block.
+* D version can only combo from 3C, 4C and high evade. Launches the opponent, which leads to very high damage.
+* BD version the REV combo starter of choice and combos from 5C, 2C or 6A.
+}}
+
+====Aerial Hundred Lightning Kicks====
+{{FrameDataCargo-COTW
+|moveId=chun-li_j236b,chun-li_j236d,chun-li_j236bd
+|input=j.236B/D/BD
+|input2=j.qcf+B/D/BD
+|description3=
+Chun-Li performs her Lightning Kicks while slowly descending to the ground.
+* BD version has Chun-Li recover much more quickly upon landing, which reliably combos into either version of Kikosho (236226A/C) if it hits an airborne opponent.
+}}
+
+====Spinning Bird Kick====
+{{FrameDataCargo-COTW
+|moveId=chun-li_28b,chun-li_28d,chun-li_28bd
+|input=[2]8B/D/BD
+|input2=[d]u+B/D/BD
+|description3=
+* Chun-Li's highest damage special that can combo from lights, but hampered by its charge input.
+* B and BD versions combo from any light while D can only combo from 5B.
+}}
+
+====Hazanshu====
+{{FrameDataCargo-COTW
+|moveId=chun-li_214b,chun-li_214d,chun-li_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=
+Chun-Li does an aerial cartwheel and lands with a leg drop.
+* All versions can be braked with AB, which causes her to land without attacking.
+* Can be used to punish fireballs preemptively.
+* +6 on a Counter Hit or Wild Punish, allowing links into 5B, but pushback makes this unreliable. Has no problems linking into Hidden Gear in the same situation.
+* B version reaches about slightly more than half screen and can hit from round start position.
+* D version goes up a higher arc and reaches about 3/4 of the screen.
+* BD version is mostly identical to the D version but is faster and is an actual overhead.
+* All versions can OTG but both D and BD versions do more damage than a sweep (3D). This is useful after a wild punish 3D to squeeze out slightly more damage.
+}}
+
+====Tensho Kicks====
+{{FrameDataCargo-COTW
+|moveId=chun-li_623b,chun-li_623d,chun-li_623bd
+|input=623 or 22B/D/BD
+|input2=dp or dd+B/D/BD
+|description3=* Placeholder
+}}
+
+==Super Special Moves==
+====Kikosho====
+{{FrameDataCargo-COTW
+|moveId=chun-li_236236a,chun-li_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+Chun-Li fires off a massive, stationary Kikoken.
+* Reversal super that leaves Chun-Li extremely open if jumped.
+}}
+
+====Hoyoku-sen====
+{{FrameDataCargo-COTW
+|moveId=chun-li_236236b,chun-li_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=
+Let's go Justin
+* All versions can be jump cancelled on the last launching kick. Chun-Li always jumps forward no matter which jump direction is inputted.
+* B version is slow and is unable to combo from many juggle routes (regular dp brake, EX SBK into EX Air Kicks, to name a few)
+* D version is slightly faster and can be braked on the upwards launching kick.
+* Often does less damage in longer combos compared to Kikosho but has much greater mixup potential going for air stomps resets.
+* Adds 20% scaling to the combo on hit.
+}}
+
+==Hidden Gear==
+====Seven Star Shining Kicks====
+{{FrameDataCargo-COTW
+|moveId=chun-li_236236rev
+|description=
+* Costs 2 bars and only avaiable during S.P.G., displayed damage is with S.P.G. bonus.
+* Resets the Rev meter to 0%, even during Overheat.
+}}
+
+==Videos, Links & References==
+
+'''CHUN-LI｜Character Breakdown by SNK''' 
+{{#ev:youtube|YgBdv9V_jLw}}
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Chun-Li]]

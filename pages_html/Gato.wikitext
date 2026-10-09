@@ -1,0 +1,604 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW Gato Profile.png|thumb| A man who fights in order to settle the score with his father, Gao. In the previous tournament, Gato was nearly blinded after a vicious attack from him. Although he has for the most part recovered his sense of sight, after realizing the sluggishness in his movements he now willingly chooses to fight in complete darkness. Hearing news of the latest King of Fighters tournament, Gato once again steps into the fray in order to enact his vengeance.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~20f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+----
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+'''REV Blows'''
+'''Special Moves'''
+'''Ignition / Redline Gears'''
+'''Hidden Gear'''
+==Gameplay Overview==
+{{StrengthsAndWeaknesses
+| intro = Gato is a rushdown character who uses his massive toolkit to extend pressure, mix up, and damage an opponent's guard like no other. </br>
+
+Gato's most impressive strength are his arensal of close range buttons. He has great feint pressure options, incredibly fast and long reaching lights, an excellent H DP brake, and multiple safe ways to enforce frametraps. With so many ways to put pressure on the opponent, they're doubtlessly going to try and escape, but Gato has excellent options for punishing careless abare. His frametraps are fairly safe on block and deal excellent damage, while he has numerous ways to bait DPs such as his air flips and his step dash. 
+
+More than any other character, Gato is a true nightmare up close. Not only can he threaten strong throw mixups very easily, but he has a number of good ways to open the opponents up. His 214P backturn stance, new to this series, gives Gato numerous pressure tools. He has a counter, a safe frame trap combo starter, and a command grab, all of which can be supplemented by cancelling out of the stance to remain safe. Once he's found the hit, Gato can push damage very high very quickly, with minimal use of Rev to start his more damaging combos. His okizeme is also frightening, with numerous ways to layer meaties, including a 19f overhead that leads into full combos.
+
+Of course, this insane up close strength comes at a steep cost. Gato struggles to close the gap against zoners in ''COTW'', of which many are quite strong. He lacks a fireball, and while he has options to counter them, he will have to play patient if he wants to overcome them. As well, Gato needs to close the gap, as his long range offense is severely limited. Gato plays along the razor's edge, looking for the right opening to strike, and this can require a lot of patience. Still, if you want to play a rushdown character with a unique kit and an unconventional approach to neutral, Gato will reward you will extreme martial prowess.
+
+| pros=
+* '''Overwhelming Offense''': Gato's dash and strong pressure options give him ferocious offensive potential. His c.C feint is +2 on block, and canceling it into Soaring Fang grants safe, high damage frametraps that deal high guard damage. He is also among the few chars with a safe, meterless frametrap after a far heavy normal with D Wind Fang - which can be followed up with safe frametraps on its own and is only -2 when braked. Most of his frametraps have very high reward, as well, making sure your opponent is punished heavily for their mistakes. 
+* '''In Your Head''': Gato excels at baiting opponent responses, with numerous tools to do so. His air flip has a turnaround that shifts his hurtbox, allowing you to jump over wakeup reversals while maintaining offense. His 214P backturn stance has options for frametraps, command grabs, and DP baits, and his incredible 6A is a '''19f overhead that leads to combos'''.
+* '''Fantastic Defense''': Gato's lights (particularly f.A) have great range and hitconfirmability. Moreover, Gato's high dodge attack, DP, and DP brake cover a wide array of air approaches. Each of these grant Gato conversions with corner carry, damage, and even side swaps being on the table. His light DP is the star of the show, with mutlihits making it hard to JD, and giving him better frame advantage than other characters.
+* '''Close Range Demon''': Gato's buttons, speed, and Wind Fang make him quite the annoyance to deal with in close range. His 6B is an insane button for poking wars thanks to its high reward on counterhit, fast startup, and low recovery. His upper body dodge attack is only matched by Tizoc's in terms of its ability to blow through pokes, his massive range lights are great for forcing opponents to play a more patient game, he has a feint that mimics his 5D, and Wind Fang is a great tool for harassing more defensive players into doing something aggressive.
+| cons=
+* '''Weak Far Heavies''': Gato's far heavy normals are quite lackluster, with limited range, coverage, and a whole load of recovery. This means he has to use them precisely, or risk being punished massively. This is Gato's largest weakness and it is one you will feel '''constantly''' while playing the character.
+* '''Step Dash''': While Gato's step dash makes pressure more simple (as it's easier to avoid accidental command normal usage), it creates problems in his neutral. Though wavedashing allows him to close in quickly, you cannot wavedash into a normal without delaying the normal first. With Gato, this is worse than other step dash characters, as he has no specials he would ever want to wavedash into on a qcf (or worse, DP) motion.
+* '''Weak Afar''': With most characters in this game having projectiles or some special way to circumvent them, Gato having neither leaves him needing to play incredibly patient - and to make good reads - to get in on characters that have long range harassment tools. His longer range buttons lead to worse reward than the rest of the cast, encouraging him to close the gap at any cost. 
+* '''Death on Drop''': Gato's more optimal combo enders '''will''' get you punished for extreme damage if you drop them, and require more execution than other characters to land them as well.
+}}
+
+==Normals==
+
+===Close Normals===
+
+====close A====
+{{FrameDataCargo-COTW
+|name=Close A
+|moveId=gato_cl.A
+|input=cl.A
+|description=* Obligatory 4f proximity normal
+* Always in range for a cancel into 623K
+* Chains into other lights or Combination Attack
+* Not recommended as a defensive mash option as the activation range is very short, often resulting in getting f.A instead, which is 2 frames slower
+}}
+
+====close B====
+{{FrameDataCargo-COTW
+|name=Close B
+|moveId=gato_cl.B
+|input=cl.B
+|description=* Fast and plus, very good for pressure
+* Goes into his Command Combo 1
+* Can occasionally link into cl.C on normal hit, most consistently after a cross-up j.B
+* Can link into 2C on reaction to a counter hit
+}}
+
+====close C====
+{{FrameDataCargo-COTW
+|name=Close C
+|moveId=gato_cl.C
+|input=cl.C
+|description=* Relatively short activation range for a cl.C, though it makes up for it in sheer speed
+* Incredible normal for applying pressure
+}}
+
+====close D====
+{{FrameDataCargo-COTW
+|name=Close D
+|moveId=gato_cl.D
+|input=cl.D
+|description=* Somewhat redundant button that functions as a low reward option for calling out a defensive jump/hop as it hits high above Gato's head - a relic from a more degenerate past
+* Links into 2A or light DP on normal hit and microdash cl.C on counter hit
+* As of the start of season 2, can convert into 2A, 214B>B
+}}
+
+===Far Standing Normals===
+
+====far A====
+{{FrameDataCargo-COTW
+|name=Far A
+|moveId=gato_f.A
+|input=f.A
+|description=* Longest special cancellable light for confirming into small combos
+* Prone to whiffing when used in extended light chains, particularly from a 2B
+}}
+
+====far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=gato_f.B
+|input=f.B
+|description=* Fantastic range for pestering and fishing for stray hits
+* Always in range to cancel into 236236A/C and Hidden Gear, possibly even one-hit confirmable if you're a genetic freak
+}}
+
+====far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=gato_f.C
+|input=f.C
+|description=
+* Moves Gato forward slightly
+* This move has a decent amount of recovery on whiff so use with caution
+* One-hit confirmable into 236P
+}}
+
+====far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=gato_f.D
+|input=f.D
+|description=* Moves Gato forward slightly
+* Very reliable whiff punish tool due to it's range and speed, with amazing reward on Wild Punish
+}}
+
+===Crouch Normals===
+
+====Crouch A====
+{{FrameDataCargo-COTW
+|name=Crouch A
+|moveId=gato_2A
+|input=2A
+|description=* Gato's non-proximity 5f jab for mashing out of sticky situations
+* Can reliably chain into f.B for a super confirm or less reliably into f.A for a small combo with 236A ~ 6P
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|name=Crouch B
+|moveId=gato_2B
+|input=2B
+|description=* Main low for mix-ups and catching retreating opponents
+* Chains into f.B even at tip range
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|name=Crouch C
+|moveId=gato_2C
+|input=2C
+|description=* A shorter version of f.C that is 1f faster
+* Due to the priority system, 2C will beat an opponent's A and B normals outright rather than trade should they hit on the same frame
+* As such, [cl.C > Feint, 2C] will frametrap 5f light buttons, but wont cause a counter hit
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|name=Crouch D
+|moveId=gato_2D
+|input=2D
+|description=* Gato's furthest reaching normal, despite the somewhat deceptive animation, and a fairly long sweep in general
+}}
+
+===Jump Normals===
+
+====Jump A====
+{{FrameDataCargo-COTW
+|name=Jumping A
+|moveId=gato_j.A
+|input=j.A
+|description=* Quick air-to-air jab
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|name=Jump B
+|moveId=gato_j.B
+|input=j.B
+|description=* Go to cross-up normal outside of Aerial Turn
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|name=Jump C
+|moveId=gato_j.C
+|input=j.C
+|description=* Long and advantageous air button that also incurs a non-trivial amount of REV gauge build-up on block, making it suitable for hop pressure
+* +5 on block when done in the apex of a hop on a standing opponent
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|name=Jump D
+|moveId=gato_j.D
+|input=j.D
+|description=* Can be used with Aerial Turn as a crossup alternative
+}}
+
+===Combination Attacks===
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=gato_cla_5c,gato_cla_5c_5c,gato_cla_5c_5d,gato_cla_5c_5c_5d,gato_cla_5c_6d,gato_cla_5c_5c_6d,gato_cla_5c_2d,gato_cla_5c_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description8=*Every ender can be done during cl.AC or cl.ACC.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Starter of the combination attack, deals some damage.
+----
+cl.AC > C : Follow-up that adds damage and gives time to choose the ender.
+----
+D ender :  Very unsafe on block but causes a soft knockdown on hit.
+----
+6D ender : Overhead ender, same move as his Low Dodge Attack(5C+REV) but it's +2F on hit and block.
+----
+2D ender : Low ender, same as his 2D, it's very unsafe on block.
+}}
+
+===Command Moves===
+
+====Chinbreaker====
+{{FrameDataCargo-COTW
+|name=Chinbreaker
+|moveId=gato_6A
+|input=6A
+|description=
+* Hits overhead
+* Links into 2A at really close range
+* Can hit meaty to be upwards of +7 on hit, however, Gato will always be pushed out of the activation range of cl.C, so the reward remains more or less the same, only can convert into 623D/BD brake for more damage
+* Startup animation is practically indistinguishable from Quaking Fang (236P) and Forward Feint (6D+REV)
+* 50/50 setup after B super in the corner, full jump into either forward feint (6D+REV) into 2B or 6A}}
+
+====Tranquil Kick====
+{{FrameDataCargo-COTW
+|name=Tranquil Kick
+|moveId=gato_6B
+|input=6B
+|description=
+* Gato does a long reaching leaping kick capable of avoiding low pokes and grounded projectiles
+* Has a very high hitbox, letting you hit people out of jumps and hops quite consistently
+* With proper spacing it can be made plus on block
+* Can link into 2A on normal hit and cl.B(or even cl.C) on counter hit/Wild Punish depending on spacing 
+Gato's "God button". Absolutely paramount when playing in the midrange, as pretty much no character has an easy answer to it.
+}}
+
+====Aerial Turn====
+{{FrameDataCargo-COTW
+|name=Aerial Turn
+|moveId=gato_j.REV
+|input=j.REV
+|description=* Gato faces the other side while airborne, mainly used for cross-ups
+* Jumping over with this properly lets you bait most reversals while maintaining offense by landing with j.D
+}}
+
+===Command Combos===
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Command Combo 1
+|moveId=gato_CC1_D,gato_CC1_C,gato_CC1
+|captions=<br>cl.B>D,<br>cl.B>D>C,<br>cl.B>D>C>CD
+|input=cl.B > D > C > CD
+|display= 140x140px
+|description3= * The final hit can only be done with S.P.G active.
+* Second hit is -2 on block and can easily be hit-confirmed into the rest of the target combo
+* Surprisingly solid and economical combo from a light starter, especially when ending it with CD
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Command Combo 2
+|moveId=gato_CC2
+|input=j.B > j.A
+|description=* Extended jump-in string for punishing fireballs
+* Can not be performed from a hop
+* Can ''not'' be used in double overhead/fuzzy guardbreak set-ups as the j.A hits mid
+}}
+
+==Universal Options==
+
+===Throw===
+
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=gato_AB
+|input=AB
+|description=
+* Hold A/C to enter Lull stance or AC to enter Rev Art Lull stance
+** Instead of holding buttons, you can also cancel into Lull by timing your button press to be during Forward Throw's recovery.
+* Entering Lull stance and immediately cancelling it into a forward dash leaves Gato point blank and +8
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=gato_4AB
+|input=4AB
+|description=* Can't transition into Lull like forward throw
+* Much weaker knockdown in general despite having more frames to work with, especially mid-screen
+}}
+
+===Rev Blow===
+====Mouko Kou Hazan====
+{{FrameDataCargo-COTW
+|name=Mouko Kou Hazan
+|moveId=gato_CD
+|input=CD
+|description=* Hyper armor starts from frame 2 and lasts until recovery
+* Hyper armor will absorb any strike except supers and High Dodge Attacks
+Moves forward and bulldozes through an opponent attempting to fight back, giving Gato corner carry and a nice knockdown on hit, while being ''very'' safe on block with huge pushback. Best used in unpredictable moderation.
+}}
+
+====Ryuujin Kyaku====
+{{FrameDataCargo-COTW
+|name=Ryuujin Kyayu
+|moveId=gato_j.CD
+|input=j.CD
+|description=* Completely alters Gato's jump arc, briefly lifting him up in the air before he plummets down heel first
+* Has quite a bit of forward momentum, potentially flying over the opponent and landing on the other side of them when performed up close - whiffing completely
+Very slow aerial REV Blow, though somewhat mitigated by just how dramatically it shifts Gato's position, letting him bait anti-airs even when he seems too low to the ground to do so.
+}}
+
+===Dodge Attacks===
+
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|name=High Dodge Attack
+|moveId=gato_2C+REV
+|input=2C+REV
+|description=
+* Beats Highs and Rev Blows
+* Special cancellable on hit only
+* Exceptionally good High Dodge Attack with a solid hitbox and lengthy upper body invuln
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|name=Low Dodge Attack
+|moveId=gato_5C+REV
+|input=5C+REV
+|description=
+* Beats Lows and Throws
+* Hits Mid unlike most other Low Dodge Attacks
+* Becomes overhead when done as the 6D ender in Gato's Combination Attack while retaining its fast 17f startup
+}}
+
+===Feints===
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|name=Neutral Feint
+|moveId=gato_5D+REV
+|input=5D+REV
+|description=* Mimics the startup of his cl.5C
+* cl.5A > 5D+REV mimics the startup of the Combination Attack cl.5A > C
+* Can be used interchangeably with 6D+REV when feint cancelling in combos
+Obviously not very useful as a way to bait a response as it doesn't really resemble anything that an opponent might be looking out for.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|name=Down Feint
+|moveId=gato_2D+REV
+|input=2D+REV
+|description=* Mimics the startup of f.5D
+* Also resembles the startup of cl.5D, and the startup of Wind Fang (Anything that raises his leg)	
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|name=Forward Feint
+|moveId=gato_6D+REV
+|input=6D+REV
+|description=* Mimics the startup of Quaking Fang
+* Also resembles the startup of 6A, and to a lesser extent the startup of f.5C (Anything that thrusts his arm forward)
+* Can be used interchangeably with 5D+REV when feint cancelling in combos
+Great feint for duping the opponent as it recovers fast and resembles a bunch of Gato's key moves, most crucially, his standing overhead 6A, which lets him exploit his opponents good hand-to-eye coordination by going low once Forward Feint finishes.
+}}
+
+==Specials==
+====Quaking Fang====
+{{FrameDataCargo-COTW
+|name=Quaking Fang
+|moveId=gato_236A,gato_236C,gato_236AC
+|input=236A/C
+|description3=* Less safe and less good than it usually is in other games. 
+* A version frametraps from lights, C version from lights and heavies (except for cl.5C).
+* A version is still an excellent tool as it is safe from buttons at max spacing (easy to get in pressure with lights) and easily converts from lights in neutral. 
+* A and REV Art version both travel the same distance.
+* C version covers farther distance, but due to its lack of safety, sees use mostly as a combo tool.
+}}
+
+====Piercing Fang====
+{{FrameDataCargo-COTW
+|name=Piercing Fang
+|moveId=gato_236P_6P,gato_236AC_6P
+|input=6A/C after Quaking Fang
+|description2=* Can be delayed after Quaking Fang to frametrap 
+* REV Art version can also be delayed; this does not frametrap, but does delay HD timing 
+* Can be canceled into Lull by holding A or C. Holding AC cancels into EX Lull; but REV Art version must use REV Accel to cancel into EX Lull. 
+** Instead of holding buttons, you can also cancel into Lull by timing your button press to be during Piercing Fang's recovery. 
+* REV Art version does not knockdown
+Always cancel this into Lull on hit, then dash cancel Lull to maintain oki.
+}}
+
+===Lull===
+{{FrameDataCargo-COTW
+|name=Lull
+|moveId=gato_214P
+|input=214A/C or Hold A/C after Piercing Fang or Hold A/C after Forward Throw
+|description=* Gato turns his back to the opponent, becoming unable to block but gaining access to a new set of moves
+* Stance with 5 follow-ups:
+:*A stance cancel (A)
+:*A counter that catches highs, mids and lows, and nullifies projectiles (B)
+:*A series of 3 strikes (C)
+:*A command grab (D)
+:*A dash cancel (66)
+* At 12f is the earliest you can go into these follow-ups.
+* Stance cancel (A) and dash cancel (66) exit the Lull stance; after all the other follow-ups, you go back to the Lull stance. 
+* The dash cancel is distinct from a regular forward dash as it is completely inactionable throughout its duration
+* Gato can move around while his back is turned to reposition himself, but only laterally
+}}
+
+===Return===
+{{FrameDataCargo-COTW
+|name=Return
+|moveId=gato_214P_A
+|input= A after Lull
+|description= Exits Lull stance.
+}}
+
+===Black Fang===
+{{FrameDataCargo-COTW
+|name=Black Fang
+|moveId=gato_214P_B, gato_214AC_B
+|input= B after Lull
+|description2=* Counter that uniquely catches all strikes regardless of how they're normally guarded
+* As of the Season 2 beginning patch, normal version nullifies projectiles, REV version reflects them
+* Extremely high reward when catching REV Blows as it causes an unscaled counter hit launch
+* Lengthy recovery where Gato can be thrown or Wild Punished should he fail to catch something
+* Can quick cancel into Black Fang again or into White Fang anytime during this lengthy recovery 
+Mostly sees use to make people scared to punish if they didn't mash on Quaking Fang's followup as, if it's spaced properly, you can cancel into Lull and then use this to counter their punish.
+}}
+
+===Soaring Fang===
+{{FrameDataCargo-COTW
+|name=Soaring Fang
+|moveId=gato_214P_C, gato_214AC_C
+|input= C after Lull
+|description2=* Multihit multitool (3 hits).
+* Your best DP punish, and a very high damage DP punish starter in general.
+* Can quick cancel and exit Lull stance immediately after the 3rd hit by pressing A. (Can press as early as the startup of the 2nd hit and as late as during the 3rd hit.)
+* Can quick cancel into Black Fang or into White Fang anytime during recovery 
+* Both EX and normal version are used in all of his best juggles for optimal damage and meter efficiency.
+Frametraps off cl.5C and leaves you very safe. -2 on cancel, 0 without cancel. Comboing into this from cl.5C or 2C will net you a link into 5A to supers or Quaking Fang unless you are very far.
+}}
+
+===White Fang===
+{{FrameDataCargo-COTW
+|name=White Fang
+|moveId=gato_214P_D, gato_214AC_D
+|input= D after Lull
+|description2=
+* Command grab
+* Gato can set up tick throws by cancelling his lights into White Fang
+EX version combos into rev accel Wind Fang into whatever you want.
+}}
+
+===Lightning Fang===
+{{FrameDataCargo-COTW
+|name=Lightning Fang
+|moveId=gato_623B,gato_623D,gato_623BD
+|input= 623B/D
+|description3= Gato's anti air special and combo tool
+* B version has invul frames
+* D version and REV are now the same speed as of the season 2 opening patch
+* D and Rev version can be braked on the first hit
+* Optimal way to go into 1EX combos.
+* Has less forward movement than other DP brakes, making it worse for conversions but better for anti airs. 
+This move can be linked into off counterhit D Wind Fang brake, and also combos from a very close range 2/clA. Get to know the ranges where you can combo into this vs having to spend EX off heavies. 
+}}
+
+===Wind Fang===
+{{FrameDataCargo-COTW
+|name=Wind Fang
+|moveId=gato_214B,gato_214D,gato_214BD
+|input= 214B/D
+|description3= Gato's infamous demon flip, an essential part of what makes him so overwhelming.
+* B version is a great cancel option from an anti-air high dodge, allowing you to react to a counter hit with Whirling Fang (214K > B) or remain safe/plus with Vortex Fang (214K > A) in case of a flipout.
+* D version can be braked at -2. Very useful in frametraps.
+}}
+
+===Vortex Fang===
+{{FrameDataCargo-COTW
+|name=Vortex Fang
+|moveId=gato_214B_A, gato_214D_A, gato_214BD_A
+|input= A after Wind Fang
+|description3= This is a weird poke, mostly useful in mid range to harass people into jumping in on you, which you excel at calling out. It can also be used on a read to punish fireballs, but you won't get much reward from that.
+* Psuedo projectile that hits the ground diagonally across from Gato.
+* Hits the area right in front of Gato when done from 214B and 214BD
+* Hits around two character's lengths away from Gato when done from 214D
+* The 214BD > A version can be cancelled into air REV Blow, creating a gapless blockstring that takes off 60% of the opponents guard gauge when they're overheated 
+}}
+
+===Whirling Fang===
+{{FrameDataCargo-COTW
+|name=Whirling Fang
+|moveId=gato_214K_B, gato_214BD_B
+|input= B after Wind Fang
+|description2=* Normal version is a combo tool for certain juggles, specifically when the juggle limit of 214P ~ C has been reached
+* The 214BD ~ B version grants a very high juggle that lets Gato follow-up with basically anything he wants, often completely refunding the REV spent on 214BD if no other EX move is used
+* The 214BD ~ B version can not hit grounded opponents, though this rarely matters as 214BD launches them up for a juggle anyway
+}}
+
+===Arrow Fang===
+{{FrameDataCargo-COTW
+|name=Arrow Fang
+|moveId=gato_214K_C, gato_214BD_C
+|input= C after Wind Fang
+|description2=* A divekick that's quite easy to make safe with large pushback.
+* Mostly good for landing quickly after using wind fang or for frametrapping off a blocked wind fang. Wind Fang's angle makes this not really great for getting in.
+* Can substitute Whirling Fang (214K ~ B) when in the corner to squeeze a little more damage out of a combo
+The EX version is +3 when done immediately, letting Gato threaten with another pressure extender after 214BD, which itself is +1 when braked. Do note that, if the opponent REV guards 214BD, immediate Arrow Fang will often whiff and leave Gato Wild Punishable.  
+}}
+
+===Sliding Fang===
+{{FrameDataCargo-COTW
+|name=Sliding Fang
+|moveId=gato_214K_D, gato_214BD_D
+|input= D after Wind Fang
+|description2=* A lot weaker than it usually is.
+* Not a mixup as he doesn't have an overhead from demon flip anymore.
+* Quite easy to make it hit very meaty after a hard knockdown, letting Gato be +3 and point blank to threaten with cl.B, which will combo if the opponent doesn't block Sliding Fang
+Most use out of this is to go over fireballs and catch someone walking backward - which is a very hard use case to justify as it needs to be timed far better than a jump-in to get an actual conversion off the normal version. The EX version sees use during specific combos and can work a little better as a way to get in due to Rev Accel, but don't rely on it.
+}}
+
+==Supers==
+
+===Ignition Gears===
+
+====Freeze Fang====
+{{FrameDataCargo-COTW
+|name=Freeze Fang
+|moveId=gato_236236A
+|input=236236A
+|description=* Provides a poor knockdown as it leaves Gato very far from the opponent, even in the corner
+* Generally outclassed by Dragon Fang(236236B) in most situations, however Freeze Fang is much easier to combo into, giving it a niche as a round closing option following a 2B or a 6A
+}}
+
+====Dragon Fang====
+{{FrameDataCargo-COTW
+|name=Dragon Fang
+|moveId=gato_236236B
+|input=236236B
+|description=* Has a sweet spot close to Gato, signaled by the slightly more dramatic hitstop on the first hit and a zoom-in on the last hit
+* Failing to hit the sweet spot causes the last hit to whiff, resulting in less knockdown advantage and significantly worse damage
+* Gato's preferred way to spend one bar as it gives him a better knockdown than 236236A while also dealing more damage  
+}}
+
+===Redline Gears===
+====Freeze Fang====
+{{FrameDataCargo-COTW
+|name=Freeze Fang
+|moveId=gato_236236C
+|input=236236C
+|description= Gato stuns the opponent with a palm strike before he leaps onto them, twists their neck with his thighs and transitions into a vengeful spinning frankensteiner. 
+* Identical range to the A version
+* Provides an even worse knockdown than the A version
+* Looks very cool
+* Can be braked on the first hit
+}}
+
+====Dragon Fang====
+{{FrameDataCargo-COTW
+|name=Dragon Fang
+|moveId=gato_236236D
+|input=236236D
+|description= Drills the opponent into the heavens with a flying vertical kick, charged with the ferocity of a coiled dragon.
+* One frame faster than the B version, allowing it to be used in even lower juggles
+}}
+
+===Hidden Gear===
+====Shin: Tenryuu Retsuga====
+{{FrameDataCargo-COTW
+|name=Shin: Tenryuu Retsuga
+|moveId=gato_236236REV
+|input=236236REV
+|description= Gato lunges out with the back of his hand. If it hits, he will discombobulate the opponent with a series of blows before he turns them around and blasts their chest with a two-handed palm thrust, bursting their heart and lung meridian with a deadly dose of chi.
+* Does 75 damage in chip unless JD'd or REV guarded
+* Generally what Gato wants to spend 2 bars on if the opportunity presents itself and he wants to cash out, as he has no double level 1 combo routes
+}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Gato]]

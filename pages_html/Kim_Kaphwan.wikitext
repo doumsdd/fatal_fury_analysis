@@ -1,0 +1,603 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Kim_Profile.png|thumb|Father of Dong Hwan and Jae Hoon, Kim Kaphwan has devoted his life to the relentless pursuit of strength.<br>
+Through ceaseless training, his taekwondo has reached a level of perfection that inspires not only his sons, but martial artists around the world. Though renowned as a master, he is never satisfied, forever seeking greater mastery. With an iron will and righteous technique, his kicks strike down evil without hesitation.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15-21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Naeryo Chagi - [[image:fd.gif]] + [[image:b.gif]]
+
+Command Combo 1 - Far [[image:d.gif]] > [[image:fd.gif]] + [[image:d.gif]]
+
+Command Combo 2 - Close [[image:b.gif]] > [[image:d.gif]] > [[image:fd.gif]] + [[image:d.gif]]
+
+Command Combo 3 - [[image:b.gif]] > [[image:a.gif]] (Midair Only) 
+
+
+'''REV Blows'''
+
+Sting Dwi Dora Chagi - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Chisaijin - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Hangetsu Zan - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] 
+
+Hien Zan - [[image:dn.gif]] ~ [[image:up.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' Tensen Geki (Heavy/REV Follow-Up) - [[image:fd.gif]] + [[image:d.gif]]
+
+Hishou Kyaku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only) 
+
+Kuusen Kyaku - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only)
+
+Haki Kyaku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] 
+:'''┗''' Shokyaku Hou (Heavy/REV Follow-Up) - [[image:fd.gif]] + [[image:a.gif]] 
+:'''┗''' Hyousei Raku (Heavy/REV Follow-Up) - [[image:fd.gif]] + [[image:b.gif]]
+:'''┗''' Kuusajin (Heavy/REV Follow-Up) - [[image:fd.gif]] + [[image:c.gif]] (*) 
+:'''┗''' Haki Kyaku (Heavy/REV Follow-Up) - [[image:fd.gif]] + [[image:d.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Houou Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Houou Kuusen Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only) 
+
+
+'''Hidden Gear'''
+
+Mugen Houou Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+''(NOTE: Although other games have called him “Kim”, CotW refers to this character as “Kaphwan” in-game, to differentiate him from his two sons. That name will be used throughout this overview.)''
+
+After a long absence from ''Fatal Fury'', Kim Kaphwan is finally back! This staple of SNK fighting games is a close-range pressure character whose ability to string together damage and blockstrings is matched by few, if any, in the cast.
+
+While Jae Hoon is about defense and footsies, and Dong Hwan is about acrobatics and mix-ups, Kaphwan is about pressure and punishment. He is absolutely relentless up close, with good normals, strong specials, and the return of his Haki Kyaku stomp. This once-infamous special lets Kaphwan stomp multiple times in a row, locking down the opponent, or go into a stance whose options enable high/low mix, call out mashing, or even cash out into high damage with a Counter Hit. You can use these techniques and the threat of an invincible reversal to intimidate the opponent into clamming up, giving you free reign to hammer away at their guard and REV gauge.
+
+Kaphwan has one other unique quirk: he’s uniquely strong in the air, too! Boasting a cancellable air heavy, a strong divekick special in Hishou Kyaku, a powerful air-to-air move in Kuusen Kyaku, and an air super, Kaphwan can simply rule out jumping as a means of escaping his pressure, or call out certain anti-airs. Add on top of that his flashkick and good normals for hop checking, and the skies are all but off-limits against Kaphwan.
+
+Kaphwan’s main issue lies in struggling to gain or retain momentum without resources. With no long-range normals, neutral skips, or anti-fireball moves of any kind, you may have to commit hard to get in on more passive opponents. He also has a tendency to reset to neutral inconveniently often due to the poor advantage on his soft knockdowns. Once he’s in, though, it’s up to the player to make it count with his suffocating offense, obliterating opponents’ health bars and patience in the name of that sweet justice.
+
+{{StrengthsAndWeaknesses
+| intro = Kim Kaphwan is a high-offense pressure character who metes out endless justice with his solid normals and lengthy attack sequences.
+| pros=
+* '''Relentless Attacker''': Kaphwan’s greatest strength lies in his seemingly endless blockstrings and offense. Good frame data, a divekick, a strong stomp into stance options, and more mean Kaphwan can string together a long-lasting barrage of chip damage and frame traps, using the Haki Kyaku stance for stagger pressure to beat Just Defend. Many of his special moves have easy Counter Hit conversions, as well.
+* '''Aerial Threat''': Access to two dedicated aerial specials, an air super, and a juggling, cancellable j.C make Kaphwan a threatening presence against grounded and airborne opponent alike. He can convert into these from his Flashkick and his REV divekick, giving him impressive anti-air or even air-to-ground damage.
+* '''High Damage''': Between higher-than-average damage on his normals and surprisingly freeform combo structure, Kaphwan can rack up some incredible damage off of any hit. Thanks to flashkick brake, Kaphwan even gets surprising damage from his lights.
+* '''Flashkick''': Having a flashkick instead of a DP allows Kaphwan’s players to use its invincibility more reactively. When braking the Heavy version, Kaphwan can destroy opponents for jumping in on him while he has charge, even if they’re about to cross him up.
+* '''Meter Build''': Thanks to his long pressure sequences, Kaphwan can build more meter on average when it’s his turn than other characters do. This is important as Kaphwan’s supers give him many things he otherwise doesn’t have, like invincibility without charge, a hard knockdown, or long-range punishment.
+| cons=
+* '''Weak Okizeme''': All of Kaphwan’s meterless enders lack substantial knockdown advantage, meaning he’ll struggle to safely chase or cover wakeup rolls without a hard read. Without REV Blow or a super, Kaphwan will reset to neutral more often than an offensive character would like. 
+* '''Zoned Out''': Kaphwan is at his strongest up close, but he lacks ways to skip neutral or deal with fireballs to get up close quickly. He has to get in the old-fashioned way, which can pose problems against zoners like Kain or Krauser.
+* '''Flashkick''': Due to requiring charge for his invincible reversal, Kaphwan can’t quickly reposition before anti-airing with it, nor can he use it immediately after blocking an overhead or jump-in. Charging it can leave you vulnerable to overheads and throws.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=kim_fA
+|description=* Chains from other lights. Technically chains to itself, but this chain whiffs more often than not
+* Unusually high damage for a far A
+Standard hop-checking punch attack with decent range and 5f startup, making it your optimal button to mash. 
+
+At 40 damage, it's one of the highest-damaging A normals in the game despite its fast startup. The only downside is its lack of chaining options compared to 2A. You can't charge while pressing it, but once you've practiced charge buffering, you can get around that. 
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=kim_fB
+|description=* Deceptively large range and fast for a far B
+* Kaphwan's most consistent cancel to heavy flashkick brake
+* Moves Kaphwan forward a bit on startup, but if you don't buffer anything during the recovery, he will move back to where he started the move 
+This normal can do so much that it acts as Kaphwan's swiss army knife. 
+
+Not only is it fast for a far B, its hitbox is huge, it chains easily from his crouching lights, it special cancels, and with charge buffering, it allows you to do three lights to flashkick, even from two 2Bs. At nearly all ranges, it creates a spacing trap into far C (although crouching normals can check it). There's almost nothing this normal can't do, really, though it's worse on whiff than your average light normal.
+
+On Counter Hit or Wild Punish, it combos to 214BD, making it incredible as a counterpoke if you have REV to spare.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=kim_fC
+|description=* Wild Punish +19 (+23 when feint cancelled)
+* Kaphwan's longest-ranged normal that still special cancels
+* Loses some range vs crouching characters, causing the feint cancel link from close C to whiff on crouch
+A snappy, decently-ranged kick with good size and forward movement, great for whiff punishes, controlling space, and the like. It's kind of like Terry's far C.
+
+Most notable about this normal is its whopping 90 damage and ability to combo to flashkick brake at max range (unlike 2C), but with the caveat of whiffing on crouch past a certain range. As a result, you will need to forgo this normal in favor of 2C in combos on a crouching opponent. 
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=kim_fD
+|description=
+* Wild Punish +22
+* Fast, two-hitting and with huge range on the second kick, featuring target combo and super cancel options
+* The second kick always comes out, making it a good surprise poke, though it's awful on whiff
+Fast for a far heavy while also having great range, this double kick is your best heavy for scoring Wild Punishes. Tag them with this if you see them whiff something laggy. Take care not to use this button too recklessly, as it's pretty bad on whiff itself while also being vulnerable to hops.
+
+If both hits are blocked, Kaphwan will always be in range to get mixed up by the opponent, or outright punished if they have a grab super. If you’re trying to space out an opponent, use his other normals instead.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=kim_clA
+|description=* Kaphwan's fastest attack
+* Used to stop hops, in light confirms, or to perform his Combination Attack
+* Chains from both crouching normals point-blank
+The standard fast jab is the main move Kaphwan will mash or stop hops with, especially since far A is only a frame slower. Useful to go into his Combination Attack as well, as this  is Kaphwan's only way of comboing to his REV Blow from lights without spending REV. 
+
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=kim_clB
+|description=* Two-hitting attack with special and target combo cancel options from the second hit
+* Long activation range for a light means you can chain into it from either crouching normal or his close A
+* Links to far B on hit, or 2C on Counter Hit / Wild Punish
+* Cannot be feint cancelled, as target combo has higher input priority
+Another two-hit attack with great advantage whether it hits or is blocked. This second hit gives you inherent time to charge, making it much better on hit than your other lights thanks to the linking routes to flashkick brake. 
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=kim_clC
+|description=* Wild Punish +26 (+29 when feint cancelled)
+* Slightly slower than 2C, and shorter activation range than close D, but is your best heavy on hit and block
+* Links to far B on hit, even without feint cancel
+Kaphwan's strongest heavy button by many metrics, although its use is limited by its proximity requirement. On hit when feint cancelled, links into far C, which leads into all your strongest combos, or even sweep for a surprise knockdown. It also frame traps to almost every other normal you have on block. 
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=kim_clD
+|input=cl.D
+|description=* Wild Punish +24 (+28 when feint cancelled)
+* Forces stand on hit
+* Long proximity range allows it to work just outside of throw range
+* The first hit reaches VERY high, making it useful as a situational anti-air
+* Cancels to supers on either hit, but to specials on the second hit only
+A pretty good offensive button, as they go, thanks to its two hits, high vertical hitbox, and consistent link on feint cancel giving you a route to 2C for charge-building. Thanks to reaching just beyond throw range, it's a powerful button in shimmies.
+
+On hit against airborne opponents, it will not cancel to special moves due to the second hit whiffing. This allows you to option-select special cancels, as you won't whiff a special move when tagging a hop or backdash. This utility along with its other strengths arguably make Kaphwan's cl.D his most reliable combo starter.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=kim_crA
+|description=* Tied with far A for Kaphwan’s fastest non-proximity attack, but has inherent charging and better chains at the expense of damage
+* Mashable
+A jack-of-all-trades button. While having worse damage than far A, and worse range than far B, its built-in charge and chains to either far normal make it useful both as combo filler and to mash. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=kim_crB
+|description=* Kaphwan’s only low combo starter
+* Chains into either close light when done point blank
+* You can chain two lights into far B and still be in range for flashkick
+A shockingly abusable normal, owing to its range, inherent charge and combo potential. Use it after an empty jump, or to catch people walking back in neutral or pressure.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=kim_crC
+|description=* Wild Punish +16 (+22 when feint cancelled)
+* For a far heavy, great range and speed, but not great on block
+* Looks like a low, but hits mid 
+Great combo filler, great whiff punish, great at a lot of things due to its speed and reach. This is also your most reliable link from a feint-cancelled close heavy, as it’s faster than far C while also hitting crouch (albeit with a smidge less damage and range).
+
+Having it blocked ends your turn unless you spend REV, however, so be mindful of your resources when using it in neutral.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=kim_crD
+|description=* Kaphwan’s longest-ranged attack to come out in less than 10 frames
+* Moves Kaphwan forward on startup
+* On Wild Punish, puts opponents in an OTG state. Your damage-optimal OTG is 214D, which will always reach in this scenario
+Like Kaphwan’s other buttons, his sweep is also faster than average, which makes it great as a situational punish or surprise low. Unfortunately, ''also'' like his other buttons, it moves Kaphwan forward, making spacing it to avoid a punish more difficult. Use sparingly.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=kim_jA
+|description=* Kaphwan’s fastest and most active air normal
+* Struggles to hit grounded opponents
+A quick and simple air normal, your best option as a reactive air-to-air. You have combo options on Counter Hit thanks to its special cancel.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=kim_jB
+|description=* Can cross up
+* Has a target combo follow-up during a full jump
+The universal jumping normal that hits on both sides of Kaphwan. An essential tool for okizeme, as it can pressure multiple wakeup rolls simultaneously with proper setup.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=kim_jC
+|description=* A strong air normal that juggles ''and'' special cancels
+* Worse startup and range than Kaphwan’s other air normals
+Kaphwan’s j.C is interesting. You can cancel and combo out of it like a grounded normal, or juggle from it to something on the ground, like a flashkick. Any way you land it and follow it up, is insanely rewarding. 
+
+The problem is that it’s much more difficult to hit than it looks, due to its poor reach and startup. You’ll mainly look to hit it off a Counter Hit launch (such as from 214B), which leads to combos that do absurd damage, especially in the corner.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=kim_jD
+|description=* Kaphwan’s longest-ranged air normal
+* Has a second hit that only hits cross-up
+Kaphwan’s primary jump-in, with good range as well. On top of starting combos after jumping in, its reach also gives it use as a retreating air-to-air.
+
+There is also a second hit that only hits cross-up, similar to Dong Hwan’s Mule Kick. While it’s fantastic for that purpose, you’ll want a proper setup for it due to taking 14 frames to come out. Without a hard knockdown or the corner, j.B is much easier to use a cross-up.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=kim_cla_5c,kim_cla_5c_5c,kim_cla_5c_5d,kim_cla_5c_6d,kim_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=kim_throw
+|description=Kaphwan shoves the opponent and kicks them down.
+* After frame-killing with far A, hop in for an autotimed safe jump vs 5f reversals
+* Alternatively, two forward dashes leaves you point blank and +11
+Although this throw appears to throw the opponent too far away, Kaphwan recovers quickly, allowing you to immediately dash back in and keep threatening offense, even midscreen.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=kim_4throw
+|description=Kaphwan throws the opponent judo-style to the ground.
+* Safe jumps off of this throw have to be manually timed
+* One forward dash leaves you +20 and in throw range
+* If you throw the opponent into the corner, you can set up a meaty Low Dodge Attack or 236D by frame-killing with feint or far A, respectively
+Deceptively good okizeme for a back throw, especially if you throw the opponent into the corner. 
+}}
+
+==Command Moves==
+====Naeryo Chagi====
+{{FrameDataCargo-COTW
+|name=Naeryo Chagi
+|moveId=kim_6b
+|description=Kaphwan overheads the opponent with his heel.
+* Combos to far A and 2A on hit
+* Spacing it makes it safe on block but removes your ability to combo afterward
+One of those high-risk, high-reward overheads. If you’ve conditioned your opponent to block low, surprise them with this. Its hitstun and link to 2A allow you to charge a flashkick on reaction to a successful hit. 
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=kim_fd_6d
+|description=A confirmable follow-up from far D. 
+* On hit, you can juggle light flashkick or Redline/Hidden Gear
+This command combo gives you a way to stretch out your damage after a far D on normal hit. While you do get a flashkick at the end, you can alternatively forgo the flashkick and instead tech-chase off the knockdown to stay in.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=kim_clb_d,kim_clb_d_6d
+|description2=A confirmable follow-up from close B.
+* On hit, you can juggle light flashkick or Redline/Hidden Gear
+An easy combo off of close B, good for when you don’t want to use resources. Like the first command combo, you can tack on a flashkick at the end, but it’s also not bad to go for the tech-chase.
+}}
+
+====Command Combo 3====
+{{FrameDataCargo-COTW
+|moveId=kim_jb_a
+|description=* Can only do during a full jump
+* Requires Counter Hit or Wild Punish to work on an airborne opponent
+Pretty niche use. Helps you convert from a higher-up j.B vs grounded opponents, or against an airborne opponent, pops them up slightly higher so you can do a left-right mix on the opponent’s reset. 
+}}
+
+
+==REV Blows==
+====Sting Dwi Dora Chagi====
+{{FrameDataCargo-COTW
+|moveId=kim_CD
+|description=Kaphwan steps into a spinning high kick.
+* Damage value factors in S.P.G. bonus
+* MASSIVE range, hitting almost half-screen 
+This REV Blow has a way bigger hitbox than it looks. This allows you to brute-force through mid-range, and it’s possible to use it as a fireball punish because it reaches so far. It’s nearly impossible to punish on block, or even on whiff if your opponent isn’t looking out for it. 
+
+Aside from its obvious utility, this is extremely integral to Kaphwan’s offense in S.P.G., since Kaphwan needs a hard knockdown in his combos to push strong okizeme midscreen. 
+}}
+
+====Chisaijin====
+{{FrameDataCargo-COTW
+|moveId=kim_jCD
+|description=Kaphwan violently drops his heel on the opponent from above.
+* Damage value factors in S.P.G. bonus
+* Kaphwan first pops up a little before coming down
+* Hits OTG
+* Just barely too slow to combo from Counter Hit j.A, but easily works from j.C and all REV moves that finish airborne
+Essentially, this serves as a hard knockdown ender to push mix off of after dumping REV into your combo. However, it does have a niche use at baiting DPs or other reversals from your opponent, as Kaphwan goes up before coming down.
+}}
+
+==Feints==
+====Neutral/Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=kim_5bc
+|description=Mimics the startup of Haki Kyaku ('''236K'''). This is Kaphwan’s only feint, use this whenever a combo requires a feint.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=kim_2CRev
+|description=* Cannot be cancelled on block
+* Wins against jumping attacks, standing normals and REV Blows
+* Combos starting with it have additional scaling
+An alternative anti-air for when you don’t have charge. It has alright range, about the same as his flashkicks. It has feint cancel links on the ground, giving you inherent charge time.  
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=kim_crev
+|description=* Universal overhead, wins against lows and throws
+* On Counter Hit or Wild Punish, links to close/far B; meaty setups that Counter Hit let you link heavies here
+Kaphwan’s low dodge differs from 6B in that it’s safe, but has no combo options without Counter Hit or a meaty setup. In spite of its low reward, it’s still a great move to use when you’ve conditioned your opponent to tech the throw on wakeup or mash lows against your shimmy.
+}}
+
+==Special Moves==
+====Hangetsu Zan====
+{{FrameDataCargo-COTW
+|moveId=kim_214b,kim_214d,kim_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=Kaphwan does a somersaulting crescent kick.
+* All versions hit from round start distance and go over certain lows. They also hit OTG
+* Unlike Jae Hoon, Kaphwan cannot brake any version
+This versatile special move defines Kaphwan as a character. The Hangetsu Zan is a combo ender, punish tool, advancing move, and more all rolled into one, though each version has its own uses.
+----
+'''Light version (214B)''': A versatile tool that can be used in a bunch of different ways.
+* Combos from lights
+* Always knocks down on hit, unlike the other two versions
+* Launches on Counter Hit, making it one of Kaphwan’s strongest punishes on DPs and whiffed REV Blows
+* Good as a poke if you space it properly; its pushback on block is much worse than other games
+----
+'''Heavy version (214D)''': High risk, but high return. 
+* Leaves standing on grounded hit, giving a combo to 2C on Wild Punish
+* Kaphwan’s optimal OTG after a sweep that Wild Punishes
+----
+'''REV version (214BD)''': The ultimate round-start jumpscare, reminiscent of KOF XIII. Gets Kaphwan in their face quickly and lets him push more offense with REV Accel.
+* Retains almost all of 214D’s properties, but has faster startup and is safer on block
+}}
+
+====Hien Zan====
+{{FrameDataCargo-COTW
+|moveId=kim_28b,kim_28d,kim_28bd,kim_28d_6d,kim_28bd_6d,
+|input=[2]8B/D/BD
+|input2=[d]u+B/D/BD
+|description5=Kaphwan’s flashkick.
+* ~40f charge time for all versions
+* All versions have invincibility to air attacks on startup
+* Like all anti-air specials, all versions are Counter Hit punishable on recovery if Kaphwan doesn’t brake them
+One of Kaphwan’s other defining specials, an anti-air kick. This is a charge move, which carries both benefits (like reaction punishes) and downsides (like having to charge it). Nonetheless, it is important to Kaphwan’s defense and combos alike. Knowing which version to use, and when, is key to playing the character at his best. 
+----
+'''Light version ([2]8B)''': Kaphwan’s main invincible reversal, and his fastest special move overall. 
+* Fully invincible on startup
+* Cannot be braked nor cancelled to the follow-up, making it extremely punishable
+* Quick enough to tack on at the end of his Command Combos or various juggles
+----
+'''Heavy version ([2]8D)''': Kaphwan’s main anti-air. 
+* Launches on hit, safe on block. Your optimal resourceless combo is 236B > [2]8B
+* Only the second hit launches on Counter Hit
+* Can be followed up with a second kick if you don’t brake it, input with 6D
+----
+'''REV version ([2]8BD)'''
+* Nearly identical properties to the Heavy version, right down to the startup, damage and optional follow-up
+* Launches higher when braked than the heavy version, enabling unique juggles
+}}
+
+====Hishou Kyaku====
+{{FrameDataCargo-COTW
+|moveId=kim_j.236b,kim_j.236d,kim_j.236bd
+|input=j.236B/D/BD
+|input2=j.qcf+B/D/BD
+|description3=A multi-hitting divekick that functions wholly differently depending on the version used. 
+* All versions can be done from a forward or neutral jump, and can be done surprisingly low to the ground
+* Kaphwan briefly stalls in the air before divekicking, allowing them to bait and punish certain anti-airs (such as High Dodge Attacks)
+* Frame advantages on Counter Hit / Wild Punish do not carry over past the first hit
+This divekick's main use is for baiting anti-airs or to punish the opponent from a neutral jump. It means Kaphwan doesn't appear to give up as much space by neutral jumping than he appears. 
+----
+'''Light version (236B)''': Kaphwan kicks the opponent in the face repeatedly.
+* The damage is pretty decent, but the okizeme is not
+* Horrendous on block, even with the backward bounce
+* Combos from j.A on Counter Hit, or j.214D brake on normal hit
+----
+'''Heavy version (236D)''': Kaphwan keeps kicking downward until he lands.
+* Safe, but finnicky on hit and block
+* On grounded hit or block, Kaphwan will always land in throw range
+* If you Counter Hit or Wild Punish a grounded opponent with the first hit ONLY, Kaphwan can link 2A or far A to pick up a combo
+----
+'''REV version (236BD)''': On hit, Kaphwan kicks the opponent up and into a series of spinning kicks. On block, it functions just like the Heavy version. 
+* Unlike the other versions, you can do this one from a backjump
+* Impressive damage, but it does all of its damage on the final hit
+* The only way to combo from this move is to REV Accel into j.214BD or REV Blow
+}}
+
+====Kuusen Kyaku====
+{{FrameDataCargo-COTW
+|moveId=kim_j.214b,kim_j.214d,kim_j.214bd
+|input=j.214B/D/BD
+|input2=j.qcb+B/D/BD
+|description3=Kaphwan performs a series of aerial kicks.
+* All versions can be done from a neutral or forward jump, but have a height restriction unlike j.236K
+* For all versions, the second hit launches on Counter Hit
+----
+'''Light version (214B)'''
+* placeholder
+----
+'''Heavy version (214D)'''
+* placeholder
+----
+'''REV version (214BD)'''
+* Unlike the other versions, you can do this one from a backjump, giving Kaphwan a way to punish while retreating
+* placeholder
+}}
+
+====Haki Kyaku====
+{{FrameDataCargo-COTW
+|moveId=kim_236b,kim_236d,kim_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=Kaphwan firmly stomps the ground in front of him.
+* When done meaty, all versions give links into lights on hit (even without stance) and are plus on block
+* All versions hit OTG
+----
+'''Light version (214B)'''
+* placeholder
+----
+'''Heavy version (214D)'''
+* placeholder
+----
+'''REV version (214BD)'''
+* placeholder
+}}
+
+====Haki Kyaku follow-ups====
+{{FrameDataCargo-COTW
+|moveId=kim_236d_6a,kim_236bd_6a
+|input=236D/BD > 6A
+|input2=qcf+D/BD > f+A
+|description2=Kaphwan sways back, then rushes forward with a high kick.
+* Both versions lose to High Dodge Attack done on reaction to the backsway
+* placeholder
+----
+'''Regular version (236D > 6A)'''
+* placeholder
+----
+'''Rev version (236BD)'''
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|moveId=kim_236d_6b,kim_236bd_6b
+|input=236D/BD > 6B
+|input2=qcf+D/BD > f+B
+|description2=Kaphwan delivers a leaping axe kick. 
+* Both versions hit overhead and are plus on block
+* placeholder
+----
+'''Regular version (236D > 6B)'''
+* placeholder
+----
+'''Rev version (236BD > 6B)'''
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|moveId=kim_236d_6c,kim_236bd_6c
+|input=236D/BD > 6C
+|input2=qcf+D/BD > f+C
+|description2=Kaphwan kicks upward twice.
+* The only follow-up that combos on normal hit for both versions
+* placeholder
+----
+'''Regular version (236D > 6C)'''
+* placeholder
+----
+'''Rev version (236BD > 6C)'''
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|moveId=kim_236d_6d,kim_236bd_6d
+|input=236D/BD > 6D
+|input2=qcf+D/BD > f+D
+|description2=Kaphwan stomps the ground again.
+* placeholder
+----
+'''Regular version (236D > 6D)'''
+* placeholder
+----
+'''Rev version (236BD > 6D)'''
+* placeholder
+}}
+
+==Super Special Moves==
+====Houou Kyaku====
+{{FrameDataCargo-COTW
+|name=Houou Kyaku
+|moveId=kim_236236B,kim_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=placeholder
+* placeholder
+}}
+
+====Houou Kuusen Kyaku====
+{{FrameDataCargo-COTW
+|name=Houou Kuusen Kyaku
+|moveId=kim_j.236236B,kim_j.236236D
+|input=j.236236B/D
+|input2=j.qcfqcf+B/D
+|description2=placeholder
+* Can be juggled into off a grounded regular Hien Zan brake, but requires a tricky TK (i.e. 2362369K).
+* The Redline version of this super apparently has a higher minimum height requirement and is slightly harder to do via a TK.
+}}
+
+==Hidden Gear==
+====Mugen Houou Kyaku====
+{{FrameDataCargo-COTW
+|name=Mugen Houou Kyaku
+|moveId=kim_236236REV
+|description=placeholder
+* placeholder
+}}
+
+==Videos, Links & References==
+
+'''KIM KAPHWAN｜Character Breakdown by SNK'''
+{{#ev:youtube|SbwT8VPVhWg}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Kim Kaphwan]]

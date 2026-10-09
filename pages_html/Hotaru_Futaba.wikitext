@@ -1,0 +1,483 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW Hotaru Profile.png|thumb| A young girl searching far and wide for her older brother, who disappeared when her mother passed away.
+As luck would have it she would one day run into someone who looked very much like him, though he denied all knowledge of the matter. But that was then, this is now, and Hotaru still hasn’t given up: determined to fight the mysterious stranger again and let her feelings be known, she sets off into the unknown once more.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 11f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+
+==Movelist==
+
+(*) = Brake
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Aerial Turn - [[image:rev.gif]] (Midair Only)
+
+Hanten Tou - [[image:a.gif]] + [[image:b.gif]] (Midair Only)
+
+Koushuu Da - [[image:Dn.gif]] + [[image:b.gif]] (Midair Only)
+
+Command Combo 1 - [[image:c.gif]] > [[image:fd.gif]] + [[image:d.gif]] > [[image:fd.gif]] + [[image:d.gif]]
+
+Command Combo 2 - [[image:a.gif]] > [[image:b.gif]] (Midair Only)
+
+
+'''REV Blows'''
+
+Soushou Da - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Rakuei Kyaku - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+
+'''Special Moves'''
+
+Hakki Shou - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Soushou Shin - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Kobi Kyaku - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Tenshin Shou - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Rangeki Shuu - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only)
+
+Shajou Tai - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] 
+
+
+
+'''Ignition / Redline Gears'''
+
+Soushou Tenrenge - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Tenshou Ranki - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Freeze Fang: Soushou Shihigiri - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Hotaru is perhaps the most well-rounded character in ''CotW''.  With all the basic tools a character could need and then some, she comes equipped for any situation thrown her way. 
+
+To properly underscore what Hotaru has, she has a fireball, a DP, a divekick, a launcher, a reflector, a command grab you can combo out of (if you REV it), several strong combo starters, and much more. She can rushdown, zone, pressure, grapple, play footsies, punish minute mistakes, mix up, cross up, turtle up, and do everything short of playing the game for you. If you can think it, Hotaru can do it. 
+
+Well-rounded as she is, though, she has a few quirks unique to her. She enjoys great mobility thanks to her amazing walk and run speeds, on top of having a divekick, letting her navigate neutral well and play offense or defense as needed. While she does have some minor shortcomings, like poor reward from lows and a reliance on REV Accel for her offense, there’s ways to play around these weaknesses, like command grabbing an opponent waiting out your offense, or playing a strong defensive game to reduce your reliance on offense.
+
+If you’re wondering if this character is for you, the short answer is yes. She doesn’t rely too much on a defining gimmick or strength, but Hotaru being such a jack-of-all-trades is a boon in and of itself. To that end, Hotaru is one of the best characters for beginners, or players doing some soul searching for their next main.
+
+{{StrengthsAndWeaknesses
+| intro = Hotaru is an agile all-rounder, boasting a kit that is incredibly versatile. She is highly recommended for players new to CotW. 
+| pros=
+* '''Versatility''': Hotaru has access to every tool you could ever want in the game, and she can execute her flexible gameplan anywhere on the screen. From far away, she can send out her slow moving fireball and follow behind it to force an approach, up close she has a command grab to mix people up, good frame data to apply pressure with blockstrings, and for defense she has the game's best 2A, fantastic reversals and a great Guard Cancel in her Rev command grab. Many of her tools are often exceptional in their own right and give her options in situations where other characters have none.
+* '''Air Options''': Hotaru has a comboable air normal in j.C, a divekick and an incredibly spammable air Rev Blow that tends to beat even High Dodge anti airs, so she's both hard to meet midair or defend yourself against when grounded.
+* '''Fast''': On top of her excellent fireball to cover approaches, Hotaru has the second fastest runspeed in the game, and her walkspeed is so good she walks backwards faster than some characters can walk forward, letting her do micro adjustments to weave in and out of ranges as she sees fit. 
+* '''Reflector''': Hotaru is one of only three characters who are able to send fireballs back at the opponent, giving her another tool with which to win fireball wars, approach to start her offense, or simply lame out the other player.  
+
+| cons=
+* '''Low Damage''': On top of her moves not hitting quite as hard as some other characters, nearly all of Hotaru’s bigger combos go through moves that add additional scaling, hurting her damage potential and causing her to require winning more interactions on average. 
+* '''Vulnerable to Guard Cancels''': Hotaru has limited options to pressure the opponent and all of them bring her up close, making her highly vulnerable to Hyper Defense and Guard Cancel DPs, command grabs, or Zero Frame supers, though this applies mostly to higher-level play. 
+
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=hotaru_f.A
+|display=200x200px
+|description=*
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=hotaru_f.B
+|display=200x200px
+|description=*Good for checking dashes with a buffered qcb+A behind it.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=hotaru_f.C
+|display=190x190px
+|description=Very difficult to whiff punish if your opponent isn't actively baiting it out. A good button to throw out in neutral to proactively stuff offensive approaches.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=hotaru_f.D
+|display=200x200px
+|description=*Hotaru's longest normal.
+*Can combo into cl.C on Wild Punish unless it only lands on extended hurtboxes. 
+A highly committal, but strong poke tool and whiff-punish button. 
+}}
+
+===Close Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=hotaru_cl.A
+|display=200x200px
+|description=*Close C (with a followup combo) is a big payoff natural link / frametrap but loses to 4f normals.
+*Frametrap with Crouch B instead to beat jumps or normals (at worst, trades with 4f normals).
+*Allows command grab to be used after without any delays or movement needed to connect it.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=hotaru_cl.B
+|display=200x200px
+|description=*Smaller payoff on hit than Close A due to no natural links into heavies on hit, but much more advantage on block.
+*Crouch C can work well after specifically to beat fuzzy jumps after, but loses to 4f normals and immediate jump. 
+*Command grab can also be done immediately after.
+*Potentially safe to slower reversals when performed meaty. Also allows close C to link after on hit.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=hotaru_cl.C
+|display=200x200px
+|description=*Has a target combo (Close C -> forward+D, forward+D), but avoid doing the final hit since the second hit is cancellable anyway.
+*Being a 6f startup heavy, it will beat 4f normals in +2 situations without trading.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=hotaru_cl.D
+|display=220x220px
+|description=*When feint cancelled this move is +4 on block and +6 on hit (allowing links to close C). This move should almost always be feint cancelled when used.
+** The only exception being if it gets guard cancelled into a non-invulnerable special. In that case you'd consider cancelling into dp+C.
+* +4 on block means crouch C or dp+C will beat 4f+ normals after, as well as make it hard to fuzzy jump potential command grabs.
+* Getting proper combos into close C from this out of jump normals usually requires a micro-dash (or lower damage routes such as far A/B or crouch A -> dp+C, etc.)
+* Allows immediate run into command grab after.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2A
+|display=160x160px
+|description=* Hotaru's other fastest normal, tied with close A.
+* In situations where you could use either, close A gives better conversions on hit and better follow-ups on block. The only advantage of crouch A is the range.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2B
+|display=180x180px
+|description=Quick crouching low, a nice starter for her light combos. 
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2C
+|display=200x200px
+|description=*Hotaru's longest special-cancellable normal.
+A keystone of her neutral and pressure, it combos into 623C* at all ranges, and frametraps into 214D and 214C, although 214D cannot frametrap 4-frame buttons. It can even trade-combo into dp+C or 214C against 4-frames!
+* Cancelling into 214BD or Late-cancelling into 214B are also an option to beat 4fs.
+* Despite being -1 on feint cancel, it's still worth considering due to both the above frametraps and having a 4f crouch A.
+**Effectively negates Rev Guard pushback when feint cancelled due to it's forward movement (and leaves you in command grab range).
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2D
+|display=180x180px
+|description=Hotaru's sweep, hits low and cause a soft knockdown.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.A
+|display=200x200px
+|description=*Standard air-to-air normal.
+*Has a target combo into jB.
+**In air-to-air situations, this requires the opponent to JD twice.
+**Good air-to-ground as well, as it can throw off many guard cancels.
+*Leaves the opponent standing next to you on hit; the higher you hit them in their jump arc, sooner you reach the ground before them. Hitting them right as they start or are about to land leaves you slightly minus
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.B
+|captions=<br>'''Kula called... she wants her neutral back'''
+|display=200x200px
+|description=A long-range air normal that's fantastic for poking and space control. Can not crossup during hops, only full jumps.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.C
+|display=160x160px
+|description=*Standard air-to-air normal.
+*Soft knockdown on hit, allowing dp+C or other followups depending on distance.
+**Also enables combo routes from counterhit launches starting with dp+C or 214K.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.D
+|display=200x200px
+|description=*Standard jump-in normal.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=hotaru_cla_5c,hotaru_cla_5c_5c,hotaru_cla_5c_5d,hotaru_cla_5c_6d,hotaru_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description5=*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Starter of the combination attack, deals some damage.
+----
+cl.AC > C : Follow-up that adds damage and gives time to choose the ender.
+----
+D ender :  Very unsafe on block but causes a soft knockdown on hit.
+----
+6D ender : Overhead ender, same move as her Low Dodge Attack(5C+REV) but it's +2F on hit and block.
+----
+2D ender : Low ender, same as her 2D, it's very unsafe on block.
+}}
+
+==Throw==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=hotaru_AB
+|input=AB
+|description=*Moves both players backwards (meaning it can take them out of the corner for crossups).
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=hotaru_4AB
+|description=*
+}}
+
+====Air Throw====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.AB
+|description=* Air Grab
+* Hotaru throws the opponent to the opposite side.
+}}
+
+
+==Command Moves==
+====Koushuu Da====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.2B
+|display=200x200px
+|description=Chun-Li stomp. Causes a bounce off the enemy and grants air actions again on hit or block.
+*Allows the normally unusable E air turn after if performed during a hop.
+**But performing during a hop also restricts jB from crossing up. Must use fulljump to get the crossup version.
+}}
+
+====Aerial Turn====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.REV
+|description=* Hotaru faces the other side while airborne, mainly used for crossups.
+* Allows a corner steal with j.D 
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=hotaru_CC1_cl.HP~6HK, hotaru_CC1_cl.HP~6HK~6HK
+|captions=<br>cl.C > 6D,<br>cl.C~6D > 6D
+|display=180x180px
+|input= cl.C~6D / 6D~6D
+|input2= cl.C~f+D / f+D~f+D
+|description=Gives a hitconfirm window and extra damage, should always be used after landing cl.C, on hit or on block.
+|description2=A noob-trap move made by the mash police. 
+Leaves Hotaru wide open for the opponent's juiciest party starter on block, and ends the combo on hit.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=hotaru_CC2
+|description=* Cannot be used in a short hop
+}}
+
+==REV Blows==
+====Soushou Da====
+{{FrameDataCargo-COTW
+|moveId=hotaru_CD
+|description=* Armored palm strike with great horizontal range.
+}}
+
+====Rakuei Kyaku====
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.CD
+|description=Potentially the best air Rev Blow in the game.
+*Despite having a height restriction, can still basically be performed instantly from the air.
+**In this situation, it's +2 on crouch block, -2 on stand block.
+**15f startup makes it very hard to High Dodge Attack (2CE) on reaction
+*Extremely fast startup considering it's armored on frame 2.
+*Decent pushback on block that will leave you out of close normal proximity (where most 4fs are usuable)
+*Excellent reward on counter hit means you can throw it out in many situations, or use it to enforce strike/throw mixups if you are concerned about invulnerable reversals.
+*Excellent combo ender that builds super meter and grants safejumps from almost any route you can use it.
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=hotaru_5D+REV
+|display=180x180px
+|description=* Mimics the startup of Hakki Shou
+* Can provoke jumps from opponents expecting a fireball, and doubles as a combo and pressure option.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2D+REV
+|display=160x160px
+|description=* Mimics the startup of Kobi Kyaku
+*Higher recovery than the other two feints.
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=hotaru_6D+REV
+|display=200x200px
+|description=* Mimics the startup of Tenshin Shou
+*The same duration as her 5D+REV feint, which lets Hotaru bait a punishable response to either special they mimmick without weakening her pressure at all.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=hotaru_2C+REV
+|description=
+* Beats Highs and Rev Blows 
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=hotaru_5C+REV
+|description=
+* Beats Lows and Throws
+}}
+
+==Special Moves==
+===Soushou Shin===
+{{FrameDataCargo-COTW
+|moveId=hotaru_214A,hotaru_214C,hotaru_214AC
+|input= 214A/C/AC
+|input2= qcb+A/C/AC
+|description3=* Hotaru's light chain ender and a general pressure tool.
+*214A combos from lights but is always unsafe, 214C and 214A+C can be braked to become safe or +3 respectively at the cost of a slower startup.
+*The meterless and metered versions actually have a different amount of hits, which makes a Guard Cancel DP feint punish difficult to pull off consistently.
+*On top of that, the A+C version can be cancelled into other Rev Arts before the brake, which makes it so the only consistent way to punish Hotaru for abusing this move on block is a Guard Cancel Super, as slower/non-super reversals can get hit by a cancel to Rev Blow for enormous damage.
+}}
+
+===Hakki Shou===
+{{FrameDataCargo-COTW
+|moveId=hotaru_236A,hotaru_236C,hotaru_236AC
+|input= 236A/C/AC
+|input2= qcf+A/C/AC
+|description3=* The slower speed of 236A Hakki Shou allows Hotaru to run behind it and maintain offensive pressure.
+}}
+
+===Kobi Kyaku===
+{{FrameDataCargo-COTW
+|moveId=hotaru_214B,hotaru_214D,hotaru_214BD
+|input= 214B/D/BD
+|input2= qcb+B/D/BD
+|description3=* 214B/D reflects most standard projectiles, while 214BD can reflect Rev Art projectiles.
+*In the season 2 major patch, the D version is no longer plus on block.
+* Reflecting Mai's Rev Kachousen will deflect the first fan, causing the second fan to be destroyed.
+}}
+
+===Tenshin Shou===
+{{FrameDataCargo-COTW
+|moveId=hotaru_623A,hotaru_623C,hotaru_623AC
+|captions= '''RIP 4F privileged Pirouette'''
+|input= 623A/C/AC
+|input2= dp+A/C/AC
+|description3=*A version is extremely fast and fully invincible.
+*C and AC is air invincible and brake-able.
+
+Hotaru's DP.
+----
+A version : Fully invincible and fast DP. Why was this ever 4 frames.
+----
+C version : Air invincible, faster than many 623C's, good as an anti air.<br>
+If braked, the move becomes safe and launches the opponent, allowing Hotaru to combo them. This first hit however has a very short horizontal hitbox which alters or limits Hotaru's combo routes depending on range.
+----
+AC version : Air-invincible, fast, and travels slightly forward, allowing the first hit to reach farther than her 623C.
+}}
+
+===Shajou Tai===
+{{FrameDataCargo-COTW
+|moveId=hotaru_236k,hotaru_236BD
+|input= 236B/D/BD
+|input2= qcf+B/D/BD
+|description2=* Command Grab
+* 236BD can be Rev Accel'd into other special moves for a combo.
+* Hotaru's premier guard cancel, the B+D version actually beats 4 frame light chains and all versions beat DP feint cancels.
+* Another one of Hotaru's special moves that is arbitrarily faster than most other moves of its type, only surpassed by Tizoc's heavy SPD (6248C)
+}}
+
+===Rengeki Shuu===
+{{FrameDataCargo-COTW
+|moveId=hotaru_j.214B,hotaru_j.214D,hotaru_j.214BD
+|input= j.214B/D/BD
+|input2= j.qcb+B/D/BD
+|description3=* Hotaru's divekick. Useful to alter your jump arc and mess with anti-airs.
+The B+D version can be done out of a backjump, which lets Hotaru skip neutral straight after retreating, sometimes whiff punishing grabs or ground normals. Can also be used as an alternative air Guard Cancel to Rev Blow, to more consistently punish single-hit anti-airs.
+}}
+
+==Super Special Moves==
+====Soushou Tenrenge====
+{{FrameDataCargo-COTW
+|name=Soushou Tenrenge
+|moveId=hotaru_236236A,hotaru_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|captions=<br>A super flash,<br>C super flash,
+|display=160x200px
+|description2=*
+}}
+
+====Tenshou Ranki====
+{{FrameDataCargo-COTW
+|name=Tenshou Ranki
+|moveId=hotaru_236236B,hotaru_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>B super flash,<br>D super flash,
+|display=200x200px
+|description2=* Side swaps after completion unless done in the corner
+}}
+
+==Hidden Gear==
+====Freeze Fang: Souhou Chihigiri====
+{{FrameDataCargo-COTW
+|moveId=hotaru_236236REV
+|description=Side swaps after completion. Leaves you at +1 but spaced out. If used against a corned enemy, it leaves you cornered but in range for a meaty or command grab.
+*Goes stupidly far in 6 frames with no travel time, so if you know your frame data you can use this to pick up punishes most characters can't hope for. This also means it's easy to combo into in juggles or grounded confirms, and it can work as an anti air.
+*After the super, crouch A will beat 4f+ normals if they choose to attack (or jump), but conversions are limited.
+*Instant Air Rev Blow covers many options they can do, losing mostly only to High Dodge Attack and supers.
+}}
+
+==Videos, Links & References==
+
+'''Hotaru Futaba｜Character Breakdown by SNK'''
+{{#ev:youtube|X6Bshq1IBZE}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Hotaru Futaba]]

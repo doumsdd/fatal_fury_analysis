@@ -1,0 +1,592 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Ken_Profile.png|thumb|A veteran Metro City street fighter who sets his sights on South Town, seeking closure for an incident to which he was wrongfully tied.<br>
+Burning with determination and a fiery arsenal of unmatched offense, this former US National Fighting Champion eventually crosses paths with the Legendary Wolf himself—and with that, the wheels of fate are set in motion.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 16f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Straight Punch - [[image:fd.gif]] + [[image:c.gif]]
+
+Roundhouse Kick - [[image:fd.gif]] + [[image:d.gif]]
+
+Lifting Uppercut - [[image:df.gif]] + [[image:c.gif]]
+
+Low Spinning Sweep - [[image:df.gif]] + [[image:d.gif]]
+
+Lightning Heel Kick - [[image:fd.gif]] + [[image:b.gif]]
+
+Command Combo 1 - [[image:c.gif]] > [[image:bk.gif]]/[[image:fd.gif]] + [[image:c.gif]]
+
+Command Combo 2 - [[image:d.gif]] > [[image:d.gif]] > [[image:d.gif]]
+
+
+'''REV Blows'''
+
+Flame Strike - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Dragon Flame Kick - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Hadoken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Shoryuken - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Tatsumaki Senpu-kyaku - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Aerial Tatsumaki Senpu-kyaku - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only)
+
+Dragonlash Kick - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Jinrai Kick - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Kazekama Shin Kick - [[image:fd.gif]] + [[image:b.gif]]
+::'''┗''' Kasai Thrust Kick - [[image:fd.gif]] + [[image:b.gif]] (REV Art only)
+:'''┗''' Gorai Axe Kick - [[image:bk.gif]] + [[image:d.gif]]
+::'''┗''' Kasai Thrust Kick - [[image:bk.gif]] + [[image:d.gif]] (REV Art only)
+:'''┗''' Senka Snap Kick - [[image:fd.gif]] + [[image:d.gif]]
+::'''┗''' Kasai Thrust Kick - [[image:fd.gif]] + [[image:d.gif]] (REV Art only)
+
+Quick Dash - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Emergency Stop - [[image:b.gif]]
+:'''┗''' Thunder Kick - [[image:dn.gif]] + [[image:d.gif]]
+:'''┗''' Forward Step Kick - [[image:d.gif]]
+:'''┗''' Shoryuken - [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Tatsumaki Senpu-kyaku - [[image:bk.gif]] + [[image:d.gif]]
+:'''┗''' Dragonlash Kick - [[image:fd.gif]] + [[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+
+Shoryureppa - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Shippu Jinrai-kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Shinryu Shoen Ha - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Ken is more than just a guest character; he is one of the biggest faces of fighting games. Coming over from ''Street Fighter'', Ken’s fiery, well-rounded moveset consisting of a projectile, uppercut and hurricane kick is a tried-and-true blueprint that many a character have followed since his and Ryu’s introductions close to 40 years ago, and he’s arrived in ''Fatal Fury'' with several more tricks and moves he’s acquired over the years.
+
+The Ken we have in CotW, though close to his SF6 self on paper, is really a blend of all of his appearances in his home franchise, sporting Quick Dash and follow-ups, crazy kicks, Dragonlash, and strong, dominant poking normals. Much of his offense and combos work like ''Street Fighter'' as well, with generous links, long-reaching cancel options, and strong punishment; he can even cancel into his supers from REV specials, a callback to his ''SFIII: 3rd Strike'' glory days. And of course, it wouldn’t be Ken without his famous Shoryukens, which are enormous in this game and lead to some of the highest anti-air damage he’s ever had. 
+
+Ken’s biggest downfall in this game is that he is perhaps a little ''too'' faithful to his roots. Coming from a slower game, Ken not only lacks a 4-frame normal in this game, but he can only cancel the startup of his dash, unlike most characters with a forward dash. This leaves him feeling quite slow compared to the vast majority of the roster, forcing him to rely on his reach, fireball and Quick Dash special, all of which have some degree of commitment. Every move Ken makes is a decision, and every decision has counterplay, but Ken’s long list of moves mean the strength of one move covers the weakness of another.
+
+For the new players who came from ''Street Fighter'', welcome; though if you want a more defensive character, [[Fatal Fury: City of the Wolves/Chun-Li|Chun-Li]] is also here. For the SNK veterans, Ken may feel strange at first, but if you ever wonder if you can master this rushdown shoto with so many tools in his kit… the answer is simply “SHORYUKEN!”
+
+{{StrengthsAndWeaknesses
+| intro = '''Ken''' is an offensive shoto character with mechanics ported over from '''Street Fighter''', giving him a unique flavor all his own. 
+| pros=
+* '''ShoryuKEN:''' Unsurprisingly, Ken's DP's are obscene; 623A is very active, fast, with a lot of range, making it a very good reversal. 623C/AC are the game's only two-hit DP brakes, which makes them good for both pressure and anti-airing on top of their great hitboxes. Additionally, Ken's Quick Dash Shoryuken can quickly cover about half the screen and catch unaware opponents off guard for jumping in neutral.
+* '''Abnormal Normals:''' Ken's kit includes just about all of his normals that he has in Street Fighter, some of which are insanely strong in the context of City of The Wolves, such as a special-cancellable low poke with good range, or long range pokes he can start pressure or combos off of. On top of that, Ken doesn't have proximity normals, letting him use his unique buttons from any range he wants.
+* '''Heels.. over-head?:''' Ken has access to a whopping 4 grounded overheads with distinct utility. Properly using each can force an opening against defensive opponents, and make them more vulnerable to Ken's powerful stagger pressure and strike/throw game on account of Jinrai and his generally good frame data.
+* '''Combo God:''' Literally all of Ken's cancellable normals can be converted into a combo, no matter if they're at peak range or a jump button. Said combos also tend to reward with him with incredible corner carry, and occasionally very high damage, meaning his powerful neutral tools cannot be taken lightly.
+| cons=
+* '''Slow Normals:''' In exchange for the game's fastest special move and a literal novel's worth of good normals, Ken has no access to a 4 frame jab, which forces him to take significant risks to get out of offense, denies him punishes that other characters can do, and makes it harder for him to start offense from being +1.
+* '''Committal Dash:''' While it is a very fast dash and the startup can be cancelled into jumps and attacks, Ken can't act in its recovery frames, making him slightly less maneuverable than the rest of the cast. This denies him the ability to dashblock fireballs, and forces him to forego dashing on offense for the most part. He's also unable to effectively OS or chase many soft knockdowns, so he either has to return to neutral or spend resources to secure oki.
+}}
+
+==Guest from Metro City==
+
+Ken, obviously, is a guest character from the Street Fighter franchise. While he has access to moves from all over his past appearances, he is mainly based on his Street Fighter 6 version, a game which operates under a few different rules that still apply (if a bit differently) to Ken even in this game:
+
+*Ken has no far or close variants of his normals, he gets the same ones regardless of proximity to the opponent.
+*Ken only has Wild Punish effects on normals that are based on his heavy normals in SF6, these being: 6C, 3C, 6D and 3D. Other Wild Punish normals, even C and D buttons, apply a standard Counterhit effect on WP.
+*EX moves can be cancelled into supers on hit.
+*Neutral jumps and directional jumps result in different jump attacks for Ken.
+*Ken can only cancel the start of his dash into other options, in exchange his dash is very speedy.
+
+Additionally, Ken has a large amount of command normals to fit his usual kit into the game, some of which are very unusual in this game, like a cancellable low poke in 2D.
+
+==Normals==
+===Standing Normals===
+
+====Stand A====
+{{FrameDataCargo-COTW
+|moveId=ken_fa
+|description=*+1 with okay range. Since Ken has no proximity normals, this is kind of his version of most characters' c.B, a quick, plus light normal, but with chains available and more range.
+}}
+
+====Stand B====
+{{FrameDataCargo-COTW
+|moveId=ken_fb
+|description=*Has a lot more range than it seems. Perfect for punishes and confirms, even works after 2B2B.
+}}
+
+====Stand C====
+{{FrameDataCargo-COTW
+|moveId=ken_fc
+|description=*6 frame Heavy Normal that is not tied to proximity. The range is pretty short however, even with Ken advancing a bit during startup.
+*When in range, 5C is pretty great as a combo starter and occasional pressure tool.
+}}
+
+====Stand D====
+{{FrameDataCargo-COTW
+|moveId=ken_fd
+|description=* A forward advancing high kick with a Command Combo attached to it.
+*Whiffs on crouchers, and not great as an anti-air either, despite the animation.
+
+By itself 5D is a pretty unremarkable normal, the forward movement makes it so 5D has better range than 2D, but whiffing on crouching characters makes it inconsistent in neutral. Its inability to hit crouchers or jump-ins properly combined with its very poor 22 frames of recovery makes this very committal and liable to get you killed if misused.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=ken_cra
+|description=*A fairly standard 2A, has a slightly shorter range and lower damage than 2B but can be Special Cancelled as a trade-off. Due to the fact that Ken lacks a 4F Normal, 2A will be one of your main abare tools.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=ken_crb
+|description=*Ken's main low, has good range and can chain into any other light normal except 6B.
+* Like 2A it has 5 frames of startup, making it one of your preferred option for abare and quick punishes.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=ken_crc
+|description=* Beefy button that is naturally plus at all times and leads to an easy frame trap into itself. Normal hit leads to Command Combo 1, Counterhit leads to itself, Crouch D, or Command Combo 2.
+* Uniquely LINKS into Shippu Jinrai-kyaku allowing for an easier confirm.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=ken_crd
+|description=* Surprise, it's not a sweep; it's an actual low forward.
+* Works great in footsies against opponents that backwalk a lot to block mid pokes, or to deter shimmies.
+
+}}
+
+===Jump Normals===
+====Neutral jump A====
+{{FrameDataCargo-COTW
+|moveId=ken_8ja
+|description=*
+}}
+
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=ken_ja
+|description=*Always knocks down, so it can be blindly cancelled into B or BD tatsu on air-to-air connects to convert on hit but usually still land safe if the opponent JD'd.
+}}
+
+====Neutral jump B====
+{{FrameDataCargo-COTW
+|moveId=ken_8jb
+|description=*
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=ken_jb
+|description=*
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=ken_jc
+|description=*
+}}
+
+====Neutral jump D====
+{{FrameDataCargo-COTW
+|moveId=ken_8jd
+|description=*
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=ken_jd
+|description=*
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=ken_5a_5c,ken_5a_5c_5c,ken_5a_5c_5d,ken_5a_5c_6d,ken_5a_5c_2d
+|input=5A > 5C > C > D/6D/2D
+|input2=st.A > st.C > C > D/f+D/cr.D
+|captions=<br>5AC,<br>5ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during 5AC or 5ACC.
+*5AC, 5ACC, 5ACCD are REV Blow cancellable.
+Auto combo that can only be used by starting with 5A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+5AC : First hit of the auto-combo, can only be canceled into a follow-up or an ender.
+----
+5AC > C : Follow-up that can be canceled into any ender or REV Blow. A simple way to deal more damage, increase the REV, or reduce the opponent’s guard bar(Overheat).
+----
+D ender : Just a mid ender, soft knockdown on hit and unsafe on block but it's REV Blow cancellable.
+----
+6D ender : Overhead ender, +2F on hit and block but has a gap beforehand where the opponent can mash or use a move with upper body invincibility to counter.
+----
+2D ender : Low ender and is the same move as his 3D, so it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=ken_throw
+|description=*Ken's throw from Street Fighter 6, and here he'll never have to worry about losing his throw loop.
+*Very plus, enough for a double dash into a meaty 2C, a run overhead, or a variety of setups in the corner.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=ken_4throw
+|caption=You're going to the corner
+|description=* 
+* Ken's trademark Hell Wheel, sending opponents up and over across the stage. Ken is too far away to maintain his offense outside of the corner, but the corner carry itself is still often valuable..
+}}
+
+==Command Moves==
+====Straight Punch====
+{{FrameDataCargo-COTW
+|moveId=ken_6c
+|description=* 
+* Ken's stand HP from SF6. Still long, still active, but now much more negative on block. However, Ken can feint cancel to be +1, this being his primary use of feint in general.
+* Leads to massive damage on Wild Punish even without having to invest a lot of resources, so it's great for whiff punishing.
+}}
+
+====Roundhouse Kick====
+{{FrameDataCargo-COTW
+|moveId=ken_6d
+|description=*
+* Ken's stand HK from SF6 and his longest wild punish normal.
+* Can be cancelled into Quick Step but not other specials.
+* Unique among all heavies in this game, on wild punish, this move launches the opponent.
+** Hitstop on wild punish makes it much easier to confirm into run or supers
+** Best to either follow with normal Quick Step ~ Dragonlash for damage or EX Quick Step ~ Tatsumaki for corner carry.
+}}
+
+====Lifting Uppercut====
+{{FrameDataCargo-COTW
+|moveId=ken_3c
+|description=*
+* An upwards hook and a pretty solid anti-air option.
+* Ken's strongest DP punish starter and links into itself on counter hit feint. This can however be awkward to do as 3B+C or 3D+REV will not result in a feint.
+* Also links to itself on wild punish at any range.
+}}
+
+====Low Spinning Sweep====
+{{FrameDataCargo-COTW
+|moveId=ken_3d
+|description=*Unlike the rest of the cast, Ken Sweep is tied to a command normal
+*Good range but terrible on block. Ken will always be punishable on block even at max range but the opponent might require the use of meter to do so if the Sweep is spaced well.
+}}
+
+====Lightning Heel Kick====
+{{FrameDataCargo-COTW
+|moveId=ken_6b
+|description=*
+* Cancels into Shippu Jinrai-kyaku (236236K)
+
+A standing overhead that gets more advantage when hit on crouchers, though this is about as slow as Low Dodge Attack it is less telegraphed and it allows you to combo into Shippu Jinrai-kyaku on crouch confirm
+
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=ken_c_6c
+|description=
+* Chin Buster in some regional dialects. Ken's primary confirm route from a 6 frame button.
+* Can be delayed or done on whiff.
+* Uniquely scales damage by 10% instead of 5%.
+* Forces stand on hit, which is useful for confirming into Jinrai snap kick.
+* Should always be cancelled into a special or feint regardless if it connects on block or hit, when done raw it's punishable on block and even on hit.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=ken_d_d,ken_d_d_d
+|input=D > D > D
+|captions=<br>D > D,<br>D~D > D
+|display=170x170px
+|description2=*A situational but useful Command Combo starting from 5D.
+* Uniquely scales damage by 10% instead of 5% on the second hit.
+----
+5D>D :Unlike it's Street Fighter 6 counterpart, the second hit of Ken Command Combo 2 is cancellable by Specials. Pretty generous cancel window make it fairly easy to hitconfirm on hit or starting pressure on block
+*Does better damage in combos than Command Combo 1 but 5D whiffing on crouch and 8F of startup relegate that fact to some longer ranged counterhit standing confirm of 2C or of a Jump-in hitting the opponent standing.
+----
+5D>D>D : Final hit of the command combo, rarely seen because cancelling 5D>D into a special will  always lead to better damage and oki. The main use of this 3rd hit lies in the fact that the hitconfirm window for it is longer than the window for a special cancel so if your not confident in your hitconfirms you could find some use for it.
+}}
+
+==REV Blows==
+====Flame Strike====
+{{FrameDataCargo-COTW
+|moveId=ken_cd
+|description=* Only available during S.P.G
+Ken's REV Blow, armors everything from frame 2, but loses to throws, supers and High Dodge Attack.
+}}
+
+====Dragon Flame Kick====
+{{FrameDataCargo-COTW
+|moveId=ken_jcd
+|description=* Only available during S.P.G
+* Stops any air momentum Ken has and goes into an air tatsu.
+* If cancelled from EX DP > EX Air Tatsu > (delay, close to ground) > Rev Blow, Ken recovers fast enough for a light DP, Hidden Gear or Shoryureppa.
+Air REV Blow, same than the grounded one : Armors everything from frame 2 and loses to throws, supers and High Dodge Attack.
+}}
+
+==Feint==
+====Neutral / Forward / Down Feint====
+{{FrameDataCargo-COTW
+|moveId=ken_5bc
+|description=Ken's only feint, mimic is Hadoken. Has a flash like Marco's feint so it can be mixed in with normal Hadoken.
+}}
+
+==Dodge attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=ken_2crev
+|description=* Beats High/Mid, can be used as an anti-air.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=ken_crev
+|description=* Beats Lows and Throws. Welcome back UOH.
+}}
+
+==Special Moves==
+====Hadoken====
+{{FrameDataCargo-COTW
+|moveId=ken_236a,ken_236c,ken_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=*
+* ''The'' world famous fireball.
+* All versions are gapless blockstrings when cancelled from 2D and all will combo on hit, even at tip range.
+}}
+
+====Shoryuken====
+{{FrameDataCargo-COTW
+|moveId=ken_623a,ken_623c,ken_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description3=
+* A version is fully invincible. C and AC versions are air invincible.
+* Just like with Marco, there's never a reason to not brake the C version either for safety or combo extensions.
+** At particular longer distances where the C version hits on the later frames, the juggle height is improved and it might become possible to combo into Shippu Jinrai-kyaku. Don't count on it however, because there's no surefire way to tell if the DP hits late enough.
+* AC version is only super cancellable on the second hit, but attempting to SC on the first hit will cause the SC to happen on the second hit anyways.
+}}
+
+====Tatsumaki Senpu-kyaku====
+{{FrameDataCargo-COTW
+|moveId=ken_214b,ken_214d,ken_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=
+* B version launches on either hit, but no followups are possible unless it hits close.
+** While it has a 4-frame startup and is technically Ken's fastest move, this only applies to the first hit, with the second part hitting on frame 14~16. That first hit also has limited range and doesn't hit airborne opponents, so it can struggle as an abare option.
+* D version has good corner carry and can combo into light DP in the corner.
+* BD version isn't very rewarding, but it combos from all of Ken cancellable normals, even lights from tip range.
+** DB Brake generally scales combos more than its worth, however it can combo into 623C/AC, so it can open up meter dump routes from weak hits.
+}}
+
+====Aerial Tatsumaki Senpu-kyaku====
+{{FrameDataCargo-COTW
+|moveId=ken_j214b,ken_j214d,ken_j214bd
+|input=j.214B/D/BD
+|input2=j.qcb+B/D/BD
+|description3=*B version : Descends while keeping jump momentum. Can cross up, though this is unrewarding.
+* D version : Flies straight horizontally.
+* BD version : If used on ascent, increases upwards momentum momentum and keeps the same on descent. Increases forward momentum in any case, and it can crossup more effectively than j214B.
+** Can be cancelled into from 623AC, which leads to Ken's most optimal combos into Hidden Gear.
+}}
+
+====Dragonlash Kick====
+{{FrameDataCargo-COTW
+|moveId=ken_623b,ken_623d,ken_623bd
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=*
+* The D and BD versions are +1 on block, a useful tool for both getting in on the opponent and pressure but also a risky one since the opponent can react to its long startup and hit Ken out of it.
+* BD version switches sides if it hits an airborne opponent and groundbounces them for a juggle.
+}}
+
+====Jinrai Kick====
+{{FrameDataCargo-COTW
+|moveId=ken_236b,ken_236d,ken_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=*Rekka with massive delay windows and high/low followups. Street Fighter 6 players' nightmare fuel.
+* B version is best for pressure and combos from lights, 236D is a corner combo tool.
+* BD version is Ken's preferred Rev combo starter.
+}}
+
+====Jinrai Kick Followups====
+<!-- Kazekama Shin Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_236b_6b,ken_236d_6b,ken_236bd_6b
+|input=236B/D/BD > 6B
+|input2=qcf+B/D/BD > f+B
+|description3=
+*Low follow-up. A safe pressure ender with a delay window that can turn it into a frametrap.
+*+6 on counterhit, can combo into 6B.
+*By delaying the follow up off D Jinrai in the corner, the shin kick can hit meaty, which allows Ken to have anywhere between +5 to +8 of juggle potential. The +8 sweet spot allows him to link to a heavy DP brake for a powerful low-scaling combo into ignition Shoryureppa or Redline Shippu Jinrai-kyaku.
+}}
+
+<!-- Gorai Axe Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_236b_4d,ken_236d_4d,ken_236bd_4d
+|input=236B/D/BD > 4D
+|input2=qcf+B/D/BD > b+D
+|description3=*Overhead follow-up. Always leaves a gap, but works as a functional mixup with 236K > 6B
+*Identical on counterhit to Kazekama Shin Kick.
+}}
+
+<!-- Senka Snap Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_236b_6d,ken_236d_6d,ken_236bd_6d
+|input=236B/D/BD > 6D
+|input2=qcf+B/D/BD > f+D
+|description3=*B and D version whiff against crouch, relagating them to combo tools.
+*BD version is Ken's primary choice for grounded combos. Usually cancelled into Kasai Thrust Kick, then another EX move.
+*Causes a massive launch on Counterhit, so if you can manage to frametrap with it, you can go wild.
+}}
+
+<!-- Kasai Thrust Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_236bd_6b_6b,ken_236bd_4d_4d,ken_236bd_6d_6d
+|input=236BD~4D/6K > 4D/6K
+|input2=qcf+BD~b+D/f+K > b+D/f+K
+|captions=<br>4D > 4D version,<br>6K > 6K version
+|display=180x150px
+|description3=*Only available during REV Jinrai. Additional stagger tool and a confirming hit for Jinrai followups.
+*All versions are mostly identical with small differences in frame data and damage, and they all combo from the move they follow up.
+}}
+
+====Quick Dash====
+{{FrameDataCargo-COTW
+|moveId=ken_214a,ken_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description2=Runs with various follow-ups, can be stopped by pressing B (Emergency Stop follow-up).
+}}
+
+====Quick Dash Followups====
+<!-- Emergency Stop -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_b,ken_214ac_b
+|input=214A/C/AC > B
+|input2=qcb+A/C/AC > B
+|description2=*Allows you to end the Quick Run, generally only used to convert a Wild Punish 6C/3C or to tick throw people.
+*Can be used in neutral thanks to it's short duration, but it's still pretty risky.
+}}
+
+<!-- Thunder Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_2d,ken_214ac_2d
+|input=214A/C/AC > 2D
+|input2=qcb+A/C/AC > cr.D
+|description2=*Overhead follow-up, but with there being no low followup out of run this is generally very easy to block.
+*The Rev run version can be cancelled into and out of very liberally, so it can occasionally work as mixup, and it's safer regardless.
+}}
+
+<!-- Forward Step Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_d,ken_214ac_d
+|input=214A/C/AC > D
+|input2=qcb+A/C/AC > D
+|description2=*A stepkick, meterless version is safer when spaced, Rev version is always safe.
+*Generally a poke with reward on counterhit, but it's also a frametrap from heavy normals.
+}}
+
+<!-- Shoryuken -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_6a,ken_214ac_6a
+|input=214A/C/AC > 6A/C
+|input2=qcb+A/C/AC > f+A/C
+|description2=*A stronger version of Shoryuken with more hits and damage, and incredible horizontal reach.
+*Meterless Quick Dash always results in a boosted heavy Shoryuken, Rev Quick Dash always results in EX.
+*While no version is fully invincible, this can still be used as a long range anti-air in neutral for jumps done against distant fireballs.
+}}
+
+<!-- Tatsumaki Senpu-kyaku -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_4d,ken_214ac_4d
+|input=214A/C/AC > 4D
+|input2=qcb+A/C/AC > b+D
+|description2=
+* A/C Quick Dash will always trigger the same version of the Tatsu.
+* AC Quick Dash will trigger an EX version of this Tatsu.
+An enhanced Tatsu with flame effects where Ken performs 5 hits.<br>
+The EX version doesn’t launch like the regular EX Tatsu and stays almost the same as the A/C Quick Dash version, just stronger.<br>
+The EX version has better juggle potential than the regular version and will allow further juggles if it hits airborne. E.g. EX Jinrai > 6D > 6D > 214AC > (wait) > 4D.
+Links into stand C on counter hit or wild punish, which gives it some utility in whiffed DP punishes for corner carry.
+}}
+
+<!-- Dragonlash Kick -->
+{{FrameDataCargo-COTW
+|moveId=ken_214a_6d,ken_214ac_6d
+|input=214A/C/AC > 6D
+|input2=qcb+A/C/AC > f+D
+|description2=
+* A/C Quick Dash always results in an boosted heavy Dragonlash.
+* AC Quick Dash always results in an boosted EX Dragonlash.
+* All versions switches sides on an airborne opponent.
+A more powerful version of his Dragonlash.
+}}
+
+==Super Special Moves==
+====Shoryureppa====
+{{FrameDataCargo-COTW
+|moveId=ken_236236a,ken_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=* Both version are invincible.
+* A version is a double Shoryuken and C version a triple.
+* C version does an embarrassingly low amount of damage, barely more than a level 1 Shippu Jinrai-kyaku.
+}}
+
+====Shippu Jinrai-kyaku====
+{{FrameDataCargo-COTW
+|moveId=ken_236236b,ken_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=*236236B is Ken's highest damage Ignition Gear, mainly done after sideswitch Dragonlash or cancelled into from EX moves like DP, Jinrai, or Hadouken.
+*236236D has full invincibility and can be Braked for a combo extension.
+----
+B version : Excellent damage but slightly harder to juggle into than Shoryureppa due to its slower startup. Ken generally has to spend an EX DP to super cancel into this from most routes to guarantee a hit, however it is much better in whiff punishes or general confirming.
+
+----
+D version : Braking this move against grounded opponent will let you get a combo for potentially slightly higher damage and some of your meter back; +4 on grounded connect means you can link B tatsu, while against a launched opponent you can go into any DP or 214BD. Unlike the B version, this is fast enough to always combo off a DP brake, and it allows Ken the flexibility of going straight into this in a low-scaling combo for max damage, while still being able to cash out in a longer combo off an EX DP super cancel.
+* As a general rule of thumb, if no EX moves (or REV blow counter starter) are used, going straight into this '''without''' a EX DP super cancel will do more damage.
+}}
+
+==Hidden Gear==
+====Shinryu Shoen Ha====
+{{FrameDataCargo-COTW
+|moveId=ken_236236rev
+|description=* Costs 2 bars and only avaiable during S.P.G., displayed damage is with S.P.G. bonus.
+* Resets the Rev meter to 0%, even during Overheat.
+* Has the same animation as Ken's SF4 focus attack with some decent range.
+
+Standard Hidden Gear and mostly a combo ender, though it should be noted that Ken really likes to use level 1 supers, and might frequently lack the meter to use this one. In any case, a Rev reset is appreciated in a final round, as it allows Ken to freely spam Rev moves to dominate neutral and push strong pressure to close out wins.
+}}
+
+==Videos, Links & References==
+
+'''KEN｜Character Breakdown by SNK'''
+{{#ev:youtube|E_OKEaKLjMk}}
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Ken]]

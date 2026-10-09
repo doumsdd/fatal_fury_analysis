@@ -1,0 +1,707 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Mr_Karate_Profile.webp|thumb|A mysterious martial artist in a tengu mask.
+His name and visage evoke memories of a fearsome fighter who, long ago, sowed discord throughout South Town. And yet his strength and skill are all his own—a polished practitioner of the Kyokugen style whose sheer might surpasses current head Marco Rodrigues himself. The verdict among all who fall to the mask is brutally clear: what lies beneath is no mere man, but a true tiger unleashed.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 13f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake, or cancellable to Dragon Burst<br>
+(Midair Only) = Can only be done in the air.<br>
+
+'''Command Moves'''
+
+Mule Kick - [[image:bk.gif]] + [[image:d.gif]] (Midair Only)
+
+Wall Jump - [[image:bk.gif]] + [[image:d.gif]] (Midair only, with back to the corner)
+
+Fall Kick - [[image:bk.gif]] + [[image:d.gif]] (Hold) (Midair only, with back to the corner)
+
+Spirit Charge - [[image:a.gif]] or [[image:c.gif]] (Hold)
+
+Razz - [[image:a.gif]]+[[image:b.gif]]+[[image:c.gif]]
+
+Command Combo 1 - Far [[image:d.gif]] (can be input up to three times)
+
+:'''┗''' Command Combo 2 - [[image:fd.gif]]+[[image:d.gif]]
+:'''┗''' Command Combo 3 - [[image:fd.gif]]+[[image:b.gif]]
+
+Command Combo 4 - [[image:d.gif]] > [[image:d.gif]] (Midair Only)
+
+
+'''REV Blows'''
+
+Toryuu Sen - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Hien Genryuu Kyaku - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Ryuugeki Ken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+:'''┗''' Haoh Shoukou Ken - Hold [[image:c.gif]] (*)
+
+Ryuuga - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+:'''┗''' Kyokugen Ryuuga - Hold [[image:c.gif]] (*)
+
+Hien Shippuu Kyaku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Gen'ei Kyaku - [[image:fd.gif]][[image:bk.gif]][[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Drago Supremo - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Dragon Step - [[image:a.gif]]
+:'''┗''' Shouran Kyaku - [[image:c.gif]] (* = REV only)
+:'''┗''' Dragon Return - [[image:b.gif]]
+:'''┗''' Dragon Roar - [[image:d.gif]]
+::'''┗''' Dragon Roar: Ren - [[image:fd.gif]] + [[image:d.gif]]
+:'''┗''' Dragon Howl - Time Drago Supremo with opponent's high/mid strike (* = REV only)
+:'''┗''' Dragon Dance - Time Drago Supremo with opponent's projectile (*)
+
+Dragon Burst - during certain Heavy or REV special moves, [[image:a.gif]]+[[image:b.gif]] or [[image:rev.gif]]
+
+'''Ignition / Redline Gears'''
+
+Ryuuko Ranbu - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' True Ryuuko Ranbu - [[image:qcf.gif]][[image:hcb.gif]] + [[image:a.gif]]+[[image:c.gif]]
+
+Super Haou Shoukou Ken  - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Muei Ryuuou Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Robert Garcia, hero of old from the ''Art of Fighting'' series, dons the tengu mask to become Mr. Karate, a highly technical, defensive character who combines the explosive combos of Kyokugen karate with ironclad defense, turning opponents’ aggression against them.
+
+It’s difficult to cover everything Mr. Karate can do, since he can do so much. But his basic gameplan is to play the neutral game, shutting down opponents’ long range with his stance and fireballs, playing footsies with his quick far D, punishing from a distance, and even a unique taunt that eats away at patient foes’ REV. This gradually goads the opponent into coming closer, where they are forced to then contest with Mr. Karate’s stout defense via fast buttons, invincible DP, parry from stance (which itself makes an incredible Guard Cancel option), and incredible anti-airs. Mr. Karate can then turn this defense into quite high damage thanks to brakes, REV Accel, his unique Dragon Burst cancels, and stance transitions. 
+
+It seems at this point like Mr. Karate can do everything, but he does have a major weakness: a very risky offense. He lacks plus frames of any kind from beyond throw range, leaving his offense limited to highly committal, read-based mixups. He also has to be careful not to use too much REV, as he stands to lose much more in Overheat, including many of his unique mechanics. Thankfully, he has some incredible resourceless combos and a Spirit Charge to keep his REV down for when he needs it in his combos.
+
+While having weak offense contrasts a good majority of the roster, that hardly matters when Mr. Karate’s myriad of defensive weapons can stop offense on the spot. Thanks to these defensive tools, this character’s skill ceiling and tech depth are unbelievably high, making him a great character for passive player and lab monster alike.
+
+{{StrengthsAndWeaknesses
+| intro = Mr. Karate is a technical all-rounder with stylish combos, defensive prowess, and ability to manipulate both his and his opponent's REV gauge. 
+| pros=
+* '''Long-Range Menace''': Mr. Karate is uniquely strong at fighting from a distance. He completely shuts down other characters’ projectiles, either with his own fireballs or with Drago Supremo’s built-in reflector, and can harass from well beyond their range with Hien Shippuu Kyaku. If the opponent isn’t convinced to approach by this, Mr. Karate can punish their patience by Razzing them, driving up their REV gauge without them doing anything.
+* '''Art of Anti-Airing''': Mr. Karate has every anti-air you could ask for and then some. On top of having a great DP that he can combo off of, he has a solid 2C, great normals for air-to-airing, and even a juggling anti-air normal in far D + its Command Combo for distant anti-airing.
+* '''Crazy Combo Potential''': Mr. Karate can deal great damage and corner carry on nearly every hit thanks to Dragon Burst cancels, Brakable anti-airs, multiple multi-hit normals that make confirming a breeze, and ability to combo one of his Ignition Gears into the other in the corner. With Mr. Karate, you can make every hit really hurt if you’ve got the skill.
+* '''Drago Supremo''': Mr. Karate’s stance can do almost anything, on offense or defense. He can make numerous offensive or defensive plays with its many followups, Guard Cancel into it to shut down offense, reflect fireballs, reset into it to push strike/throw, incoporate its followups into combos, bait whiffs, and so much more. The possibilities with it are almost endless.
+* '''Great Defense''': On top of his solid anti-airs and invincible DP, Mr. Karate has some of the best Guard Cancel options in the game, between his heavy DP counter hit launching, counterattacks from Drago Supremo, and Dragon Step to dodge attacks that he would otherwise be forced to block. When cornered, he gains a wall jump to escape the corner.
+* 👺
+
+| cons=
+* '''Stance-Locked Mix-Ups''': Mr. Karate’s most potent mix-up options are all locked behind his Drago Supremo stance, making many options to open opponents up quite committal unless he finds a hard knockdown that gives him access to his Mule Kick. 
+* '''Very Slow Fireball''': Although Mr. Karate's fireball beats others’ fireballs clean, it is by far the slowest to start up, and as such can easily be jumped and punished on reaction if the opponent is in range to do so. The animation of his feint is also too distinct from the real fireball to fool any seasoned player. 
+* '''Loses Even More in Overheat''': On top of his DP losing invincibility, being Overheated costs Mr. Karate his ability to charge his fireball and DP, and his fireball and Hien Shippuu Kyaku lose their ability to cause knockdowns, costing him a ton of meterless damage potential. However, he can still use Spirit Charge to Cooldown faster. 
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_fA
+|input=
+|description=* Above-average reach for a far A
+* Only chains to itself
+* Combos to 236B and supers at any range
+A low-commitment jab with above-average range, making it great as a hop check, in confirms, or as a quick punish. Its great range allows you to combo from chains of 2+ lights, even two 2Bs. However, beware that nothing that it combos to is safe on block — so avoid raw cancelling this normal in neutral.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_fB
+|input=
+|description=* Mr. Karate’s longest-ranged light normal
+* Fast startup for its range
+A fast, decently-ranged straight kick that can be chained into and combos to all of his supers. This does two things: it makes your light chains into super very reliable, and if you have meter, it becomes quite the scary counterpoke since you can buffer your super behind it.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_fC
+|input=
+|description=* Longer range than it looks due to the forward step during startup
+* On Counter Hit/Wild Punish, a Feint Cancel allows for links to far B or D
+A step punch with good reach that special cancels. 
+
+While using it in neutral is tough due its slow startup and being awful on block or whiff, it reaches far enough to pick up combos after distant Wild Punishes, or to punish a blocked sweep. In these scenarios, it’s very easy to buffer a cancel to 646BD for a full combo. If you use this move outside of punishes, you ''can'' single-hit confirm from it, or feint cancel it for matchup-specific spacing traps.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_fD
+|input=
+|description=
+A decent long-ranged kick with largely the same range as far C, except that it is 2 frames faster and can’t be cancelled to every special. It has a deceptive disjointed hitbox that does not miss crouchers even at a distance. However, several quirks exist with this move that no other normals in the game possess.
+* It is able to cancel into its command combo followups, but it is able to do so even on whiff
+* If it hits an airborne opponent, they are left in a resetting juggle state. Furthermore, it has enhanced juggle capabilities normally only given to specials and supers and can hit opponents mid-juggle without a counter hit
+* it cancels to Drago Supremo (but no other specials), allowing you to use the juggle properties to push a strike-throw 50/50 even at the end of a long combo
+* It can be selectively performed even at close distances by pressing 5B+D
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_clA
+|input=
+|description=* Mr. Karate’s fastest attack
+* Chains to all of his other light normals or his Combination Attack
+* Can be chained into from a point-blank 2B
+A core move of Mr. Karate’s defense-minded moveset, being fast, mashable, chainable, plus on block, and with Mr. Karate’s tall stature, a great hop check as well. 
+
+On grounded hit, you can go into your Combination Attack, mash out a confirm into 236B, or cancel to DP brake to launch your opponent for a full combo, but if you’re close enough, you can chain a close B, pushing your damage from lights even further.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_clB
+|input=
+|description=* Links to 2C on hit and frame traps into it on block
+* Combos to DP brake very reliably; on Counter Hit/Wild Punish, you can even link to the DP
+A powerful normal in Mr. Karate’s arsenal, great for pushing your advantage at close range. Its link to 2C on hit gives you reliable light-to-heavy combo routes, and on block, this same sequence shuts down reversal lights and throws from your opponent. 
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_clC
+|input=
+|description=* The faster of Mr. Karate’s close heavies but has short proximity detection
+* A feint cancel lets this move link to 2C and gives Mr. Karate massive reward on Counter Hit, and makes this move his most advantageous normal on block
+* Fantastic on both hit and block if feint cancelled, otherwise very punishable
+This gut punch is a great close-range button… as long as you remember to feint cancel it. Even though it’s a frame slower than 2C, it links to said button on normal hit when you feint cancel it, and on block that same feint cancel is plus enough to allow a follow-up close/far B or 2C to beat any reversal normals from your opponent. 
+Counter Hitting with this normal gives you a triple-heavy combo, maximizing your damage. To do this, microdash after the first close C, then do a close C/D > feint cancel > 2C > special. It’s tough to time, but you can use your Rev button’s dash macro here.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_clD
+|input=
+|description=* Hits twice, but only the second hit cancels, easily letting you confirm hit or block but potentially leaving you vulnerable to Guard Cancels
+* Forces stand on hit, like all close D’s
+* Links to 2C on normal hit when feint cancelled
+This here’s your main combo starter. Landing it should be one of your goals as Mr. Karate, because from there you easily get this character’s big combos. Like with close C, you can feint cancel it on block and it will be plus, but unlike close C, the opponent can trade their way out of most follow-up pressure (unless you frame trap them with something like charged DP brake).
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_crA
+|input=
+|description=* This and far A have nearly identical frame data
+* Lower damage and range than far A, but you can chain out of it
+For the most part, this normal exists as pure combo filler as you can chain it into any other light normal, making it essential for many confirms. Outside of combos, it is largely outclassed by far A, but it does combo to DP more consistently.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_crB
+|input=
+|description=* Great range and frame data for a 2B
+* Chains to both close lights point-blank, itself and 2A for most of its range, and far B at any range
+* The only non-proximity normal Mr. Karate has that’s plus on hit without feint cancel
+One of the best 2B’s in the game. 
+<br>In addition to all the benefits 2B’s usually get, it has good reach, chains to Mr. Karate’s close normals very well, enables all of his offense by preventing the opponent from walking back out, and he can chain multiple 2B’s and still convert (to a super). It is very abusable, and especially effective when you’ve conditioned your opponent with your other moves.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_crC
+|input=
+|description=* Hits twice, but only the second hit cancels
+* Second hit reaches REALLY high, making it great as an anti-air
+This normal does two things really well. 
+<br>In neutral, it’s a wonderful anti-air due to its high reach, stuffing jump-ins or even some would-be cross-up attempts. Thus it’s your main move to stop opponents from jumping out of the corner, and it’s cancellable. Just be mindful of its poor horizontal range.
+<br>This normal is also a great combo tool, as it links from close B and either of your feint-cancelled close heavies. The two hits give you an easier time to confirm hit or block and choose your cancel appropriately. You should always cancel it, since it’s awful on block if you don’t.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_crD
+|input=
+|description=* On Wild Punish, puts an opponents into an OTG state, letting you follow up with another 2D or a 236236B
+On its own, it’s just an average sweep. The range is about the same as far C, which means it outreaches 2B, if only by a little bit.
+<br>It’s best used at max range, where it becomes safe in many matchups. At this range, it’s also great at tagging opponents walking backward, which is common when they anticipate a stance mix or surprise 236K.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_jA
+|input=
+|description=* Combos to air REV Blow on Counter Hit or Wild Punish
+Mr. Karate’s fastest air normal. Great as an air-to-air, even if a little stubby.  
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_jB
+|input=
+|description=* Can cross up
+Mr. Karate’s j.B is a bit slow for an air light, but makes up for it with its range, both in front of and behind him. 
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_jC
+|input=
+|description=An obnoxious air normal with a deceptive hitbox, this is Mr. Karate’s preferred jump-in normal. It’s lacking in horizontal range, though.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_jD
+|input=
+|description=The hitbox’s downward angle and good forward reach make this normal great for more distant jump-ins. However, combos from it can be somewhat picky due to its pushback on hit. 
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_cla_5c,mrkarate_cla_5c_5c,mrkarate_cla_5c_5d,mrkarate_cla_5c_6d,mrkarate_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_throw
+|description=
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=
+|moveId=mrkarate_4throw
+|input=
+|description=
+}}
+
+==Command Moves==
+====Command Combo 1/2/3: f.D > ...====
+{{FrameDataCargo-COTW
+|name=Command Combo 1/2/3
+|moveId=mrkarate_fd_d, mrkarate_fd_6d, mrkarate_fd_6b
+|input=f.D > D, f.D > D > 6D, f.D > D > 6B
+|input2=f.D > D, f.D > D > f+B, f.D > D > f+B
+|description3=placeholder
+* placeholder
+}}
+
+====Command Combo 4: j.D > D====
+{{FrameDataCargo-COTW
+|name=Command Combo 4
+|moveId=mrkarate_jd_d
+|input=j.D > D
+|input2=j.D > D
+|description=placeholder
+* placeholder
+}}
+
+====Mule Kick====
+{{FrameDataCargo-COTW
+|name=Mule Kick
+|moveId=mrkarate_j4d
+|input=j. 4D
+|input2=j. b+D
+|description=placeholder
+* placeholder
+}}
+
+====Wall Jump====
+{{FrameDataCargo-COTW
+|name=Wall Jump
+|moveId=mrkarate_j4dwall
+|input=j. 4D (near wall)
+|input2=j. b+D (near wall)
+|description=placeholder
+* placeholder
+}}
+
+====Fall Kick====
+{{FrameDataCargo-COTW
+|name=Fall Kick
+|moveId=mrkarate_j4[d]wall
+|input=j. 4[D] (near wall)
+|input2=j. b+[D] (near wall)
+|description=placeholder
+* placeholder
+}}
+
+====Spirit Charge====
+{{FrameDataCargo-COTW
+|name= Spirit Charge
+|moveId=mrkarate_[p]
+|input= [A]/[C]
+|input2=
+|description=By holding down either Punch button when he has any amount of REV Gauge built up, Mr. Karate will begin focusing his ki. A mechanic taken from his home series ''Art of Fighting'', Spirit Charge reduces the REV Gauge as long as it is held down. Mr. Karate can generally find an opportunity to Spirit Charge after a Heavy Hien Shippuu Kyaku if he doesn't use Dragon Burst, after a back throw, or after his command grab. Spirit Charge can't be used if Mr. Karate has 0% REV.
+}}
+
+====Razz====
+{{FrameDataCargo-COTW
+|name= Razz
+|moveId=mrkarate_abc
+|input=ABC
+|input2=ABC
+|description=Every character can taunt by pressing A, B, and C together, but Mr. Karate's taunt actually serves a practical gameplay use. Taking its name and use from the ''Art of Fighting'' series, Razz will increase the opponent's REV Gauge by 17% when used. This can be used to force a high REV opponent into Overheat. Mr. Karate can generally find an opportunity to Razz his opponent after a Heavy Hien Shippuu Kyaku if he doesn't '''Dragon Burst''' it, though some opponents with fast, long range supers might be able to punish him in time.
+
+* Begins increasing opponent's REV gauge at frame 22 and reaches 17% at frame 65.
+
+* The REV Gauge increase will stop if Mr. Karate is hit during the taunt.
+
+* The opponent's REV Gauge build up is unaffected by what S.P.G. Ratio they are currently in. No matter what, their REV Gauge will always increase by 17% as long as Mr. Karate can perform the taunt uninterrupted.
+}}
+
+==REV Blows==
+====Toryuu Sen====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_CD
+|description=
+}}
+
+====Hien Genryuu Kyaku====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_jCD
+|description=
+}}
+
+==Feints==
+====Stand/Forward/Down Feint: Ryuugeki Ken====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_5bc
+|description=
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_2CRev
+|description=
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=mrkarate_crev
+|description=
+}}
+
+==Special Moves==
+====Ryuugeki Ken====
+{{FrameDataCargo-COTW
+|name= Ryuugeki Ken
+|moveId=mrkarate_236A, mrkarate_236A_oh, mrkarate_236C, mrkarate_236C_oh, mrkarate_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description5= Mr. Karate's fireball.
+
+'''OVERHEAT''': Regular versions deals less damage, no longer beats other regular projectiles and no longer knocks down on hit. Heavy version also cannot be charged.
+----
+'''Light version (236A)'''
+* Has poor startup compared to other fireballs but make up for it with the ability to destroy other projectiles without being destroyed itself, making it an excellent tool for countering other Projectiles.
+* Will not destroy REV or super projectiles.
+----
+'''Heavy version (236C)'''
+* Functions largely like the A version but has an even slower startup, making it extremely vulnerable to being jumped.
+* Travels faster than the A version.
+* Can be cancelled into Dragon Burst on hit or block.
+* Can be charged up to turn it into '''Haoh Shoukou Ken''', making the projectile larger and more damaging. This is Mr. Karate's optimal DP punish starter for DPs -45 or worse.
+** There is only one level of charge. Although Mr. Karate can charge the move past this point, it only delays the projectile and does not increase the damage further.
+** Charging the fireball does not grant it the properties of a REV or a super projectile, despite its name and appearance.
+** If Mr. Karate is roughly at full screen, he will recover before the Haoh Shoukou Ken hits the opponent and will thus be unable to cancel it into Dragon Burst.
+** Cannot be done when overheat since Mr. Karate cannot charge this fireball when in that state.
+----
+'''Rev version (236AC)'''
+* A shorter ranged blast of ki that launches the opponent and can be followed up with Dragon Burst.
+}}
+
+====Hien Shippuu Kyaku====
+{{FrameDataCargo-COTW
+|name= Hien Shippuu Kyaku
+|moveId=mrkarate_236B, mrkarate_236B_oh, mrkarate_236D, mrkarate_236D_oh, mrkarate_236BD
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description5=A flying kick with good range and is one of Mr. Karate's staple combo tools.
+
+'''OVERHEAT''': Regular versions deals less damage and no longer knock down. This makes them punishable '''ON HIT''' if up close.
+----
+'''Light version (236B)'''
+* Light confirm combo ender and works at any range from 2A or f.A.
+* It can also be used as an advancing poke in neutral provided Mr. Karate spaces it right.
+** It is punishable when used up close but can be made up to -2 when spaced enough.
+* Because Mr. Karate has outstanding launch juggle damage when compared to his lacklustre close/crouching heavies, this usually serves as his optimal DP punish starter.
+----
+'''Heavy version (236D)'''
+* Your go-to bread and butter combo ender. It can be followed up with Dragon Burst and comboed into Light Ryuuga.
+** If the opponent is launched high enough before they are hit with this move, Mr. Karate can also follow up with Heavy Ryuuga or Ryuuko Ranbu.
+----
+'''Rev version (236BD)'''
+* Mostly the same as Heavy Shippuu Kyaku outside of being able to REV Accel it.
+* Also launches the opponent slightly higher than the Heavy version, allowing a juggle into Heavy Ryuuga.
+}}
+
+====Ryuuga====
+{{FrameDataCargo-COTW
+|name= Ryuuga
+|moveId=mrkarate_623A, mrkarate_623A_oh, mrkarate_623C, mrkarate_623C_oh, mrkarate_623AC
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description5=Mr. Karate's DP.
+
+'''OVERHEAT''': Light version loses its invincibility (like other meterless invincible DPs). Heavy version cannot be charged.
+----
+'''Light version (623A)'''
+* As usual, this version has full body invincibility like most light DPs.
+----
+'''Heavy version (623C)'''
+* Only has air invincibility but can be Braked.
+* Can be charged to turn it into '''Kyokugen Ryuuga''', dealing more hits and more damage in exchange for longer startup.
+** Mr. Karate maintains air invincibility for the entire duration of the charge up.
+** When Braked, it launches the opponent higher than a normal Heavy Ryuuga Brake, allowing for additional combo opportunities.
+----
+'''Rev version (623AC)'''
+* Essentially the same as the C version, except faster and usable in more juggle sitations, such as from a REV Shouran Kyaku.
+* Does an astounding 180 base damage when fully charged, making it the highest damage non-grab REV special in the game.
+** Mr. Karate can easily combo into a fully-charged REV Ryuuga off of a REV Accel and, if in SPG, can combo out of it using an air REV Blow to quickly bring him back to the ground.
+}}
+
+====Gen'ei Kyaku====
+{{FrameDataCargo-COTW
+|name= Gen'ei Kyaku
+|moveId= mrkarate_646B, mrkarate_646B_oh, mrkarate_646D, mrkarate_646D_oh, mrkarate_646BD
+|input=646B/D/BD
+|input2=f,b,f+B/D/BD
+|description5= A flurry of rapid kicks.
+
+'''OVERHEAT''': Regular versions deals less damage.
+----
+'''Light version (236B)'''
+* Can be used as a combo ender after a juggle from a braked Heavy Ryuuga. It has less corner carry than Heavy Hien Shippuu Kyaku but does more damage in certain combos.
+----
+'''Heavy version (236D)'''
+* Has slower startup but can be Dragon Bursted out of.
+** Mr. Karate can only combo into a light Ryuuga from this move as it vacuums the opponent down into a fixed height on hit.
+----
+'''Rev version (236BD)'''
+* Mr. Karate's main REV Accel combo starter.
+* Can also be Dragon Bursted out, giving Mr. Karate the uncommon flexibility of spending just a single REV art for a decent combo.
+}}
+
+====Drago Supremo====
+{{FrameDataCargo-COTW
+|name= Drago Supremo
+|moveId=mrkarate_214k, mrkarate_214BD
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description2= Mr. Karate lifts one leg up and enters his Drago Supremo stance. He has four different followups out of this stance, but when used by itself Drago Supremo functions as a parry that works on strikes and projectiles, with different properties depending on how soon after activating the stance Mr. Karate parries an attack. Drago Supremo has a bit of startup similar to Nightmare Geese's counters, 3 frames for the normal version and 2 frames for the REV version, so it will not work as a wakeup reversal against properly timed meaties.
+
+Drago Supremo will parry all Mid and High strike including supers and REV Blows as well as non-REV and non-super projectiles, but loses to Lows and Throws. Additionally Drago Supremo cannot counter attacks that are behind Mr. Karate such as cross-ups. When a parryable strike connects, Mr. Karate will automatically follow up with Dragon Roar. When a parryable projectile connects, Mr. Karate will destroy it and remain in Drago Supremo stance.
+
+* '''REV Drago Supremo''' and its followups are mostly the same, but Mr. Karate gains the ability to Dragon Burst after '''Shouran Kyaku''' and can REV Accel after '''Dragon Roar''' and '''Dragon Howl'''. Mr. Karate also gains the ability to parry Lows and REV projectiles, though the stance will still lose to Throws, cross-ups, and super projectiles.
+
+* If Mr. Karate parries a strike immediately after activating Drago Supremo, he will instead perform '''Dragon Howl''', a stronger attack. Even if the opponent was airborne when they triggered Dragon Howl, they will be forced into a grounded state for the animation. '''REV Dragon Howl''' can be followed up with Dragon Burst or a REV Accel. This makes Drago Supremo a good option when attempting a Guard Cancel, as certain REV Accel blockstrings that blow up other Guard Cancel options like a REV Accel into a REV DP will be countered by Dragon Howl.
+
+* If Mr. Karate parries a projectile immediately after activating Drago Supremo, he will reflect the projectile instead of destroying it.
+}}
+
+====Drago Supremo Follow-ups====
+=====Dragon Step=====
+{{FrameDataCargo-COTW
+|name= Dragon Step
+|moveId=mrkarate_214k_a, mrkarate_214bd_a
+|input=214K/BD > A
+|input2=qcb+K/BD > A
+|description2= Mr. Karate sways backward. Functionally speaking, it’s nearly identical to ''Street Fighter V''’s V-Shift mechanic; a well-timed backsway will dodge any strike, be it high or low, front or behind, and trigger a slowdown that can be cancelled to Drago Supremo’s other follow-ups. This can dodge throws, but no slowdown will be triggered. Of course, the backsway doesn’t work against projectiles. 
+
+'''OVERHEAT''': Unchanged.
+----
+'''Regular versions (214K > A)'''
+* If the slowdown is cancelled into one of the other Drago Supremo follow-ups, they become enhanced; '''Dragon Return''' resolves significantly faster, while '''Shouran Kyaku''' and '''Dragon Roar''' become fully invincible.
+* While Dragon Step doesn't cause a slowdown against air normals during its active frames, the enhanced follow-ups can still be used if it does successfully dodge them. This gives Mr. Karate a limited form of defence against sloppy attempts to hit him with a cross up.
+----
+'''Rev version (214BD > A)'''
+* Has a longer dodge window and slightly shorter recovery when it doesn’t dodge something.
+* Cancelling it into Shouran Kyaku or Dragon Roar gives you the REV versions, which are also fully invincible. You can REV Accel from them.
+}}
+
+=====Dragon Return=====
+{{FrameDataCargo-COTW
+|name= Dragon Return
+|moveId=mrkarate_214k_b, mrkarate_214bd_b
+|input=214K/BD > B
+|input2=qcb+K/BD > B
+|description2= Mr. Karate exits Drago Supremo without attacking.
+
+'''OVERHEAT''': Unchanged.
+----
+'''Regular versions (214K > B)'''
+* Mr. Karate is in Wild Punish state for the entire duration. 
+----
+'''Rev version (214BD > B)'''
+* Identical to the regular versions.
+}}
+
+=====Shouran Kyaku=====
+{{FrameDataCargo-COTW
+|name= Shouran Kyaku
+|moveId=mrkarate_214k_c, mrkarate_214bd_c
+|input=214K/BD > C
+|input2=qcb+K/BD > C
+|description2= Mr. Karate runs at the opponent and grabs them, delivering several quick knees to their face. The command grab follow-up to Drago Supremo, this threatens opponents who get scared to press against the stance.
+
+'''OVERHEAT''': Unchanged.
+----
+'''Regular versions (214K > C)'''
+* Mr. Karate’s only hard knockdown besides the universal throws, REV Blow and supers.
+* If done off a Dragon Step counter, gains a variable amount of full invincibility based on the remaining "unused" counter frames of said Dragon Step.
+** This special Shouran Kyaku always loses its invincibility 4 frames before grabbing, which could cause it to lose to moves with many active frames.
+----
+'''Rev version (214BD > C)'''
+* Runs significantly faster and slightly further, and although it does less damage on its own, you can cancel it to Dragon Burst or REV Blow, overall increasing your damage from it.
+* The special invincible version of REV Shouran Kyaku has exact the same caveats as the regular versions.
+}}
+
+=====Dragon Roar=====
+{{FrameDataCargo-COTW
+|name= Dragon Roar
+|moveId=mrkarate_214k_d, mrkarate_214bd_d
+|input=214K/BD > D
+|input2=qcb+K/BD > D
+|description2=Mr. Karate attacks the opponent with an overhead heel. Mr. Karate also performs this attack automatically if he parried a strike too late for '''Dragon Howl'''. 
+
+'''OVERHEAT''': Unchanged.
+----
+'''All versions'''
+* Hold either the B or D button to immediately return to Drago Supremo.
+** If Mr. Karate does this, this move become safe against strikes even though it's -5 otherwise.
+* You will return to the regular stance regardless of whether you did the regular or REV stance beforehand.
+* Has an optional follow-up, '''Dragon Roar: Ren'''. 
+* The startup has brief invincibility to low attacks, and any low that is dodged within this window will trigger a slowdown, easily letting you confirm the follow-up.
+** Slowdown triggers against quick low attacks like 2B do not guarantee a punish due to Dragon Roar's slow startup.
+** Mr. Karate can also link into 2A at most ranges it counters a low/throw attack.
+* Launches if they counter hit an airborne opponent, giving you big punishes against air REV Blows (or some moves like Terry’s Power Dunk). 
+----
+'''Rev version (214BD > D)'''
+* Becomes safe on block at -1, and you can REV Accel it.
+----
+'''Special versions (Dragon Step / Counter)'''
+* If Dragon Roar is done out of a Dragon Step counter, all versions gain full invincibility until the end of their active frames.
+* If Dragon Roar automatically triggered via a Drago Supremo parry, all versions gain full invincibility until the end of their recovery frames.
+* All versions otherwise retain their original properties and frame data.
+}}
+
+=====Dragon Roar: Ren=====
+{{FrameDataCargo-COTW
+|name= Dragon Roar Ren
+|moveId=mrkarate_214k_d_6d, mrkarate_214bd_d_6d
+|input=214K/BD > D > 6D
+|input2=qcb+K/BD > D > f+D
+|description2= Mr. Karate follows up Dragon Roar with a second kick. 
+* The only difference between regular and REV is that you can REV Accel it, not only giving you additional combo opportunities but potentially saving you from how egregiously unsafe it is on block.
+}}
+
+=====Dragon Howl=====
+{{FrameDataCargo-COTW
+|name= Dragon Howl
+|moveId=mrkarate_214k_perfect, mrkarate_214bd_perfect
+|input=214K/BD
+|input2=qcb+K/BD
+|description2= If Mr. Karate is struck within frames 5 to 7 of entering Drago Supremo, he will perform this devastating counterattack. 
+* This counterattack is functionally a hitgrab; it will re-stand opponents it hits, even if they were airborne.
+* '''REV Dragon Howl''' parries attacks even faster — on frame 3 instead of frame 5 — making it an excellent answer to frame traps and a highly effective (albeit costly) Guard Cancel option. While the counterattack does less damage, you can also cancel it to Dragon Burst or REV Accel it, giving you a combo from it in both cases, but the combo will have extra scaling.
+* Against long-ranged hitboxes (e.g. from Billy), Dragon Howl's second hit may fail to combo. The resulting third hit will be -31 on block or -4 on REV Dragon Howl into Dragon Burst.
+}}
+
+=====Dragon Dance=====
+{{FrameDataCargo-COTW
+|name= Dragon Dance
+|moveId=mrkarate_214k_fireball, mrkarate_214bd_fireball
+|input=214K/BD
+|input2=qcb+K/BD
+|description2= Mr. Karate swats away an incoming projectile. 
+* If done at any point during the stance following the initial parry frames, Mr. Karate will simply kick the projectile out of existence. However, to deal with REV projectiles, Mr. Karate will have to be in '''REV Drago Supremo'''.
+* If a projectile makes contact with Mr. Karate during frames 5 to 7 of entering Drago Supremo (frames 3 to 5 for the REV version), he will instead reflect the projectile back at the opponent. 
+* Successful Dragon Dances can be cancelled to any of Drago Supremo’s input follow-ups, as well as Dragon Burst. If Mr. Karate doesn’t cancel the Dragon Dance, he will instead remain in Drago Supremo. 
+}}
+
+==Super Special Moves==
+====Ryuuko Ranbu====
+{{FrameDataCargo-COTW
+|name=Ryuuko Ranbu
+|moveId=mrkarate_236236a, mrkarate_236236c, mrkarate_2363214ac
+|input=236263A/C, 2363214ac
+|input2=qcfqcf+A/C, qcf,hcb+AC
+|description3= Mr. Karate's iconic Ryuuko Ranbu combo super returns. Ryuuko Ranbu is less damaging than Super Haou Shoukou Ken but has faster startup, {{tt|allowing it to work in combos where Super Haou Shoukou Ken won't|However, Mr. Karate's can still combo into Super Haou Shoukou Ken anyways by utilizing a forced far D input and still have it land 1 frame faster on frame 8.}}. It's also Mr. Karate's invincible super, making it a good reversal option during Overheat.
+* The '''Redline Gear''' version is slightly faster than the Ignition Gear version and does more damage.
+
+* When Mr. Karate is in S.P.G. and has two bars of Power Gauge, he can instead input 2363214AC to perform '''True Ryuuko Ranbu'''. It has the same range and startup as the normal Redline Gear version but does slightly more damage and has a different finishing move. Though it is a neat nod to the traditional Ryuuko Ranbu input, it's largely redundant compared to his Hidden Gear due to having the same use conditions (requiring 2 bars of super meter and S.P.G.) but it does less damage, has one frame slower startup, and does not reset the REV Gauge back to 0%. The only thing it has over his Hidden Gear is its longer range.
+
+}}
+
+
+====Super Haou Shoukou Ken====
+{{FrameDataCargo-COTW
+|name=Super Haou Shoukou Ken
+|moveId=mrkarate_236236b,mrkarate_236236d
+|input=236263B/D
+|input2=qcfqcf+B/D
+|description2= Mr. Karate performs another signature Kyokugen technique. He rears back and focuses energy into both hands before turning it forwards, unleashing a massive screen-high fireball that flies at a blistering speed.
+----
+'''Ignition Gear version (236236B)'''
+* Deals more damage than his Ignition Ryuko Ranbu and is the preferred 1 bar ender in combos.
+* If it hits high enough in the corner, Mr. Karate can often tack on at least a light Ryuuga.
+* Destroys other non-super projectiles while travelling across the screen very quickly.
+** This is useful for shutting down opponents attempting to counter zone Mr. Karate with REV projectiles.
+* If charged, Super Haou Shoukou Ken will deal more damage and have increased durability, allowing it to negate other uncharged Ignition projectiles but not Redline projectiles.
+----
+'''Redline Gear version (236236D)'''
+* Fires three fireballs instead of one, instantly dominating any fireball war.
+* Can be cancelled into Dragon Burst on the second hit, which can be followed up with a Heavy Hien Shippuu Kyaku, even from full screen.
+* Like the Ignition version, charging the Redline version will cause it to deal more damage and have increased durability. Each charged Redline Super Haou Shoukou Ken projectile negates all projectiles while clashing with other charged Redline projectiles (Kaiser Wave, Super Haou Shoukou Ken).
+}}
+
+==Hidden Gear==
+====Muei Ryuuou Kyaku====
+{{FrameDataCargo-COTW
+|name=Muei Ryuuou Kyaku
+|moveId=mrkarate_236236REV
+|description= placeholder
+* placeholder
+}}
+
+==Videos, Links & References==
+
+
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Mr. Karate]]

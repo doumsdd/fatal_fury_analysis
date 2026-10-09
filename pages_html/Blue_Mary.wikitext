@@ -1,0 +1,728 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Mary_Profile.png|thumb|Special agent active in South Town.<br>
+With another case under her belt, Blue Mary takes time off from her tumultuous profession—until Geese's legacy and the Sacred Scrolls force an about-face.<br>
+Knowing that duty calls, she revs her motorbike and rides into investigative action once more, inescapable Commando Sambo at the ready.<br>
+Foes beware—get caught in her web and all you can do is pray that you’ll walk away in one piece. 
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15~23f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+
+'''Command Moves'''
+
+Heel Fall - [[image:fd.gif]] + [[image:b.gif]]
+
+Command Combo 1 - Far [[image:b.gif]] > [[image:d.gif]] > [[image:d.gif]]
+
+Command Combo 2 - Far [[image:d.gif]] > [[image:d.gif]]
+
+Command Combo 3 - Jump [[image:a.gif]] > [[image:b.gif]]
+
+
+'''REV Blows'''
+
+M. Spinning Kick - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+M. Spider: R - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Spin Fall - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' M. Spider - (Heavy/REV) [[image:fd.gif]] / [[image:bk.gif]]  + [[image:b.gif]] / [[image:d.gif]]
+
+Straight Slicer - [[image:bk.gif]] ~ [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' M. Crab Clutch - (Heavy/REV) [[image:fd.gif]] / [[image:bk.gif]]  + [[image:b.gif]] / [[image:d.gif]]
+
+Vertical Arrow - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+:'''┗''' M. Snatch - (Heavy) [[image:fd.gif]] / [[image:bk.gif]]  + [[image:b.gif]] / [[image:d.gif]]
+
+Real Counter - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Backdrop Real - [[image:fd.gif]] / [[image:bk.gif]]  + [[image:a.gif]] / [[image:c.gif]]
+
+Quick Step: A - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Quick Step: D - [[image:bk.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' M. Arrest - [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Quick Step: D - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Quick Step: A - [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Both Quick Step follow-ups :
+:'''┗''' Quick Counter - [[image:bk.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Quick Fall - [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Quick Slicer - [[image:dn.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Quick Arrow - [[image:df.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+M. Arrest: D - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+M. Dynamite Swing - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+
+M. Sky Rose - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Blue Mary is one of, if not THE most aggressive character in the game. As a highly mobile grappler, Mary excels at fighting up close and personal, then pushing her advantage through nearly every single offensive weapon imaginable. 
+
+As a character who wants to move up close, Blue Mary has a few tricks up her sleeve to help her get in, most notably her Quick Step (236P/214P), a command dash in either direction that she can cancel into and out of, making her movement hard to predict. She can also high-profile or low-profile pokes with Spin Fall (236K) and Straight Slicer ([4]6K) respectively, both of which have knockdown follow-ups that highly reward Mary for slipping through an opponent’s neutral game.
+
+Once Blue Mary has closed the gap, the fun really starts. Mary is a queen of close-range combat, sporting some of the greatest hitconfirms, plus frames, an overhead, multiple command grabs, the aforementioned cancelable command dash, and her unique Real Counter (214K) to dodge mashing and reversals and either punish with a command grab, or something stronger entirely. When she lands a hit, her combos deal extreme damage, are highly REV-efficient, and go into one of several hard knockdowns through her special move follow-ups; once Mary’s on top of an opponent, there’s no one better when it comes to mixing and pressuring an opponent until they crack. Not even jumping out is easy when Mary has a juggling air to air and two unblockable anti-airs in REV Vertical Arrow (623BD) and M. Dynamite Swing (236236K), making jump-outs and hops carry major risk.
+
+It’s important to stress, however, that Blue Mary is ''all'' about the close-range, with very little to her name from afar. She has no good pokes for footsies, making her mid-range a hassle. Mary is thus a character who doesn’t play the patient game or lame anyone out — she gets up close and personal, and she lays down the hurt with some of ''CotW''’s most oppressive offense.
+
+{{StrengthsAndWeaknesses
+| intro = Blue Mary is a highly mobile grappler who specializes in close-range combat, constantly mixing the opponent and enforcing guessing games.
+| pros=
+* '''Close-Range Powerhouse''': Blue Mary is nigh-unstoppable when she’s in the opponent’s face. With multiple command grabs, a spotdodge, great confirms, incredibly potent frame traps, a fantastic knockdown air to air, a command dash ''and'' backdash, a true anti air command grab, and the constant threat of strike-throw and high-low mix, Blue Mary can put opponents into horrible situations where it can feel like there’s no way out once she’s in, and capitalize on that better than almost any other.
+* '''Mobility''': Blue Mary is incredibly nimble on the ground thanks to her special Quick Dashes, allowing her to dart into her ideal range, or out of an opponent’s. Her {{tt|Spin Fall|Which has a feint, and tricky timings.}} and Straight Slicer specials allow her to zip over or under an opponent’s attacks from MUCH further than her Dodge Attacks.
+* '''Hard Knockdowns:''' The hitgrab follow-ups on Blue Mary’s specials grant hard knockdowns which allow her to keep her offense going without having to worry about rolls.
+* '''Obliterating Life Bars At A Reasonable Price''': Blue Mary’s link combos build up remarkably little REV for the sheer damage and okizeme that they provide, often clearing a lot of the built-up gauge through follow-up damage. This not only means Blue Mary can end rounds with shocking speed ''and'' efficiency, but it also affords Blue Mary more opportunities to spend REV elsewhere, such as in her mix-ups, frametraps, or anti-airs. 
+* '''Closes Out Rounds Easily''': Unique to Blue Mary are two anti-airs that can’t be Just Defended in REV Vertical Arrow and M. Dynamite Swing. This means you cannot simply turtle and attempt air JDs when at low health, as Mary can ignore that and kill you anyways.
+* '''Incredibly Rewarding Defense''': Along with her efficient high damage, Blue Mary sports a command grab super that comes out in merely '''two frames''', with the REV version being '''frame ONE'''. This means Mary can punish many being common pressure sequences, pokes, or enders that only Tizoc can, with a ''much faster motion''. Additionally, Real Counter also grants her access to one of the most annoying just defend tools in the game.
+| cons=
+* '''Awkward Mid-range''': Where Spin Fall, Quick Step (for projectile dodges), and Slicer grant her decent options from far away, they are incredibly risky up close. Mary's longest range pokes either have awful framedata or straight up whiff on crouchers as well. This limits her midrange capabilities, making it a defined danger zone for her.
+* '''Terrible High Dodge Attack''': Mary's universal anti air has so little range that it will genuinely whiff against most jump angles unless the opponent puts out a button. Its height and angle aren't even that good, either. This makes it extremely risky to use in neutral, as empty jump whiff punishes are a realer threat than ever.
+* '''No Meterless Reversal''': Blue Mary’s DP is not invincible to anything grounded, and Real Counter is no longer frame 1 invulnerable. As such, your only options are your supers, and don't be fooled - you CAN jump the command grab after the flash (unless it's REV).
+* '''Poor Light Confirms''': Blue Mary's cancelable lights have an astonishingly low range, leaving most of her {{tt|light confirms limited to her target combo|This means her potential reward off her command overhead is much lower than other characters with an one. However, having a command overhead is a major upside alone.}}. 
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=bluemary_fa
+|display=180x180px
+|description=
+* It's unimpressive.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=bluemary_fb
+|display=170x170px
+|description=
+Mary does a straight side kick.
+* Reliably combos into D > D Command Combo, unless it hits an extended hurtbox.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=bluemary_fc
+|display=170x170px
+|description= Long ranged, but pretty terrible framedata wise.
+* Wild Punish +19 (+23 if feint cancelled).
+* Converts into 236AC > clB on counterhit.
+* Mary can usually get a run up clD on feint cancel if wild punish, even from far away.
+* Reliably punishes most sweeps.
+This is a risky button to use, but since it's your largest mid you have to use it eventually. Decent to counterhit fish with if your timing is good. Nonetheless, having a bad long ranged button is better than having no long ranged buttons at all.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=bluemary_fd
+|display=180x180px
+|description=
+Mary does a high roundhouse kick.
+* Wild Punish +24.
+* Misses crouching opponents unless very close.
+* Mary's best Wild Punish button with the best combination of range and speed.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=bluemary_cla
+|display=180x180px
+|description=
+* Chains into close B at point blank range, which is crucial for her REV Quick Step combos.
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=bluemary_clb
+|display=170x170px
+|description=
+Terrifying normal on Blue Mary's kit that grants high damage on hit and fantastic pressure on block.
+* Links into close C at point blank range, which is crucial for her REV Quick Step combos. Links into 2C otherwise.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=bluemary_clc
+|display=140x190px
+|captions=<br>First hit,<br>Second hit
+|description=
+Mary swings her hand upwards in a slicing motion, hitting twice.
+* Wild Punish +21 (+27 if feint cancelled).
+* A very important button for Mary and key to many of her combo routes.
+* If cancelled into a REV Quick Step, Mary will be {{tt|+5 on hit|+0 on block}}, allowing a link into either cl.A or 2A > clB.
+** On a counter hit, you can combo into clB and link into another clC off that. You '''must''' confirm the counter hit into either clB or clC, because the extra counter hit pushback will cause the usual clA > clB link to turn into clA > fB.
+* Links into 2C after a feint cancel.
+* Second hitbox is surprisingly high, will catch attempted hops and jumps with ease.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=bluemary_cld
+|display=200x200px
+|description=
+Mary strikes the opponent in the midsection with a knee.
+* Wild Punish +23 (+28 if feint cancelled)
+* Forces stand on hit
+* Links into itself on a feint-cancelled counter hit, but usually requires a difficult dash cancel or microwalk.
+** Cancelling into 236AC makes this link much easier, at the cost of REV.
+* +2 on block when canceled with 236AC.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=bluemary_cra
+|display=140x140px
+|description= HORRIBLE range for a 2A. This ruins what would otherwise be a great button.
+* Your most reliable and highest damage ender is far B > D > D Command Combo. That’s it.
+* Combos to 623D brake up close, but this will scale your combo hard. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=bluemary_crb
+|description= A pretty decent 2B. Use it to stop opponents from walking away from your Quick Step mix.
+* Your main low abare.
+* Easily converts into 5B command combo at most ranges.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=bluemary_crc
+|display=170x170px
+|captions= chode
+|description=Stubby, yet highly important pressure tool. 
+* Wild Punish +18 (+24 if feint cancelled)
+* Massive confirm window into any Slicer, including from Quick Step.
+* Combos into itself on Counter Hit when feint canceled.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=bluemary_crd
+|description=Pretty average sweep.
+* On Wild Punish, puts the opponent in an OTG state. Your highest damage follow-up is REV Blow, but outside of S.P.G, you can follow up with a second 2D or any version of Straight Slicer.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=bluemary_ja
+|display=160x160px
+|description=
+* Mary’s fastest air normal, with an available Command Combo follow-up on Counter Hit or Wild Punish.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=bluemary_jb
+|display=150x150px
+|description=Great downward-reaching normal to start combos or pressure.
+* Can cross-up
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=bluemary_jc
+|display=160x160px
+|description=Fantastic pre emptive air to air/pressure tool.
+* Grants a knockdown on hit, which you can actually convert from in most cases with 623D brake.
+Ignorant hitbox, but very slow. However, unlike most other normals that put the opponent into a juggle state, it has an extra active frame and does more damage compared to em. As such, it hits crouchers a lot easier than the others. Given its range, this makes Mary's jC an incredibly strong callout air to air, and a superbly powerful part of her offense.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=bluemary_jd
+|description=Long, but shallow jD.
+* Doesn't see too much use over jC, but it does have incredible range, offering occasional utility.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=bluemary_cla_5c,bluemary_cla_5c_5c,bluemary_cla_5c_5d,bluemary_cla_5c_6d,bluemary_cla_5c_2d
+|captions=,<br>cl.AC,<br>cl.ACC,<br>D ender,,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as her Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as her 2D, meaning it's very unsafe on block.
+|display= 120x140px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=bluemary_throw
+|display=170x170px
+|description=
+* Two forward dashes after a successful throw gets you point blank and +3, perfect for pushing Mary’s deadliest mix-ups. This setup also perfectly times Real Counter to dodge every wakeup reversal, except for a few supers.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=bluemary_4throw
+|display=180x180px
+|description=
+* This throw catapults opponents a pretty substantial distance, so it’s really difficult to push a mix-up afterward. However, against cornered opponents, safe jump setups do exist, and Real Counter still dodges wakeups.
+}}
+
+==Command Moves==
+====Heel Fall====
+{{FrameDataCargo-COTW
+|moveId=bluemary_6b
+|display=200x200px
+|description= Quick overhead.
+* Your best option after this is 2B > 5B > command combo. Vertical Arrow is prone to whiffing at most ranges, and light slicer doesn't grant a hard knockdown.
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Command Combo 1
+|moveId=bluemary_fb_fd,bluemary_fb_fd_fd
+|display=180x160px
+|captions=<br>Far B > D,<br> Far B~D > D
+|description2=
+Mary spins around and does a high side kick with her other foot
+* The 2nd kick is largely similar to her far D but with a worse hitbox that will not hit crouching opponents even if close. It is +3 on block for some reason.
+** However, if the initial far B hits, the 2nd kick will hit crouching opponents.
+** It can also be slightly delayed, '''allowing extra time for hit-confirms''' or the ability to mess up an opponent's JD/HD timing.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=bluemary_fd_fd
+|display=180x180px
+|description=
+This is the Command Combo of all time. 
+* Only comes out if far D hit or was blocked.
+* While it helps to have your pokes do more damage, this Command Combo has a lot of problems. It’s always unsafe on block, you’re never in throw range on hit, and doing it means you lose out on far D’s excellent Counter Hit or Wild Punish conversions. It’s good for when far D Counter Hits an airborne or backdashing opponent, but that’s about it.
+
+}}
+
+====Command Combo 3====
+{{FrameDataCargo-COTW
+|moveId=bluemary_ja_jb
+|display=150x150px
+|description=
+One of those air Command Combos that sets up a left-right mix-up on the opponent’s landing, and off of Mary’s fastest air normal at that. 
+* Can only be done during a full jump.
+* Hitting it on an airborne opponent while descending allows you to or Quick Step under the opponent to go to the other side. Slightly delaying the dash fakes this cross-under and keeps you same side.
+}}
+
+==REV Blows==
+====M. Spinning Kick====
+{{FrameDataCargo-COTW
+|moveId=bluemary_cd
+|display=170x170px
+|description=A worse-than-average REV Blow when used raw.
+* It really struggles to hit anyone in the air, the hitbox is not good.
+* Travels super far forward before coming out, making it easy to whiff punish and easier to grab.
+* Hits OTG, and is in fact Mary’s most damaging OTG by a mile when it’s available. Use it when your sweep Wild Punishes.
+}}
+
+====M. Spider: R====
+{{FrameDataCargo-COTW
+|moveId=bluemary_jcd
+|display=150x150px
+|description=
+Mary somersaults in the air before lunging with an outstretched arm. If it hits, she transitions into a flying arm bar, pulling her opponent into the ground and snapping the arm.
+* Does not go into the hitgrab if it hits an airborne opponent, but the full damage of the REV Blow will instead be on the first hit.
+* Also does not go into the hitgrab on counter hit, but does not deal full damage on grounded opponents.
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=bluemary_5bc
+|display=180x180px
+|description=Mimics the startup of Spin Fall.
+* Crosses up when close. This isn't mix, but it can be used to screw up someone's DP reaction.
+}}
+
+====Down / Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=bluemary_2bc
+|display=160x160px
+|description=*Blue Mary's fastest feint and the one used in her normal framedata.
+Mimics Real Counter.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=bluemary_2crev
+|display=180x180px
+|description=
+* Cannot be cancelled on block.
+* Wins against standing normals, jump attacks and REV Blows.
+* It's really really small. Use it sparingly.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=bluemary_crev
+|captions=<br>Overhead,<br>Mid
+|description=* Universal overhead, wins against lows and throws.
+* On Counter Hit or Wild Punish, links to 2C.
+* Safer as an overhead than 6B, but doesn’t give a combo outside of Counter Hit or Wild Punish.
+}}
+
+==Special Moves==
+====Spin Fall====
+{{FrameDataCargo-COTW
+|moveId=bluemary_236b,bluemary_236d,bluemary_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|display=180x180px
+|description3=
+* placeholder
+----
+'''236B :'''
+* placeholder
+----
+'''236D :'''
+* Plus on block if the opponent crouches.
+----
+'''236BD :'''
+* Always plus on block.
+}}
+<!-- M. Spider (236K follow-up)-->
+{{FrameDataCargo-COTW
+|name=M. Spider
+|moveId=bluemary_236d_6b,bluemary_236bd_6b
+|input=236D/BD > 4/6K
+|input2=qcf+D/BD > b/f+K
+|display=190x190px
+|description2=
+* Even though the move list says this follow-up requires a 4/6K motion, it is also possible to do perform it using 2K. This is probably to make the Quick Step -> Slicer follow up more intuitive to do.
+}}
+
+====Straight Slicer====
+{{FrameDataCargo-COTW
+|moveId=bluemary_46b,bluemary_46d,bluemary_46bd
+|input=[4]6B/D/BD
+|input2=Charge b~f+B/D/BD
+|display=180x180px
+|description3=
+* Mary slides across the screen at quick speed. NOT A LOW
+----
+'''B version :'''
+* placeholder
+----
+'''D version :'''
+* placeholder
+----
+'''BD version :'''
+* placeholder
+}}
+
+<!-- M. Crab Clutch ([4]6K follow-up)-->
+{{FrameDataCargo-COTW
+|name=M. Crab Clutch
+|moveId=bluemary_46d_6b,bluemary_46bd_6b
+|input=[4]6D/BD > 4/6K
+|input2=Charge b~f+D/BD > b/f+K
+|display=190x190px
+|description2=
+* Even though the move list says this follow-up requires a 4/6K motion, it is also possible to do perform it using 2K. This is probably to make the Quick Step -> Slicer follow up more intuitive to do.
+}}
+
+====Vertical Arrow====
+{{FrameDataCargo-COTW
+|moveId=bluemary_623b,bluemary_623d,bluemary_623bd
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|display=190x190px
+|description3=
+*Only the D version allows a manual follow-up, while BD triggers it automatically if not braked.
+----
+'''623B :'''<br>
+A very fast DP that beats air attacks clean.
+* '''Not invincible on startup''' except to air attacks.
+----
+'''623D :'''
+* One of the slower brakeable DPs in the game at 9 frames but launches the opponent unusually high.
+** Usually followed with a charged (i.e. non-dash) D Straight Slicer, which can be juggled into any of her non-command grab supers, or a 623B.
+** Mary can even combo into a ground REV blow off of this due to the juggle height.
+----
+'''623BD :'''
+* Cannot be braked on whiff and is air unblockable.
+}}
+<!-- M. Snatch (623D follow-up)-->
+{{FrameDataCargo-COTW
+|name=M. Snatch
+|moveId=bluemary_623d_6b
+|input=623D > 4/6K
+|input2=dp+D > b/f+K
+|display=190x190px
+|description=
+* Even though the move list says this follow-up requires a 4/6K motion, it is also possible to do perform it using 2K. This is probably to make the Quick Step -> Slicer follow up more intuitive to do.
+}}
+
+====Real Counter====
+{{FrameDataCargo-COTW
+|name=Real Counter
+|moveId=bluemary_214b,bluemary_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|display=160x160px
+|description2=
+Blue Mary’s dodge move is even throw-invulnerable during some of its fully invulnerable frames.
+* Both versions can be cancelled into her command grab follow-up
+----
+'''214B/D :'''
+* placeholder
+----
+'''214BD :'''
+* placeholder
+}}
+<!--Backdrop Real (214K follow-up)-->
+{{FrameDataCargo-COTW
+|name=Backdrop Real
+|moveId=bluemary_214b_6a,bluemary_214bd_6a
+|input=214B/D/BD > 4/6P
+|input2=qcb+B/D/BD > b/f+P
+|display=190x190px
+|description2=
+* Values in brackets apply when used after a Quick Step > Real Counter.
+}}
+
+====Quick Step: A====
+{{FrameDataCargo-COTW
+|moveId=bluemary_236a,bluemary_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|display=170x170px
+|description2=
+Mary takes a single swift step forwards.
+* During Quick step, Mary can cancel into any of her "Quick" specials or any version of her M. Arrest: D.
+** These "Quick" specials are enhanced with better damage and/or frame advantage.
+* Quick Step's travel distance is slightly cut short if cancelled.
+----
+'''236A/C :'''
+* Lasts exactly as many frames as her regular forward dash (23) but travels further.
+* Cancellable on frame 14.
+* Any move -4 or better on block will be uninterruptible/gapless if cancelled into Quick Step: A > Quick Counter. (See table below)
+----
+'''236AC :'''
+* Travels even further than regular versions and has 4 fewer total frames.
+* Cancellable on frame 13.
+* Any move -7 or better on block will be uninterruptible/gapless if cancelled into REV Quick Step: A > REV Quick Counter. (See table below)
+
+{{{!}} class="mw-collapsible mw-collapsed wikitable"
+! colspan=5 {{!}} Frame advantage on Quick Step cancels &nbsp;
+{{!}}-
+! Move !! On Hit !! On Block !! On Hit (REV) !! On Block (REV)
+{{!}}-
+{{!}} cl. A {{!}}{{!}} -13 {{!}}{{!}} -14 {{!}}{{!}} -9 {{!}}{{!}} -10
+{{!}}-
+{{!}} cl. B {{!}}{{!}} -10 {{!}}{{!}} -14 {{!}}{{!}} -6 {{!}}{{!}} -10
+{{!}}-
+{{!}} cl. C {{!}}{{!}} +1 {{!}}{{!}} -4 {{!}}{{!}} +5 {{!}}{{!}} +0
+{{!}}-
+{{!}} cl. D {{!}}{{!}} +2 {{!}}{{!}} -2 {{!}}{{!}} +6 {{!}}{{!}} +2
+{{!}}-
+{{!}} f. C {{!}}{{!}} -3 {{!}}{{!}} -7 {{!}}{{!}} +1 {{!}}{{!}} -3
+{{!}}-
+{{!}} 2A {{!}}{{!}} -12 {{!}}{{!}} -14 {{!}}{{!}} -8 {{!}}{{!}} -10
+{{!}}-
+{{!}} 2C {{!}}{{!}} -2 {{!}}{{!}} -7 {{!}}{{!}} +2 {{!}}{{!}} -3
+{{!}}-
+{{!}} REV Slicer {{!}}{{!}} - {{!}}{{!}} - {{!}}{{!}} KD {{!}}{{!}} +0
+{{!}}}
+}}
+
+====Quick Step: D====
+{{FrameDataCargo-COTW
+|moveId=bluemary_214a,bluemary_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|display=160x160px
+|description2=
+* placeholder
+----
+'''214A/C :'''
+* placeholder
+----
+'''214AC :'''
+* placeholder
+}}
+
+====Quick Step: A Followups====
+<!--M. Arrest (236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=M. Arrest
+|moveId=bluemary_236a_6a,bluemary_236ac_6a
+|input=236A/C/AC > 6P
+|input2=qcf+A/C/AC > f+p
+|display=170x170px
+|description2=
+* placeholder
+}}
+
+<!--Quick Step: D (236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Step: D
+|moveId=bluemary_236a_4a
+|display=170x170px
+|description=
+* All versions result in a non-EX Quick Step (even the AC version).
+* Cannot be cancelled into Quick Step: A.
+Same as the original: Backward Quick Step that can be cancelled into all follow-ups except Quick Step: A — So no infinite loops, sadly.
+}}
+
+====Quick Step: D Followup====
+<!--Quick Step: A (214P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Step: A
+|moveId=bluemary_214a_6a
+|display=160x160px
+|description=
+* All versions result in a non-EX Quick Step (even the AC version).
+* Cannot be cancelled into Quick Step: D.
+Same as the original: Forward Quick Step that can be cancelled into all follow-ups except Quick Step: D.
+}}
+
+====Both Quick Step Followups====
+<!-- Quick Counter (214/236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Counter
+|moveId=bluemary_236a_4b,bluemary_236ac_4b
+|input=214 or 236A/C/AC > 4K
+|input2=qcb or qcf+A/C/AC > b+K
+|display=160x160px
+|description2=
+* placeholder
+}}
+
+<!-- Quick Fall (214/236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Fall
+|moveId=bluemary_236a_6b,bluemary_236ac_6b
+|input=214 or 236A/C/AC > 6K
+|input2=qcb or qcf+A/C/AC > f+K
+|display=180x180px
+|description2=
+* placeholder
+}}
+
+<!--Quick Slicer (214/236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Slicer
+|moveId=bluemary_236a_2b,bluemary_236ac_2b
+|input=214 or 236A/C/AC > 2K
+|input2=qcb or qcf+A/C/AC > d+K
+|display=180x180px
+|description2=
+* placeholder
+}}
+
+<!--Quick Arrow (214/236P follow-up)-->
+{{FrameDataCargo-COTW
+|name=Quick Arrow
+|moveId=bluemary_236a_3b,bluemary_236ac_3b
+|input=214 or 236A/C/AC > 3K
+|input2=qcb or qcf+A/C/AC > df+K
+|display=190x190px
+|description2=
+* placeholder
+}}
+
+==Super Special Moves==
+====M. Arrest: D====
+{{FrameDataCargo-COTW
+|name=M. Arrest: D
+|moveId=bluemary_236236a,bluemary_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|display=170x170px
+|captions=<br>A flash = You can jump,<br>C flash = Too late
+|description2=Mary grabs the opponent and gives them a back-breaking submission from behind.
+* Both versions have invincibility on startup. 
+* Doing this super during Quick Step gives you a special version that combos properly on opponents in hitstun with no loss in damage (other than the scaling).
+* Opponents can jump the basic version after the super flash, but not the Redline version.
+This grab super has fast startup, shockingly high damage, and multiple ways to land it. 
+
+Its very quick startup makes it great at punishing some moves that are otherwise safe, interrupting frame traps, and stopping guard point moves (like REV Blows), making it scary on defense. Unlike other grab supers, however, you can even combo into it; when you do this super from a Quick Step, you can grab opponents in hitstun, giving you a confirm with very little scaling. Since it’s only one hit, using it right before an opponent enters S.P.G will wipe out the vast majority of their health within it, and you can make them guess for the rest of it with the super’s great okizeme.
+
+While the Redline version takes away the opponent’s ability to jump it on reaction, the minimal extra damage makes dumping both bars into it pointless. Just stick to the basic version in combos.
+}}
+
+====M. Dynamite Swing====
+{{FrameDataCargo-COTW
+|name=M. Dynamite Swing
+|moveId=bluemary_236236b,bluemary_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|display=140x170px
+|captions=<br>Hope you didn't jump,<br>D super flash
+|description2=Mary jumps to knee the opponent, then giant swings them in the other direction. 
+* Both versions have generous invincibility on startup. 
+* Switches sides on hit.
+* Becomes an unblockable air grab if it doesn’t hit on the early active frames.
+* Taking into account her other command grab super - if used as a reversal, this forces her opponent into a quick reaction check to either block or jump in order to not get hit.
+The Blue Mary classic. This super is your strongest combo ender when dumping REV into your special moves, usually as a cash-out or off of a successful mix-up via REV Accel. 
+
+It’s important to remember that it switches sides on hit. Since comboing into it will cause you to lose the corner, you have to change up your entire combo or just give up on the super entirely if you want to keep opponents cornered. On the flipside, that makes it extra scary as a reversal; if it works when you’re cornered, suddenly they’re the ones trapped and you can start your own offense.  
+
+Try not to use the Redline version as a reversal, as Mary’s supers are too strong to dump both bars just for the extra 90 damage. It’s fine to close out a round with it, as it’s your highest damage ender without Hidden Gear.
+}}
+
+==Hidden Gear==
+====M. Sky Rose====
+{{FrameDataCargo-COTW
+|moveId=bluemary_236236rev
+|description=Mary delivers a lunging elbow, triggering a cinematic on hit.
+* Only available during S.P.G.
+* Resets the Rev meter to 0%, even during Overheat.
+* Hits from half-screen, making some attacks punishable exclusively by this move.
+Mary’s Hidden Gear is her strongest combo ender, and works in all the same combos as M. Dynamite Swing while avoiding the side switch. It’s also effective as a reversal, with the added bonus of resetting Mary’s REV meter on hit. 
+
+Ironically, her Hidden Gear’s poor okizeme often makes it less desirable to use than even her basic supers unless it will kill, especially if she needs to make a comeback. However, the REV reset may prove invaluable in giving you back access to your REV specials to put the pressure on later in the round.
+}}
+
+==Videos, Links & References==
+
+'''BLUE MARY｜Character Breakdown by SNK'''
+{{#ev:youtube|GAP6GWI4sQM}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Blue Mary]]

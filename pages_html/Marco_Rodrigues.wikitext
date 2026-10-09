@@ -1,0 +1,531 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW MARCO Profile.png|thumb| A Kyokugen karateka whose hefty, hot-blooded nature has earned him a reputation for being a beast in battle.
+With his dojo sign stolen by forces unknown, he has no choice but to hone his karate skills elsewhere in the interim—namely, at Yuri’s fitness club. Upon learning of a new KOF tournament on the horizon, Marco steels himself for what lies ahead: an opportunity to spread word about his beloved dojo, a chance to get its sign back, and (of course) a turbulent test of his Kyokugen Karate might.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+
+Kyokugen Hiji - [[image:fd.gif]] + [[image:a.gif]]
+
+Far Heavy Kick (Feint) - [Far away] [[image:d.gif]] > [[image:c.gif]]
+
+Command Combo 1 - (Close) [[image:c.gif]] > [[image:d.gif]] > [[image:d.gif]] / (S.P.G. Active) [[image:c.gif]][[image:d.gif]]
+
+Command Combo 2 - (In Air) [[image:a.gif]] > [[image:b.gif]]
+
+'''REV Blows'''
+Zanretsu Ken - (S.P.G. Active) [[image:c.gif]][[image:d.gif]]
+
+Mouko Rainjin Setsu - (S.P.G. Active, In Air) [[image:c.gif]][[image:d.gif]]
+
+'''Special Moves'''
+Ko'ou Ken - [[image:qcf.gif]] + [[image:a.gif]]/[[image:c.gif]]
+
+Kohou - [[image:dp.gif]] +[[image:a.gif]]/[[image:c.gif]](*)
+
+Hien Shippuuu Kyaku - [[image:qcf.gif]] + [[image:b.gif]](*)/[[image:d.gif]](*)
+
+Hari Uke - [[image:qcb.gif]] + [[image:a.gif]] or [[image:c.gif]] 
+
+Ryuusen Ken - (Hold and Release) [[image:a.gif]]/[[image:c.gif]]
+
+Kosen Kyaku - (Hold and Release) [[image:b.gif]]/[[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+Haou Shoukou Ken - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]]/[[image:c.gif]]
+
+Super Kyokugen Kohou - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]]/[[image:d.gif]](*)
+
+'''Hidden Gear'''
+Ryuuko Ranbu - (S.P.G Active) [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+At first glance, Marco appears to be a basic shoto character, with a great fireball, an amazing invincible DP, and good forward-advancing specials. He sports a very solid, defensive neutral, good for zoning, conditioning, or punishing misplays.
+
+However, look under the hood and you will find that not only is Marco strong in neutral, but he also has some of the most terrifying offense in the game. For a shoto, Marco is very mobile, with a fast forward dash and multiple approach tools, some of which are even plus on block. When Marco’s up close and personal, his potent light confirms and combo-starting overhead seamlessly transition into highly damaging juggle combos with great okizeme, with his mobility allowing him to stick to his opponent like glue. It only gets better when Marco has REV Blow or a super at his disposal, giving him hard knockdowns into terrifying high/low or strike/throw mix-ups from any starter. 
+
+While he's effective up close and at long range, in between is where Marco struggles, as none of his larger normals cancel to special moves. If he wants to get his offense going from this range, he has to commit either to a REV special, a risky use of Marco's resources (and the only one that’s plus on block locks him out of two of his buttons), or sit back and wait for the opponent’s patience to run out. Because of this, Marco is either all-in or all-out, and in both cases he has a very clear game plan. 
+
+Players can mitigate this weakness, however, by using Marco's mobility to stay one step ahead of his opponent. Between this, his amazing fireball and DP, and easy combos, Marco is a very good character not only for beginners, but also for veterans who prefer their shotos to be more on the explosive side.
+
+{{StrengthsAndWeaknesses
+| intro = Marco Rodrigues is a traditional shoto outfitted with tools to accommodate him in City of the Wolves, a unique input scheme for his most powerful specials, and a threatening vortex once he's in.
+| pros=
+* '''Fireball''': Marco looks the part of a shoto and he has a solid fireball to match; being fast to both startup and recover while also having an enormous hitbox that is difficult to jump over. To complement this, he has Haoh Shoukou Ken (236236P) as an ace up his sleeve in fireball wars that makes opponents think twice about doing much of anything when they're at full-screen against a Marco with 1 bar of super meter.
+* '''Uppercut''': Marco's DP Kohou (623P) is a single, strong hit. This means that he is never leaving damage on the table when choosing to brake the C and AC version, giving his juggle combos and anti-airs monstruous damage, even without spending REV.
+* '''Hien Shippuu Kyaku''': The REV Art version of 236K is just about the best use of REV gauge in the game. It is highly damaging, has strong corner carry, provides a ''very'' useful hard knockdown and combos from nearly everything as it is extremely fast at only 11f startup, which also makes it an effective, if expensive, option for guard cancelling.
+* '''Mobility''': While he isn't equipped with a run, Marco can put the mobility of some characters that have one to shame. Many of his specials advance him far forward in a very short amount of time and the brunt of his step dash's forward movement happens in the first few frames, which gives Marco one of the fastest wavedashes in the business. 
+* '''Big Normals''': Despite their stubby appearance, Marco actually has some very long reaching normals that let him control footsies very effectively.
+* '''Mix''': Uncharacteristically for a shoto, Marco's possibly strongest attribute is his high/low mix-up, enabled by his 19f standing overhead (6A) that can be combo'd out of. Combine this with the frequent hard knockdowns of 236BD and you can see where this is going.
+
+| cons=
+* '''Unrewarding Mid-Range''': As great as Marco is at pestering the opponent with his long normals, ''none'' of his pokes can be cancelled into specials, which means patient mid-range play is a path of limited potential for him, especially without super meter.
+* '''Button Hold Lockout''': Some of Marco's specials require charging them by holding down one of his attack buttons, which locks him out of using that button for the duration of the charge, resulting in a temporary restriction to his capabilities in offense and neutral.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|name=far A
+|moveId=marco_f.A
+|input=f.A
+|description=
+Standard low commitment jab. Has more range than 2A, but has slightly less hitstun, meaning it cannot combo into 236B in any circumstance. Combos into your 623P specials and 236BD just fine however, which is usually more desired.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|name=far B
+|moveId=marco_f.B
+|input=f.B
+|description=  
+Fantastic range for a light normal. Can cancel into super for some quick cash outs. In return for its range, has a bit more commitment than your A normals, having a total duration of 27 frames.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|name=far C
+|moveId=marco_f.C
+|input=f.C
+|description= 
+Unlike some other Far Cs, Marco's is not special cancellable, but it makes up for it with its massive range (and it can still be used to raw confirm a super), so it's your best normal for poking and whiff punishing. It is also absurdly quick to recover, making it difficult to whiff punish even when the opponent is expecting it.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|name=far D
+|moveId=marco_f.D
+|input=f.D
+|description= 
+High hitting kick. Can anti air hops pre-emptively but is overall very committal, especially since Marco moves forward doing this, making him more prone to whiff punishes. While it has more range than far C usually, it whiffs on crouchers at tip ranges making it worse at whiff punishing crouching moves. Leads to a full combo on counterhit, usually with 2C. Has a feint option to have some tricky movement (See Far Heavy Kick (Feint))
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|name=close A
+|moveId=marco_cl.A
+|input=cl.A
+|description=
+Marco's fastest normal. Combos into 623C for good return.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|name=close B
+|moveId=marco_cl.B
+|input=cl.B
+|description=
+Your go-to light normal for pressure and hitconfirms. Frame traps and links into 2C.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|name=close C
+|moveId=marco_cl.C
+|input=cl.C
+|description=  
+Two hitting heavy close normal. Like most multi-hitting normals, extra frame advantage from counter hit and Wild Punish carries over to the second hit, and also only counts as 1 hit for damage scaling purposes. Easy to hit confirm with. but somewhat slow making it hard to confirm off of hops. Make sure to cancel into a safe special on block. Cannot be made plus on block with feints.
+|display=125x125px
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=marco_cl.D
+|input=cl.D
+|description=
+Party starter. 6+Feint makes this normal plus on block and hit (+3 and +6 respectively), allowing for strong combos and pressure. At 10f start-up however, it's a bit slower than most other party starter close normals, making it hard to confirm off of hops.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|name=2A
+|moveId=marco_2A
+|input=2A
+|description=
+Standard low jab. Combos from 6A consistently if close enough. Chains into all light normals. Combos into all 236K and 623P versions.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|name=2B
+|moveId=marco_2B
+|input=2B
+|description=Go-to normal for low mix-ups. Has a bit less range than most 2Bs, though that's somewhat mitigated by Marco's fast dash. Chains into all light normals, which you'll want to do to get a combo into 623P or 236K.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|name=2C
+|moveId=marco_2C
+|input=2C
+|description=Shoto-style Mexican uppercut. This normal sets Marco apart from the rest of the cast somewhat: while most characters have at least one fast heavy normal on their close buttons, Marco's fast heavy normal comes from this button, which allows him to get some heavy confirms at more ranges than others due to a lack of a proximity requirement, such as a spaced out hop or some punishes on block. The speed also allows for links from close B, meaty 6A, and cl.D xx 6+Feint. This is an important normal to get used to using.
+
+The recovery is quite high, so make sure to cancel it always. Avoid using this in neutral as it's also death on whiff. On counter hit, if you cancel into 6+Feint, you can link another 2C.
+
+Has some vertical range allowing it to be used as an anti-air, however this is almost always overshadowed by High Dodge or 623C.
+
+On hit this forces stand, which allows for guaranteed combos into 236D.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|name=2D
+|moveId=marco_2D
+|input=2D
+|description=Your sweep. Range is just a bit larger than far C. Solid whiff punish tool, but unsafe.
+}}
+
+===Jump Normals===
+
+====Jump A====
+{{FrameDataCargo-COTW
+|name=j.A
+|moveId=marco_j.A
+|input=j.A
+|description=
+High hitting punch. Has the same hit and blockstun to a heavy normal (based on personal experience, further testing required). Useful as an air-to-air and for mixups against JD. Whiffs on crouchers. Guarantees a link into 2C on hit no matter how high you hit it.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|name=j.B
+|moveId=marco_j.B
+|input=j.B
+|description=
+Short kick. Marco's cross-up button. On hit, guarantees a close A.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|name=j.C
+|moveId=marco_j.C
+|input=j.C
+|description=Marco's most reliable jump in. Use for offense.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|name=j.D
+|moveId=marco_j.D
+|input=j.D
+|description=
+Far reaching kick. The slower start-up means the button must be committed to a bit earlier than usual. The further horizontal range makes it useful for tagging opponents a bit further way. Can also be used defensively when used during a retreating hop.
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=marco_AB
+|input=AB or 6AB
+|description=
+Marco has enough time to get up close after this throw for oki, even without wavedashing.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=marco_4AB
+|input=4AB
+|description=
+Less advantage than his forward throw. Can still get oki, but cannot set up a safe jump.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|name=2CRev
+|moveId=marco_2CRev
+|input=2CRev
+|description=
+Average ranged High Dodge. Range is slightly shorter than Far C. At closer ranges, a cancel into 623C is reliable; at further ranges, you'll have to use 236AC or 236BD.
+
+When used as an anti air, cancelling into 623C~Brake is consistent at most ranges and safe when it isn't. 236D~Brake is consistent at all ranges but is unsafe if the High Dodge doesn't hit as a Wild Punish or counter hit.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|name=5CRev
+|moveId=marco_5CRev
+|input=5CRev
+|description=
+Has further range than most but one of the slowest low dodge attacks at 25 start up frames. Generally overshadowed by 6A as an offensive tool but is safer on block. 
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=marco_5bc
+|display=160x160px
+|description=Feints Hold/Release P. Hold/Release P is not a terribly scary move so this likely will see little use.
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=marco_6bc
+|display=180x180px
+|description=Feints 236P. Has the least total duration of all of Marco's feints so this will be the one you primarily use.<br>
+Notably, unlike a lot of other projectile feints, Marco's still has the flash of the projectile appear, which makes it, in theory, more effective at baiting a reaction from your opponent.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=marco_2bc
+|display=180x180px
+|description=Feints 236B. There is a smear effect on this feint which can make it useful for baiting a response, but is still overall overshadowed by 6+Feint.
+}}
+
+==Command Combos==
+====Kyokugen Hiji====
+{{FrameDataCargo-COTW
+|name=Kyokugen Hiji
+|moveId=marco_6A
+|input=6A
+|description=
+Overhead elbow. One of Marco's most important tools for opening up the opponent. Usually allows for links into 2A, range permitting. If done meaty, you can hit later in the active frames making the move up to +7, allowing for stronger links into 2C.
+While 6A is a very threatening normal for the opponent to deal with, it does not come without risk has 6A will always be punishable if it happen to be blocked due to the fact that it can only be -6 on block at best with little pushback therefore predictable use of this move can potentially backfire heavily.
+}}
+
+====Far Heavy Kick (Feint)====
+{{FrameDataCargo-COTW
+|name=Far HK (Feint)
+|moveId=marco_5D~B
+|input=D~B
+|description=
+Marco cancels the active frames of his far D. Essentially an extra feint. Moves forward quickly which might catch some opponents off guard, but overall not a move that's very good on paper.
+}}
+
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Command Combo 1
+|moveId=marco_cl.C~D~D
+|input=cl.C~D~D
+|description=
+
+Marco combos into his Far D and Low Dodge Attack. Considering how much damage and block pressure Marco can normally get from cancelling his close C, this Target Combo is completely overshadowed by his other options. 
+
+The Low Dodge portion of this Target Combo does not hit overhead.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Command Combo 2
+|moveId=marco_j.B~A
+|input=j.B~A
+|description=
+
+Cancels j.B into j.A. Just like how j.A works normally, this is +6 at worst on hit, guaranteeing a 2C. Useful if your j.B hits too high up. Still whiffs on crouchers, but most opponents will instinctively stand block when they see you take to the air anyway.
+
+Cannot be performed out of hop.
+}}
+
+==REV Blows==
+====Zanretsu Ken====
+{{FrameDataCargo-COTW
+|name=Zanretsu Ken
+|moveId=marco_CD
+|input=CD
+|description=  
+
+Damage value factors in SPG bonus.
+
+Rapid punches into an uppercut. Marco's Rev Blow is very unique, as it lacks the horizontal range of most Rev Blows. In return he gets one of the fastest Rev Blows, which can make it useful for busting through gaps in pressure. Uniquely this Rev Blow is currently the only Rev Blow that allows for some juggles after regular hit. 623A connects in the corner, and stronger versions can be used if it hits an airborne opponent. This gives it some use in combos as well. It can also be used as an anti air, but Marco usually would prefer using High Dodge or 623C.
+
+If this Rev Blow counter hits, the opponent is not sent into a unique hitstun state like most other Rev Blows. If you are fishing for this you will have to use the alternate version listed below.
+}}
+
+====Zanretsu Ken (Interrupt)====
+{{FrameDataCargo-COTW
+|name=Zanretsu Ken (Interrupt)
+|moveId=marco_CD~P
+|input=CD~P
+|description=  
+
+Damage value factors in SPG bonus.
+
+Skips the rapid punch portion of the Rev Blow. When done this way, counter hits will behave like a traditional Rev Blow, allowing for follow-ups.
+}}
+
+====Mouko Raijin Setsu====
+{{FrameDataCargo-COTW
+|name=Mouko Raijin Setsu
+|moveId=marco_j.CD
+|input=j.CD
+|description=  
+Damage value factors in SPG bonus.
+
+Downwards chop that can be used to beat anti airs but primarily used after a 236BD to tack on some extra damage and set up a meaty overhead 6A.
+
+}}
+
+==Special Moves==
+===Ko'ou Ken===
+{{FrameDataCargo-COTW
+|name=Ko'ou Ken
+|moveId=marco_236A,marco_236C,marco_236AC
+|input=236P
+|description3=  
+
+Classic fireball. Important part of Marco's neutral game. Marco's travel relatively fast, making them primarily useful for zoning and checking movement; not so much starting offense. The fireball appears around Marco's hand, so if you want better advantage on hit or block than listed, the opponent must be spaced somewhere in front of Marco's hand. Because of this, it's not the best cancel on block, however, the A version frame traps from lights and the C version frame traps from heavies, which can be useful. Unfortunately, even if they counter hit, you are too far away to get a conversion.
+
+The AC version acts as a close range hit instead of a projectile, causing a launch. Its primary use is to be cancelled into 214AC to dash forward. On hit you get to continue the combo. On block Marco is left +3, allowing him to extend his pressure. Cancelling this from C normals is a frame trap, and if it counter hits, Marco is able to continue the juggle without cancelling into 214AC.
+
+}}
+
+===Kohou===
+{{FrameDataCargo-COTW
+|name=Kohou
+|moveId=marco_623A,marco_623C,marco_623C~AB,marco_623AC,marco_623AC~AB
+|input=623P
+|description5=  
+() = damage value if the attack hits high up (outside of brake range)
+
+Classic uppercut.
+
+A version is fast and fully invincible. Use this as your meterless reversal.
+
+C version has upper body invincibility making it great as an anti-air. When braked (which you have no good reason not to, ever), this acts as a safe on block combo starter as well. leading into great damage anywhere on screen. Its speed makes it easy to combo into from any normal, although the short horizontal range may make it whiff at some ranges.
+
+The AC version acts almost identically to the C version but starts up one frame faster and can be used to extend juggles after 623C>Brake has already been used. It also launches slightly higher.
+
+When the C and AC versions counter hit, the opponent gets launched very high in the air, allowing Marco to dash up and use the same uppercut again.
+
+}}
+
+===Hien Shippuu Kyaku===
+{{FrameDataCargo-COTW
+|name=Hien Shippuu Kyaku
+|moveId=marco_236B,marco_236B~AB,marco_236D,marco_236D~AB,marco_236BD,marco_236BD~AB
+|input=236K
+|description6=  
+
+A series of flying kicks. 
+
+The B version is a forward advancing flying kick that leads into a short combo on hit. Fast and combos reliably from all light normals except far A. Works well as a juggle ender as well. Can be used as a jump scare in neutral; works well against people who hop a lot, but is unsafe if blocked on the ground. This move can be braked before the kick connects, making the move act as a sort of dash. Note that if the opponent is too close (a little shorter than round start distance), the kick will automatically come out and it won't be able to be braked.
+
+The D version is an upward knee followed by a downwards kick. Combo filler mainly. When braked, Marco skips the downward kick and recovers faster, allowing for juggles. This combos from 2A at all ranges but only connects on standing opponents. 2C forces stand, so hit confirms from that normal are guaranteed.
+
+The BD version looks similar to the B version, but is faster and applies a hard knockdown. The corner carry and hard knockdown is very good for Marco, making this your preferred combo ender. Combos reliably from all lights, including far A. You can brake in the middle of the kicking animation, skipping the last kick. On block this leaves you at only -2, making this a useful neutral skip option. You can also use the brake version for some corner juggle extensions.
+|display=150x150px
+}}
+
+===Hari Uke===
+{{FrameDataCargo-COTW
+|name=Hari Uke
+|moveId=marco_214A,marco_214C,marco_214AC
+|input=214P
+|description3=  
+* Counter window is active at frame 3 (needs testing)
+* Does not work against projectiles. 
+* A and AC version counters highs and mids. C version counters lows.
+
+A dash that triggers a counter if Marco gets hit during it. Can be used to make your opponent second guess their buttons, but this is very risky as it leaves Marco wide open to an easy Wild Punish combo if it doesn't work. Particularly useful against Rev Blows; if you are doing a normal and you confirm that they are armoring it with a Rev Blow, cancelling into the A version will counter the Rev Blow with a counter hit, which allows for a juggle combo. Note that since different characters have different start-up times for their Rev Blow, the timing will always be slightly different.
+
+The AC version can be cancelled into other Rev Arts on a successful counter, notably 623AC > Brake, allowing for further damage. Note that on counter hit you do not get a special launch. It can also be cancelled into from 236AC to get juggles on hit and plus frames on block. This is an expensive but powerful option.
+}}
+
+===Ryuusen Ken===
+{{FrameDataCargo-COTW
+|name=Ryuusen Ken
+|moveId=marco_[P],marco_[AC]
+|input=[P] then ]P[
+|description2=  
+* Button must be held for at least 60 frames.
+* Often referred to as either "TAP" or "Zonk" by the community after the similar hold-then-release moves of Street Fighter's Boxer and Cody respectively.
+
+Lunge punch. In order to use this, you must hold one or both of the punch buttons to charge it, then release to execute the move, which means sacrificing a few of your most important buttons and universal options such as throw or dodge at any given time. The move itself is a straightforward strike with not that much reward, so this move is rarely used outside of some optimized combos.
+
+The AC version is notable for being plus on block. On its own, it doesn't leave Marco at a range where he can realistically threaten with much, however, Accel chaining it into 214AC retains the +4 block advantage and leaves Marco point blank. 
+}}
+
+===Kosen Kyaku===
+{{FrameDataCargo-COTW
+|name=Kosen Kyaku
+|moveId=marco_[K],marco_[BD]
+|input=[K] then ]K[
+|description2=  
+* Button must be held for at least 60 frames.
+
+Flying kick. This move is good at fishing for counter hits in neutral and is very rewarding if done so. It's unsafe if done up close but properly spaced you can be up to 0 on block. You run into the same problems with sacrificing some of your buttons if you're planning on using this however, especially if you're fishing with the BD version. It also doesn't grant anything significant on regular hit. 
+
+BD version flies further and is faster, making it more effective as a jump scare option.
+}}
+
+==Ignition Gears==
+====Haou Shoukou Ken====
+{{FrameDataCargo-COTW
+|name=Haou Shoukou Ken
+|moveId=marco_236236A
+|input=236236A
+|description=  
+
+* Hits around frame 19 at full screen
+
+Super fireball. Extremely easy to juggle into due to its range and speed. Beats any other non-super projectile in the game, giving Marco a much needed edge in fireball wars. Great for quick light conversions into a hard knockdown.
+}}
+
+==== Super Kyokugen Kohou ====
+{{FrameDataCargo-COTW
+|name=Super Kyokuhen Kohou
+|moveId=marco_236236B
+|input=236236B
+|description=  
+
+Super uppercut. Can be used as a reversal, which could be useful if it will kill; otherwise 623A is more effective since its faster. Harder to combo into than 236236A due to its lack of range but is slightly stronger and works well in juggles. Can lose hits if it hits too high. 
+
+}}
+
+==Redline Gears==
+====Haou Shoukou Ken====
+{{FrameDataCargo-COTW
+|name=Haou Shoukou Ken
+|moveId=marco_236236C
+|input=236236C
+|description=  
+
+Multi hitting super fireball. Basically, just stronger than the A version. The chip damage is about the same as the A version, so if you're going for a chip kill, just stick with that.
+}}
+
+==== Super Kyokugen Kohou ====
+{{FrameDataCargo-COTW
+|name=Super Kyokugen Kohou
+|moveId=marco_236236D
+|input=236236D
+|description=  
+
+
+Double super uppercut. Although stronger than 236236C, the lack of horizontal range and the tendency to lose hits if it hits too high up makes this the worse option usually when you want to cash out. The second uppercut also doesn't come out on block so Just Defending it is not more difficult than the B version.
+
+You can brake after the first uppercut and get a juggle combo, but this is only good for disrespecting your opponent.
+}}
+
+==Hidden Gear==
+==== Ryuuko Ranbu ====
+{{FrameDataCargo-COTW
+|name=Ryuuko Ranbu
+|moveId=marco_236236REV
+|input=236236REV
+|description=  
+
+Tackle that goes about 1/3 of the screen forward. Enters cinematic automatically on hit. Very fast, making it easy to combo into. Although linking two level 1 supers is usually stronger, it's still worth it to combo into this when given the opportunity to reset your REV guage. Oki situation afterwards is not very good, however.
+}}
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Marco Rodrigues]]

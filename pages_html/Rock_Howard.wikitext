@@ -1,0 +1,579 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_B_Rock_Profile.png|thumb|Born to Geese Howard, raised by Terry Bogard—Rock’s very being is one of mixed emotions and internal conflict.<br>
+Despite having lived a new life with Terry, one day Rock finds himself facing off against a foe who claims to know about his past—namely his birth mother, and the fact that she is very much alive.<br>
+Armed with this new information, the troubled youth resolves to find his own way through life—and fight on in order to make that happen.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 13f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Command Combo 1 - Close [[image:d.gif]] > [[image:fd.gif]] + [[image:d.gif]]
+
+Command Combo 2 - Jump [[image:a.gif]] > [[image:b.gif]]
+
+
+'''REV Blows'''
+
+Overhead Kick - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Hishou Getsurin Zan - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Reppuu Ken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Shippuu Ken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (Midair Only)
+
+Rising Tackle - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Hard Edge - [[image:qcb.gif]] + [[image:a.gif]] (*) / [[image:c.gif]] (*)
+
+Crack Counter - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Rage Run - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Type: Layup - [[image:a.gif]]
+:'''┗''' Type: Cut - [[image:b.gif]]
+:'''┗''' Type: Dunk - [[image:c.gif]]
+:'''┗''' Type: Shift - [[image:d.gif]]
+::'''┗''' Shinkuu Nage - [[image:a.gif]] / [[image:c.gif]] (*)
+
+Shinkuu Nage - [[image:hcb.gif]][[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+
+'''Ignition / Redline Gears'''
+
+Raging Storm - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Shining Knuckle  - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Power Geyser "R" - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+{{StrengthsAndWeaknesses
+| intro = Rock Howard is an all rounder with a simple, but versatile and effective toolkit.</br>
+
+With Rock, what you see is what you get. He has all of the standard issue tools one needs to be successful in ''City of the Wolves'', including a good projectile, a good DP, a good corner-carry special, and good use of REV Gauge. His Far C is a great poking and combo tool, he has great buttons for enforcing hop pressure, and he hurts quite a lot. If you're familiar with the basics of a shoto archetype, Rock has you covered.
+
+Rock does have a number of trickier tools up his sleeve, however. Alongside Reppuu Ken, his grounded projectile, Rock also has Shippuu Ken, an aerial projectile that halts his movement. His Rage Run command dash can lead into crossups or same side mixups, while his Shinkuu Nage command grab leads to combos on both regular and REV hits. All of these give Rock even more versatility, which synergies nicely with his plethora of defensive options. Great mashable lights, a strong DP, a counter, a good reversal super, and a command grab for Guard Cancelling make Rock hard to crack open. 
+
+Rock's got it all, but it doesn't mean he's got it the best. While all of his tools are good, none of them are top tier and all have specific weaknesses. If you want zoning, you're better off playing dedicated zoners, and ditto for rushdown characters. Still, Rock is designed to play ''COTW'' well, and that he does. He's an easy recommend to anyone just starting the game, and legacy SNK veterans who want to flex their fundamentals. 
+
+| pros=
+* '''Strong Normals''': With strong pokes such as 2B and f.C, good jump-ins with j.C and j.D, and plus frames that can be easily linked on hit to 2C, Rock has moves that can fit almost any need.
+* '''Varied Defense''': Rock can use his Crack Counter (236B/D), A Rising Tackle (623A), or Raging Storm (236236A/C) either on wakeup or buffered after a Just Defend to keep opponents guessing, or he can rely on his strong lights to mash out as well.
+* '''Strike / Throw''': Not only is his strike/throw with his normal grab bolstered by his well-rounded normals, Rock can also use Shinkuu Nage (632146A/C) to side switch or get extra damage with the REV version. Shinkuu Nage being available from Rage Run (214B/D) also makes his mixups in Rage Run even scarier. Rock also has a strong 50/50 mixup between letting a meaty Low Dodge Attack rock for an overhead or kara canceling it into Shinkuu Nage, making his knockdowns and setups that much more powerful.
+* '''Zoning''': For a character that is supposed to be well rounded. Rock has extremely good zoning with both his Reppuu Ken and Shippuu Ken. REV Shippuu Ken is in the running for one of the best moves in the game as it covers so much air and ground space for relatively small risk. Rock can also counter zone using his Heavy and REV Reppuu Ken, his Redline Shining Knuckle, and his ground REV Blow. 
+| cons=
+* '''Lackluster Anti-Airs''': With a wonky High Dodge Attack that has poor vertical range and often moves Rock under his opponent's jump-ins and 2C's habit of trading, Rock has to rely on his C Rising Tackle Brake to anti-air consistently, which is more committal than other characters with better High Dodge Attacks. 
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=rock_fa
+|display=200x200px
+|description=Rock’s standing jab is his fastest far normal, can be chained into itself and is special cancellable on hit and block, allowing a knockdown with 214A on hit. Its range is decent for a Light normal, but lacking a cancel into f.B makes long-range confirms harder.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=rock_fb
+|display=200x200px
+|description=Rock does a kick to the shins. Despite the kick being aimed towards the opponent's legs, it is not a Low. A strong poke and easy hit confirm. Rock can chain into this after 2A or 2B, making it an easy autopilot option when up close. It's special cancelable, so Rock can use f.B to end his light chains with a cancel into Light Hard Edge. 
+
+It's also a strong counter-poke; Rock can throw out f.B in neutral and buffer REV Hard Edge so that if he Counter Hits a poke, he has enough frame advantage to combo into REV Hard Edge and transition into his bread and butter combo.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=rock_fc
+|display=200x200px
+|description= A strong mid-rage poke that moves Rock forward a bit, has good range and is special cancelable. Good for neutral and for catching opponents pressing buttons in spacing traps. Use it with caution though, as its recovery can lead to a Wild Punish if whiff punished.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=rock_fd
+|display=200x200px
+|description=*+22 after Wild Punish, meaning Rock can run in and do f.C for a follow-up combo.
+
+The Wild Punisher.<br>
+
+Rock does a somewhat slow side kick, It’s a decent long-range poke but can only be super cancelled, with practice you can hit-confirm into a buffered Shining Knuckle. On block this move deals good REV damage, but its main use is for Wild Punishing. Combined with f.C’s range and special cancel, it’s easy to follow up with a combo at mid-range after a Wild Punish by running in and doing f.C — however, at farther ranges you may need to dash more in order to connect with f.C and you might not be able to do so if you're too far away. In these situations, Rock can instead opt to just link into REV Hard Edge and forgo the run into f.C.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=rock_cla
+|display=200x200px
+|description=*+5 on hit, can link into 2C.
+A strong standing jab and Rock's fastest normal. Can be chained into other lights like cl.B for better frame advantage or 2B for a low option.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=rock_clb
+|display=200x200px
+|description=Quick knee with fewer cancel options than cl.A, but better range and frame advantage.<br>
+On block, it's more pressure-oriented than cl.A, letting Rock go for a throw, a spacing trap, or a shimmy.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=rock_clc
+|display=200x200px
+|description=Rock performs a left hook. Weaker than far C, but more reliable than cl.D, which is less effective without proper spacing.<br>
+If out of range, f.C comes out instead — still solid, and safer than cl.D but with lower reward.<br>
++2 on block with forward feint cancel but only +3 on hit, leaving you no ability to link for a combo, so avoid autopiloting.
+
+Other Feint framedata :<br>
+Neutral Feint(5BC) : -1 on hit, -2 on block.<br>
+Down Feint(2BC) : -7 on hit, -8 on block.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=rock_cld
+|display=200x200px
+|description=*Can be cancelled into 6D for a target combo.
+*On hit, link to 2C if cancelled by forward feint(+5).
+*Force the opponent to stand on hit.
+Rock raises his leg for a devastating kick. A haymaker normal with great versatility, positive on block when cancelled into forward feint.<br>
+Its high REV gauge damage and frame advantage make it a strong close-range normal that can easily be autopiloted on hit or block to maintain pressure.
+
+Other Feint framedata:<br>
+Neutral Feint : +1 on hit, -2 on block<br>
+Down Feint : -5 on hit, -8 on block
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=rock_cra
+|display=180x180px
+|description=Rock does a crouching jab. Simple jab, good for mashing out and to apply pressure due to its chain cancel.<br>
+The special cancel allows for cancels like 2B > 2A > 214A on hit, making 2A valuable in that aspect. 2A is also an alternative normal used for linking due to its horizontal range compared to 2C.<br>
+This makes it more useful after something like 214BD~B, where you're left +5 on hit, but not close enough to link into 2C. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=rock_crb
+|display=180x180px
+|description=Rock kicks at their ankles. Rock's go-to low, and a strong one at that. Chain cancels allow for a hit confirm into f.B, which can grant a knockdown or combo depending on range.<br>
+Outside of that, it sports long range, allowing Rock to catch people walking back in neutral or pressure by simply running and hitting 2B.<br>
+A very abusable normal for Rock.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=rock_crc
+|display=200x200px
+|description=Rock does a crouching uppercut. Somewhat subpar for anti-airing due to its tendency to trade, but it's Rock's main tool for linking.<br>
+The special cancel allows Rock to cancel into 623C brake, 214AC, or other various party starters. Notably can be linked after c.A and c.D feint.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=rock_crd
+|display=200x200px
+|description=Rock does a sweep with his leg. Standard sweep, not much to write home about in this aspect.<br>
+Can be used as an alternative Wild Punisher over f.D, though the reward is immensely weaker. Good to catch opponents walking back out of your pressure or in neutral, but you're not in range to hit 2B.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=rock_ja
+|display=200x200px
+|description=*Only available during neutral and back hop/jump.
+A really fast(3F) vertical air to air move.
+}}
+
+====Forward Jump A====
+{{FrameDataCargo-COTW
+|moveId=rock_6ja,rock_6ha
+|display=160x160px
+|description2=*Can only be performed from a forward jump.
+*Jump version is special cancelable and by j.B (Command Combo 2).
+Can be used air-to-air, cancelling this move will combo in the air on counter hit.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=rock_jb
+|display=180x180px
+|description=*Can cross-up
+Rock's jump attack with the longest horizontal range, can be used as an air-to-air.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=rock_jc
+|display=200x200px
+|description=Jump-in attack with the highest damage and better horizontal reach than j.D.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=rock_jd
+|display=180x180px
+|description=Slower and deals less damage than j.C but has a better vertical hitbox.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=rock_cla_5c,rock_cla_5c_5c,rock_cla_5c_5d,rock_cla_5c_6d,rock_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|display= 140x140px
+|description5=*Every ender can be done during cl.AC or cl.ACC.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Starter of the combination attack, deals some damage.
+----
+cl.AC > C : Follow-up that adds damage and gives time to choose the ender.
+----
+D ender :  Very unsafe on block but causes a soft knockdown on hit.
+----
+6D ender : Overhead ender, same move as his Low Dodge Attack(5C+REV) but it's +2F on hit and block.
+----
+2D ender : Low ender, same as his 2D, it's very unsafe on block.
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=rock_throw
+|display=180x180px
+|description=Hard knockdown with a good amount of advantage and the opponent is always at jump distance for Rock.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=rock_4throw
+|display=180x180px
+|description=Hard knockdown, end closer than his forward throw but with less frame advantage.
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=rock_5bc
+|display=180x180px
+|description=* Mimics Rising Tackle. 24 total frames.
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=rock_6bc
+|display=180x180px
+|description=* Mimics Reppuu Ken. 20 total frames.
+Rock's fastest feint and the one used for his normal frame data.<br>
+Use this when canceling a normal to gain more advantage.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=rock_2bc
+|display=180x180px
+|description=* Mimics Hard Edge. 30 total frames.
+}}
+
+==Command Combos==
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=rock_cld_6d
+|display=180x180px
+|description=*cl.D > 6D is blockstring.
+An easy confirm tool that is safe on block if canceled with a forward feint.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=rock_6ja_jb
+|display=200x200px
+|description=* Cannot be performed out of hop.
+}}
+
+==REV Blows==
+====Overhead Kick====
+{{FrameDataCargo-COTW
+|moveId=rock_cd
+|display=200x200px
+|description=* Damage value factors in S.P.G bonus.
+* Despite the name, it’s not actually an overhead.
+* Since Rock goes airborne during the startup, it can’t be thrown past a certain point before it hits. However, if it gets beaten by a High Dodge Attack, Rock is left higher, leading to some exclusive juggle combos.
+Only available during S.P.G, this REV Blow has a good horizontal hitbox and travels about 40% of the screen forward.<br>
+The vertical hitbox is good too but won’t hit opponents at their maximum jump height.
+}}
+
+====Hishou Getsurin Zan====
+{{FrameDataCargo-COTW
+|moveId=rock_jcd
+|display=180x180px
+|description=* Damage value factors in S.P.G bonus.
+Only available during S.P.G, Rock's air REV Blow causes hard knockdown and is safe on block.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=rock_2crev
+|display=180x180px
+|description=* Cannot be cancelled on block
+Wins against jump attack, standing normals and REV Blows.<br>
+Easier to execute than a DP, but upper body invulnerability doesn’t start on frame 1, so it can lose to jump-ins and is punishable on block.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=rock_crev
+|display=180x180px
+|description=Rock's universal overhead. Unlike other 5CR attacks, this one is not granted airborne status and can be grabbed at any point in the animation.<br>
+Cannot start a combo unless it hits as a Counter Hit / Wild Punish, or as a meaty.<br>
+}}
+
+==Special Moves==
+====Reppuu Ken====
+{{FrameDataCargo-COTW
+|moveId=rock_236a,rock_236c,rock_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|display=200x200px
+|description3=*C and AC version are two hit, the first hit can nullify a projectile and the second can go through the projectile.
+Rock's grounded fireball that travels fullscreen.
+----
+'''A version''': Standard one hit fireball. Longer startup than the other version, but the fireball comes out faster and has less recovery. This makes it ideal for neutral and zoning situations compared to the other two.
+----
+'''C version''': The Double Reppuken. Rock leaves a small hitbox in front of him before firing a fireball. The first hit can destroy other fireballs, allowing the second to go through.<br>
+Extremely slow compared to the A version, meaning you should save this for counter-zoning in fireball wars. Worth noting that Rock can also use this after a juggle into DP Brake in the corner to do 623C Brake > 236C > 623A/AC or 236236C/REV. While the timing is tight, and the follow-ups are limited due to the specific juggle, it's a good way to tack on extra damage without spending REV gauge. 
+----
+'''AC version''': An enhanced version of the C Double Reppuken, sharing its initial hitbox into fireball. Plus on block, allowing you to pressure reset with it.<br>
+This version is very strong for REV chains, allowing you to use it before something like 214AC for a hit confirm that leaves you plus (at the cost of some REV) or in an extended juggle sequence, like 214BD~C, 236AC > 214BD~A. Note that in that juggle, you are linking 236AC, so your REV gauge cost will not be reduced.
+}}
+
+====Shippuu Ken====
+{{FrameDataCargo-COTW
+|moveId=rock_j214p,rock_j214ac
+|input=j.214A/C/AC
+|input2=j.qcb+A/C/AC
+|display=160x160px
+|description2=*A angle is a bit upward, C downward and AC is between both of them.
+*A and C version are only available during neutral and forward jump.
+*REV version fires two projectiles and can be used in any jump direction and also backdash.
+Rock's air projectile, cancel his jump momentum to do a small back hop while launching the projectile.
+}}
+
+====Rising Tackle====
+{{FrameDataCargo-COTW
+|moveId=rock_623a,rock_623c,rock_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|display=200x200px
+|description3=*C and AC versions are Brakable after the first hit.
+Rock's dragon punch with a decent speed, a good reversal or anti-air tool.
+----
+A version : Rock fastest reversal, fully invincible but really unsafe on block.<br>
+Can be nice to use in a guard cancel situation to punish recover or any cancel because it's fast and invincible but for the reward is low.
+----
+C version : 
+Still fast and air invincible, by far is best choice to anti-air and the Brake version allows Rock to start a combo.<br>
+It can be comboed from lights if close enough (cl.A > cl.B > DP+C or 2B > far B > DP+C for example).
+Also the Brake version is safe on block at -2, meaning it's a good tool to use in confirms and as a Guard Cancel.
+* As of Season 3, the Braked version recovers 9 frames slower on whiff. 
+----
+AC version : 
+Nearly the same than the C version exept it's faster and it hit further, so it's easier to combo from light.<br>
+Like the C version, Braking this makes it safe on block, and it's a faster Guard Cancel option than the C version, but it costs a lot of REV.
+* As of Season 3, the Braked version recovers 7 frames slower on whiff. 
+}}
+
+====Hard Edge====
+{{FrameDataCargo-COTW
+|moveId=rock_214a,rock_214c,rock_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|display=200x200px
+|captions=<br>A version and C/AC first hit,<br>C/AC follow-up
+|description3=*Every versions are Brake-able before they connect with the opponent.
+Rock's lariat, a nice combo ender because it can connect from any range and travel half of the screen(~40% for the A version).
+----
+A version : Can be safe if spaced. It’s a good tool to end a combo from lights because it works at any range.
+* As of Season 3, this recovers 2 to 9 frames slower on hit only (depending on when it hits), severely hindering its okizeme if the opponent wakeup rolls.
+----
+C version : Unsafe on block at any range because a follow-up comes out when Rock reaches the opponent on hit and on block.<br>
+Good heavy combo ender because it works at any range and does some decent damage.
+----
+AC version : Same as C version, a follow-up comes out when Rock reaches opponent on hit and on block, but this version is REV cancellable so it can be safe in exchange of REV.<br>
+With some REV, we can call this one the neutral skip version.
+}}
+
+====Crack Counter====
+{{FrameDataCargo-COTW
+|moveId=rock_236b,rock_236d,rock_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|captions=<br>Counter Stance,<br>Follow-up
+|display=160x160px
+|description3=*B and BD version counter mid and high
+*D version counter low
+*The follow-up is 1F and triggers automatically when Rock successfully counters a move.
+*Is able to counter Rev blows
+
+Rock's counter stance, you have to choose between Mid/High and Low.<br>
+It's not a real reversal, it as some startup before it's able to counter a move, it cause a counter hit if hit during start-up and wild punish during recovery.<br>
+It can be used against frametrap if the gap between the two hit is long enough and the REV version allow Rock to start a combo by REV cancelling.
+}}
+
+====Rage Run====
+{{FrameDataCargo-COTW
+|moveId=rock_214b,rock_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|display=180x180px
+|description2=*REV Rage Run turns all follow-ups into their REV versions at no additional REV cost.
+Command run with a variety of options.
+}}
+
+====Rage Run Followups====
+<!-- Type: Layup -->
+{{FrameDataCargo-COTW
+|moveId=rock_214b_a,rock_214bd_a
+|input=214B/D/BD > A
+|input2=qcb+B/D/BD > A
+|display=180x180px
+|description2=
+A slow leaping slash that can cross up and is plus on block, though Rock is usually left too far away to get any meaningful pressure afterward. How plus Rock is on hit and block is dependent on whether the opponent blocked it standing or crouching and/or how late into the animation Rock hit them with it. The REV version is not much different aside from being slightly faster and doing a bit more damage; it mainly sees use as a combo tool in Rock's bread and butter REV Accel combo, being the harder but more damaging counterpart of REV Type: Dunk.
+}}
+<!-- Type: Cut -->
+{{FrameDataCargo-COTW
+|moveId=rock_214b_b,rock_214bd_b
+|input=214B/D/BD > B
+|input2=qcb+B/D/BD > B
+|display=190x190px
+|description2=*REV version can combo into light if close enough.
+Low follow-up that is safe with a minimum of spacing.
+}}
+<!-- Type: Dunk -->
+{{FrameDataCargo-COTW
+|moveId=rock_214b_c,rock_214bd_c
+|input=214B/D/BD > C
+|input2=qcb+B/D/BD > C
+|display=200x200px
+|description2=* REV version is plus on block, meaning it's a good ender during a REV Accel blockstring.
+Safe follow-up, faster than the A follow-up and cannot be punished on block, and the REV version is positif.
+}}
+<!-- Type: Shift -->
+{{FrameDataCargo-COTW
+|moveId=rock_214b_d,rock_214bd_d
+|input=214B/D/BD > D
+|input2=qcb+B/D/BD > D
+|display=150x150px
+|description2=*Swaps sides with the opponent when done up close, or simply stops Rock in his tracks when done further away.
+This move can phase through the opponent(even in the corner) but the recover is longer in this case.
+}}
+<!-- Type: Shinku Nage-->
+{{FrameDataCargo-COTW
+|moveId=rock_214b_d_a,rock_214b_d_c,rock_214bd_d_ac
+|input=214B/D/BD~D > A/C/AC
+|input2=qcb+B/D/BD~D > A/C/AC
+|display=200x200px
+|description3=* Identical to the standard (632146P) version.
+*B/D Rage Run can use the A, C, or AC versions.
+*BD Rage Run always uses the REV version of Shinkuu Nage, regardless of input, with no extra REV cost.
+This move can be performed regardless of whether or not Rock switches sides with the opponent.
+}}
+
+====Shinkuu Nage====
+{{FrameDataCargo-COTW
+|moveId=rock_632146a,rock_632146c,rock_632146ac
+|input=632146A/C/AC
+|input2=hcb,f+A/C/AC
+|display=200x200px
+|description3=
+Rock's special throw, can be used manually at any by doing the 632146+P input or as a Type: Shift follow-up by pressing any P buttons.
+----
+A version : Is kinda fast and throw the opponent really far away without any way to cancel Rock's animation.
+----
+C version : Slower, also throw the opponent far away but you can brake it and be able to move before the opponent fall on the ground.<br>
+In brake version, the throw deal less damage but you have a better advantage and also you can choose to combo(214C, 236236B for exemple).<br>
+The issue with that is the damage reduction is really high.
+----
+AC version : Same speed than the A version and have an automatically follow-up that allow Rock to combo with less damage reduction than the C version.<br>
+}}
+
+==Super Special Moves==
+====Raging Storm====
+{{FrameDataCargo-COTW
+|moveId=rock_236236a,rock_236236c
+|input=236236A/C
+|input2=qcfqcf+A/C
+|captions=<br>Attack animation,<br>C super flash
+|display=160x180px
+|description2=* Both version are invincible
+Big vertical super. High amount of active frames can make it awkward to punish on whiff. <br>
+----
+A version : One hit big damage super, can be used as a reversal but it's slower than a DP.
+----
+C version : Deal a lot of damage and multi-hit, because of that it's harder for the opponent to air just defend it.
+}}
+
+====Shining Knuckle====
+{{FrameDataCargo-COTW
+|moveId=rock_236236b,rock_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>Attack animation,<br>D super flash
+|display=190x100px
+|description2=* D version is invincible and is brake-able at the third hit.
+Rock's horizontal super, not a really good reversal because it's a bit slow and only the D version is invincible.
+----
+B version : Not invincible and loose against projectile, it can be used as an ender in a light combo, giving some nice damage and a hard knockdown.
+----
+D version : This version invincibility combined with its fast travel time, makes it a good way to blow through fireballs in neutral.<br>
+And you can brake it, meaning you can extend your combo or choose your ender.
+}}
+
+==Hidden Gear==
+====Power Geyser - Type: R====
+{{FrameDataCargo-COTW
+|moveId=rock_236236rev
+|display=180x180px
+|description=* Resets the Rev meter to 0%, even during Overheat.
+Only available during S.P.G.
+}}
+
+==Videos, Links & References==
+
+'''Rock Howard｜Character Breakdown by SNK'''
+{{#ev:youtube|rIj0n0cWdFY}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Rock Howard]]

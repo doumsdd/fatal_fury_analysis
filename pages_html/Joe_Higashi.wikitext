@@ -1,0 +1,528 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Joe_Profile.png|thumb|Famed Muay Thai fighter with stiff kicks that can shatter steel.<br>
+No other kickboxer can lay a finger, elbow, or knee on Joe Higashi, so the champ winds up tackling a different beast: the silver screen!<br>
+His biopic documentary, The Legend of Joe (directed by none other than Cheng Sinzan), is already shooting around South Town; Joe even envisions a bit part for star pupil Preecha, whose recent tournament triumphs have done her master proud.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Step Low Kick - [[image:fd.gif]] + [[image:b.gif]]
+
+Slide Kick - [[image:df.gif]] + [[image:d.gif]]
+
+Command Combo - Far [[image:d.gif]] > [[image:d.gif]] > [[image:d.gif]]
+
+
+'''REV Blows'''
+
+Golden Hiji - (S.P.G. Active) [[image:c.gif]] + [[image:d.gif]]
+
+V-Tiger - (S.P.G. Active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Hurricane Upper - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+:'''┗''' REV Follow-up - [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] 
+
+Slash Kick - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Tiger Kick - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Bakuretsu Ken - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Boom Punch - [[image:fd.gif]] + [[image:a.gif]]
+:'''┗''' Boom Elbow - [[image:fd.gif]] + [[image:c.gif]] 
+:'''┗''' Bakuretsu Finish (REV only) - [[image:fd.gif]] + [[image:c.gif]] 
+
+Golden Tatsumaki - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Fearless Man - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Fearless: Tiger Claw - [[image:fd.gif]] + [[image:d.gif]]
+:'''┗''' Fearless: Tiger Wrath - [[image:c.gif]] 
+:'''┗''' Fearless: Tiger Tempest - [[image:d.gif]]
+:'''┗''' Fearless: Tiger Torment - [[image:a.gif]] + [[image:b.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Screw Upper - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Screw Elbow - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Can be held)
+:'''┗''' D Follow-up - [[image:d.gif]] (Can be held)
+
+
+'''Hidden Gear'''
+
+Tiger Festival - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Joe is an aggressive all-rounder, with emphasis on the “aggressive” part — he really shines up close where he can go HAM with seemingly endless pressure and mix-ups.
+
+Joe has a nice set of moves that help him navigate neutral, like a fireball that is massively plus if blocked at range, and an invincible DP to ward off aggression so he can engage on his terms. Once he’s in, it’s party time; on top of high combo damage, he has numerous ways to pressure and chip away at opponents’ health while staying on the offensive, from grounded crossups to spacing traps. If that’s not enough to open up an opponent, he can tap into Fearless Man, a stance with guard point that can be followed up with a low, overhead, or even a command grab. From nearly hit Joe lands, even light confirms, he can use REV Accel to convert to higher damage, often coupled with great okizeme to stay on the attack. 
+
+Strong as he is up close, Joe’s mid-range tools can be quite risky because his far normals either are very slow or don’t cancel to specials, and said specials are unusually high-commitment, even with their Brakes. Joe isn’t much of a threat from afar, either, due to underwhelming fireballs and no long-range punishment whatsoever, not even with a super. Against patient opponents, winning neutral often requires taking big gambles that other characters don’t have to take.
+
+All in all, Joe is for the opportunistic players who like to carefully look for their openings, then use those opportunities to mount a relentless assault. He’s not as easy to play as his shoto-esque moveset implies, but when he gets his chance, he can rock opponents like a hurricane!
+
+{{StrengthsAndWeaknesses
+| intro = Joe is a offensive monster disguised as an all-rounder, boasting strong pressure, mix-ups and conversions backed up by a capable neutral game.
+| pros=
+* '''Close-Range Menace''': Joe is undeniably strong up close. He has access to a variety of mixup tools for lows, highs, right/left, and a command grab, and that’s not even mentioning the great frame data on his close moves. Joe also has one of the fastest dashes in the game which makes his offense even scarier
+* '''Dynamic Neutral''': Joe can play from a variety of ranges; harassing the opponent from midscreen with hurricanes and tiger kicks one moment and barging in with an advancing special the next.
+* '''Fearless Man''': Joe’s new stance is terrifying. With its guard point and follow-ups including a command grab and projectile reflector, Joe can use this stance to easily punish an opponent for being predictable. With REV to spare, Joe can even protect himself from lows, or use REV Accel to combo off one of its followups. 
+* '''Light Confirms''': Thanks to REV Tiger Kick, Joe easily converts sequences of two or even three lights into a variety of combos, giving him much more combo freedom than other characters.
+* '''Glasses''': They make him look good. 
+| cons= 
+* '''Struggles Against Zoning''': On top of having no safe advancing special from half-screen, all of Joe’s projectiles have horrible frame data and are not good in fireball wars, especially the REV version which is comically bad for anti-zoning. While he can reflect fireballs with Tiger Tempest, that’s time spent at long range where he’ll continue to be unthreatening until he moves in.
+* '''Risky Mid-Range''': Joe’s far normals are all very underwhelming, being slow, stubby, unable to cancel to special moves, or a combination between the three. This leaves his mid-range game very reliant on his committal special moves.
+* '''High REV Dependence''': Joe is very meter hungry, using it to make stance mixups safer, gain plus frames, and access high damage combo routes.
+* '''Some People Don’t Like Glasses''': That’s unfortunate.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=joe_fA
+|description=* Great combo tool at the end of light chains. At max range it can still combo into H/REV Tiger Kick or L. Slash Kick
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=joe_fB
+|description=*A fast and safe poke. Amazing option to use after 2B and will link consistently from all ranges. Overall great button
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=joe_fC
+|description=* Whiffs on crouching opponents unless very close. Joe's best neutral button as it is cancelable and has good range. Has amazing cancel options and can start Joe's offense easily.
+*Extremely whiff punishable so use with care
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=joe_fD
+|description=* Poke that can be cancelled into supers or a target combo. Interesting button that can be used as a whiff punisher which also has an easy to confirm target combo which gives it multiple uses. Great button in neutral
+*Hits crouchers.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=joe_clA
+|description=* Joe's only 4 frame move.
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=joe_clB
+|description=* Plus on block and links into 2C on hit. On block into 2C frame traps 5F moves.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=joe_clC
+|description=* An unusually slow close C that often loses in close scramble situations if you're used to other characters. Also has a short activation range. Links into far C on feint but only on standing opponents. Also links into 2C.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=joe_clD
+|input=cl.D
+|description=* Plus on block, has throw invincibility and forces stand. Always links into far A which can combo into D DP (no brake). Links into far C on counter hit.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=joe_crA
+|description=* Joe's fastest normal outside of cl.A.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=joe_crB
+|description=* Standard low light kick. Nice for chaining into far A.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=joe_crC
+|description=* Great normal for combos, counterhit conversions, and frame traps.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=joe_crD
+|description=* A standard sweep.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=joe_jA
+|description=* Joe's fastest air-normal and a good jump-in
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=joe_jB
+|description=* Crossup normal and a good jump-in
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=joe_jC
+|description=* A high elbow swing. Better as an air-to-air than a jump-in.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=joe_jD
+|description=* Joe's furthest reaching jumping normal
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=joe_cla_5c,joe_cla_5c_5c,joe_cla_5c_5d,joe_cla_5c_6d,joe_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=joe_throw
+|description=
+* Leaves opponent close enough for different meaty options. L. Hurricane Upper / H. Golden Tsumasaki / Dash, cl.D / etc.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=joe_4throw
+|description=
+* Sends opponent further away than Joe's forward throw. 
+*Still have some meaty options like H. Hurricane Upper or Dash, H. Golden Tsumasaki
+}}
+
+==Command Moves==
+====Step Low Kick====
+{{FrameDataCargo-COTW
+|name=Step Low Kick
+|moveId=joe_6b
+|description=*Safe on block low with good range. Has similar range and startup to his universal overhead.
+*Doesn't leave Joe close enough on hit to link cl.A, but he can frametrap with cl.D / 2C or go for a pressure reset.
+}}
+
+====Slide Kick====
+{{FrameDataCargo-COTW
+|name=Slide Kick
+|moveId=joe_3d
+|description=*The long range and active frames can be used to preemptively stuff an opponent's pokes or forward movement.
+*Safe-on-block sliding distance is a hair shorter than round-start spacing.
+*Sadly, does not low-profile moves. 
+
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=joe_d_d,joe_d_d_d
+|input=f.D > D > D
+|input2=st.D > D > D
+|description2=* Hit confirmable extension of Joe's poke for more damage and a knockdown.
+}}
+
+==REV Blows==
+====Golden Hiji====
+{{FrameDataCargo-COTW
+|moveId=joe_CD
+|description=
+Joe does a lunging elbow uppercut.
+}}
+
+====V-Tiger====
+{{FrameDataCargo-COTW
+|moveId=joe_jCD
+|description=
+Joe does a diving knee in the air.
+}}
+
+==Feints==
+====Neutral/Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=joe_5bc
+|description=* Mimics Hurricane Upper. This is Joe's fastest feint and the one used in his framedata.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=joe_2bc
+|description=* Mimics Slash Kick. This is Joe's slowest feint.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=joe_2CRev
+|description=
+* Standard high dodge attack
+* Slightly less range than far D, but can buffer specials
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=joe_crev
+|description=
+* Beats lows and throws. Nice option if opponent is trying to low-check Fearless Man, as this is +7 on counter hit
+* Hits crouching opponents
+* Nice complement to Step Low Kick
+}}
+
+==Special Moves==
+====Hurricane Upper====
+{{FrameDataCargo-COTW
+|moveId=joe_236A,joe_236C,joe_236AC,joe_236ac_6a
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description4=
+Joe's signature grounded projectile. As with Preecha, the tornadoes linger a bit before dissipating
+* A version travels half screen
+* C version launches two tornadoes that travel about 70% of the screen
+** This version can be braked to launch only one tornado and be safer against jumps
+* AC version launches a stationary 3-hit tornado which can be followed up with 6P to launch another 3-hit tornado that travels nearly full screen.
+** The follow up can be delayed significantly and can be performed as long as the initial tornado hasn't disappeared.
+** If the follow up is performed quickly, the follow up scales the combo as if were a separate EX move and massively reduces damage potential, especially in shorter combos. This may be a bug.
+
+Caution: This special move has a massive flaw in which it is both negative on block AND HIT.Even on counter hit, Joe is only +2 with alot of pushback. Despite being a safe and effective block string ender, opponents who understand this flaw can make Joe think twice before using this move to end block strings. But for the most part,this move is Joe's safest block string ender and should be used as needed.
+}}
+
+====Slash Kick====
+{{FrameDataCargo-COTW
+|name=Slash Kick
+|moveId=joe_236b,joe_236d,joe_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=
+A leaping forward kick, kind of like Terry's Burning Knuckle.
+* All versions can be braked before they hit. This can be useful for baiting reversals or approaching for throws.
+* B version can technically be safe on block when spaced but very difficult in practice. Joe will more often than not be point blank and -5 or worse at most ranges this move is attempted from.
+
+Avoid using the D and REV version for the most part as they doesn't serve much purpose in Joe's kit and gameplan. The REV version is quite situational, it should only be used when Joe is in SPG to make it safe, and even then its not that worth going for.
+}}
+
+====Tiger Kick====
+{{FrameDataCargo-COTW
+|name=Tiger Kick
+|moveId=joe_623b,joe_623d,joe_623bd
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=
+A rising knee strike. BD version has Joe charge forward slightly with a tackle before doing the Tiger Kick.
+* Good horizontal range for a DP and always hits as long as far A hits, which many other characters cannot do with their DPs.
+* At longer ranges, the D version's brakeable frames end before it can hit. This happens if 3 lights are used before the DP or from a close D > far A link.
+}}
+
+====Bakurestu Ken====
+{{FrameDataCargo-COTW
+|name=Bakurestu Ken
+|moveId=joe_623a,joe_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|display=200x200px
+|description2=
+Joe unleashes a flurry of punches.
+* Does low damage by itself but is safe on block and can be followed up on whiff or block during any of the 6 punches.
+** While manually delaying the follow-up on the last hit leads to optimal damage, the opponent will begin to fall out of the move after the 5th hit, which can lead to the follow-up whiffing.
+* AC version makes Joe step forwards before punching. He only performs 4 punches but it can be followed up on the last hit. No manual delay is necessary.
+** AC version also cannot be followed up on whiff.
+* Regular versions combo from lights and AC version combos from heavies.
+}}
+
+====Bakurestu Ken follow-ups====
+{{FrameDataCargo-COTW
+|name=Boom Punch
+|moveId=joe_623a_6a,joe_623ac_6a
+|input=623A/C/AC > 6A
+|input2=dp+A/C/AC > f+A
+|display=200x200px
+|description2=
+Joe finishes the Bakuretsu ken with a one-two punch.
+* Does more damage than Boom Elbow and is safe on block.
+* Has less range compared to Boom Elbow and tends to whiff in juggles if Bakuretsu Ken doesn't hit close.
+}}
+{{FrameDataCargo-COTW
+|name=Boom Elbow
+|moveId=joe_623a_6c
+|input=623A/C > 6C
+|input2=dp+A/C > f+C
+|display=180x180px
+|description=
+Joe finishes the Bakuretsu ken with an elbow swipe that hits overhead.
+* Knocks down on non-counter hit and launches on counter hit.
+* Does not frame-trap on block, so Boom Elbow only counter hits if a Bakurestu Ken punch whiffs.
+}}
+{{FrameDataCargo-COTW
+|name=Bakuretsu Finish
+|moveId=joe_623ac_6c
+|input=623AC > 6C
+|input2=dp+AC > f+C
+|display=200x200px
+|description=
+Joe performs two uppercuts and leaps into the air
+* A REV-only followup to Bakuretsu Ken and is the highest damage followup.
+* If going for a REV Blow, perform it only after Joe is airborne.
+}}
+
+====Golden Tatsumaki====
+{{FrameDataCargo-COTW
+|name=Golden Tatsumaki
+|moveId=joe_214b,joe_214d,joe_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=
+Joe performs an aerial spin kick.
+* Has a bad air hitbox and oftens loses to jump ins and air to airs.
+* Will fly above low attacks, which can counter opponents trying to break through Joe's Fearless Man stance.
+* BD version is a great way to give Joe advantage on block. Can also REV accel out of failed stance mixups to make them safe.
+}}
+
+====Fearless Man====
+{{FrameDataCargo-COTW
+|name=Fearless Man
+|moveId=joe_214a,joe_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description2=
+Joe adopts a pose and gains guard points against mid and high attacks.
+* AC version also covers low attacks.
+* Has a bevy of followups that hit high/low as well as a command grab.
+* The guard points do not work against supers.
+}}
+
+====Fearless Man follow-ups====
+{{FrameDataCargo-COTW
+|name=Fearless: Tiger Claw
+|moveId=joe_214a_6d,joe_214ac_6d
+|input=214A/C/AC > 6D
+|input2=qcb+A/C/AC > f+D
+|display=200x200px
+|description2=
+* A stepping low-sweep
+* Furthest range of all follow-ups
+* Great option that is safe on block and knocks down on hit, can be used as a mixup option in block strings but doesn't have much reward unless REV version is used
+}}
+{{FrameDataCargo-COTW
+|name=Fearless: Tiger Wrath
+|moveId=joe_214a_c,joe_214ac_c
+|input=214A/C/AC > C
+|input2=qcb+A/C/AC > C
+|display=180x180px
+|description2=
+* A far range overhead elbow swing
+* Not much reward unless counterhitting or spending meter
+* Due to having 4 active frames, it can be used in meaty setups after hard knockdowns.
+}}
+{{FrameDataCargo-COTW
+|name=Fearless: Tiger Tempest
+|moveId=joe_214a_d,joe_214ac_d
+|input=214A/C/AC > D
+|input2=qcb+A/C/AC > D
+|display=180x180px
+|description2=
+* An ignorant kick that blows through other moves
+* Only follow-up that retains guard points
+*+-0 on normal hit and +5 on counter hit. In theory Joe can get a follow up, but oftentimes he can't link a fast normal due to the pushback.
+}}
+{{FrameDataCargo-COTW
+|name=Fearless: Tiger Torment
+|moveId=joe_214a_ab,joe_214ac_ab
+|input=214A/C/AC > AB
+|input2=qcb+A/C/AC > AB
+|display=180x180px
+|description2=
+* A side-swapping command grab with decent range
+* Able to immediately tick-throw after 1 light normal, or a slight delay after far C
+* REV version allows follow-ups as usual with REV enhanced command grabs
+}}
+
+==Super Special Moves==
+====Screw Upper====
+{{FrameDataCargo-COTW
+|name=Screw Upper
+|moveId=joe_236236A,joe_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+Joe does an uppercut with his outside fist, launching his opponent. He then uses his main arm to launch a massive tornado.Extremely combo-friendly and easy to end combos with.
+* This is Joe's reversal super and is fully invincible and faster than his other super.
+* Joe will be at close D range and +17 on a ground hit and +19 on a juggle after 2 dashes after the A version of this move.
+
+The C version of this super has a very interesting property that is hard to see at first. The 2nd hit actually launches a massive fullscreen tornado that is a true projectile. Using this when the opponent is in overheat and full screen can be a very cheeky way to get a chip kill or chip damage.
+}}
+
+====Screw Elbow====
+{{FrameDataCargo-COTW
+|name=Screw Elbow
+|moveId=joe_236236B,joe_236236D,joe_236236d_d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description3=
+Joe rears his arms back and spins it, gathering gales into his fist. He then unleashes it forwards in a torrent that blasts the opponent away fullscreen.This is Joe's best combo ender but is much less combo friendly as a trade off. This super also has much worse okizeme than screw upper
+* The opponent ends up nearly at fullscreen distance and Joe gets no oki off of this.
+** However, this may be work to his advantage because he can transition to his strong zoning game.
+* The D version of this move sets wallbounces like a AA counter REV blow and sets up a juggle.
+** Joe can also perform a free follow-up with D. Simply holding down D will also cause this follow-up to occur.
+** Charging the follow-up prevents the opponent from leaving the corner from the wallbounce.
+}}
+
+==Hidden Gear==
+====Tiger Festival====
+{{FrameDataCargo-COTW
+|name=Tiger Festival
+|moveId=joe_236236REV
+|description=
+* '''VERY''' poor range, you won't be punishing any slighty spaced fireballs or moves with this. Can sometimes whiff after 3 Light normals if Joe is a bit too spaced out.
+}}
+
+==Videos, Links & References==
+
+'''JOE HIGASHI｜Character Breakdown by SNK'''
+{{#ev:youtube|Hqxkw0y-9Ew}}
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Joe Higashi]]

@@ -1,0 +1,690 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW SALVATORE Profile.png|thumb| Salvatore is a justice-dealing Artist who has arrived in South Town looking for inspiration to help finish his latest (and hopefully greatest) anime music video.<br>
+When his good friend Duck King tells him about the KOF tournament on the horizon, Salvatore decides it just might give him the spark he needs.<br>
+Combining DJing and martial arts, Salvatore is nothing if not versatile—mixing music, muscles, and mayhem leaving even the most formidable opponents stunned and disoriented by his extraordinary abilities.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~20f 
+<br>'''Backdash:''' 28f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Magical Step - [[image:fd.gif]] / [[image:bk.gif]] + [[image:a.gif]] + [[image:c.gif]]
+:'''┗''' Magical Kick - [[image:d.gif]]
+:'''┗''' Beat It! - [[image:fd.gif]] + [[image:a.gif]] (Can Input up to 3 Times)
+:'''┗''' For You! - [[image:fd.gif]] + [[image:c.gif]]
+:'''┗''' To the Sky! - [[image:b.gif]]
+
+Command Combo 1 - Close [[image:b.gif]] > [[image:b.gif]]
+
+Command Combo 2 - Far [[image:b.gif]] > [[image:b.gif]]
+
+
+'''REV Blows'''
+
+Spinning Ganacci - (S.P.G. Active) [[image:c.gif]] + [[image:d.gif]]
+
+Salvatore Stomp - (S.P.G. Active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Amazing Run - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Stop - [[image:a.gif]] / [[image:b.gif]]
+:'''┗''' You Can't Stop Me! - [[image:d.gif]]
+:'''┗''' You Can't Hold Me! - [[image:c.gif]]
+
+Earth's  Beat - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Brake on REV only)
+
+Sky's Beat - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' Descend - [[image:b.gif]]
+:'''┗''' Air Swim - [[image:a.gif]]
+:'''┗''' Air Dive - [[image:c.gif]]
+
+Groove - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' No More Groove - [[image:a.gif]]
+:'''┗''' Scratch - [[image:b.gif]]
+:'''┗''' On Cue - [[image:c.gif]]
+:'''┗''' Gain - [[image:d.gif]]
+::'''┗''' Gain Follow-Up - [[image:d.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Fight Dirty - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+B&A.F - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+
+Ultimate Beat: Il Salvatore - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Salvatore is a wholly unique offensive character who creates chaos and confusion through his bizarre normals, multiple stances, and some of the game’s most potent hit confirms. 
+
+Salvatore is defined by his multiple stances with unique followups, giving him more options to push his offense than anyone else in the game. His stances all let him hit high or low, create spacing traps, vary up his timing to prevent any Just Defense, or even keep his turn thanks to his constant access to plus frames. As if trying to play defense against this guy wasn’t hard enough with all of that, Salvatore’s aerial attacks are incredibly powerful, especially his j.C, a constantly active normal that hits on both sides and alters his jump. If at any point he lands a hit, he has multiple ways to confirm into massive damage, straight into some of the game’s best okizeme. 
+
+But to play Salvatore, it’s important to understand the extent to which he plays by his own rules. While he’s got the normals to play the footsies game, he’s better off making the opponent respect his approach tools, frustrating them with his air attacks, faking them out with stance stops, stopping their own aerial assault with his great anti-airs, and piling on tricks for them to worry about. Try to do too much, however, and you’ll get smacked out of your groove, and with Salvatore sporting no invincible reversal aside from his supers, you’ll be struggling to get the opponent off of you. 
+
+All in all, Salvatore is for the players who thrive in chaos. Unique in his offense, defense, and just about everything he does in this game, his quirkiness is what makes him one of ''Fatal Fury''’s most fun characters.
+
+{{StrengthsAndWeaknesses
+| intro = Salvatore Ganacci is a real life DJ and part time rushdown character, with a repertoire of unorthodox tools that give him unique but strong offense.
+| pros=
+* 
+* '''Aerodynamic''': Salvatore's jumping heavy normals are stupidly good. j.C is maybe the best crossup in the entire game, and j.D alters your jump arc to be even shallower than a regular hop when done early enough, or extend your jump if done late, and both are active until landing on top of that. 
+* '''Take (+) Five''': So much of Savatore's kit either is or can be made plus that it's actually kind of alarming. This includes all of his close normals, meaty stance overheads, his EX Stomp, and even two of his pokes in far A and C. Once you're in, it will be hard to get you out.
+* '''Fight Dirty''': With so many weird tools at his disposal, Salvatore players can overwhelm opponents just by using more of his options, which especially helps his mixup and pressure game. It's simply not realistic to properly defend against each of his counterable attacks while also reacting to his abundance of High/Low mix options.
+| cons=
+* '''Rev Theory''': While he can admittedly put together strong combos, most of Salvatore's routing is highly meter reliant; he cannot economically start most combos, and often has to forego a lot of damage when ending them economically, and his meterless routes are very unrewarding compared to most. This is also not helped by how much he actually relies on Rev for his best offense and even some of his neutral.
+* '''Under Pressure''': Salvatore lacks a DP, even a meterless parry, crouching 4 framer or strong Rev Blow of any kind, and his metered options can be difficult to use: parries can be more conditional than a DP, and his reversal supers are all quite slow outside of Hidden Gear. When it comes to getting out of pressure, he can leave much to be desired.
+* '''Systematic Chaos''': Salvatore's universal System Tools are among the weakest of the cast. He suffers from the slowest backdash with no upside, bad walk speed, a short dash, and a below average High Dodge Attack. His Rev Blows also leave much to be desired with his air version being a contender for worst in the game.
+
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=salvatore_fa
+|display=200x200px
+|description= 
+*Combos into itself and Supers / 236B on counterhit
+A situational anti air and not much else despite being plus on block
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=salvatore_fb
+|display=180x180px
+|description= 
+* Good range
+* With target combo can hit confirm into super
+Good light poke and his longest ranged light button.
+
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=salvatore_fc
+|display=180x180px
+|description= 
+* First hit whiffs on crouchers
+* Combos both on regular and counter hit
+* Longest range of his buttons
+This two hitting forward advancing move serves as Salvatore's best overall button. It is a Swiss army knife that can be used as an approach, a whiff punish, to continue pressure, and even catch opponents trying to jump.
+
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=salvatore_fd
+|display=200x200px
+|description= 
+* Fantastic range
+* Links into lights on CH if close
+Salvatore's less committal long range poke. It has great range and is one of his best whiff punish options.
+}}
+
+===Close Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=salvatore_cla
+|display=200x200px
+|description= 
+* Fastest normal
+* Starts his Combination attack
+* Combos into 236B on hit / 236BD on counterhit
+* Can link into 236C and 236AC after two in a row on hit in the corner
+A quick anti air and solid pressure tool being able to frame trap with 236BD from it. It's vital for Sal to get reward from his lows to link into Combination attack from this move.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=salvatore_clb
+|display=200x200px
+|description= 
+* Has a target combo
+*Links into cl.C on CH
+His go to pressure starter. Can frame trap with 2C against 5f and 2A against 4f.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=salvatore_clc
+|display=160x160px
+|description= 
+* Main heavy starter
+* +4 on block after feint with huge pushback
+* Can link into 2C on hit after feint
+Punish starter that combos into 236D on regular hit. Pushback makes it very vulnerable to REV Guard limiting its offensive capabilities.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=salvatore_cld
+|captions=<br>First hit,<br>Second hit
+|display=160x140px
+|description= 
+* Cannot be feinted
+* Three hits
+Multi-hitting normal that can be used as a meaty and as a deterrent for guard cancel happy opponents. Very vulnerable to REV Guard as well.
+}}
+
+===Crouching Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=salvatore_cra
+|display=160x160px
+|description= 
+* Best light button
+* Combos into 236B on hit / 236BD on counterhit
+His main light confirm and mash button. Can be also used to apply pressure.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=salvatore_crb
+|display=180x180px
+|description= 
+* Hits low
+* Moves slightly forward
+His low poke that serves as his main low option for his Magical Step setups.
+
+}}
+
+====Crouching C====
+{{FrameDataCargo-COTW
+|moveId=salvatore_crc
+|display=160x160px
+|description= 
+* Short range
+* -1 on block after feint
+It is solid to frame trap with and to setup gapless 236BD pressure with. Can also be used as a close ranged whiff punish.
+}}
+
+====Crouching D====
+{{FrameDataCargo-COTW
+|moveId=salvatore_crd
+|display=200x200px
+|description= 
+* Sweep
+Below average sweep with shorter range than most in the game.
+}}
+
+===Jumping Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=salvatore_ja,salvatore_ha
+|display=200x200px
+|description2= 
+* Fastest jump normal
+* Crosses up
+A quick air to air when you are right below the opponent and the first of Salvatore's wopping three crossup normals, this one being the fastest
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=salvatore_jb
+|display=180x180px
+|description= 
+* Longest reaching air normal
+* Crosses up
+Salvatore's second crossup normal, slower than j.A but with better reach. It is his best option for horizontal air-to-airs along with being his longest ranged jump in attack.  
+
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=salvatore_jc
+|display=200x200px
+|description= 
+* Third crossup; his go to air normal with a lot of active frames, this move is basically half the character.
+* Salvatore's model doesn't visually match his collision box, which can make it seem like he's actually rubber banding when attempting an ambiguous crossup.
+* Doesn't cross up on hop.
+Salvatore's most infamous move and for good reason. It is a massive jump-in that's active until landing, leads to huge damage, is very plus and can crossup. With this, Salvatore has easy access to ambiguous, visually disorienting and inconsistent crossups and a midrange approach strategy that's very annoying to consistently anti-air.
+
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=salvatore_jd
+|display=160x160px
+|description= 
+* Combos into lights on hit / close C on counter hit
+* Changes air movement on a set arc depending on jump direction and momentum.
+* Can hit up to 7 times
+Salvatore's most unorthodox air normal. The stall of his air momentum allows him to avoid projectiles, bait out any anti air attempts, jump over some normal and specials, and even just use it as a form of mobility. Additionally, the set arc it puts Salvatore on can even be used to create an intentionally shallow jump to have j.D hit early and attempt to reset pressure this way.
+
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=salvatore_cla_5c,salvatore_cla_5c_5c,salvatore_cla_5c_5d,salvatore_cla_5c_6d,salvatore_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=*Every ender can be done during cl.AC or cl.ACC.
+*During S.P.G, REV Blow can be used as an ender.
+*D ender is REV Blow cancellable.
+*Seem to be a bug : REV Blow dont deal any guard damage during Combination Attack(Ver 1.1.7-76419).
+
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC and cl.ACC is the same move as close C and far C but the framedata and damage is different.
+----
+D ender : Unsafe on block but soft knockdown on hit.
+----
+6D ender : Overhead ender, +2F advantage on hit and block.
+----
+2D ender : Low ender, very unsafe on block.
+|display= 140x140px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=salvatore_throw
+|display=200x200px
+|description= * Dashing twice leaves you at +1 right next to the opponent, while wavedashing gives you significantly more frame advantage, up to +7.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=salvatore_4throw
+|display=180x180px
+|description= * Dashing twice will leave you at 0, while wavedashing will grant you some advantage, up to +5.
+}}
+
+==Command Moves and Normals==
+====Magical Step====
+{{FrameDataCargo-COTW
+|moveId=salvatore_6ac
+|display=180x180px
+|description= 
+* Can be dash canceled
+* Can go from Forward Magical Step to Backward Magical Step and vice versa
+* All follow ups except Magical Kick can go back into stance
+
+One of his best oki tools and the cornerstone to what makes him scary on knockdown. This stances gives him access to multiple overheads, a fast special cancellable mid, and a slow rekka series of attacks. It can be used in pressure too if the opponent gives enough respect to your other options.
+}}
+
+====Magical Step - Follow-up====
+<!-- Magical Kick-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_6ac_d
+|display=180x180px
+|description= 
+* Special cancellable
+* +1 on block after feint
+This move is his main way to combo off his overheads in stance. It can be used as a meaty due to it being plus on feint along with being albeit a very risky pressure reset. 
+}}
+
+<!-- Beat It!-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_6ac_6a,salvatore_6ac_6a_6a,salvatore_6ac_6a_6a_6a,
+|captions=<br>First 6A,<br>Second 6A,<br>Third 6A
+|input=4/6AC > 6A (up to x3)
+|input2=b/f+AC > f+A (up to x3)
+|display=170x170px
+|description3= 
+* Hits mid on every attack
+* Highly unsafe 
+A slow rekka series that doesn't lead to much reward on hit and is always unsafe on block no matter the follow up. Doesn't serve much of a purpose at all.
+}}
+
+<!-- For You!-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_6ac_6c
+|display=180x180px
+|description= 
+* Fastest overhead
+* Requires a +7 meaty hit to link into stance dash cancel cl.C
+* Can be plus on block from stance cancel depending on the meaty
+His main overhead to mix in from Magical Step.
+}}
+
+<!--To The Sky!-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_6ac_b
+|display=160x160px
+|description= 
+* Hits overhead despite its unusual animation.
+* Requires a +7 meaty hit to link into stance dash cancel cl.C
+* Can be plus on block from stance cancel depending on the meaty
+A tricky slow overhead that can catch the opponent off guard to its animation.
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=salvatore_clb_b
+|display=180x180px
+|description= 
+* Links into 2C on hit
+His light confirm into heavy attack. 2C will whiff at some ranges.
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=salvatore_fb_b
+|display=160x160px
+|description= 
+Follow up for f.B used to confirm into super.
+}}
+
+==REV Blows==
+====Spinning Ganacci====
+{{FrameDataCargo-COTW
+|moveId=salvatore_cd
+|display=180x180px
+|description= 
+* Travels 1/4 of the screen
+Standard ground Rev Blow that is really susceptible to jumps. One of his better guard cancel options.
+
+}}
+
+====Salvatore Stomp====
+{{FrameDataCargo-COTW
+|moveId=salvatore_jcd
+|display=180x180px
+|description= 
+* Cancels air momentum
+* Hits on frame 28
+Very slow as the hitbox doesn't come out until he reaches the ground. Has very niche use.
+}}
+
+==Feint==
+====Neutral / Forward / Down Feint====
+{{FrameDataCargo-COTW
+|moveId=salvatore_feint
+|display=180x180px
+|description= 
+* Stomp feint
+* Moves him forward slightly
+Salvatore's only feint attack
+}}
+
+==Dodge Attacks==
+====High Dodge====
+{{FrameDataCargo-COTW
+|moveId=salvatore_2crev
+|display=180x180px
+|description= 
+* Beats Highs and Rev Blows
+* Combos into 236D on grounded counter hit
+Short range evasive poke and anti air for Salvatore. Has no forward movement, is on the slower side for high dodge attacks, and due to the high recovery very risky overall.
+}}
+
+====Low Dodge====
+{{FrameDataCargo-COTW
+|moveId=salvatore_5crev
+|display=160x160px
+|description= One of the quickest low dodge attacks in the game at 21 frames that is good at throw baits or getting a quick kill
+* Can link into 2A on meaty setups
+* Combos into 2C on counter hit
+
+}}
+
+==Specials==
+====Amazing Run====
+{{FrameDataCargo-COTW
+|moveId=salvatore_214b,salvatore_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|display=180x180px
+|description2= 
+* 214BD runs faster than normal versions
+* No notable differences between 214B and 214D
+* Will automatically do Stop follow up after a certain amount of time
+
+Salvatore's command run. It's faster than his regular dash and gives him access to oki he would otherwise struggle to get. It has some evasive properties allowing him to run under some moves his dash would get clipped by like Rock's Air Fireballs.
+}}
+
+====Amazing Run - Follow-up====
+<!-- Stop -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214b_a
+|display=200x200px
+|description= 
+* Cancels Amazing Run
+* Fast on recovery
+Used to halt Amazing Run to avoid committing. Can be used to setup strike throw from 236BD cancel.
+}}
+
+<!-- You Can't Stop Me!-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214b_d,salvatore_214bd_d
+|input=214B/D/BD > D
+|input2=qcb+B/D/BD > D
+|display=160x160px
+|description2= 
+* Can be made safe if spaced or meatied on normal version
+* Rev Version is always safe, or occasionally plus when it hits late enough.
+Low-hitting slide ender, at least the meterless versions, which can be harder to space. The Rev Version is an unreactable half screen low that, while not very rewarding, is always safe on block, with Rev Accel options in tow. Very strong for obvious reasons.
+}}
+
+<!-- You Can't Hold Me!-->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214b_c,salvatore_214bd_c
+|input=214B/D/BD > C
+|input2=qcb+B/D/BD > C
+|captions=<br>B/D/Rev first hit,<br>REV second hit
+|display=170x170px
+|description2= 
+* Safe 
+* On 214BD, the two hits will always come out even on whiff
+* True strings into 214AC-B on 214BD
+* Rev version is the tends to be the only version used
+Can be used as a frame trap and set up into his 50/50 while still having access to stomp for plus frames. A really good neutral skip as well if the opponent starts respecting 214BD-D
+}}
+
+====Earth's Beat====
+{{FrameDataCargo-COTW
+|moveId=salvatore_236b,salvatore_236d,salvatore_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|captions=<br>B/D/REV first hit,<br>REV second hit
+|display=180x180px
+|description3= 
+* Regular versions are both safe 
+* All versions lose to Rev Blow 
+* For the anti projectile properties, all versions have to be timed with the projectile
+----
+B Version
+*Combos from lights
+*Frame traps from lights
+*Gives small combo on counter hit
+*Nullify projectiles
+
+A safe true string block ender from heavies and the go to frame trap from lights. Due to long active frames, can easily setup up meaty stomps that can be up to +4 on block and +8 on hit. It is your go to to nullify projectiles on reaction.
+----
+D Version
+*Most optimal DP punish starter 
+*Frame traps and combos from cl.C
+*Nullify projectiles
+*On hit, can link into 2C
+Mainly used as damaging combo filler and his most damaging punish starter on DP reversals. It is pretty slow to nullify projectiles so it can only be used from full screen.
+----
+BD Version
+*First hit can break to be +4 
+*True strings into Groove stance 50/50 or Amazing Run strike throw situation
+*Can reflect projectiles 
+*True strings from heavies
+Salvatore's most important pressure tool and combo extender. On hit it leads to all his optimal Rev combos. On block it gets his offense going even when not cancelled into anything. Break is the preferred pressure choice due to the strength of being able to catch mashing and jumps/backdash with 2C. However letting it rip is also good to setup all the potential mixup scenarios and be +2 but right up the opponent's face. It is his strongest tool against ex fireballs being able to stop most of opponents attempts to skip neutral moving behind them.
+}}
+
+====Sky's Beat====
+{{FrameDataCargo-COTW
+|moveId=salvatore_236a,salvatore_236c,salvatore_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|display=200x200px
+|description3= 
+* Frame 1 air invulnerable 
+* Gives full combo on counter hit
+* 236C is the slowest, 236AC is the fastest, 236A is the middle ground
+Salvatore's best anti air option. It is fast and can be hit confirmed if it counter hit or not into one of the follows. It serves as his best guard cancel option as well due to the speed of the attack and easy input. Each one has their different merits to using as a guard cancel.
+* 236A is the fastest meterless guard cancel option
+* 236C gives the most reward off a successful guard cancel
+* 236AC is the overall fastest and safest with S.P.G. but the most expensive and scales the hardest
+}}
+
+====Sky's Beat - Follow-up====
+<!-- Descend -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_236a_b,salvatore_236ac_b
+|input=236A/C/AC > B
+|input2=qcf+A/C/AC > B
+|display=200x200px
+|description2= 
+* Fast recovery
+* On 236A, links only into 236236rev on the lowest hit and the others if hit high enough
+* On 236C, links into 236236D and 236236rev on the lowest hit and will link into 236236B if hit high enough. If close enough also links into 236AC. This makes 236C the most rewarding and preferred anti air option 
+* On 236AC, links into every super regardless of height but the scaling is significantly worse
+Used to get better oki, land back on the ground for follow ups on counter hit or hit high enough, or land to link into supers
+}}
+
+<!-- Air Swim -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_236a_a,salvatore_236ac_a
+|input=236A/C/AC > A
+|input2=qcf+A/C/AC > A
+|display=200x200px
+|description2= 
+*Can stall Sky's beat
+Combo follow up that can allow links into Air Dive on situational hits. Serves as Salvatore's main way of countering Just Defends on his anti air.
+}}
+
+<!-- Air Dive -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_236a_c,salvatore_236ac_c
+|input=236A/C/AC > C
+|input2=qcf+A/C/AC > C
+|display=200x200px
+|description2= 
+* Brings you straight to the ground
+Combo follow up if Sky's Beat connects. Very inconsistent in frame data and can very often leave you negative on hit if the opponent rolls towards you.
+}}
+
+====Groove====
+{{FrameDataCargo-COTW
+|moveId=salvatore_214a,salvatore_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|display=200x200px
+|description2= 
+* No differences between 214A and 214D 
+A stance that gives Salvatore access to a true 50/50 on block. Only 214AC gets used due to the unsafe and committal nature of the regular versions and their lack of any meaningful reward.
+}}
+
+====Groove - Follow-up====
+<!-- No More Groove -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214a_a
+|display=160x160px
+|description= 
+* Cancels the stance
+* Fast recovery
+Used to exit out of groove. Useful if opponent is attempting to reversal in the gap of Gain.
+}}
+
+<!-- Scratch -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214a_b,salvatore_214ac_b
+|input=214A/C/AC > B
+|input2=qcb+A/C/AC > B
+|display=200x200px
+|description2= 
+* Three hits
+* Can be cancelled into any follow up 
+Technically the fastest move in the game that is not a reversal at 2 frames. Used to make both options on the 50/50 gapless, but the reactable hit pattern makes it weak to Hyper Defense if the opponent is ready, in which case going straight into the mixup options is preferable.
+}}
+
+<!-- On Cue -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214a_c,salvatore_214ac_c
+|input=214A/C/AC > C
+|input2=qcb+A/C/AC > C
+|display=180x180px
+|description2= 
+*Slightly faster than the low option
+*Can be delayed
+The overhead option off Groove. Will frametrap any attempts to punish if slightly delayed. Also leads to a Hard Knockdown on OTG hit, which Salvatore appreciates when available.
+}}
+
+<!-- Gain -->
+{{FrameDataCargo-COTW
+|moveId=salvatore_214a_d,salvatore_214a_d_d,salvatore_214ac_d,salvatore_214ac_d_d
+|captions=<br>First D follow-up> D,<br>Second D follow-up
+|input=214A/C/AC > D/D > D
+|input2=qcb+A/C/AC > D/D > D
+|display=160x160px
+|description4= 
+*Slightly slower than overhead
+*Can be delayed
+*Safe on REV guard
+The low option off Groove. Requires Scratch beforehand to true string. Will only true string into Rev Blow on first hit.
+
+}}
+
+==Super Special Moves==
+====Fight Dirty====
+{{FrameDataCargo-COTW
+|name=Fight Dirty
+|moveId=salvatore_236236a,salvatore_236236c
+|captions=<br>Counter stance,<br>"Ready to lose ?"
+|input=236236A/C
+|input2=qcfqcf+A/C
+|display=180x200px
+|description2= *1F counter super, win against any attack exept cross-up and throw.
+*Because it's 1 frame, it can't be safe-jumped.
+The C version isn’t much different from the A version, aside from dealing more damage and having more active frame.
+}}
+
+====B&A.F====
+{{FrameDataCargo-COTW
+|name=B&A.F
+|moveId=salvatore_236236b,salvatore_236236d
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>Attack animation,<br>D super flash
+|display=160x160px
+|description2= 
+* Both version are full invincible
+* D version will always play an unskippable dance animation on K.O
+* B version has more range while the D version is faster
+Can be used has a reversal or a combo ender.
+}}
+
+==Hidden Gear==
+====Ultimate Beat: II Salvatore====
+{{FrameDataCargo-COTW
+|name=Ultimate Beat: II Salvatore
+|moveId=salvatore_236236rev
+|display=160x160px
+|description= * Resets the Rev meter to 0%, even during Overheat.
+Only available in S.P.G.
+}}
+
+==Videos, Links & References==
+
+'''Salvatore Ganacci｜Character Breakdown by SNK'''
+{{#ev:youtube|pCrGrhBEpMI}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Salvatore Ganacci]]

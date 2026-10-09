@@ -1,0 +1,455 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW VOX Profile.png|thumb| Enter the demon: Vox Reaper. This street assassin is dispatched to hunt down and eliminate Kain R. Heinlein—and though the attempt is thwarted, he at least escapes with his life. Kain's bodyguard Grant, having realized the youth's talent and potential, decides to take him under his wing thereafter. Afforded a new lease on life, and intent on fulfilling his dying master's wishes (not to mention Kain's own grandiose ambitions), Vox stalks the bloody battleground that is South Town—a demon reborn.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~20f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+(*) = Brake
+
+'''REV Blows'''
+
+Rasai Jin - (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+Shouen Raku - (S.P.G. active, in air) [[image:c.gif]][[image:d.gif]]
+
+
+
+'''Special Moves'''
+
+Kokuen-Ryuu - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Kyou Chou Jin - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Messhou Hisetsu - (In air or during Kyou Chou Jin) [[image:dn.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Gou Dangai - [[image:qcf.gif]] + [[image:a.gif]] (*) / [[image:c.gif]] (*)
+
+Gou Retsu Shou - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] 
+
+
+
+'''Ignition / Redline Gears'''
+
+Shougeki Raku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Majin Engetsu Rin - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Seigai Shuu - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+The spiritual successor to Grant from the previous game, Vox Reaper is a simple, straightforward rushdown character who wants to get in fast and brawl with his opponent. 
+
+He does this through a combination of advancing specials, normals with great reach, frame advantage, and cancelability, and so at any moment Vox can rush in and start going crazy with his numerous plus-on-block moves, including some that cost no REV. To capitalize on his plus frames and hard knockdowns, Vox employs a very scary strike-throw game that includes frame traps, spacing traps, a command grab (236K) and a host of great normals that keep the opponent from going very far while he’s going to work. When the brawling doesn’t work out and Vox has to play defense, he has a great DP (623P), strong kick normals and the ability to push opponents back out with his light confirms.
+
+Vox is, however, missing some key things compared to other rushdown characters. The big one, however, is that his mobility without committing is mediocre at best, so winning neutral with Vox lives and dies on picking the right opening to barge in, or calling out whatever the opponent may use to keep him out. Notably, he has to do this with the smallest moveset in the game, limiting how tricky he can be with the advantage.
+
+That’s not to say Vox is weak; far from it, in fact. Not only can he just barge in with his specials, his combo damage is well above average, even without using a super. If your style is getting in and going HAM, then don’t fear the Reaper, give him a try!
+
+{{StrengthsAndWeaknesses
+| intro = Vox is a "gorilla"-style brawler who barges in and forces interactions.
+| pros=* '''Plus Frames''': Vox has a whole host of plus-on-block specials, chief among these being the C version of Gou Dangai (236P); a belligerent +3 on block long range lunging tackle that costs no REV gauge to perform which can also be breaked, which means opponents constantly have to be on the lookout for it, adding an immense stress factor when facing Vox in neutral. Vox also has plenty of Rev accel moves that grant him plus frames like the first hit of 214AC and 623AC dive.
+* '''Wall of Buttons''': On top of his own strong approach tools, Vox is also good at stopping the opponent from getting in on him. His kick normals and light Kokuen-Ryuu (214A) are difficult to navigate around for most characters and he can convert into massive damage should he score a Wild Punish with far D.
+* '''Command Grab''': While Vox's command grab is nothing to write home about in and of itself, having a command grab at all is a privilege in City of the Wolves, as it is both a good call-out tool against JD on offense and a great guard cancel option on defense.
+* '''Corner Damage''': With all the moves Vox can fit into a combo on a cornered opponent, plus a DP brake against opponents trying to escape, Vox can do catastrophic damage in the corner from most starters, especially off a Wild Punish or jump-in. 
+*'''Dive Kick''': Vox has one of the best dive kicks in the game, which is extremely hard to contest and deal with. On counter hit he gets a massive combo which can make opponents hesitate when trying to anti air vox
+
+| cons=* '''Sluggish''': Vox is not particularly fast and his advancing specials risk getting checked by a keen opponent or stuffed by random hitboxes, giving him insufficient tools to deal with opponents who like to retreat and play hit & run, which is a strategy that a lot of the strongest and most popular characters both enable and excel at.
+* '''Simplicity''': With no unique normal or command combo to his name, Vox has the smallest moveset in ''City of the Wolves'', and is forced to creatively use what few tools he has to break defenses. 
+* '''Supers always side switch''': All but one of Vox's supers force a side switch on hit, which might not be ideal depending on positioning.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=vox_f.A
+|description=* Decent button but outclassed by far B. No reason to use this button except in some -5 punish situations
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=vox_f.B
+|display=160x160px
+|description=
+* Farthest reaching light. 
+* Chains from 2B, 2A making it a good reliable 3 hit hitconfirm into 236A or super.  
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=vox_f.C
+|description=
+* Special cancelable and opens up massive damage if confirmed into 214C.
+* Can link into itself on Wild Punish for an easy whiff punish. Dashing in and doing cl.D is a more rewarding option. 
+*Goes into many different options on block and starts offense. In neutral Vox's best safe buffer is 214A
+* Significant recovery on whiff so use with caution
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=vox_f.D
+|description=
+* Great all around neutral button 
+* Faster and longer than far C.
+* Fantastic reward on Wild Punish, allowing for a reliable dash in cl.D(fc), clB, 2C combo. 
+*Similar to Far C, this button is very suseptible to being hopped over, but it is safer on whiff.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=vox_cl.A
+|display=160x160px
+|description=
+* Always in range to cancel to DP.
+* Great way to set up tik throws
+Extremely important button for Vox as he likes to dash in the opponent's face often. This button is Vox's main way to his access DP break launcher and start his offense.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=vox_cl.B
+|display=170x170px
+|description=
+* Plus enough to link 2C after. 
+* Good button to setup a tick throw situation.
+* Combos after 2B at point blank range after version 1.7.2
+
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=vox_cl.C
+|display=160x160px
+|description=
+* Close range button which is negative on block even with feint 
+* Doesn't have many use cases except as a situational combo filler after counter hits.
+* Can link into from a counter hit cl.B and counter hit cl.D for optimal combos.
+
+Does have plenty of cancel options which allow Vox to start his pressure even if the button is negative on block even when feinted. Your best frame trap is 214C, but it is a high risk high reward frame trap as it is quite negative on block. Another option vox can use ( if the opponent respects the cancel options) is to do 236C for a reset
+
+Niche tech *: Due to the higher than usual cancel window, vox can delay a 214A cancel to make it a true frame trap which is a much safer option than 214C. If the 214A is not delayed, then it becomes a true block string.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=vox_cl.D
+|display=160x160px
+|description=
+*Vox's main and best combo starter
+* Go to button to start pressure as its +3 on block after feint cancel and has alot of pressure routes vox can go with.
+* On hit feint cancel allows to link cl.B which naturally links to 2C.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=vox_2A
+|description=
+* Vox's go to Abare/Mash button as it is cancelable and can link easily to Far B
+* Your average 2A. be careful cancelling to DP as it whiffs from certain ranges. If starting from 2B and the goal is to cancel to DP its better to do standing A, if 2B chains to cl.A DP will connect making it a safer string.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=vox_2B
+|description=* Vox's go-to low. good range.
+*At close range can link into cl.A and go to a DP break to start a small combo
+*Cancelable into super.  
+* Chains into Far B fairly consistently for a small combo
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=vox_2C
+|display=200x200px
+|description=
+* Links naturally from cl.B
+* Punishable on block, can cancel to 214A or into a DP brake to stay safe, or into ex DP cancelled into divekick to be plus and continue pressure. 
+* Can be used to anti-air due to 5 active frames but it doesn't have anti-air invulnerability
+* Extremely potent button to use after a blocked cl.D as it frame traps into a huge combo and has safe cancels even if blocked
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=vox_2D
+|description=* Has a good range, can be good to punish spaced blocked sweeps.
+
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=vox_j.A,vox_h.A
+|name=Jump A
+|input=j.A
+|description2=* Great air to air button but not Vox's best.Has generous hit advantage allowing for close heavy punch to connect even when not landed deep. Cancelable, but only combos into dive kick on counterhit and wild punish. 
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=vox_j.B
+|display=150x150px
+|description=* Crosses up.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=vox_j.C
+|display=200x200px
+|description=* Potent Air-to-air that puts the opponent into a combo OK state which allows a pick up with DP break or a combo into super.
+* Can't hit crouching opponents so don't use this as a jump in
+
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=vox_j.D
+|display=160x160px
+|description=* Vox's best jump in button. Use this after safe jump set ups
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=vox_cla_5c,vox_cla_5c_5c,vox_cla_5c_5d,vox_cla_5c_6d,vox_cla_5c_2d
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Same move as close C but the frame data and damage are different and the first hit can be cancelled by any follow-up.
+----
+cl.AC > C : Far C follow up, different frame data and damage.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Same move as his Low Dodge Attack(5C+REV), +2F on hit and block.
+----
+2D ender : Same move as his 2D and nearly the same framedata, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=vox_AB
+|display=150px
+|description=* Vox is +3 if he dashes after. 
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=vox_4AB
+|display=150px
+|description=* Great oki, can dash twice and meaty with cl.D.
+}}
+
+==REV Blows==
+====Rasai Jin====
+{{FrameDataCargo-COTW
+|moveId=vox_CD
+|description=* Only available during S.P.G
+Full armor on the 2nd frame and like other REV Blows, it loses to meaty, throws, high dodge attacks, or if the opponent reacts with their own REV Blow.
+
+A below-average rev blow that is one of the weaker ones in the game. It has 25 frames of start up and no vertical hitboxes along with considerable recovery. Use with caution and limit usage for ending combos or block strings with it
+}}
+
+====Shouen Raku====
+{{FrameDataCargo-COTW
+|moveId=vox_j.CD
+|description=* Only available during S.P.G
+* Could be used as  anti air bait, starts a full combo on counter hit
+*One of Vox's best midscreen combo enders as it gives him hard knockdown oki
+Great air rev blow that is extremely combo friendly when used after a rev dive kick.
+
+'''MIDSCREEN ONLY:''' Vox gains a safe jump setup when ending in this move at midscreen. He can whiff a standing light kick into a hop and get scary pressure on the opponents wake up.
+}}
+
+==Feints==
+====Stand Feint====
+{{FrameDataCargo-COTW
+|moveId=vox_5bc
+|description=* Fastest feint and the one used in his framedata.
+*Mimics his 214C
+* Due to Vox's scary strike throw game, can be used after hard knockdowns to bait reversals.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=vox_2bc
+|display=140px
+|description=* 1F slower than the standing feint, mimic Vox's DP.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=vox_2CRev
+|display=170x170px
+|description=* Cannot be cancelled on block
+Sometimes wins against jump attacks, standing normals and REV Blows. 
+Not a very good anti air due to the horizontal hitbox and low active frames. On counter hit can combo into DP break to start a combo or a 236A
+
+Unfourtunatly this might be the worst high dodge attack in the game. With an abbhorent hitbox for both anti airing and dodging horizontal attacks. This move can lose you the round easily if you are not on point with your timing. The best usage for this move is to counter rev blows. Try anti airing with crouching C, DP, or air to air with j.C for a juggle.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=vox_5CRev
+|description=* Universal overhead
+* +8 on counter hit and wild punish. Can link into cr.C for a combo
+Dodges low and throws. 
+Not a very good low dodge attack when compared to the rest of the cast. With lower range and active frames than other ones. On top of a high recovery on whiff. Use this move sparingly or to close out rounds.
+}}
+
+==Special Moves==
+====Kokuen Ryuu====
+{{FrameDataCargo-COTW
+|moveId=vox_214A,vox_214C,vox_214AC
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|display=200x150px
+|description3=
+* Vox's "fireball function" 
+* Light servers as a great and hard to contest poke in neutral . its also a good blockstring ender from heavies keeping Vox relatively safe while also punishing mashers as if functions as a 4F frametrap
+* Heavy is the go to combo starter from heavy confirms. while its a 5f frametrap from heavy punches(trades with 4f) its unsafe on block
+* Landing a counter hit with heavy will launch the opponent in a special state which allows another 214C to connect and relaunch
+* EX is the combo filler usually cancelled into from 236AC
+* Braking before the second hit of the EX version connects will grant Vox frame advantage on block (+3).
+*
+
+}}
+
+====Kyou Chou Jin====
+{{FrameDataCargo-COTW
+|moveId=vox_623A,vox_623C,vox_623AC
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|display=120x250px
+|description3=
+* Vox's DP. All versions can be cancelled into divekick (2K) on hit but only heavy and EX cancel on block. 
+* 623AC~2K leaves Vox +3 and in range to use close heavy normals 
+
+}}
+
+====Messhou Hisetsu====
+{{FrameDataCargo-COTW
+|moveId=vox_j.2B,vox_j.2D,vox_j.2BD
+|input=j.2B/D/BD
+|input2=j.d+B/D/BD
+|description3=
+* Vox's divekick. good approach and fireball punish tool.
+* Does not knock down even on counter hit
+* EX can be done from any jump, normal versions only from neutral and forward jump.
+* non EX can never be + on block and not rewarding on normal hit. 
+* on counter hit and wild punish normal versions can be plus enough to link a light after, or 2C if they hit deep.
+
+}}
+
+====Gou Dangai====
+{{FrameDataCargo-COTW
+|moveId=vox_236A,vox_236C,vox_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|display=180x160px
+|description3=
+* Every version is brake-able during the dash part.
+* Light version can be spaced to be safe (-3 from round start) 
+* Counter hitting with light and heavy give a high launch which starts a very damaging combo
+* Heavy is always plus but can be 5f jabbed when cancelled into from heavy punches. 
+* EX is your go to juggle catcher and combo filler also has good corner carry
+* Braking after the first hit of the EX version keeps Vox safe on block
+}}
+
+====Gou Retsu Shou====
+{{FrameDataCargo-COTW
+|moveId=vox_236B,vox_236BD
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|display=180x180px
+|description2=
+* Command grab that nets decent hard knockdown.
+* EX can be special cancelled into other EX moves to lead to a bigger (scaled) combo.
+* good to catch overly defensive opponents.
+* Will grab opponents after a blocked cl.D feint or a cl.B without need to microwalk or dash.
+}}
+
+==Super Special Moves==
+====Shougeki Raku====
+{{FrameDataCargo-COTW
+|name=Shougeki Raku
+|moveId=vox_236236A,vox_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|captions=<br>Attack animation,<br>C super flash
+|description2=
+A version :
+* does less damage and have worse oki and has no invul compared than the kick counterpart. 
+* don't use this.  
+* can be used to OTG after a WP 2D. This single hit deals the full damage of the super for some reason.
+----
+C version :
+* an actually decent super compared to its lvl 1 version. 
+* has invul and can be used to punish fireballs. 
+* like all of Vox lvl1 super it side switches and it has worse oki than lvl2 kick super.  
+* best used in mid screen routes or when it can guarantee a KO otherwise use the kick super.
+}}
+
+====Majin Engetsu Rin====
+{{FrameDataCargo-COTW
+|name=Majin Engetsu Rin
+|moveId=vox_236236B,vox_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>Attack animation,<br>D super flash
+|description2=
+B version :
+* the ideal lvl1 metered finisher. 
+* can be used as a reversal. 
+* sideswitches but has enough oki to dash 3 times and meaty with cl.D and continue your pressure.
+* When used in the corner, it sets up an auto-timed cross-up by doing a hop then a jump and pressing j.B
+
+----
+D version :
+* while it does less damage than the lvl2 punch super, its doesn't sideswitch and has amazing oki. always use this in corner routes to keep the corner. 
+* Sets up an easy safe jump in the corner by whiffing a cr.C and doing a forward jump
+}}
+
+==Hidden Gear==
+====Seigai Shuu====
+{{FrameDataCargo-COTW
+|name=Seigai Shuu
+|moveId=vox_236236REV
+|input=236236REV
+|description=
+* Only available during S.P.G, resets the Rev meter to 0%, even during Overheat.
+* Cinematic super. has absolutely no oki and after the animation it sends the other character to the other side of the screen. 
+* Best used to guarantee a KO or when Vox Rev meter is high and at risk of overheat.
+* Situational fireball punish. Can punish fireballs on reaction at half screen away
+}}
+
+==Videos, Links & References==
+
+'''VOX｜Character Breakdown by SNK'''
+{{#ev:youtube|N9R0q1Lt3fo}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Vox Reaper]]

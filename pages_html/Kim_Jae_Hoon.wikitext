@@ -1,0 +1,555 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Jae_Hoon_Profile.png|thumb|Taekwondo specialist and son of Kim Kaphwan who, through careful observation and diligent training, inherited his father’s flawless technique—and fiery crusade for justice.<br>
+Yet the contrast between that no-nonsense offense and the whimsical stylings of his older brother, Dong Hwan, creates a shadowy specter of doubt: How should he really fight? How can he keep up with them both? Fueled by burning questions of self-worth, and a burning desire to punish all manner of evil in South Town, Jae Hoon sets his sights on one place: the infamous King of Fighters tournament. 
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15-21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Shoukyaku Hou - [[image:bk.gif]][[image:bk.gif]],[[image:fd.gif]] + [[image:b.gif]]
+Command Combo - [[image:a.gif]],[[image:d.gif]] (Midair Only, Jump only)
+
+'''REV Blows'''
+
+High-Angle Naeryo Chagi - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Air Hangetsu Zan - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Hangetsu Zan - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Houten Kyaku - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Ryuusei Raku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Shakka Shuu - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Hien Zan - [[image:dn.gif]] ~ [[image:up.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*)
+:'''┗''' Tenshou Geki - [[image:dn.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Hishou Kyaku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (Midair Only) (*)
+:'''┗''' Earth Flash (D or REV only) - [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Phoenix Strike (D or REV only) - [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+
+Houyoku Hiten Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Houou Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+Shakki Houou Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+
+==Gameplay Overview==
+Kim Jae Hoon is a defensive rushdown character that takes more from his father, Kim Kaphwan, complete with his signature tools such as Hangetsuzan and a Flashkick. 
+
+Jae Hoon boasts extremely good heavy buttons to poke at the opponent and continue his pressure making him more reliant on his normals than his specials. Not to discredit Jae Hoon's specials however as he has a varied kit of useful tools such as a divekick with high/low followups and a neutral tool in Hangetsuzan. When Jae Hoon can lock his opponents down in the corner with proper spacing he becomes a wall that that can be hard to get through. 
+
+Jae Hoon's struggle comes from his speed and weak light normals which combined with his Flashkick forces players to be extra patient with how he plays. As such he will fall back to his great heavy normals and REV specials which force his great and rewarding options to be committal in nature. Jae hoon's neutral is fairly good but quite committal as his best moves have significant whiff recovery ( especially his Far D).  
+
+However once you hone in on your patience and discipline, Jae Hoon becomes a wall of hard-hitting justice and a force to be reckoned with that truly carries on his father's legacy. On top of having interesting and unique blockstring offense and scary reset potential using his Heavy and REV Shakka Shuu.
+
+{{StrengthsAndWeaknesses
+| intro = Kim Jae Hoon is a neutral-focused rushdown character that walls out his opponents into high damage cashouts. 
+| pros=
+
+* '''Good Far Heavies''': Far C and D are neutral defining.far C is an amazing poke and whiff punish tool.while far D takes advantage of passive opponents by being an advancing plus on block normal that can convert into a combo. 
+* '''Flashkick''': The only character besides Kain to have a Flashkick and it's quite good at that. Light Flashkick is a fast two-hitting reversal while REV Flashkick can be canceled with REV Accel into his divekick for greater damage, all empowered by their horizontally excellent hitboxes.
+*'''Blockstrings''': Jae hoon has very strong blockstrings that can force opponents to interact due to Jae hoon's many baked-in reset and break points using his feints and Shaka Shuu options. Quite similar to the blockstrings of Blue Mary and Vox Reaper. Jae hoon also has very strong options to counter both mashing between strings, and sometimes even hard invincible reversal call-outs using his heavy Shaka Shuu hold into cancel.
+*'''Guard point''': Jae Hoon is one of the few characters who has a meterless way to deal with guard cancel rev blows using his Shaka Shu. He potentially has the best and most practical Guard point attack in the game which opens alot of depth in the neutral and in various interactions.
+
+| cons=
+* '''Stubby''': Also like his brother, Jae Hoon suffers from stubby cancellable pokes and has to rely on cancelling into super to convert far A and C into respectable damage. His farthest-reaching cancelable poke is crouch C, which is laughably short ranged and thus only used in combos and frame traps.None of his far buttons are cancelable as well, which hurts his neutral and midrange even more. 
+* '''Slow''': While being slow is typically not an issue, if the character has strong specials or moves to compensate for it, Jae Hoon can struggle in neutral due to his slow speed and charge reliance, making his approach and pressure not very threatening, which forces him to rely heavily on specialized tools like far D and Hangetsuzan, which have their own flaws. Jae Hoon also has one of the worst forward and back dashes which doesn't help his already slow walk speed.
+
+*'''Weak to zoning ''': Jae hoon doesn't have any anti-projectile moves (except his level 2 Houhou Kyaku which has low range anyway). Coupled with his slow and predictable neutral, he will struggle alot with getting around fireballs ( especially air fireballs like andy's and geese's)
+*''' Extreme Meter Dependence''': Jae Hoon's game plan revolves so much around having super meter to dump. Jae Hoon is forced to use Meter to get real okizeme (as he gets pretty much no oki off his soft knockdown combo enders), deal with people exploiting his airborne flashkick reversal, and most importantly: comboing off his 2B.
+*''' Master of None''': The most unfortunate part of Jae Hoon is that he doesn't really have anything "special" or something that he truly excels at. He has a low overhead mixup using his REV dive kick, but other characters have better low high mix. His far heavies are good, but both of them are not cancelable. His damage is slightly above average at best, his okizeme and set ups are nothing of note and all of his system mechanic moves are average as well.
+
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_fA
+|description=
+ Standard Jab which has quite good range. it is not cancellable to specials.
+* Reliable way to end 3 hit light strings,and confirm into super. Go to button after a 2B, although can whiff if the 2B hits at tip range. 
+ }}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_fB
+|description= Short-range kick which has the same frame data as Far A but with 5 more damage and slightly worse range. 
+Great option to use when ending 3 hit light strings as it is cancellable into a good knockdown using super or light hazanshu
+
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_fC
+|description=Jae Hoon does a far-reaching roundhouse kick that only slightly advances his body. Exceptional poke, Jae Hoon's main way of space trapping and whiff punishing opponents and walling them out. Cancelling into a super is the only way to convert off a hit but a Wild Punish can allow for a follow-up from any range, depending on the option. 
+* Prone to getting hopped over if done too late.
+* Can be linked from Wild Punish with a walk > clD, walk > 2C or REV Hangetsuzan.
+*Usually safe when spaced out, but is always -6 on block. Quite easily punished if not spaced well
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_fD
+|description=Jae Hoon advances while up kicking, hitting twice. Essential button for Jae Hoon as it uniquely leaves him slightly advantageous letting him continue offense without REV from a far heavy. Although far D has a massive weakness of hit not immediately hitting crouchers, it enforces Jae Hoon's rushdown and is one of his best ways of closing the gap and extending pressure.This button is also super cancelable.
+* One of the strongest buttons in the game
+* Links into 2A on hit and 2C on counterhit.
+* Hits the highest out of his far pokes making it great for catching jumps early. 
+* Only hits crouching opponents on frame 23 as the first hit does not hit crouchers.
+**This leaves Jae Hoon vulnerable to 2Cs from almost any character, often leading to a devastating close-range wild punish.
+
+WARNING: Despite the amazing upsides to this button, it has alot of counterplay and weaknesses that could lose you the game. The main one being being very suseptible to  high dodge attacks getting hopped on and whiff-punished due to the high recovery. Being predictable with this button can be extremely costly. 
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_clA
+|description= Great Light starter and good in chaining but has an extremely small activation range
+* Sets up tick throws very well
+* 2x cl.A --> 2A is a consistent 3 hit light string which is the only way Jae Hoon can land 3 light attacks and end with a meterless special. 
+Possible bug ( or design decision): This button can't be canceled to Hien Zan (Flashkick) when using it in a light string chain despite being special cancelable.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_clB
+|description=Standard close B pressure and combo starter with very fast start-up
+* Identical to Dong Hwan's close B but with 1 less plus frame.
+*In range to follow up with a close C, which frame traps and starts Jae Hoon's strong blockstring offense.
+*Great all around button, Use this.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_clC
+|description=Double hitting high kick. Very similar to to Dong Hwan's, but is neutral on block with feint. Has alot of cancel options and can start his offense and blockstring  mixups but quite hard to meaty or hit the opponent on wake up with.
+* One of Jae Hoon's best pressure normals
+* Easily confirmable due to the double-hitting property and big cancel window
+* Starts combos with REV Hangetsu Zan and if blocked, Jae Hoon can force a favorable RPS situation using REV Shaka Shuu ( which is probably Close C's best cancel option on block)
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=jaehoon_clD
+|input=cl.D
+|description=* The Party starter
+Jae Hoon's strongest pressure starter, meaty, and reversal punish. On feint hit combos into 2C and on block Jae Hoon can frame trap with 2C as well. 5 Active frames make it very easy to meaty with.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_crA
+|description=Jae Hoon's best button to mash on defense.Cancels from this button are quite weak and all cancels lose to the opponent mashing. The only frame trap option from Crouch A is Light Ryuusei Raku ( 236LK), which is extremely risky to go for as it is extremely minus on block. Good opponents will mash their 2B every time they see you do a 2A chain blockstring. The only way to counter this 2B "Option select" is to do 236LK to go over lows, but that is also a hard call out and punishable on block
+* Meterlessly combos into Hien Zan(flashkick) and and light Ryuusei Raku (236LK)
+* On counter hit, only gains the additional ability to combo into 214LK.
+* Great option to use after a blocked Far D
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_crB
+|description=Standard low hitting light kick. Jae Hoon's best way to catch backward's movement and can easily chain into Far A at most ranges.
+* Could be used after a blocked Far D, but Jae Hoon can't convert anything after a hit. Better to use Crouching A instead
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_crC
+|description=Jae Hoon's fastest and only special cancellable heavy poke, commonly used as a frametrap and confirm hit after clD > down feint. Despite its stubby range it's essential for converting off of counterhit and Wild Punish pokes.
+* Will always combo from a clD > down feint link.
+* Has a strong buffer into Rev 214K to start combos and blockstrings.
+* Despite being Jae Hoon's farthest cancelable poke. It is not very useful in neutral due to the abysmal range and recovery and should mainly be used in block strings.
+
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_crD
+|description=Average Sweep frame data wise with good range. Use this sparingly as it is very punishable on block.
+
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_jA
+|description= Jae Hoon kicks downward at a very steep angle. There is not much reason to use this button. It has fairly low blockstun so it could be used to mix up your jump in offense. Not much reason to use it over Jae Hoon's other jumping normals
+
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_jB
+|description=Jae Hoon does a fast horizontal kick in the air. Due to the hitbox angle and speed. This is Jae Hoon's best air to air normal
+* Main air cross-up button
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_jC
+|description=Jae Hoon does an aerial Axe kick which hits very deep.
+*  Best jump in button Jae Hoon has
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_jD
+|description=Similar to jump C but with better horizontal range, great air to air button (despite the slow start up) and a good jump in button as well at ranges where jump C might whiff. 
+* 
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_cla_5c,jaehoon_cla_5c_5c,jaehoon_cla_5c_5d,jaehoon_cla_5c_6d,jaehoon_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_throw
+|description=Jae Hoon's throw. Gives good oki but nothing spectacular. Can be followed up mid-screen with 3 dashes to be +2 on top of the opponent. Can set up a throw frame kill using either Close A or Close B. Or an a meaty Close D
+* In the corner sets up a fairly easy but manually timed safe jump by doing the following: Dash--> Close B--> Hop
+*Can set up a cross up jump, which is safe to buffer reversals by doing the following: Dash--->Neutral Feint--->Jump forward
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_4throw
+|description=Average back throw. Gives much less advantage as his forward throw, but still gives true strike-throw okizeme. Can set up a deep hitting heavy dive kick mixup but is not safe to wake up reversals.
+
+}}
+
+==Command Moves==
+====Shoukyaku Hou====
+{{FrameDataCargo-COTW
+|name=Shoukyaku Hou
+|moveId=jaehoon_446b
+|description=One of the most unique moves in City Of The Wolves. Only usable after a back dash. Despite having very interesting properties and good frame data. This move is quite niche and doesn't have much uses or a place in Jae Hoon's gameplan.
+*Safe on block and cancelable
+*Good anti-air hitbox, but doesn't lead to a combo
+* Fast recovery which makes it hard to punish, although can be telegraphed if the opponent is looking for it.
+* On grounded hit starts a combo with REV Hangetsu Zan
+}}
+
+====Command Combo====
+{{FrameDataCargo-COTW
+|name=Command Combo
+|moveId=jaehoon_ja_d
+|description=Target combo from Hoon's j.A, fairly good Good air to air despite being 8 frame start up
+* Can't be done out of a hop
+* 2nd hit only combos from a counterhit or wild punish
+}}
+
+==REV Blows==
+====High-Angle Naeryo Chagi====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_CD
+|description=Government Mandated Rev blow. Not much to say about it. Below average range, Significant start up, and not much utility in neutral. Best used defensively and after a guard cancel
+* DOES NOT combo after the low follow up from REV dive kick ( for some odd reason)
+
+}}
+
+====Air Hangetsu Zan====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_jCD
+|description=Armored flying kick with impressive range and a good hitbox. One of the better air rev blows in the game and is quite strong in neutral. Great to use in air to airs and very combo-friendly
+* Very useful and during REV dive kick mixups and any airborne REV special move.
+
+CAUTION:This move has a MASSIVE tendency to completely whiff on crouching opponents but this interaction is rare as most opponents will stand block when Jae Hoon is airborne. This move can also still whiff on standing opponents if done at the Apex of the jump. A good rule of thumb is to do this move while Jae hoon is desending from his jump or hop
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_5bc
+|description=Mimics the startup of Hangetsu Zan ('''214K''').
+* Puts you in throw range even if the opponent walks backwards after blocking a close heavy.
+* Gimmicky and doesn't have much usage, Avoid using except in niche setups or to bait reversals
+}}
+
+====Forward Feint/Down Feint====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_2bc
+|description=Mimics the startup for Shakka Shuu ('''214P'''). This is Jae Hoon’s fastest feint, use this whenever a combo requires a feint.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_2CRev
+|description=Pretty good High dodge attack and one of the better ones in the game. Very similar to Dong's. Good horizontal and anti air hitbox
+* Links into REV Shaka Shu( better for grounded hits) and REV Zangetsu Zan( better for aerial wild punishes) for a  reliable buffer.
+
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_crev
+|description=Another Government mandated move. Very average in frame data and range. Very hard to set up a meaty hit which allows Jae hoon to combo after due to low active frame count. But overall, a strong and important tool to use.
+
+}}
+
+==Special Moves==
+====Hangetsu Zan====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_214B,jaehoon_214D,jaehoon_214BD
+|input=214B/D/BD
+|input2=qcf+B/D/BD
+|description3=The iconic lunging split kick makes its way into the game, Hangetsuzan now multi-hits on all versions and in REV version's case leads to some of his strongest combo routes. Unfortunately, Hangetsuzan is very unsafe at most ranges on all versions though it can be spaced to be safe at the very tip of its last hitbox. This classic neutral tool has its uses but beware as it is commonly death on whiff and block. It is not recommended to use this move as your typical "Neutral skip" as it doesn't have the safety or range. Using this move recklessly can be a very easy way to lose rounds.
+* All versions launch on counterhit when only the last hit lands
+----
+'''Light version (214B)'''
+* 2 Hits
+* Travels round start distance
+* Best meterless combo ender for most of Jae Hoon's combos and optimal ender for niche -5 on block punishes
+* In version 3.00, now combos from light enders.
+----
+'''Heavy version (214D)'''
+* 3 Hits
+* Travels the farthest at around 3/4ths screen length
+* Doesn't have much uses except in very specific combo routes as an optimal ender.
+----
+'''Rev version (214BD)'''
+* 3 Hits
+* Travels just a little under Heavy version's distance
+* Important for converting heavy starters into stronger REV cost routes
+* Can be made safe with REV Accel, making this a somewhat useful neutral tool
+}}
+
+====Houten Kyaku====
+{{FrameDataCargo-COTW
+|moveId=jaehoon_236A,jaehoon_236C,jaehoon_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3= Jumping flame kick
+* Not an overhead, is a mid
+*Does not knockdown
+* All versions can be braked before the hit
+----
+'''Light version (236A)'''
+* Fastest version but punishable on block
+----
+'''Heavy version (236C)'''
+* More range, safe on block, but more start up
+* Good to catch hops, back dashes, and low hitting moves
+----
+'''Rev version (236AC)'''
+* +1 on block AND hit
+*Useful combo extender
+*Always leaves a gap when used in a cancel chain. 
+* On airborne hit, does a ground bounce which allows follow-ups.
+
+One of Jae Hoon's weaker specials. Doesn't have much usage except as a combo extender in the REV version. All versions can be high-dodge attacked on reaction and lose hard to invincible reversals. Not recommended to use in neutral due to massive recovery frames and very small range. Despite all versions being brakable. All of them lose to the same counterplay to the non-braked versions.Pretty much used as a gimmick knowledge check to sneak in a throw or low.
+}}
+
+====Ryuusei Raku====
+{{FrameDataCargo-COTW
+|name=Ryuusei Raku
+|moveId=jaehoon_236b,jaehoon_236d,jaehoon_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+| description3=Double-hitting kick special move. Both hits are mid despite looking otherwise.
+
+----
+'''Light version (236B)'''
+* Jae Hoon's best meterless light string ender
+* Extremely unsafe on block
+----
+'''Heavy version (236D)'''
+* Great special that has alot of uses in Jae Hoon's gameplan
+*Safest Blockstring ender using the break
+* Great meterless combo extender
+----
+'''Rev version (236BD)'''
+* Extremely versatile move with a lot of use cases 
+* First hit can be canceled into grounded REV specials, while the 2nd hit can be canceled into air REV specials.
+*Jae Hoon's best way to set up Dive kick mixups( if you can call them that lol)
+}}
+
+====Shakka Shuu====
+{{FrameDataCargo-COTW
+|name=Shakka Shuu
+|moveId=jaehoon_214a,jaehoon_214c,jaehoon_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3=Jae Hoon raises his leg up and launches a flurry of kicks. Heavy and REV versions could be held to enter a Guard Point stance, but loses to lows and throws.
+* Armor starts from frame 11 up to frame 28 on both Heavy and REV versions
+*Heavy and REV versions can be forward dash cancelled by holding the button and inputting a dash input at any point during the guard point. They can also be breaked before the hit comes out by pressing the REV button.
+* 
+----
+'''Light version (214A)'''
+* Potentially the worst move in the game, has 0 use cases in Jae Hoon's gameplan and will get you killed for using it. Unsafe on block with bad risk-reward. Avoid using at all costs.
+----
+'''Heavy version (214C)'''
+* Fully held version is safe on block, non charged or even partial charged version is punishable on block.
+* Does significant block damage and REV guage damage
+* Can be held to enter a guard point state starting at frame 11
+----
+'''Rev version (214AC)'''
+* placeholder
+}}
+
+====Hien Zan====
+{{FrameDataCargo-COTW
+|name=Hien Zan
+|moveId=jaehoon_28b,jaehoon_28d,jaehoon_28d_2k,jaehoon_28bd,jaehoon_28bd_2k
+|input=28B/D/BD
+|input2=qcb+B/D/BD
+|description5=placeholder
+* placeholder
+----
+'''Light version (28B)'''
+* placeholder
+----
+'''Heavy version (28D)'''
+* placeholder
+----
+'''Rev version (28BD)'''
+* placeholder
+}}
+
+====Hishou Kyaku====
+{{FrameDataCargo-COTW
+|name=Hishou Kyaku
+|moveId=jaehoon_j236b,jaehoon_j236d,jaehoon_j236bd
+|input=j.236B/D/BD
+|input2=j.qcf+B/D/BD
+|description3=placeholder
+* placeholder
+----
+'''Light version (j.236B)'''
+* placeholder
+----
+'''Heavy version (j.236D)'''
+* placeholder
+----
+'''Rev version (j.236BD)'''
+* placeholder
+}}
+
+====Hishou Kyaku follow-ups====
+{{FrameDataCargo-COTW
+|name=Earth Flash
+|moveId=jaehoon_j236d_6b
+|input=j.236D > 6B
+|input2=j.qcb+D > f+B
+|display=200x200px
+|description=placeholder
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|name=Earth Flash
+|moveId=jaehoon_j236bd_6b
+|input=j.236BD > 6B
+|input2=j.qcb+BD > f+B
+|display=200x200px
+|description=placeholder
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|name=Phoenix Strike
+|moveId=jaehoon_j236d_6d
+|input=j.236D > 6D
+|input2=j.qcb+D > f+D
+|display=200x200px
+|description=placeholder
+* placeholder
+}}
+{{FrameDataCargo-COTW
+|name=Phoenix Strike
+|moveId=jaehoon_j236bd_6d
+|input=j.236BD > 6D
+|input2=j.qcb+BD > f+D
+|display=200x200px
+|description=placeholder
+* placeholder
+}}
+
+==Super Special Moves==
+====Houyoku Hiten Kyaku====
+{{FrameDataCargo-COTW
+|name=Houyoku Hiten Kyaku
+|moveId=jaehoon_236236A,jaehoon_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=Classic Kim launching kick super which allows for a combo extension. Normally does less damage than 236236B unless extending the combo in the corner. Allows for an easy safejump if used as an ender (28D-AB > forward jump/forward jump x2). 
+* Can follow up with 214K midscreen
+* Near corner allows for 28K brake extension
+* Always possible to link into 236236B afterwards
+}}
+
+====Houou Kyaku====
+{{FrameDataCargo-COTW
+|name=Houou Kyaku
+|moveId=jaehoon_236236B,jaehoon_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=Jae Hoon runs forward a distance until he comes into contact with the opponent. When hit he converts into a flashy combo ending with a final phoenix somersault or an explosive axe kick depending on which level. His reversal and damage super that will be used for most of his metered combos. As Jae Hoon relies on charge for his reversal, this can see use over the Flashkick when it is more convenient to input.  
+}}
+
+==Hidden Gear==
+====Shakki Houou Kyaku====
+{{FrameDataCargo-COTW
+|name=Shakki Houou Kyaku
+|moveId=jaehoon_236236REV
+|description=Jae Hoon does a thrusting side kick, if it connects, he lunges at the opponent and unleashes a series of high kicks. He then leaps back and does a slow-mo Hien Zan for the ages. A reference to his father's Houou Kyaku against Cyber Cheng in Fatal Fury: The Motion Picture.
+}}
+
+==Videos, Links & References==
+
+'''KIM JAE HOON｜Character Breakdown by SNK'''
+{{#ev:youtube|PNCMyxB1MvQ}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Kim Jae Hoon]]

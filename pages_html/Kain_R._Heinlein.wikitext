@@ -1,0 +1,448 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW KAIN Profile.png|thumb| A young idealist burning with ambition.
+Having torn through numerous hostile organizations around South Town, Kain makes an unsettling discovery: his older sister, Marie, is being held captive by one of them. Knowing that his will alone cannot right this wrong, he joins forces with Rock Howard to secure her release. A twist of fate, a dream for the future—with unwavering resolve Kain directs his attention to the upcoming KOF tournament, hoping to return Marie to safety at last.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11f~21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+
+Command Combo 1 - [[image:Dn.gif]][[image:a.gif]]/[[image:b.gif]] > [[image:Dn.gif]][[image:c.gif]]
+
+Command Combo 2 - High Evade Attack > [[image:c.gif]]
+
+Command Combo 3 - (In Air) [[image:a.gif]] > [[image:b.gif]]
+
+
+'''REV Blows'''
+
+Schwarzer Stoß - (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+Schwarzer Stoß - Luft - (S.P.G. active, in air) [[image:c.gif]][[image:d.gif]]
+
+
+
+'''Special Moves'''
+
+Schwarze Flamme - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Schwarze Panzer - [[image:qcf.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*)
+
+Schwarze Lanze - [[image:dn.gif]] ~ [[image:up.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*)
+
+Schwarzes Rondo - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Himmlischer Atem Neo - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Himmlische Seele - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Himmlischer Edelstein - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+A wholly unique character by ''CotW''’s standards, Kain is one of the most defensive characters in the game, controlling space with his unique fireball, flashkick, normals, remarkable projectile super, and various other oddities. Essentially, he’s a setplay character with a zoner feel to him.
+
+Kain’s defining move is Schwarze Flamme (236P), a very good fireball that moves Kain backwards on startup and can be angled upward. The rest of Kain’s moveset revolves around it; his flashkick ([2]8K) nullifies jumps over the projectile, while opponents who are too patient give Kain a chance to set up Schwarzes Rondo (214P), which rounds out Kain’s setplay with a timed explosion. Schwarze Panzer (236K) gives Kain a nice combo ender, or a Brakable approach option if the opponent will block the Rondo. Combined with the REV system, these moves, along with Kain’s other oddities like a command combo from High Dodge Attack, not only command the neutral, but give him unmatched momentum once he’s knocked down his opponent with a throw, super, or REV Blow. 
+
+Kain’s oddities work against him as well. The big one is that his reversal/anti-air special requires charge, which not only limits its usage on reaction, but can potentially give away the player’s intention of waiting on a mistake. There are lots of other things for opponents to exploit here and there, like a lack of momentum without Rondo set up, the singular speed of his fireball making it easy to Just Defend at any range, and the lack of safety on his advancing moves.
+
+All in all, Kain is the kind of character for players who like to think multiple steps ahead and play the slow, psychological game. When he successfully conditions the opponent and reads them correctly, Kain is rewarded like no other character in the game. 
+
+{{StrengthsAndWeaknesses
+| intro = Kain is a space control character that is characterized by oppressive setplay, a strong flashkick, and his signature Schwarze Flamme fireball.
+| pros=
+* '''Amazing Neutral''': Kain's neutral is some of the most versatile in the game: he has amazing pokes with the ability to confirm any of them with 236236B, his orbs and fireball are great for controlling space, and many of his moves give him fantastic movement, with 236BD and his Rev Blow letting him occasionally skip neutral entirely.
+* '''Looping Setplay''': Kain can use hard knockdowns to place Schwarzes Rondo on top of the opponent, giving him terrific setplay that can loop. Even if the opponent successfully blocks the mixup, Kain stays at an advantage.
+* '''Rev Damage''': Kain's looping setplay, combined with Himmmlische Seele, gives him some of the highest guard and Rev damage in the game, easily leading the opponent to overheat and guard break faster than usual.
+* '''Flashkick''': Kain's Schwarze Lanze being the only flashkick in the game means Kain has an advantage when anti-airing with charge, as it is easier to react with a flashkick.
+
+| cons=
+* '''Flashkick''': Having the only flashkick in the game means that Kain will end up losing his most powerful anti-air and combo extender if he moves in neutral, which can lock him out of one of his best tools at times he might need it the most.
+* '''Setup—Reliant Pressure''': Without Schwarze Rondo set up, Kain has very few moves that are plus on block, and those that are plus have such high pushback that Kain is forced to spend more of his valuable resources if he wants to stay on the offensive. 
+}}
+
+==Normals==
+===Close Normals===
+====close A====
+{{FrameDataCargo-COTW
+|name=Close A
+|moveId=kain_cl.A
+|input=cl.A
+|description= * Rather standard 4 frame light. Combos into cl.C on close connect, is + on block, and can lead to autocombo.
+
+}}
+
+====close B====
+{{FrameDataCargo-COTW
+|name=Close B
+|moveId=kain_cl.B
+|input=cl.B
+|description= * Usually overshadowed by other options, but is the best source of + frames on block of all of Kain's normals.
+* Frametraps into cl.C on block and hit.
+
+}}
+
+====close C====
+{{FrameDataCargo-COTW
+|name=Close C
+|moveId=kain_cl.C
+|input=cl.C
+|description= * A fast, 2 hit normal that is a staple in Kain's pressure.
+* Is +2 on block when using Feint cancels, giving a solid way to run strike throw when conditioned.
+* Combos into 2A/st.A on hit with feint cancels, and the 2 hits gives you time to gain down charge.
+* Is +10 on ch with feint, giving a hard, yet rewarding microdash/microwalk cl.C.
+* +25 on WP feint cancel, giving an easy dashup into a full combo.
+
+}}
+
+====close D====
+{{FrameDataCargo-COTW
+|name=Close D
+|moveId=kain_cl.D
+|input=cl.D
+|description= * Great normal for max damage routes.
+* Forces stand, guaranteeing f.A later in a combo.
+* Always + enough to guarantee dash cl.D on CH/WP, albeit with varying difficulty.
+
+}}
+
+===Far Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|name=Far A
+|moveId=kain_f.A
+|input=f.A
+|description= * Essential normal for combos. Cancels into 28C if passed through during the input.
+* Whiffs on crouching opponents, so either combos must be either started with cl.D, confirmed, or subbed with 2A.
+
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=kain_f.B
+|input=f.B
+|description= * Long ranged light normal with special cancelling, usually used for Kain's light combos. 
+
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=kain_f.C
+|input=f.C
+|description= * Decent cancellable poke, though the range can be lacking in comparison to Kain's other heavies.
+* Combos into itself on CH with feint cancel, and leads to a dash-up cl.D on WP.
+
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=kain_f.D
+|input=f.D
+|description= * Kain's longest normal. Decent for neutral use.
+* Does not get much on CH, but leads to dash-up cl.D/f.C on WP depending on range.
+
+}}
+
+===Crouching Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=Crouching A
+|moveId=kain_2A
+|input=2A
+|description= * Fairly average 5 frame crouching jab. Useful for abare and combos.
+* Has less range than f.A, causing it to whiff on cl.D/distanced cl.C starters. Replace with f.A in these situations if possible.
+
+}}
+
+====Crouching B====
+{{FrameDataCargo-COTW
+|name=Crouching B
+|moveId=kain_2B
+|input=2B
+|description= * Fairly solid 5 frame low. Hitbox is smaller than the move shows.
+* Combos into f.B, but will fail at further ranges.
+
+}}
+
+====Crouching C====
+{{FrameDataCargo-COTW
+|name=Crouching C
+|moveId=kain_2C
+|input=2C
+|description= * Excellent neutral tool with decent speed and frame advantage.
+* Combos into itself/cl.C on CH depending on range, and dash-up cl.D on WP, making it a very rewarding whiff punisher.
+
+}}
+
+====Crouching D====
+{{FrameDataCargo-COTW
+|name=Crouching D
+|moveId=kain_2D
+|input=2D
+|description= * Fairly standard 2D. Careful using this in neutral, as opponents can punish with their own 2D if poorly spaced.
+* Can do an OTG 2D on WP. Not particularly useful, but it is good to know that it is possible.
+
+}}
+
+===Jumping Normals===
+====Jumping A====
+{{FrameDataCargo-COTW
+|name=Jumping A
+|moveId=kain_j.A
+|input=j.A
+|description= * Jumping normal that is only notable for being Kain's fastest jumping normal. Not very useful in most scenerios.
+
+}}
+
+====Jumping B====
+{{FrameDataCargo-COTW
+|name=Jumping B
+|moveId=kain_j.B
+|input=j.B
+|description= * Solid air=to-air normal for Kain. Does its job well enough.
+
+}}
+
+====Jumping C====
+{{FrameDataCargo-COTW
+|name=Jumping C
+|moveId=kain_j.C
+|input=j.C
+|description= * Though the range is not amazing on j.C, it is Kain's highest damage jumping normal, making it useful in punish scenarios like jumping grabs or fireballs.
+
+}}
+
+====Jumping D====
+{{FrameDataCargo-COTW
+|name=Jumping D
+|moveId=kain_j.D
+|input=j.D
+|description= * Is a nice mix of damage and hitbox size for air-to-ground situations. Usually used in higher jump-in connects where j.C might not be applicable. 
+
+}}
+
+===Command Normals===
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Command Combo 1
+|moveId=kain_2X~2C
+|input=2A/B~2C
+|description= * Though not an amazing string on its own, it still sees use in certain Schwarzes Rondo setups as a solid low meaty.
+
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Command Combo 2
+|moveId=kain_2CRev~C
+|input=2CRev~C
+|description= * An interesting string off Kain's 2CRev. Gives extra combo opportunities depending on where it is used.
+* Does not come out on block, making it punishable.
+* Limited by the usefulness of 2CRev
+
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Command Combo 2
+|moveId=kain_j.A~j.B
+|input=j.A~j.B
+|description= * Usually overlooked, as the two hits add extra scaling to combos started with this.
+
+}}
+
+==Universal Options==
+===Throw===
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=kain_AB
+|input=AB
+|description= * Though fairly average in the scope of COTW, it gains much more utility than other throws, as Kain can usually set up a Schwarzes Rondo after the throw. This can give Kain a rather oppressive half of his strike/throw game.
+
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=kain_4AB
+|input=4AB
+|description= * Kain's forward and back throws leave the opponent the same distance and have the same frame advantage, making them functionally identical except for positioning.
+
+}}
+
+===Rev Blow===
+====Schwarzer Stoß====
+{{FrameDataCargo-COTW
+|name=Schwarzer Stoß
+|moveId=kain_CD
+|input=CD
+|description= * Kain's SPG attack covers a large amount of screen space, making it a serious threat once Kain has it.
+* It can be spaced to have more advantage than usual, even as far as becoming + on block.
+* Like all SPG attacks, it loses to early throws and High Evade attacks.
+
+}}
+
+====Schwarzer Stoß - Luft====
+{{FrameDataCargo-COTW
+|name=Schwarzer Stoß - Luft
+|moveId=kain_j.CD
+|input=j.CD
+|description= * Similar to Kain's grounded SPG, but aimed downwards in the air. 
+* Can have slightly more frame advantage than 5CD depending on how deep it is connected.
+* Finally, it can be used as an OTG at the end of certain combos (ex. corner combos ending in 236236A), letting you squeeze just a little more damage out in specific scenarios.
+}}
+
+===Dodge Attacks===
+====High Dodge====
+{{FrameDataCargo-COTW
+|name=High Dodge
+|moveId=kain_2CRev
+|input=2CRev
+|description= * Kain's anti air in a pinch when [2]8D isn't available. Very good range with reliable, if low-damage, combo options from it.
+
+}}
+
+====Low Dodge====
+{{FrameDataCargo-COTW
+|name=Low Dodge
+|moveId=kain_5CRev
+|input=5CRev
+|description= * Fairly average Low Dodge. Useful for overheads and low/throw baits.
+* When combined with Schwarzes Rondo, this gives Kain a fantastic, yet slow overhead that can lead to massive damage.
+
+}}
+
+==Specials==
+====Schwarze Flamme====
+{{FrameDataCargo-COTW
+|name=Schwarze Flamme
+|moveId=kain_236A,kain_236C,kain_236AC
+|input=236P
+|description3= * Kain's iconic fireball returns as a zoning and combo tool. Has a feint that looks similar to the fireball and still backsteps.
+* All versions cause Kain to backstep, which can get you out of sticky situations, but can lead Kain to making combos harder or cornering himself in neutral if used improperly.
+* A version fires horizontally, C version fires diagonally upwards. REV version covers both angles.
+* All versions are useful in corner combos, but the REV version is particularly useful for both midscreen and corner routes.
+
+}}
+
+====Schwarzer Panzer====
+{{FrameDataCargo-COTW
+|name=Schwarzer Panzer
+|moveId=kain_236B,kain_236D,kain_236BD
+|input=236K
+|description3= * Fairly reasonable combo tool. All versions are identically unsafe on block.
+* B version starts traveling fastest, D version does the most damage and has a few starting hits, and the REV version can be cancelled into 28BD to make it + on block.
+* All versions have a brake, but only the B version properly brakes at point blank. None of the brakes work after a connect.
+* The REV version is most used as a combo extender off juggles or heavies, while the B and D version are used as combo enders and work on lights (though the D version can fall out at range). 
+*  The D version is Kain's best meterless guard cancel option without down charge.
+|display=300x150px
+}}
+
+====Schwarze Lanze====
+{{FrameDataCargo-COTW
+|name=Schwarze Lanze
+|moveId=kain_28B,kain_28D,kain_28BD
+|input=[2]8K
+|description3= * Kain's flashkick is a versatile tool, usable as a combo starter, extender, ender, anti-air, pressure tool, and reversal.
+* Since this move has a quicker-to-execute input than a DP motion, Kain has an advantage in reacting to certain moves with invincibility. He makes up for this with needing down charge to do reversals, which limits his movement in neutral and ability to block overheads if he wants to use this move.
+* The B version is a decently fast reversal, the D version is a solid anti-air with a brake. The REV version is a combo extender, and can be braked to become + on block.
+* If possible, the D version (and its respective brake) is usually Kain's best Guard Cancel after JD/HD, though could prove difficult to execute.
+* Even if the fireball connects on a grounded opponent, Kain is at major disadvantage, so only use it in situations where the first hit can connect.
+* The fireball can hit OTG. This usually happens when the first hit connects on an extended limb or at its max range, keeping Kain safe on hit.
+}}
+
+====Schwarzes Rondo====
+{{FrameDataCargo-COTW
+|name=Schwarzes Rondo
+|moveId=kain_214A/C,kain_214AC
+|input=214P
+|description2= * Kain's new mine special compliments both Kain's pressure and space control, making it a versatile move.
+* The B and D versions create a mine at 2 different distances, and the REV version creates both mines.
+* All versions will automatically detonate with a delay, or can be input again to manually detonate.
+* The REV version will detonate both mines at the same time automatically, but will stagger and combo if done manually.
+* All versions can compliment Kain's Schwarze Flamme, putting another thing on the screen for the opponent to worry about.
+* Most combos Kain scores, along with his throw, can lead to him placing a Schwarzes Rondo on top of the opponent. This gives Kain looping pressure if he desires, which usually leaves him majorly plus if the opponent blocks it successfully.
+}}
+
+====Schwarzes Rondo (Detonate)====
+{{FrameDataCargo-COTW
+|name=Schwarzes Rondo (Detonate)
+|moveId=kain_214A/C_detonate,kain_214AC_detonate
+|input=(After 214P) 214P
+|description2= * Manual detonation is great for opponents who try to slip past the mine or for staggering the REV version.
+* On a grounded connect, manually detonating the opponent on the first mine of the REV version can lead Kain to dash back up and do a cl.D on hit, causing staggering damage. For meterless verions, Kain is usually +8, which gives him a f.C instead.
+}}
+
+==Supers==
+===Ignition Gears===
+====Himmlischer Atem Neo====
+{{FrameDataCargo-COTW
+|name=Himmlischer Atem Neo
+|moveId=kain_236236A
+|input=236236A
+|description= * Decent reversal tool and combo ender.
+* Usually outclassed by using 236236B during a combo, but useful to add damage in combos if needed.
+* Most routes into 236236A require dashes or Schwarze Panzer feints to get the super to connect properly.
+}}
+
+====Himmlische Seele====
+{{FrameDataCargo-COTW
+|name=Himmlische Seele
+|moveId=kain_236236B
+|input=236236B
+|description= * An incredible use of Kain's meter, and one of the best Ignition gears in the game.
+* Starts up fast enough, covers a solid amount of the screen, and is +8 point blank on block, making it Kain's turn no matter where this connects on the opponent.
+* Launches on hit, giving Kain extended juggles anywhere. This can cause Kain's damage to absolutely skyrocket with meter.
+* Though expensive, this can be thrown out semi-randomly at mid range if desired, forcing a reaction or + frames from the opponent.
+* Does considerable chip/REV damage, and slows down significantly on JD/HD, which can be worse for the opponent if they guess wrong after. Because of this, Kain can lead the opponent to checkmate scenarios where they have to DP/JD/REV guard for their life at low health on burnout/high REV gauge with enough meter.
+}}
+
+===Redline Gears===
+====Himmlischer Atem Neo====
+{{FrameDataCargo-COTW
+|name=Himmlischer Atem Neo
+|moveId=kain_236236C
+|input=236236C
+|description= * Though useful as a high-damage reversal, it loses versatility in combos, as Kain can combo from his 236236B into his 236236A, which usually leads to more damage.
+}}
+
+====Himmlische Seele====
+{{FrameDataCargo-COTW
+|name=Himmlische Seele
+|moveId=kain_236236D
+|input=236236D
+|description= * Though incredibly strong, it is generally overshadowed by using both Ignition Gears in combos, and two 236236Bs in pressure. Really funny for combo videos and pressure, though.
+}}
+
+===Hidden Gear===
+====Himmlischer Edelstein====
+{{FrameDataCargo-COTW
+|name=Himmlischer Edelstein
+|moveId=kain_236236REV
+|input=236236REV
+|description= * Similar issue to Kain's Redline gears in that he usually gets better damage using his two ignition gears together. However, Kain's Hidden Gear still sees use as a way to reset his REV gauge and for easier, more stable confirms.
+
+}}
+
+
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Kain R. Heinlein]]

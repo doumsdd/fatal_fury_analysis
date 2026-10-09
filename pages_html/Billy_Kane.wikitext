@@ -1,0 +1,612 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW BILLY Profile.png|thumb| Loyal right-hand man to the infamous Geese Howard. Despite already assuming control of the late kingpin’s organization (the Howard Connection), Billy nevertheless finds himself brooding over how to lead his bereaved family of associates into a new era. Amidst all the darkness and turmoil, at least one thing is still crystal clear: he has a bone to pick with Terry Bogard, the man who took his revered master’s life in the first place.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 15f~23f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+(*) = Brake
+
+
+'''Command Moves'''
+
+Dai Kaiten Geri - [[image:fd.gif]] + [[image:a.gif]]
+
+Bou Takatobi Geri - [[image:fd.gif]] + [[image:b.gif]]
+
+Command Combo - (In Air) [[image:b.gif]] > [[image:d.gif]]
+
+
+'''Special Moves'''
+
+Senpuu Kon - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (Can be held indefinitely)
+
+Sansetsu Kon Chuudan Uchi - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:┗Follow Up - [[image:fd.gif]] + [[image:C.gif]]
+:┗Follow Up - [[image:bk.gif]] + [[image:C.gif]]
+
+Suzume Otoshi - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:┗Follow Up - [[image:bk.gif]] / [[image:fd.gif]]  + [[image:c.gif]]
+
+Kyoushuu Hishou Kon - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Sandan Shoujou - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:┗Follow Up - [[image:bk.gif]] / [[image:fd.gif]]  + [[image:B.gif]] / [[image:D.gif]]
+::┗Follow Up - [[image:bk.gif]] / [[image:fd.gif]]  + [[image:B.gif]] / [[image:D.gif]]
+
+
+'''Ignition / Redline / Hidden Gears'''
+
+Chou Kaen Senpuu Kon - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Guren Sakkon  - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Dai Gouen Senpuu Kon - (S.P.G. active) [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+A series staple, Billy Kane’s gameplay in CotW is largely intact from earlier installments; he’s a bully character who is defined by his long reach coupled with surprising mobility.
+
+Billy sports a unique moveset full of long-range pokes, closing the gap with his command normals, and high-damage knockdowns. When put together, it really lets Billy freestyle his offense and overall gameplan, giving him good neutral, pressure, and conversions, and letting him pick fights at ranges where the opponent effectively struggles to fight back. He even has no problem comboing into his Ignition Gears thanks to having solid confirms like a four-light sequence. Billy even hangs in tough with fireball users, as well; he can outtrade fireball users with his pokes, negate them entirely even when Overheated with his staff twirl (623P), or use his Redline Gear (236236D) to punish them outright.
+
+All this control and offense comes at a price, though; Billy’s defense is downright terrible. With no meterless reversal or reliable anti-air beyond his Dodge Attack, Billy is very vulnerable to being pressured when knocked down, and it’s not uncommon to see one mistake from Billy turn into him getting mixed and pressured straight to a round loss. Not to mention, while Billy’s neutral is intimidating, it is not flawless, as his moves have long recovery on whiff and leave a large extended hurtbox for the opponent to hit with a Wild Punish.
+
+With all that said, Billy is definitely a quirky character who is absolutely ruthless in the hands of a studied player. If wearing down your opponent until they crack is your style, consider sticking it to your enemies with Billy. 
+
+{{StrengthsAndWeaknesses
+| intro = Billy is a mid range fighter who specializes in controlling space with his long-reaching staff normals and specials.
+| pros=
+* '''Longest Pokes in the Game''': Billy has the longest attacks, both normals and specials, in the game by a considerable amount, which often puts the opponent into situations where he can hit them while they can't effectively fight back.
+* '''Light Confirms''': Billy's long range on his far lights means he can confirm consistently into 236A or a super, which puts significant threat behind his already strong foosties game.
+* '''Sandbox Mode''': Billy's combo structure is extremely loose - his REV Art Senpuu Kon (623AC) has ''no'' juggle limit and he can use the D and REV Art version of his brakable Kyoushuu Hishou Kon (236K) in whichever order that pleases him. Score a good hit and the world is Billy's oyster.
+* '''Good Pressure''': Aside from creating pressure using his superior range, Billy has access to a +3 c.B, +1 c.A, and even a +4 feint cancel in c.D, aided by his good dash. Despite his focus on ranged play, Billy is a menace on offense too.
+| cons=
+* '''No DP''': Not having a meterless reversal or a brakeable DP puts Billy at a disadvantage against tighter pressure sequences and safejumps until he accumulates enough meter for a reversal super.
+* '''Slow Attacks''': Sluggish frame data — especially on whiff — and a slower stepdash mean Billy must be careful on maneuvering the field and choose his attacks wisely, lest the opponent maneuver out of Billy’s preferred range, or worse, Wild Punish him off of his extended hurtboxes.
+* '''Resourceless Conversions''': Billy’s REV moves do not naturally combo from light attacks, forcing him to spend a super bar to get a hard knockdown from these starters unless he’s close enough for Target Combo into REV Blow. 
+* '''Weak mixups''': Billy's mixup plan is centered around strike throw, as he doesn't have strong overheads,command throws,crossups, or set ups to open up the opponent.
+}}
+
+==Normals==
+===Far Standing Normals===
+{{FrameDataCargo-COTW
+|moveId=billy_f.A
+|description=
+* Billy's longest-ranged light attack.
+* Consistently combos when chained into from other light normals. 
+* No longer special cancellable as of Season 2.
+This normal is very good at poking, reaching well beyond the typical range of most other characters. Billy can confirm a super at its max range. 
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=billy_f.B
+|description=
+* Has shorter range than crouch A, but with pretty much the same frame data. 
+* Good for cancelling to meterless specials due to more damage and less pushback, letting it link consistently to 214B. 
+* On Counter Hit, combos to 623AC or 236D. 
+Make sure you chain into this to get the most damage out of your light strings.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=billy_f.C
+|description= 
+* Wild Punish +12 (+22 if feint cancelled). 
+* The longest-ranged special-cancellable move in the game.
+* Has a large hurtbox, so loses to High Dodge Attack even when the opponent is far away.
+* On Wild Punish, you can feint cancel to link into a second far C.
+* AWFUL on whiff. Easily Wild Punished if jumped over.
+A huge normal that reaches beyond half screen and even special cancels. The range and threat of high damage and potentially pulling the opponent into a mixup via special cancel ensure that this normal will be on the opponent's mind a lot; just so much as pressing it can intimidate your opponent into looking for ways to get around it.
+<br>But whatever you do, don’t whiff this move. If it gets jumped over, the opponent can easily Wild Punish you. It also gets beaten by High Dodge Attack. Due to this, it’s best to keep this move to where you know it will make contact.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=billy_f.D
+|description=
+* Wild Punish +21f. 
+* Despite appearances, does not whiff on crouch. 
+* Can be used in spacing traps against jabs, since Billy's hurtbox doesn't expand before the strike. 
+* Massive Wild Punish starter; you can dash into cl.D from any range. 
+This move’s good range and nice hitbox angle make it a suffocating normal to press in advantage - especially when the opponent is cornered. Since Billy's hurtbox doesn't move forward until after the attack comes out, it is very tough to challenge, even from the air.
+<br>You will most often use this move in shimmies, however, due to its HUGE reward when it hits as a Wild Punish. When it does, Billy has enough time to dash and do his close D combos, including the Feint Cancel BnB. Landing this is your best opportunity to dump REV into a big combo, as you can easily do upwards of 600 damage with a super. 
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=billy_cl.A
+|description= 
+* Can be chained into from 2A, and chains into other light normals. 
+* Billy's combination attack is accessed from this normal, and is his optimal meterless combo from it by damage. 
+* When it hits point blank, you get a four-light sequence (cl.A 2B 2A 5A) into 236236K or Hidden Gear. 
+Billy's fastest normal, which has generous confirming ability into light specials, supers, or his Combination Attack. Like other close A's, it's plus on block. 
+Its low hitbox for a close A makes it weak as an anti-air, so it can't be used as a hop check. 
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=billy_cl.B
+|description=
+* Billy's most advantageous normal on block without feint cancel, allowing tick throws. 
+* Links to 2B on normal hit, allowing Billy to confirm into light strings on reaction.
+* Links to either close heavy on Counter Hit when close. 
+A powerful move in Billy's offense, close B gives you light strings on hit while allowing you to push a mixup on block, thanks to being +3 with little pushback. 
+Its link to close C on Counter Hit can only be done way up close, but it's the only way to confirm into Billy's REV moves from a light normal.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=billy_cl.C
+|description=
+* Slower than close D, but can be used at longer range thanks to close C’s superior proximity range.
+This normal is essentially just combo filler, since it links reliably from close D feint cancel. 
+With that said, you should familiarize yourself with the move's proximity range, as knowing it will save you from accidentally doing far C and dropping your combos when you're trying to link into it. 
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=billy_cl.D
+|captions=The party starter
+|description=
+* The faster but shorter of the close heavies. 
+* Forces stand on hit.
+* Its great advantage on block, epsecially when feint cancelled, allows you to set up frame traps and dash pressure. 
+* If you feint cancel this move on Counter Hit, you can dash into a second close D, but it's tight to time.
+Billy's best button on offense by a country mile, as long as you feint cancel it, being ridiclous on both hit and block. You pretty much always want to feint cancel it, there's little reason not to; On hit when feint cancelled, links into close C, which leads into all your strongest combos. It also frame traps to close C on block. 
+<br>You can really run up a turtling opponent’s REV gauge by doing close D feint cancel on block, then dashing it up and doing it again. Each time they block, they are left in a horrid situation where anything they press likely doesn't reach any buttons ''you'' press afterward. However, do it too much and the opponent can check it with their own close normals.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=billy_2A
+|description=
+* Chains into every light normal except itself.
+* Combos into 236B at tip range, making it an extremely important normal. 
+* Also combos into 214B rekkas for less damage, better knockdown? and extra hitconfirm opportunity. 
+A crouching poke, slightly faster than far A but doesn't have quite the range. 
+You can chain light normals into and out of it, but you can't chain it into itself. Thus it is also used as filler in light confirms and blockstrings. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=billy_2B
+|description=
+* Billy's fastest non-proximity normal. 
+* A quick, low-hitting starter for his light combos. 
+* Can be chained into from close A. 
+* Due to nerfs in the Ken patch, the hitbox is shorter than the animation. 
+The universal low-hitting light combo starter. It chains into his other lights, basically does what you expect a 2B to do. It also just happens to be Billy’s fastest non-proximity attack.
+<br>As a safe low, it's good to press against opponents trying to walk out of throw range, since you're plus on hit, and its speed and low properties make it difficult to Just Defend against. 
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=billy_2C
+|description=
+* Wild Punish +20f. 
+* A special-cancellable anti-air. Unlike High Dodge Attack, it also cancels on block.
+* Counter Hitting an airborne opponent combos to 214A/C/AC.  
+Billy's late anti-airs are trash, being limited to this normal and his High Dodge Attack. Unlike HDA, 2C also special cancels on block, forcing the opponent to Just Defend multiple times when jumping in. It doesn't have high invincibility, however, so timing it as an anti-air is more precise. 
+<br>On Wild Punish, you get dash up into close D, just like when far D Wild Punishes. 
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=billy_2D
+|description=
+* Short range on the first hit makes it hard to punish blocked sweep with your own. 
+* On a Wild Punish, puts the opponent in an OTG state, allowing you to hit them with an extra low attack (universal for all sweeps).
+It looks like it hits twice, but only hits once. That said, the second hit is good for tagging opponents who stop blocking low, as well as giving extra pushback to make punishing it much more difficult. 
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|name=jump A
+|moveId=billy_j.A,billy_h.A
+|input=j.A
+|description2= 
+* Air-to-air with good speed-size ratio.
+* Cancels into Rev Blow. Doesn't combo but can be used to blow up air Just Defends or the opponents j.Rev Blow. 
+* The hop version does less damage. 
+Control the air with this move. It's fast and reaches far, making it perfect when meeting the opponent in the air. If you make contact with the opponent's jumping REV Blow, you can cancel this move into your own to stop it. 
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=billy_j.B
+|description= 
+* Can cross up. 
+* Part of the j.B,D command combo. 
+This move’s speed and hitbox make it surprisingly good as a retreating hop aerial, particularly because it has much less of a problem hitting grounded opponents than j.A.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=billy_j.C
+|captions="I Am The Neutral"
+|description= 
+* Massive hitbox. 
+A horizontally far-reaching jump attack for pre-emptively controlling space or exceptionally far reaching jump-ins. It's practically impossible to deal with if spaced unless the opponent has a hard read. 
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=billy_j.D
+|description= 
+This button is your main jump-in. It deals more damage and comes out faster than j.C. 
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=billy_cla_5c,billy_cla_5c_5c,billy_cla_5c_5d,billy_cla_5c_6d,billy_cla_5c_2d
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC, cl.ACC, cl.ACCD are REV Blow cancellable. 
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto-combo, can only be canceled into a follow-up or an ender.
+----
+cl.AC > C : Follow-up that can be canceled into any ender or REV Blow. A simple way to deal more damage, increase the REV, or reduce the opponent’s guard bar(Overheat).
+----
+D ender : Just a mid ender, soft knockdown on hit and unsafe on block but it's REV Blow cancellable and combos on hit. With REV Blow, this route is the only way for Billy to score a hard knockdown from lights without spending a super. With or without REV blow, this is Billy's optimal meterless combo from close A starter by damage.
+----
+6D ender : Overhead ender, +2F on hit and block.
+----
+2D ender : Two hit low ender and same move than his 2D, so it's very unsafe on block.
+<br>For some reason, this move does a ton of REV damage.
+|display= 150x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=billy_AB
+|description= 
+* Can be followed by a dash-jump C for a safejump (vs 5f reversals). 
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=billy_4AB
+|description= 
+* Can be followed by a dash-jump C for a safejump (vs 5f reversals). 
+}}
+
+==Command Moves==
+====Dai Kaiten Geri====
+{{FrameDataCargo-COTW
+|moveId=billy_6A
+|description= 
+Billy does a spin towards the opponent.
+* Advances with two hits. Covers about the same space as Far C, while the forward movement slips under jump-in attempts. 
+* Goes over grounded projectiles (except for Geese’s Reppuu Kens).
+* Safe on block unlike 6B, but doesn't reach as far. 
+* Beware that both hits jail, so if the 1st gets blocked the 2nd can be punished by a Hyper Defense Guard Cancel.
+An advancing command normal that is quite annoying with its two advancing, jailing hits, general safety, ability to high-profile some grounded fireballs, and annoying voice clip. It's dangerous to whiff, however, so try not to. 
+
+After many of Billy's hard knockdowns - particularly REV Blow - you can frame-kill with this move, advancing forward all the while. In some cases, you will still have enough time afterward to shimmy the opponent on their wakeup. 
+}}
+
+====Bou Takatobi Geri====
+{{FrameDataCargo-COTW
+|moveId=billy_6B
+|description=  
+Billy pole-vaults feet-first at the opponent. 
+* Goes very far, but is unsafe on block and loses to High Dodge Attack.
+* Goes over low attacks and projectiles. 
+* Space this move to make it safe, perhaps even plus.
+* Its abundant active frames make some meaty setups possible.
+Great for punishing grounded fireballs like ones from Rock or Terry, but otherwise your main goal with this move is not to hit it, but use it to reposition. For example, if the opponent full jumps, a 6B will go clean under them while maintaining the distance you had before.
+
+Another way to use this move is on okizeme, either to close space after an anti-air 214P or push offense when it's adequately spaced. If it's not spaced or if it whiffs, though, it's quite easy for the opponent to punish.
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=billy_jbd
+|description=   
+* Only available from full jumps. 
+Can be used for jump-ins or air-to-airs. 
+When you land j.B on an airborne opponent, you might as well go through with the target combo, just in case the j.B Counter Hits. You have nothing else to do after j.B and going through with the target combo helps you set up a left-right mixup on their landing. 
+}}
+
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=billy_2CRev
+|description=
+* Cannot be cancelled on block. 
+* Wins against jumping attacks, standing normals and REV Blows.
+* Combos starting with it have additional scaling.
+Sadly, this is your best anti-air. However, the slowdown you get when beating moves with it allows you to confirm your special cancels so you don't whiff something on the air reset from a normal hit. 
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=billy_5CRev
+|description=
+* Universal overhead, wins against lows and throws. Triggers a slowdown if it meets either of these. 
+* On Counter Hit or Wild Punish, links to close D. 
+This is Billy's only grounded overhead, but a fantastic one at that. On top of opening up crouching opponents, it leaves you close and plus enough for your feint cancel BnB on Counter Hit or Wild Punish, so whenever you successfully call out a low or throw with it, it can lead to massive damage.  Hitting it meaty also allows you to combo from it by linking to 2B. 
+
+Despite its slower startup than most LDAs, the animation can make it rather tricky to react to, thus it ends up forming a major part of Billy's offense, especially when the opponent is cornered. 
+}}
+
+==REV Blows==
+====Raimei Uchi====
+{{FrameDataCargo-COTW
+|moveId=billy_CD
+|description=  
+* Damage value factors in SPG bonus.
+* Has a second attack that doesn't come out if the first hit Counter Hits, whiffs, or is blocked. 
+A fairly standard REV blow, as they go. It doesn’t move Billy as far forward as other characters’ REV blows, which makes throwing him out of it difficult if spaced properly. 
+}}
+
+====Dai Tenkyuu Otoshi====
+{{FrameDataCargo-COTW
+|moveId=billy_j.CD
+|description=  
+* Damage value factors in SPG bonus.
+Like all air REV blows, Billy’s alters his jump arc on startup. This, combined with its huge hitbox, can throw off opponents trying to anti-air him. 
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=billy_5Feint
+|description=Mimics Sansetsu Kon Chuudan Uchi(236P).
+
+All three of Billy’s feints have the same frame data, so they’re identical in combos.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=billy_2Feint
+|display=175x175px
+|description=Mimics Senpuu Kon(623P).
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=billy_6Feint
+|description=Mimics Suzume Otoshi(214P).
+}}
+
+==Special Moves==
+
+===Senpuu Kon===
+{{FrameDataCargo-COTW
+|name=Senpuu Kon
+|moveId=billy_623A,billy_623AC
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|description2=
+Billy twirls his staff around.
+* Each version deflects projectiles of equal strength, including the AC version. 
+* Can be held indefinitely, but is easily countered by using low attacks (or Rev Blow). 
+* Regular, non-held version recovers slightly faster after a successful deflect. 
+* While the AC version is plus on block, it can only be REV cancelled at the third or last hits, making it very susceptible to Hyper Defense.
+* AC version will combo after almost every REV cancel, no matter the state of the opponent. 
+Meterless 623P is pretty funny. It destroys incoming fireballs while being deceptively tricky to get around, so it can be a daunting move for an unprepared opponent to deal with. You can end longer corner combos in meterless 623P for an air reset that can force strike/throw at the cost of damage; in this scenario, you can also hold it and make them land into it for added chip damage, which may checkmate some Overheated characters depending on the matchup and resources available to them, but it’s usually better to combo into a real knockdown. 
+
+'''REV (A+C) Version:''' This is one of Billy's best REV moves, especially in combos, as plenty of things combo into and out of it, including REV pull (236AC~4P). It also has the unique property of not having a juggle limit, so it can be used multiple times in combos, limited only by your REV meter and the number of ways to juggle into it. When hitting an airborne opponent, it juggles consistently to 236236A/C and Hidden Gear. Outside of combos, it's also an advancing attack that's plus on block, but its high number of hits make it vulnerable to Just Defense/Hyper Defense + Guard Cancels. Great to abuse an opponent in Overheat with, however. 
+}}
+
+===Sansetsu Kon Chuudan Uchi===
+{{FrameDataCargo-COTW
+|name=Sansetsu Kon Chuudan Uchi
+|moveId=billy_236a,billy_236c,billy_236ac
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3= 
+Billy extends his staff directly forward at the opponent.
+* A super long-reaching poke that outranges most characters' jump ranges.
+* All versions lose to High Dodge Attack and are considerably punishable if jumped.
+* A version will only air reset against a jumping opponent, but juggles properly in combos.
+* Beware that while the follow-ups to C and AC versions are mostly safe on block, characters with long range specials can punish using Guard Cancels.
+This move right here is why you play Billy. A massively forward-reaching poke that hits opponents from well beyond their reach. Use this move to aggravate, infuriate, and really get under the skin of your opponent. You can end a lot of combos with this as well, to push the opponent all the way back out and make them work their way back in - against this very move, perhaps. Just beware of its glaring flaws, which are its excessive recovery on whiff and the fact that High Dodge Attack beats it; you can, however, feint this move to see how your opponent will deal with it, whether they try to jump, Guard Cancel or High Dodge Attack. 
+
+The A version is faster and does more damage but is a standalone poke, and the C version is slower and weaker on its own but allows you to follow it up with one of two options, as seen below. 
+
+'''REV (A+C) Version:''' Hits three times and has the speed of the A version with the follow-ups of the C version. You can juggle with it only once in a combo, but the follow-ups can juggle only once each. You should almost always do the follow-ups with the AC version, since cancelling them into other REV arts allows you to start your offense from half-screen and beyond. 
+}}
+
+====Sansetsu Kon Chuudan Uchi follow-ups====
+<!-- Kaen Sansetsu Kon Chuudan Uchi -->
+{{FrameDataCargo-COTW
+|name=Sansetsu Kon Chuudan Uchi
+|moveId=billy_236C~6P,billy_236AC~6P
+|input=236C/AC > 6P
+|input2=qcf+C/AC > f+P
+|description2=
+Billy makes the end of his extended staff explode.
+* C version is really unsafe on block, and can be punished by some super moves at any range (such as Terry's Buster Wolf).
+A knockdown followup to 236C that does generous damage, on top of fantastic okizeme if the opponent is cornered, especially if you use the AC version. It’s possible to confirm this followup when seeing the 236C hit, or using the followup below instead to stay safe by the frames. 
+
+'''REV (A+C) Version:''' Retains its damage with a slightly higher launch on hit. Up close and in the corner, it combos to 214AC and 236BD, which both lead to some frighteningly high damage. From far away, it gives a slightly better knockdown than the meterless version, but the pull followup gives better oki and more REV accel options. 
+}}
+
+<!-- Tsurigome Sansetsu Kon Chuudan Uchi -->
+{{FrameDataCargo-COTW
+|name=Sansetsu Kon Chuudan Uchi
+|moveId=billy_236C~4P,billy_236AC~4P
+|input=236C/AC > 4P
+|input2=qcf+C/AC > b+P
+|captions=GET OVER HERE!
+|description2=
+Billy uses the end of his staff to pull the opponent a short distance toward himself. 
+* Both versions are safe on block.
+* Vacuum on hit and block, but doesn’t knock a standing opponent down. 
+The alternate, safer follow-up to 236C/AC, which lets you push a strike/throw mix on the opponent when you hit it grounded. Although the meterless version is minus on block, it sets up spacing traps nicely for Billy using his superior reach. Ending combos with the staff pull gives you fantastic okizeme that lets you pressure all four wakeup rolls simultaneously.
+
+'''REV (A+C) Version:''' Pulls the opponent slightly further than the C version (depending on distance) and has slightly better frame advantage. Its main use is to pull opponents hit at a distance into a full combo using REV Accel. It consistently combos to 623AC on both grounded and airborne opponents, but if it hits an airborne opponent too high, it can pull them up and over your 623AC, so in those instances, do another REV move instead (like 214AC). 
+}}
+
+===Suzume Otoshi===
+{{FrameDataCargo-COTW
+|name=Suzume Otoshi
+|moveId=billy_214a,billy_214c,billy_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3=    
+Billy extends his staff upward at an angle.
+* Long reaching anti-air; does not hit grounded opponents.
+* No invulnerability, but combos from the High Dodge Attack for anti-air combos. 
+* A version will only air reset against a jumping opponent, but juggles properly in combos.
+* C version launches on Counter Hit. 
+Basically the same move as 236A/C, but angled upward to hit airborne opponents. It doesn't hit grounded opponents at all. It's difficult to use this move on reaction to a jumping opponent, but it's possible thanks to its faster startup; however you'll often combo into this rather than anti-air with it. If you combo into this in the corner, you can almost always continue the combo afterward, usually into a 214B/D or super.
+
+'''REV (A+C) Version:''' Hits twice and launches slightly higher, even if you don't do its followup. You will always want to do the followup, though, for the sake of combos. 
+}}
+
+<!--Kaen Suzume Otoshi-->
+{{FrameDataCargo-COTW
+|name=Kaen Suzume Otoshi
+|moveId=billy_214C~4/6P,billy_214AC~4/6P
+|input=214C/AC > 4/6P
+|input2=qcb+C/AC > b/f+P
+|description2=    
+Billy makes the end of his extended staff explode.
+* C and REV Suzume Otoshi follow-up.
+Depending on distance/height and stage position, it is possible to combo after this move, especially after the AC version. 
+
+'''REV (A+C) Version:''' Does more damage and launches opponents slightly higher, improving your combos afterward. It leads to a powerful combo if you can hit it, and like 236AC, it juggles to 623AC, though you'll lose some hits. Almost always juggles to 236AC, 623AC and 236236B/D no matter the height or distance.
+}}
+
+===Kyoushuu Hishou Kon===
+{{FrameDataCargo-COTW
+|name=Kyoushuu Hishou Kon
+|moveId=billy_236B,billy_236D,billy_236D~AB,billy_236BD,billy_236BD~AB
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description5=
+Billy pole-vaults upward, kicking the opponent up with him, then comes back down spinning his staff.
+* D version is Billy's only brakable special move. 
+* For all versions, the gap between jumping up and landing is punishable by running under Billy and hitting from the opposite side. 
+* REV version can be canceled into j.REV Blow. 
+The classic pole vault. The B version combos from lights, and it’s optimal from a two-light sequence, but from three or more, the first hit will whiff, causing you to lose damage. On block, it's terrible because the opponent can run under while Billy is airborne and punish from the other side. 
+
+The D version combos from heavies and has a brakable hit that launches the opponent, allowing for a full combo; unlike brakable DPs, it adds no additional scaling. Its high pushback on block also makes it tough to punish.
+
+'''REV (B+D) Version:''' Launches the opponent even if you don't brake it. Thanks to this, almost every REV combo Billy has will go into this move, and from there he can end in 214C, super, or even more REV moves like another 623AC if he feels like it. Braking the BD version is a whopping +5 on block, and on hit, combos into D brake, launching the opponent twice for an even higher launch. Braking the BD version still lets you use the rest of the move later in the combo.
+}}
+
+===Sandan Shoujou===
+{{FrameDataCargo-COTW
+|name=Sandan Shoujou
+|moveId=billy_214B,billy_214D,billy_214BD
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=   
+Billy swings his staff at the opponent up to three times.
+* The first hit is +7 on Counter Hit, allowing you to link into 2A. 
+A brand-new special move to Billy, the B version of this rekka chain is one of only two special moves that Billy can combo into from lights. In many cases, it’s Billy’s optimal light combo ender due to the better okizeme, higher damage from three lights, and combo reliability. Using the first hit on its own doesn't do much, but it's safe when spaced and its combo potential on Counter Hit allows you to beat mashing.  
+
+The D version is very outclassed by the B/BD versions and Billy's other special moves, so you'll almost never use it. 
+
+'''REV (B+D) version:''' Combo filler that easily combos some of from Billy's other REV specials, it does higher damage than meterless rekkas, is surprisingly juggle friendly, and can easily go into Billy's other REV moves on hit or block. It also has stronger conversions on Counter Hit, linking to close C. 
+}}
+
+====Sandan Shoujou follow-ups====
+<!-- 2nd hit follow-up -->
+{{FrameDataCargo-COTW
+|moveId=billy_214B~4B,billy_214D~4D,billy_214BD~4K
+|input=214B/D/BD > 4/6K
+|input2=qcb+B/D/BD > b/f+K
+|description3=   
+* Second rekka's follow-up. 
+The meterless versions are quite unsafe, but if delayed they become a frametrap that's +8 on counterhit, allowing for full close C/D combos. 
+
+'''REV (B+D) Version:''' +2 on block and often leaving opponents just out of range of their abares, this sets up spacing traps nicely, as long as you don’t mash out the third hit on accident. 
+}}
+
+<!-- 3rd hit follow-up -->
+{{FrameDataCargo-COTW
+|moveId=billy_214B~4B~4B,billy_214D~4D~4D,billy_214BD~4K~4K
+|input=214B/D/BD~4/6K > 4/6K
+|input2=qcb+B/D/BD~b/f+K > b/f+K
+|description3=
+* Final rekka's follow-up, and the one that knocks down on hit.
+* If you somehow manage to delay trap the last hit it launches on Counter Hit.
+Though it's punishable by the whole cast, the high pushback of the final hit can create a knowledge check where you can potentially create a spacing trap if the opponent doesn't know how to punish it.
+
+'''REV (B+D version)''': Combos to 214AC, 623AC, 236BD and REV Blow midscreen, and all of the above plus 236AC in the corner.
+}}
+
+==Super Special Moves==
+====Chou Kaen Senpuu Kon====
+{{FrameDataCargo-COTW
+|moveId=billy_236236A,billy_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|captions=<br>Johnny spin that wheel!,<br>FIRE!
+|description2=
+The infamous wheel of death. Billy spins his staff as he conjures a ring of flames, then slings that ring at the opponent. 
+* Hits behind Billy as well; even when this happens, he will still launch them forward.
+* All hits nullify projectiles, even other projectile supers like Terry’s Power Geyser.
+* Does not reach from the max range of close C. 
+* The final hit launches on Counter Hit, but has additional scaling.
+A very strong reversal super and, when in range, devastating combo ender. The forward-moving fire ring can catch opponents off guard if they’re too far out to block and punish, but a well-timed jump-in will go over this.
+-----
+'''A Version''': Does high damage and is fast for a basic super, has great okizeme, works in all corner juggles. All-around amazing super that you will want to use in combos, sometimes as a reversal, or even as an anti-air under the right circumstances.
+<br>Its range is a bit of an issue. However, in some juggles, such as after 236BD, you can either do 623AC into this move to score damage at the cost of REV. If you don’t want to spend REV, you can cancel dash into this super from certain juggles by using the dash macro, which is done by inputting 236Rev > 236A.
+-----
+'''C Version:''' Deals a bit more damage and has better startup, which makes it work in more combos. However, it’s worse than the A version in almost every other way. The range is identical. Unless you need the extra damage to close out the round, it’s better to stick to the level 1 version, keeping your extra bar just in case. 
+}}
+
+====Guren Sakkon====
+{{FrameDataCargo-COTW
+|moveId=billy_236236B,billy_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>B version,<br>D brake-able 1st hit,<br>D final hit
+|display=170x170px
+|description2=
+Billy lifts his opponent up with his staff, then jumps after them and covers them in his staff's flames.
+* Has way better corner carry and range than his other supers, at the cost of damage.
+* Only the D version is invincible on startup.
+* If it hits an extended limb, the opponent will fall out as Billy goes through the whole animation, leaving him wide open for a punish on the ground. This never happens in combos.
+A very long-reaching super that is quite combo friendly. It combos from all ranges of your lights, including the max range of far A.
+----
+'''B Version:''' Easily combos from light normals and various juggles, such as after 236BD and 214AC. Its superior corner carry combined with the range makes it ideal as your combo super midscreen, even if it doesn’t deal as much damage.
+<br>This is Billy’s best Zero Frame super by far unless you have Hidden Gear. Its range guarantees it reaches opponents no matter how they’ve spaced their move. 
+<br>On block, only one hit connects against crouching opponents, but the super is extremely unsafe regardless of guard.
+----
+'''D Version:''' Reaches absurdly far (almost 2/3 screen) while becoming fully invincible on startup. This makes it a very strong projectile punish in addition to comboing from even more than the B version, such as single-hit confirming far C or some 214P juggle routes. 
+<br>You can Brake this super, but you'll need to spend a lot of REV to make up the damage (although you get to build some meter back in doing so). The super Brakes automatically on block, but it’s still very unsafe. 
+}}
+
+==Hidden Gear==
+====Dai Gouen Senpuu Kon====
+{{FrameDataCargo-COTW
+|moveId=billy_236236REV
+|description=
+Billy swings his extended staff like a baseball bat, triggering a cinematic on hit.
+* Resets the Rev meter to 0%, even during Overheat.
+* Only available during S.P.G. Damage value factors in S.P.G. bonus.
+* Huge range for a Hidden Gear and especially for a 6-frame move, making some things punishable exclusively by this move.
+* Very good okizeme compared to other characters’ Hidden Gears.
+* Like B/D super, you can confirm into this from lights, including max range 5A. 
+The highest-damage attack in Billy’s arsenal and also one of the fastest, this move is a powerful combo ender or punish that resets your REV gauge. Great for closing out rounds, using as a reversal, maximizing your damage, instantly escaping Overheat, or punishing some -6 attacks that are otherwise safe.
+<br>Worth noting is that unlike with other characters, Billy’s Hidden Gear actually has ''great'' okizeme rather than resetting to neutral. After the super, you can move back into Billy’s ideal range and potentially even meaty the opponent with an attack, such as 236P or his command normals.
+<br>Like Billy’s other supers, you can extend Hidden Gear’s range in juggles by cancelling a dash into it, input with 236Rev > 236Rev. 
+}}
+
+
+{{CharNavbox_COTW}}
+
+{{Navbox FF COTW}}
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Billy Kane]]

@@ -1,0 +1,556 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Mr_Big_Profile.png|thumb|Ruthless ruler of Port Town.<br>
+With the late Geese Howard long gone, he now aims to take South Town for himself—and, with Rock's sickly mother under his watchful eye, no blood relation or rival power player can do a thing about it.<br>
+Though the years have grayed him, the name "Big" retains its lethal luster; indeed, all who dare underestimate this boss of a man still earn themselves a one-way ticket to a very unhappy end.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 20f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Prick Stick - [[image:fd.gif]] + [[image:a.gif]]
+
+Command Combo - Far [[image:c.gif]] > [[image:c.gif]]
+
+
+'''REV Blows'''
+
+Union Shot - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Cross Shot - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Cross Diving - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Crazy Drum - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Drum Shot - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Ground Blaster - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+California Romance - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Silat Parry - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' (A Parry) Alpha - [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' (C Parry) Beta - [[image:a.gif]] / [[image:c.gif]]
+:'''┗''' (REV Parry) Charlie - [[image:a.gif]]
+:'''┗''' (REV Parry) Delta - [[image:c.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Blaster Wave - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Rising Spear - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+Lethal Dose Blues - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+
+==Gameplay Overview==
+Once an antagonist of ''Art of Fighting'' alongside Geese, Mr. Big has survived his former boss and arrived in ''CotW'' as an aggressive mid-range character whose playstyle could be described as a “poking grappler”. 
+
+Using his twin sticks, Mr. Big’s got lots of range on his normals, and his main objective in neutral is to use that range to wall out the opponent. Better yet, all of Mr. Big’s far normals cancel to special moves, like Ground Blaster (236P) to whittle away at the opponent’s health with chip, or his REV moves to turn those same pokes into ''big'' damage. For the peskier opponents who try to jump over Mr. Big’s normals, he has a vast assortment of anti-airs to knock them back down, like California Romance (623P), Silat Parry: Alpha (214A) and a great High Dodge Attack.
+
+Once a poke converts to a knockdown, that’s when Mr. Big shows his true strength: he’s a relentless offensive powerhouse. He’s got it all in that department: overheads, great lows, plus-frame normals, light-to-REV conversions, command grabs, tricky Brakes, the works, and it can all lead to looping okizeme. They work in tandem with his poking game to keep the opponent locked down, forcing them to weather Mr. Big’s attack, with Silat Parry in the back pocket to deal with opponents trying to fight their way out. Suffice to say, once Mr. Big is in, the opponent is in BIG trouble.
+
+Although Mr. Big does have a notable weakness to zoning, and tends to struggle on defense to his DP lacking true invincibility, all it takes is one opening — one wrong move against his poking game — to give Mr. Big the chance to devastate an opponent’s life bar. 
+{{StrengthsAndWeaknesses
+| intro = Mr. Big is an aggressive poking character who harasses his way in before assaulting his opponent with high-damage mix-ups.
+| pros=
+* '''Fantastic Poking''': Mr. Big’s poking/mid-range game is among the best in the business. All of his far normals are special-cancellable, and are backed up by safe specials like his projectile, Crazy Drum, and Brakable specials.
+* '''Mix-up Monster:''' Mr. Big possesses an oppressive high-low game with a nasty overhead. To top it off, he even has a command grab with excellent oki, particularly in the corner. Landing this command grab immediately forces the opponent into yet another high/low/throw mix. If that's not enough, Mr. Big can even threaten a 1-frame super command grab that cannot be jumped post-flash, even from beyond its usual range with a dash cancel or Brake.
+* '''BIG Damage:''' Mr. Big's best combos all deal above-average damage even without a super tacked on the end, and they're all quite easy to get started. He also boasts some of the best meterless damage in the game, making him a threat even in Overheat. With resources and a Counter Hit, Mr. Big can net upwards of 700 damage!
+* '''Anti-Air Assortment''': On top of harassing opponents on the ground, Mr. Big controls the air with a wide range of anti-airs, including brakable DPs, a fast high parry with a manual follow-up, great high-hitting normals, and even an anti-safejump move in his command grab super. 
+| cons=
+* '''No Meterless Reversal''': Although Mr. Big has a DP, his is not truly invincible, and he is thus forced to rely on his supers for invincible wakeup. 
+* '''Zoned Out''': Even with a REV projectile, Mr. Big lacks a reliable way to circumvent zoning. He is very weak from beyond poking range and needs to be patient and make good reads to get in on characters that have long range harassment tools. 
+* '''Block Advantage''': Outside of his close D which can be Hyper Defended, Mr. Big’s normals on average have worse advantage on block than other characters. If he doesn’t commit to a special cancel, opponents have larger windows to mash out and take their turn back.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=mrbig_fA,mrbig_fAA
+|description2=A quick poke with the stick, followed by a jab with the other if A is pressed again. Used as a low-risk poke with unusually long range for a jab.
+* Only the first hit chains into other lights, but both hits are special cancelable
+* Second hit has slightly slower startup but is otherwise the same as the first
+* Usually combos into 623A, but this can whiff at absolute max range. Will always combo into 623AC.
+* All of Mr Big's far normals will hit a crouching opponent but can still be low-profiled by an opponent's 2CR
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=mrbig_fB
+|description=A waist-level jab with the stick. Used at the end of light chains to hit-confirm into a special.
+* Shorter range than Far A and cannot chain into lights, but better special-cancel options and consistency
+* This will always combo into 623A, 236B and 623AC on normal hit. On counterhit / Wild Punish, can additionally combo into 623C
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=mrbig_fC
+|description=A long-range, forward-advancing swipe with the stick. Used as a combo starter and a whiff punish tool.
+* Very long range (can hit from round-start distance with a 2-frame microwalk) and moves Mr Big forward by a little less than the distance of a forward hop
+* Combos into any special on normal hit, except 236C and '''214A > P''' (but 214K may whiff at longer ranges). 
+* On counterhit, the two exceptions above no longer apply and '''Far C > Feint > Far B''' will combo except at max range where Far B must be replaced with Far A
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=mrbig_fD
+|description= A mid-level swing with both sticks, used in hit-confirms.
+* Shorter range (just a tiny bit longer than Far B) and does not have a target combo follow-up, but faster startup compared to Far C.
+* Otherwise, does anything Far C would
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=mrbig_clA,mrbig_clAA
+|description2=A jab with the back of front stick at close range. Mr Big's fastest normal. Used to start light chains.
+* Similar to Far A, press A again for a unique follow-up. This second hit is the exact same as '''Far A > A''', except it starts up 1 frame faster.
+* Chains into other lights
+* Combos into 623A, 623AC and 236B on normal hit, and additionally combos into 236A and 623C on counterhit / Wild Punish
+* Mr Big's only close normal that can be low-profiled by 2CR
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=mrbig_clB
+|description=Can be used to link into lights for small hit-confirms.
+* Cannot chain into lights, but will link into 2B on hit
+* Will always combo after hitting a cross-up j.A
+* '''Close A/B > 2B > Far B''' is the go-to light combo starter. Close B will provide more time to hit-confirm and slightly better damage compared to Close A.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=mrbig_clC
+|description=A quick cross-slash with both sticks. Used to start big combos.
+* '''Close C > Feint > Far D''' is the go-to combo starter, replace Far D with '''Far C > 214D''' if Close C lands as a counterhit. If Close C hits from max range, Far D may whiff and should be replaced with Far A.
+* '''Close C > 236C''' is a frametrap that launches if 236C counterhits, and grants +1 on block
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=mrbig_clD
+|input=cl.D
+|description=A quick hit followed by short delay before initiating a rapid, 4-hit spinning attack with the sticks. Used primarily in guard pressure, but can also start a combo.
+* Cannot be canceled into special attacks, unlike most close normals
+* Links into lights on a normal hit, a counterhit can combo into Far C > 214D
+* Susceptible to Hyper Defend due to the practically non-existent gaps between hits 2-5. Despite this, the extremely short recovery limits Guard Cancel options for the opponent.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=mrbig_crA,mrbig_crAA
+|description2=A short poke at waist-level that comes with similar chaining restrictions to Far A. Used in light chains.
+* Just like Far / Close A, press A to get a second, slightly slower hit.
+* Combos into 623A or 623AC on hit
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=mrbig_crB
+|description=A quick tap at the ankle with the front stick. Used to start light combos from a low attack.
+* Chains into lights
+* Can be jumped over with 5CR
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=mrbig_crC
+|description=Used for poking, and can start a combo with a good hit-confirm.
+* Slightly longer range than Far D and only 1 frame slower, but otherwise does anything Far D would do
+* Cannot be dodged with 2CR or 5CR
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=mrbig_crD
+|description=A sweep with the sticks. Used as mid-range low poke.
+* On a Wild Punish hit, another 2D will hit while the opponent is on the ground for +52 advantage, but a small amount of damage can be sacrificed by using 236A (+61), 2B (+62) or 236C (+65) instead to get slightly better advantage frames.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=mrbig_jA
+|description=A downward poke with the front stick while falling down. Hits on both sides of Mr Big, use this to cross up the opponent.
+* Even shorter horizontal range than his command grab, not suitable for uses other than crossing up the opponent
+* Reliably combos into close lights after a cross-up
+}}
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=mrbig_jB
+|description=A forward poke with the front stick while in air. Use this for air-to-air situations
+* Best horizontal reach of Mr Big's air normals, not including the second hit of j.C
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=mrbig_jC
+|description=A 2-hit attack with two fast, consecutive swipes of the sticks. Good all-purpose aerial attack.
+* The multi-hitting nature of this move makes it especially useful for filling the space in front of Mr Big with hitboxes, especially during a hop
+* The first hit will combo into the second against an airborne opponent, even without a counterhit / Wild Punish
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=mrbig_jD
+|description=A straight downward swing with both sticks. Good for air-to-ground situations, especially to start a combo from a jump-in.
+* Hitbox reaches further down below Mr Big than any of his other air normals
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=mrbig_cla_5c,mrbig_cla_5c_5c,mrbig_cla_5c_5d,mrbig_cla_5c_6d,mrbig_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=mrbig_throw
+|description=Mr Big quickly knocks the opponent down with a 2-hit strike, then kicks them across the floor.
+* Dash twice after the animation to be +1 at point-blank range on the opponent's wakeup
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=mrbig_4throw
+|description=Mr Big quickly lifts the opponent over his head and throws them far behind him.
+* Dashing twice will still leave Mr Big at point-blank range, but the advantage will be 0 on wakeup
+* Throwing the opponent into the corner and hopping immediately after creates a +4 on wakeup situation, allowing 623K to hit an opponent on their first grabbable frame
+}}
+
+==Command Moves==
+====Prick Stick====
+{{FrameDataCargo-COTW
+|name=Prick Stick
+|moveId=mrbig_6a
+|description=An overhead swing with one of the sticks. Used as a standing overhead to start a small combo.
+* Unlike 5CR, does not require a counterhit / Wild Punish to start a combo
+* Can be made safer (up to -4 and too far for a Close A to activate) by using a meaty setup. A counterhit, meaty 6A can combo into Far D.
+}}
+
+====Command Combo====
+{{FrameDataCargo-COTW
+|moveId=mrbig_c_c
+|input=f.C > C
+|input2=st.C > C
+|description= After Far C connects with an opponent on hit or block, press C again to follow it up with a strong jab of the other stick. This follow-up is also special cancelable.
+* Combos into anything Far C would, except 214D always whiffs
+* Can be delayed by up to 2 frames after Far C connects
+}}
+
+==REV Blows==
+====Union Shot====
+{{FrameDataCargo-COTW
+|moveId=mrbig_CD
+|description=Mr Big’s Rev Blow, an armored attack that is safe on block. Only accessible while in SPG. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#REV_Blow Read more about the Rev Blow here.]
+* Moves Mr Big forward by about 1/3 of the screen, and has enough range to hit from even further thanks to an extended hitbox.
+}}
+
+====Cross Shot====
+{{FrameDataCargo-COTW
+|moveId=mrbig_jCD
+|description=Mr Big’s aerial Rev Blow. Kind of like 236K, but at a diagonal angle toward the ground.
+* Upon activation, briefly floats Mr Big upward before diving to the ground. Mr Big will also roll forward a short distance after landing.
+}}
+
+==Feints==
+====Neutral/Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=mrbig_5bc
+|description=Mimics the startup of California Romance ('''623P'''). This is Mr Big’s fastest feint, use this whenever a combo requires a feint.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=mrbig_2bc
+|description=Mimics the startup for Ground Blaster ('''236P'''). This is Mr. Big's slowest feint.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=mrbig_2CRev
+|description=Mr Big’s crouching dodge attack, a universally available attack for low-profiling and anti-airing. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#High_Dodge_Attack Read more about the crouching dodge attack here.]
+* Has about as much horizontal range as Far D
+* A grounded hit can combo into anything Far C would, a hit against an airborne opponent can be followed up with 623C
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=mrbig_crev
+|description=Mr Big’s standing dodge attack, a universally available overhead attack that jumps over lows and throws. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#Low_Dodge_Attack Read more about the standing dodge attack here.]
+* Moves Mr Big forward by about half of the distance traveled by a forward hop 
+* Safe on block, but does not start a combo unless it hits as a [https://glossary.infil.net/?t=Meaty meaty], counterhit or Wild Punish
+}}
+
+==Special Moves==
+====Cross Diving====
+{{FrameDataCargo-COTW
+|name=Cross Diving
+|moveId=mrbig_236b,mrbig_236d,mrbig_236bd
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=Soar straight forward into the opponent with a horizontal dive.
+* Can be braked at any point after the first active frame to cancel the rest of the flight and immediately enter recovery frames
+* Mostly very unsafe (can be mitigated with extremely accurate spacing, attempting to utilize this is not recommended), but has very long range and launches on counterhit.
+* Launches on counterhit
+* Can be used to bypass these projectiles by flying over/through it. Anything not listed here can hit Mr Big during the flight.
+** Rock's Reppuken (All versions)
+** Terry's Power Wave (A/C versions)
+** B. Jenet's Baffles (All versions)
+** Hokutomaru's Shuriken (Regular versions, the move's hitbox destroys the projectiles)
+----
+'''Light version (236B)'''
+* Fastest startup, but shortest range
+* While 623K and 214K are better Guard Cancel options in many situations, 236B is a great option in its own right with powerful, niche applications where it can shine, such as to launch the counterhit recovery state of a braked anti-air (especially Kain flashkick) and Billy's Far C special cancels from long range
+----
+'''Heavy version (236D)'''
+* Slowest startup, better range than the light version
+* Still fast enough to launch a braked anti-air if used as a guard cancel, but too slow to punish most other attacks
+----
+'''Rev version (236BD)'''
+* Same range as the heavy version, but slightly faster startup (still slower than the light version)
+* Can be made safe on block (or start a combo on hit) by canceling into another Rev special, making it a solid option for approaching the opponent
+}}
+
+====Crazy Drum====
+{{FrameDataCargo-COTW
+|name=Crazy Drum
+|moveId=mrbig_214b,mrbig_214d,mrbig_214bd
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=A rapid, 4-hit attack with short range. A versatile special attack with many different use cases.
+----
+'''Light version (214B):'''
+Mr Big’s fastest strike special. Used to end blockstrings safely and as combo filler, but can also be used as a light confirm.
+* Mr Big’s most reliable special attack for Guard Cancels at close range. Use 236B instead if the opponent is too far.
+* Any special-cancelable normal can combo into this, if Mr Big is close enough. 
+* Can only start/extend a combo if it hits an airborne/juggled opponent, or as counterhit / Wild Punish.
+
+----
+'''Heavy version (214D)'''
+Used to convert heavy attack hits into big damage.
+* Slower and just barely unsafe on block, but launches the opponent just enough to start a combo on hit.
+* Any special-cancelable heavy attack can combo into this, assuming the opponent is close enough. On hit, combos into 623C (brake).
+
+----
+'''Rev version (214BD)'''
+Used as combo filler.
+* Slower than the light version, but faster than the heavy version. Adds a fifth hit, but can be braked to stop on the fourth and remain safe on block.
+* Although the final hit is unsafe on block, it can be canceled into another Rev special, keeping Mr Big safe at the cost of additional Rev meter.
+
+}}
+
+====Drum Shot====
+{{FrameDataCargo-COTW
+|name=Drum Shot
+|moveId=mrbig_623b,mrbig_623d,mrbig_623bd
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=A fairly standard command grab with only two versions, normal and Rev. Only deals a little more damage than a normal grab, but still useful for the fact command grabs are inescapable once they hit.
+* Has slightly more range compared to regular grabs.
+* Mr Big’s best guard cancel option in many situations, if the opponent is close enough
+* Rev version starts a harshly-scaled combo on hit and can be canceled into other Rev specials. Can lead to big damage if Mr Big has super meter to spend.
+}}
+
+====Ground Blaster====
+{{FrameDataCargo-COTW
+|moveId=mrbig_236A,mrbig_236C,mrbig_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=Fire a projectile along the ground. Will not actually travel fullscreen unless Rev meter is spent.
+* Light and heavy versions have a close-range hitbox that is only active for 2 frames with better damage and advantage on block than the projectile. It also knocks the opponent down on hit.
+* The numbers in [brackets] represent values for the close-range hitbox (exact range is very slightly shorter than 1 forward hop).
+
+----
+'''Light version (236A)'''
+* Shortest range, will hit from slightly shorter than round start distance
+* The short range hitbox will launch on counterhit, a projectile counterhit stumbles the opponent for 32 frames
+----
+'''Heavy version (236C)'''
+* Slower startup, but better damage, advantage on block/hit, and range (will hit from slightly further than round-start)
+* The short range hitbox will launch on counterhit, a projectile counterhit stumbles the opponent for 35 frames
+* Can be used as a frame-trap tool if canceled into from Close C
+----
+'''Rev version (236AC)'''
+* Fires a fullscreen projectile along the ground, but does not include the close-range hitbox that the normal versions have and will never launch on counterhit (stumbles opponent for 38 frames)
+* Same startup as the light version with better damage on the projectile, and is always at least +2 on block
+}}
+
+====California Romance====
+{{FrameDataCargo-COTW
+|name=California Romance
+|moveId=mrbig_623a,mrbig_623c,mrbig_623ac
+|input=623A/C/AC
+|input2=dp+A/C/AC
+|display=200x200px
+|description3=
+Mr. Big leaps and swipes a baton upwards with his main arm. Used primarily as anti-air and combo filler. Does not launch on counterhit '''unless''' the first hit whiffs and the second hit lands as a counterhit, and 623A will not recover fast enough to start a combo in this situation.
+----
+'''Light version (623A):'''
+* '''This is not fully invulnerable during startup (or ever). Do not use this as a reversal.''' It is, however, immediately invulnerable to air attacks through all of its startup and first half of its active frames. 
+* Mr Big's fastest anti-air, and it hits twice
+* Hits from slightly shorter than round-start distance, or the distance of a full jump
+----
+'''Heavy version (623C):'''
+* Adds a long dash before attacking. Despite retaining air-invulnerability, this is way too slow to be used as an anti-air, and so it is mostly used as combo filler.
+* Can be braked at two different points:
+** If braked during the startup dash on the ground, immediately enters recovery frames after 9 frames of air-invulnerable dashing
+** Otherwise, can be braked right as the attack becomes active to stop Mr Big from going airborne and cancel the third hit. This is still barely punishable on block, unlike other braked anti-air specials.
+----
+'''Rev version (623AC):'''
+* Slightly slower than the light version, but with longer range. It is still fast enough to combo from any special-cancelable attack, making it an excellent tool for starting combos from lights.
+* Has the same two brake points as the heavy version, but is actually safe on block
+* Braked version launches the opponent higher than the braked heavy version
+}}
+
+====Silat Parry====
+{{FrameDataCargo-COTW
+|name=Silat Parry
+|moveId=mrbig_214a,mrbig_214c,mrbig_214ac
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3=Mr. Big adopts a defensive posture and taunts the opponent into attacking him.
+* The light version blocks any non-projectile attack that does not hit low, '''even super attacks'''
+* The heavy version blocks lows, and will not block any other kind of attack
+* The Rev version will block any non-projectile attack. If a mid/high attack is blocked, the mid counterattack will be used. If a low attack is blocked, the low counterattack will be used.
+* Mr. Big automatically follows up with an attack if he successfully parries an attack. This special automatic attack has 34 frames of full invulnerability with no recovery frames, allowing Mr. Big to immediately block if it counters an invincible, multi-hitting super.
+* If an attack does not match the correct version of 214P used, it will hit as a Wild Punish starting on frame 3 (before this, it is a counterhit)
+* The counterattack follow-ups can be manually activated, but these attacks will not have invulnerability and come with 1 less frame of advantage on hit. See the section below for more details
+}}
+
+====Silat Parry follow-ups====
+{{FrameDataCargo-COTW
+|name=Alpha
+|moveId=mrbig_214a_6p
+|input=214A > P
+|input2=qcb+A > P
+|display=200x200px
+|description= Press a punch button while in the parry stance to launch the same follow-up attack Mr Big would get on a successful 214A parry, but without the invulnerability.
+* The exact cancel window is from frame 11 to 15 during the 214A stance
+* Unsafe on block at close range, good spacing will make punishes difficult or impossible
+}}
+{{FrameDataCargo-COTW
+|name=Beta
+|moveId=mrbig_214c_6p
+|input=214C > P
+|input2=qcb+C > P
+|display=200x200px
+|description= Press a punch button during 214C to launch the same followup attack Mr Big would get on a successful 214C parry, but without the invulnerability.
+* The exact cancel window is from frame 11 to 15 of the 214C stance 
+* Hits low.
+* Unsafe at close range, good spacing will make punishes difficult or impossible
+}}
+{{FrameDataCargo-COTW
+|name=Charlie
+|moveId=mrbig_214ac_6a
+|input=214AC > A
+|input2=qcbAC > A
+|display=200x200px
+|description=While in the 214AC stance, press A to launch the same followup attack Mr Big would get on a successful parry of a non-low attack, without the invulnerability. 
+* The exact cancel window is from frame 11 to 20 of the 214AC stance
+* Safe on block
+* Can start a combo if canceled into another Rev special
+* Scales combos by an extra 15%, for a total of 40% (5% move, 20% REV Art, 15% extra).
+}}
+{{FrameDataCargo-COTW
+|name=Delta
+|moveId=mrbig_214ac_6c
+|input=214AC > C
+|input2=qcb+AC > C
+|display=180x180px
+|description=While in the 214AC stance, press C to launch the same followup attack Mr Big would get on a successful parry of a low attack, without the invulnerability. 
+* The exact cancel window is from frame 11 to 20 of the 214AC stance
+* Safe on block
+* Hits low and can start a combo if canceled into another Rev special.
+* Scales combos by an extra 15%, for a total of 40% (5% move, 20% REV Art, 15% extra).
+}}
+
+==Super Special Moves==
+====Blaster Wave====
+{{FrameDataCargo-COTW
+|name=Blaster Wave
+|moveId=mrbig_236236A,mrbig_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+* Because this move spawns a projectile and is not a strike move "connected" to Mr. Big himself, JDing all of the hits of the move causes the extra JD stop frames to delay the blockstun of this move beyond normal amounts, resulting in a frame advantage for him to what would normally be about -30.
+** This creates a win-win situation for Mr. Big if this is used as an anti-air: if it hits, it hits. If it gets JD'd, the opponent will have to JD all the remaining hits in order to not take damage, but doing so probably results in it being safe or even plus for Mr. Big.
+}}
+
+====Rising Spear====
+{{FrameDataCargo-COTW
+|name=Rising Spear
+|moveId=mrbig_236236B,mrbig_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=Spend super meter to launch a beefed-up command grab. Very high damage, fully invulnerable and can function as a reversal. Same range as 623K.
+* Also great for use as a Guard Cancel during an opponent’s blockstring, unless the opponent is using a long-range attack (e.g. Billy Far C blockstrings)
+* The slower startup of the 1-bar version ('''236236B''') allows it to beat safejumps.
+* For the extra meter spent, the 2-bar version ('''236236D''') is faster and deals more damage. Using it as a Guard Cancel on wakeup will scale the damage for no benefit at all (it is already active and invulnerable on frame 1), and should be avoided.
+}}
+
+==Hidden Gear==
+====Lethal Dose Blues====
+{{FrameDataCargo-COTW
+|name=Lethal Dose Blues
+|moveId=mrbig_236236REV
+|description=Mr Big delivers a short, heavy kick. If it hits, a cinematic plays and the full damage is dealt. Like any other Hidden Gear, this costs 2 bars of super stock and is only accessible while in SPG, but deals massive damage and resets the user’s Rev meter to 0% on hit, even if they were overheated at the time of activation.
+* Short range
+* Leaves Mr Big at approximately hop distance away from the opponent after the cinematic
+}}
+
+==Videos, Links & References==
+
+'''MR. BIG｜Character Breakdown by SNK'''
+{{#ev:youtube|WXRSfTiCGqY}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Mr. Big]]

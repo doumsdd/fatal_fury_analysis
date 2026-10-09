@@ -1,0 +1,502 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW TERRY Profile.png|thumb| South Town's very own Legendary Hungry Wolf. Following his epic encounter with archrival Geese Howard, he takes young Rock (Geese's son) under his wing; the two are inseparable—until the events of a fateful tournament compel them to go their separate ways. Terry fights it out on the streets for a time thereafter, but when word of an upcoming martial arts tournament ("KOF") reaches him, he realizes that another date with destiny awaits...
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 11f 
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Command Combo 1 - Close [[image:c.gif]] > [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]] > [[image:fd.gif]] + [[image:d.gif]] > (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Command Combo 2 - Far [[image:b.gif]] > [[image:d.gif]]
+
+
+'''REV Blows'''
+
+Max Power Dunk - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Max Crack Shoot - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Power Wave - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Burning Knuckle - [[image:qcb.gif]] + [[image:a.gif]] (*) / [[image:c.gif]] (*)
+
+Crack Shoot - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Power Dunk - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Power Charge - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Follow Up - [[image:fd.gif]] + [[image:B.gif]] / [[image:D.gif]] (Up to 2 times)
+
+
+'''Ignition / Redline Gears'''
+
+Power Geyser - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Buster Wolf - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+'''Hidden Gear'''
+
+Cosmic Strike Geyser - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Terry in CotW is a simple, rushdown oriented character with a moveset perfect for throwing his weight around while holding his own in neutral.
+
+Alongside a good fireball, DP, and set of normals, Terry has strong approach options, such as his Burn Knuckle (214P), REV Power Wave (236AC) and more. Those moves also help form what Terry’s best at: his overwhelming pressure. He can constantly throw moves at the opponent and force them to deal with a swath of incoming chip and frame traps that, if they guess wrong, turn into high-damage Counter Hits that melt their HP. When Terry throws his weight around a little too hard, he’s no slouch on defense either, sporting good abares to mash and an invincible reversal in Power Dunk (since he has no Rising Tackle in this game).
+
+Constant plus frame resets are good and all, but mix-ups are what really makes an offense shine, and that’s the one area Terry struggles in. With no overhead besides the universal Low Dodge Attack, poor reward from lows, and many of his plus-frame moves pushing out of throw range, Terry struggles to open up patient opponents. He relies on driving up their REV gauge with constant pressure and frame traps rather than mixing up their guard. 
+
+A case can be made for Terry being one of the easiest characters in the game for beginners, as you can use the REV system to throw moves out with little consequence. While that’s true, he also has a lot of depth to him, making him plenty suitable for veterans as well. If you like all-rounders with the ability to brawl with the best of ‘em, look no further than the Hungry Wolf.
+{{StrengthsAndWeaknesses
+| intro = Terry Bogard is a rushdown oriented all rounder with the approach and heavy damage of a brawler.
+| pros=
+* '''Approach Tools''': Burning Knuckle, Crack Shoot, and REV Power Wave help Terry to close the distance and start his offense. REV Power Wave is a slow, grounded projectile that lets him advance and apply pressure. Crack Shoot can avoid some low attacks and projectiles, it can even be plus on block on crouching opponents, and his Rev Blow has very good range.
+* '''Plus Frames''': Terry has multiple ways to access easy plus frames even outside of feint pressure. Tools like 236BD, 236[AC], 214BD and even his cl.D are all plus and can make an opponent second guess about trying to take their turn back on his pressure.
+* '''Counter Hit Damage''': Terry’s Counter Hits score some of the highest damage in the game. Some of his specials do full damage on CH and launch into huge combos that can easily take half health or more on top of cornering the opponent almost guaranteed. This also makes his DP punishes stronger than the rest of the cast. 
+* '''Buster-GEYSER!''': In the corner, Terry has the ability to combo his two ignition gears into each other, which not only increases the damage he can gain from his meter in the same combo, it also saves him from accidentally overspending his meter, as he doesn't need to commit to spending two super bars.
+| cons=
+* '''All Mids''': Terry is quite good at getting in and keeping up pressure, but he doesn't have any dedicated mixup tools like most other characters besides basic strike/throw, and even his Low Dodge overhead is significantly slower than most. By no means is his offense ineffective, but it's definitely easier to defend against.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=terry_f.A
+|description=* Terry's fastest far normal, tied with 2A, but has slightly better range
+* You can chain into and out of this normal via light attacks (including itself)
+* It can't reliably combo to anything on hit except Power Charge and Ignition Gears
+This straight jab is good for comboing from other lights into a knockdown via Power Charge, pre-emptively hitting opponents out of hops without committing to Power Dunk, and mashing on defense against an opponent's assault. 
+It has slightly longer range than 2A, which is beneficial for light confirms since you can chain 2A into it. 
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=terry_f.B
+|description=* Terry's longest ranged light normal
+* Can be chained into from other lights
+This shin kick is your best button for confirming into your Ignition Gears, as you can chain it just like your far A. However, you can't cancel it to special moves. 
+
+It has good utility in neutral, as well; being only -1 on block with high pushback, it has a devious ability to set up spacing traps using your far heavies and Low Dodge Attack, which can devastate opponents trying to take their turn back. 
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=terry_f.C
+|description=* Wild Punish +17 (+24 when feint cancelled)
+* Terry's farthest-reaching normal that still cancels to special moves
+* Whiffs on crouching opponents
+A big, beefy straight punch that reaches a decent distance forward while allowing special and feint cancels. It doesn't move Terry forward at all, much to his benefit via setting up spacing traps and pressure. 
+
+It's decently fast for a far heavy, making it good for whiff punishing as well, but its lengthy recovery on whiff combined with its whiff on crouch mean you would probably rather use far D for whiff punishing instead.  
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=terry_f.D
+|captions=Das Boot
+|description=* Wild Punish +22
+A big kick with impressive range while being only one frame slower than far C, you can use this to pick up distant punishes, such as after blocked sweeps, and in footsies to tag opponents recklessly hitting buttons. A much better move to fish for Wild Punishes with than far C. 
+
+Beware of using this move too close to the opponent, as the move being -5 on block means many characters can punish it.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=terry_cl.A
+|description=* Terry's fastest attack. 
+* Terry's combination attack is accessed from this normal, and is his optimal meterless combo from it by damage
+* Alternatively, you cancel this move into Power Dunk Brake to use your REV moves, greatly enhancing your combo
+This move is very important to Terry's gameplan, being fast, mashable, chainable, plus on block, and easily comboing into a launch via Power Dunk brake. If you're ever uncertain of what to do up close, just press this. 
+}}
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=terry_cl.B
+|description=A goofy looking kick that you probably won't use very much, but that doesn't mean it's bad; in fact, its plus frames combined with high reach make it an excellent button for locking down opponents in the corner. 
+
+On Counter Hit or Wild Punish, it's easily confirmable into your close C for big damage. 
+}}
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=terry_cl.C
+|description=* Wild Punish +19 (+26 if feint cancelled)
+* Goes into his Command Combo on hit and block
+* When used on its own, gives massive reward on Counter Hit and Wild Punish
+The moneymaker. This is a fast, powerful move that goes into your Command Combo and from there, all of your biggest damage combos. It's also a good button to press on its own, but in many situations, going for the Command Combo is better since it's even more plus on block and gives better returns on hit. 
+}}
+====Close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=terry_cl.D
+|input=cl.D
+|description=* Wild Punish +25
+* Hits twice, easily confirming whether the opponent is blocking or getting hit
+* You can link 2A from this move on normal hit and frame trap into it on block
+* Forces stand on hit, allowing links into far C on counter hit on crouching opponents
+A two-hit upkick that is crucial to Terry's offense. On hit, you can easily confirm a knockdown, and on block, you can pour on the pressure. With its low pushback and surprising REV gauge buildup, it's great at the latter especially.  
+A tricky microwalk allows Terry to link a close C on a Counter Hit, but you otherwise get your far C just fine.
+}}
+
+===Crouch Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|moveId=terry_2A
+|description=* Tied with far A for Terry's fastest non-proximity attack, but has better cancel options at the expense of range
+* Mashable and chainable. Reliably chains into itself or far B depending on range
+* Combos to 214A, 236B, 623K (range dependent). Cancelling to 623K when in range to do is Terry's only safe blockstring ender that still combos on hit
+A great button for mashing, confirming, and applying pressure. Simply a jack-of-all-trades button. 
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=terry_2B
+|description=* Terry's only low combo starter
+* Needs to hit up close for a combo; Terry can't combo out of it at all from max range except for raw cancel to Ignition Gears
+* Chains to close A when hit point blank; chains to the rest of his light normals otherwise
+Terry's only low combo starter and his only safe low. Unfortunately, unless you hit it point blank, the returns from it tend to be very underwhelming; from beyond close A range, all you get is 2A xx 214A or an Ignition Gear. 
+
+Still, this low is quite valuable to Terry as it prevents the opponent from walking away from his pressure and strike-throw. 
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=terry_2C
+|description=* Wild Punish +20 (+24 if feint cancelled)
+* Worse range than far C, but doesn't whiff on crouch. This is important for completing combos from your cl.C Command Combo
+* No way to make this move plus on block without cancelling to certain REV moves
+This is Terry's multi-purpose heavy, being as fast and almost as far reaching without the caveat of whiffing on crouch. It’s also very combo-friendly, easily working from his cl.C Command Combo. At 0 on hit and -6 on block, however, you always want to cancel it, so beware of any Hyper Defense Guard Cancels your opponent may try. 
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=terry_2D
+|description=* Terry's longest-ranged normal
+* Above-average startup speed for a sweep, giving it solid punishing power. 
+* On Wild Punish, puts opponents into a special state where you can follow up with another sweep, Power Wave or a scaled Power Geyser
+After being notoriously terrible in Garou, Terry's sweep is quite good  in this game, at least in comparison to the rest of the cast, and it complements his gameplan well, stopping opponents from simply walking out of his spacing traps, not to mention doing so may make them lose their ability to punish it. 
+
+Technically, it's fast enough to combo from cl.C command combo for a sudden knockdown that can potentially mess up the opponent expecting a different combo route. Of course, you lose out on a lot of damage in doing so.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=terry_j.A
+|description=* Only comes out when done during a neutral or a back jump; see below for forward jump
+* Insanely fast and reaches as far as his jump heavies
+* Struggles to hit characters on the ground, especially crouching ones
+This move comes out faster than any other of Terry's air attacks, at a blistering 4 frames.
+Its far-reaching horizontal hitbox will strike out of the air almost anything at heights equivalent to that of Terry's own jump. 
+}}
+====Jump Forward A====
+{{FrameDataCargo-COTW
+|moveId=terry_j.9A
+|description=* Can be cancelled to REV Blow upon making contact with the opponent
+Terry's jump A when done during a forward jump instead becomes his short chop from the older games. It's just as fast as his neutral jump A, but has way less range; instead, when you're in S.P.G, you get a cancel to REV Blow, letting you respond to other characters' REV Blows. 
+}}
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=terry_j.B
+|description=* Only comes out when done during a neutral or a back jump; see below for forward jump
+* Terry's most active air normal
+This weird-looking air kick can only be done from a neutral or back jump, but has fantastic range and is his most active normal by far. Good for walling out opponents approaching you from the air. 
+}}
+====Jump Forward B====
+{{FrameDataCargo-COTW
+|moveId=terry_j.9B
+|description=* Can cross up
+This is the air normal that you'll probably be using the most with Terry due to its cross-up properties and generous hitbox. By extension, it is Terry's best normal at setting up tick throws. 
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=terry_j.C
+|description=
+Really good damage and startup. It's mainly used as a close jump-in or hop-in attack, but it can also work as an air-to-air if the opponent is below Terry.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=terry_j.D
+|captions=R.I.P. jump D cross-up 1993-2025
+|description=* Terry's longest-ranged jumping normal by far during a forward jump
+Terry's slowest normal, but the damage and range make up for it; it's without a doubt his best button for jumping in. Sadly, the cross-up hitbox is gone. 
+
+That said, this move can also work as an air-to-air, and it's actually great as one when jumping backwards. 
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=terry_cla_5c,terry_cla_5c_5c,terry_cla_5c_5d,terry_cla_5c_6d,terry_cla_5c_2d
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : First hit of the auto combo, cancellable by any follow-ups.
+----
+cl.AC > C : A second hit cancellable by any ender, a nice way to increase the damage or your opponent REV meter.<br>
+Unsafe on block and can be punished if the auto-combo was started too close to the opponent.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Safest ender, Same move as his Low Dodge Attack(5C+REV) but +2F on hit and block.
+----
+2D ender : Same move as his 2D, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=terry_AB
+|description=* By doing a microstep forward you get a meaty crossup j.B that passes over reversal uppercuts. 
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=terry_4AB
+|description=* Has the same setups as from forward throw. 
+}}
+
+==Command Moves==
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=terry_clc_6c,terry_clc_6c_6d,terry_clc_6c_6d_cd
+|input=cl.C > 4/6C > 6D > CD
+|input2=cl.C > b/f+C > f+D > st.CD
+|captions=<br>cl.C > 4/6C,<br>6D follow-up,<br>REV Blow ender
+|display=160x140px
+|description3=
+This follow up from your close C is amazing… if you only do the 6C, since feint cancelling it gives you a link to most of Terry’s heavies. This extension is important for all of Terry’s high-damage combos. 
+
+Any part of this Command Combo beyond the 6C is outclassed by REV Accel and feint cancelling. You’re better off forgetting they exist. 
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=terry_fb_d
+|description=* Terry’s only meterless followup from his far B
+Good for tacking on extra damage when counterpoking with far B, but not much else.
+}}
+
+==REV Blows==
+====Max Power Dunk====
+{{FrameDataCargo-COTW
+|moveId=terry_CD
+|description=
+Terry does a sliding Power Charge ender and finishes with a Power Dunk. On counter hit, Terry stops and doesn't continue with the Power Dunk.
+* Travels very far and can hit from slightly more than half screen distance, allowing Terry to shut down many fireballs on reaction.
+* Due to the far forward movement, it can sometimes evade correctly-timed air REV blows which would have beaten typical ground REV blows with less movement.
+}}
+
+====Max Crack Shoot====
+{{FrameDataCargo-COTW
+|moveId=terry_j.CD
+|description=
+Terry does a jump D into a Crack Shoot in mid air.
+* If done very low to the ground, Terry will land before he continues into the Crack Shoot, allowing for juggles.
+* If cancelled into from REV Power Dunk (623BD) very close to the ground, it allows for juggles normally impossible, such as light Burning Knuckle or Buster Wolf.
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=terry_5DRev
+|description=* Mimics Crack Shoot, Terry's slowest Feint.
+Really slow and will rarely be used in combos except when a cancellable normal Wild Punishes. However, it does have some niche use as a surprise throw setup after a blocked heavy normal.
+}}
+
+====Forward Feint====
+{{FrameDataCargo-COTW
+|moveId=terry_6DRev
+|description=* Terry's fastest feint and the one used in his framedata.
+*Mimics Power Wave.
+This feint is the one you’ll be using the most. It’s fast, it fakes a projectile potentially baiting something committal from your opponent, and works seamlessly in Terry’s combos.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=terry_2DRev
+|description=* Mimics heavy Burning Knuckle.
+It looks funny, but is otherwise mostly useless. 
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=terry_2CRev
+|description=* Cannot be cancelled on block
+* Wins against jumping attacks, standing normals and REV Blows
+While it’s largely outclassed as an anti-air by heavy Power Dunk Brake, Terry’s High Dodge Attack is still very useful for calling out certain moves, beating REV Blows, and breaking certain REV Accel sequences on block. 
+
+Due to its short range, it’s almost always punishable on block, so it should be used very sparingly. 
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=terry_5CRev
+|description=* Universal overhead, wins against lows and throws
+* On Counter Hit, Wild Punish or meaty hit, links to close C
+Terry’s Low Dodge Attack, also his only grounded overhead, is REALLY slow, and your reward from it isn’t great even when you dodge something, unless you’re close enough for your close heavies. What Terry’s LDA does have going for it, however, is its above-average range. You can potentially surprise opponents by using it as a counterpoke.
+
+Still, it’s your overhead, and it’s also great to press when you’ve conditioned your opponent to tech the throw on wakeup or mash lows against your shimmy.
+}}
+
+==Special Moves==
+====Power Wave====
+{{FrameDataCargo-COTW
+|moveId=terry_236A,terry_236C,terry_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description3=A projectile that travels along the ground. 
+* The button pressed for it determines its startup and travel speed.
+* REV version is instead a big wave that travels slowly along the ground, letting Terry approach.
+* Holding C/AC transforms the move into a short-range energy blast similar to Round Wave from other games. Numbers in [brackets] indicate values that change when you hold C/AC.
+A pretty alright projectile. Though you won’t be zoning too many people, it’s great for closing the gap, either of your own accord or by forcing the opponent to approach you instead. These are especially true in the case of the REV version, which is a big, slow fireball that locks the opponent down if they block it. 
+
+If you hold the C or REV versions, this move becomes '''Burning Wave''', which is a short, stationary blast that is much better on block. When you do the REV version, it becomes a whopping +4, making it a great pressure reset. It’s good in corner juggles, too! 
+}}
+
+====Burning Knuckle====
+{{FrameDataCargo-COTW
+|moveId=terry_214A,terry_214C,terry_214AC
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3=Terry rushes straight at the opponent fist-first. 
+* You can combo into the light version from 2A or Power Dunk Brake, and REV versions from heavies. Heavy version is too slow to combo from anything that isn’t a Wild Punish.
+* All versions launch on Counter Hit.
+* You can Brake the move to stop it short.
+* More advantageous when properly spaced, use this farther out to avoid taking a big punish. 
+Terry’s signature move. In neutral, it’s best used to approach behind fireballs, Brake to intimidate your opponent and possibly force reactions, and punish whiffs from a further distance than your normals allow.  
+
+The light version combos from 2A and is your best meterless juggle when it’s available. The REV version is Terry’s go-to REV starter, since it combos from heavies and picks up combos nicely from Power Dunk brake, but some REV Accel sequences that combo on hit (namely to REV Crack Shoot) have gaps on block that can be mashed out of or worse, High Dodge Attacked, so it’s not as mindless a starter as it may seem. 
+
+The heavy version is too slow to combo from anything reliably, but it makes up for it with massive damage and being the only version that can be made plus on block. If you manage to land a Counter Hit with it, such as when punishing a DP, it will hit like a freight train ''and'' launch into a full combo with no scaling, meaning you can easily take half their life or more with the ensuing combo. 
+}}
+
+====Crack Shoot====
+{{FrameDataCargo-COTW
+|moveId=terry_214B,terry_214D,terry_214BD
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=
+Terry performs a somersault heel drop.
+* More advantageous on block when crouched.
+* In the corner, if the D version hits a standing opponent, Terry can combo into light Power Dunk. Against a crouching opponent, Terry can go into heavy Power Dunk Brake.
+* Interestingly, because Terry himself goes into a semi low profile when doing a Power Wave, hitting Terry out of Power Wave with heavy Crack Shoot increases the juggle advantage from 5 to 6, allowing him to link into his 6 frame Hidden Gear even at midscreen.
+}}
+
+====Power Dunk====
+{{FrameDataCargo-COTW
+|moveId=terry_623B,terry_623D,terry_623BD
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=Terry launches the opponent with a shoulder and spikes them to the ground. 
+* B version is fully invincible on startup and acts as Terry’s main reversal.
+* D and REV versions both Brake after the first hit and launch on Counter Hit. They make great Guard Cancels.
+* D version has more reach and combos from two lights, or a very close jump in and two lights. It can also be trivially confirmed from a point blank close C > 6C > forward feint.
+* Against grounded opponents, the last hit is punishable on hit, but it can’t be Counter Hit punished this way. 
+}}
+
+===Power Charge===
+====Power Charge 1====
+{{FrameDataCargo-COTW
+|name=Power Charge
+|moveId=terry_236B,terry_236D,terry_236BD
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3=Terry hits with a hooking elbow.
+* B version is only special move Terry has that combos from far A. 
+* As of the Season 2 patch, the D version is no longer plus on block.
+}}
+
+====Power Charge 2====
+{{FrameDataCargo-COTW
+|moveId=terry_236B~6B,terry_236D~6D,terry_236BD~6K
+|input=236K > 6B/D/BD
+|input2=qcf+K > f+B/D/BD
+|description3=Terry hits with a second hooking elbow.
+* Characters with an invincible reversal (for example a DP) can always punish this move
+}}
+
+====Power Charge 3====
+{{FrameDataCargo-COTW
+|moveId=terry_236B~6B~6B,terry_236D~6D~6D,terry_236BD~6K~6K
+|input=236K~6K > 6B/D/BD
+|input2=qcf+K~f+K > f+B/D/BD
+|description3=Terry shoulder charges his opponent. 
+* B and D versions are very unsafe on block. The REV version at least has REV Accel to confirm whether it hits
+}}
+
+==Super Special Moves==
+====Power Geyser====
+{{FrameDataCargo-COTW
+|moveId=terry_236236A,terry_236236C
+|input=236236A/C
+|input2=qcfqcf+A/C
+|description2=
+* Both versiion are fully invincible.
+----
+A version :<br>
+* Fast and fully invincible with a massive hitbox, one of the most effective anti-airs in the game.
+----
+C version :<br>
+* If braked from a raw hit and followed up with the entire suite of corner REV Accels, it does a minuscule amount of extra damage (381 vs 363).
+}}
+
+====Buster Wolf====
+{{FrameDataCargo-COTW
+|moveId=terry_236236B,terry_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|description2=Terry's horizontal super.
+----
+B version :<br>
+*Not invincible and loose against projectile.
+-----
+D version :<br>
+*Can work as a fireball punish at a pinch, but is less effective compared to ignition Power Geyser and REV Blow as it doesn't have many invulnerability frames.
+*Unlike Ignition Buster Wolf, this vacuums the opponent down to the ground and kills any follow-up combo possibilities.
+}}
+
+==Hidden Gear==
+====Cosmic Strike Geyser====
+{{FrameDataCargo-COTW
+|moveId=terry_236236REV
+|description=
+Terry summons swirling winds and does a spinning side kick. If it connects, Terry does a high kick with his other leg, sending his opponent into the eye of a large tornado. Terry then leaps into the air and slams his fist into the ground, igniting and infusing the tornado with energy. Terry then shouts, channeling more energy into the tornado and causes it to explode.
+* Has the fastest startup among his supers and reliably combos from almost any juggle, which can be useful if you messed up a corner route.
+* Leaves Terry at near fullscreen distance with poor oki. Best course of action is generally a REV Power Wave followed with a run.
+}}
+
+==Videos, Links & References==
+
+'''TERRY BOGARD｜Character Breakdown by SNK'''
+{{#ev:youtube|_wO1LMoqZHA}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Terry Bogard]]

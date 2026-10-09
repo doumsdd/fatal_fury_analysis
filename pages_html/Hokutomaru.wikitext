@@ -1,0 +1,535 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW Hokutomaru Profile.png|thumb| Andy Bogard and Mai Shiranui's young pupil.
+After the previous tournament, Hokutomaru traded his home in the mountains for the bustling metropolis that is South Town—with Terry's help, that is. Despite having to grapple with the ups and downs that is "life in the city," the fledgling Shiranui fighter spends a great deal of time wondering how to use his abilities to help those around him. With the latest tournament now close at hand, Hokutomaru decides it’s the perfect opportunity to see how he has grown.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 11f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+----
+
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+
+Sliding - [[image:df.gif]] + [[image:b.gif]]
+
+Kuuten Geri - [[image:df.gif]] + [[image:d.gif]]
+
+Noumen Zukuri - (In Air) [[image:a.gif]][[image:b.gif]]
+
+Nidan Jump - (In Air) [[image:up.gif]]
+
+Command Combos - (S.P.G. Active) [[image:c.gif]][[image:d.gif]] > [[image:c.gif]][[image:d.gif]]
+
+'''REV Blows'''
+
+Ninpo Bakuen Punch - (S.P.G. Active) [[image:c.gif]][[image:d.gif]]
+
+Ninpo Bakuen Kick - (S.P.G. Active, In Air) [[image:c.gif]][[image:d.gif]]
+
+
+
+'''Special Moves'''
+
+Shuriken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Naname Shuriken - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Air Shuriken - (In Air) [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Air Naname Shuriken - (In Air) [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Kuuha Dan - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Zan'ei Ken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Karakusa Wari - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Rakka Zan: Kai - [[image:dn.gif]][[image:dn.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+'''Ignition / Redline Gears'''
+
+Zetsu: Hishou Ken[[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+(Kyuukyuku) Ougi: Chou Hissatsu Tatsumaki - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+
+
+'''Hidden Gear'''
+
+Hiougi: Shiranui Ryuu - (S.P.G. Active) [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Hokutomaru is about what you expect a kid ninja to be: short, nimble and ''really'' annoying. With a moveset tailored to fast hit-and-run play, his style is to whittle opponents down, both physically and mentally, by just barely staying out of opponents' reach while he attacks from all angles. 
+
+Hoku has more options for mobility than any other character in the game. Not only does he move fast along the ground, having great walk and run speeds plus great burst movement like a slide and Zan'ei Ken (236P) - but he's even more mobile in the air. When he takes to the sky, he has a double jump, air stalls, teleports, lots of air-to-airs, and more; with so many ways around the screen, it's almost impossible to keep him out. As quickly as he can move in, he's rarely in a rush to do so, as he can combine his Shurikens (214A/B/C/D) with his air mobility to zone and stall out his adversary, punishing over-extensions when they get frustrated; with all this plus great light buttons and a ridiculous REV Blow, there's no better character at defending a life lead. 
+
+It's not all sunshine and rainbows for the kid, though. Due to his lack of meterless reversal and poor Guard Cancel options, Hoku is at the opponent's mercy in disadvantage. When he's on the backpedal, he has to either wait out the opponent's pressure, or take a big gamble on a reversal super if he has one available. Not even REV Blow is a reliable answer, as it's punishable on block unlike with other characters. If Hoku's caught being reckless and catches a stray hit or has his air approach stuffed, he could end up in big trouble. 
+
+Getting in on this short character can be quite the tall task, though. As long as he can stay out of his opponent's reach, he'll be the one dictating the pace of the match, from anywhere on the screen. He's great for players who like being annoying and waging mental warfare. Not a good character for beginners, though, as nothing he has is really abusable; Hoku players will need to get a feel for his mobility options and quirky moves to make him truly shine. 
+
+{{StrengthsAndWeaknesses
+| intro = Hokutomaru is a mobile trickster who uses his Shuriken and his numerous air options to decimate his opponents' psyche and health-bar. 
+| pros=
+* '''Short King of the Sky''': Anti-airing Hokutomaru is no easy feat - he has an abundance of aerial maneuvers to stay just outside the range of most character's preferred anti-airs and the means to punish them heavily should they attempt and fail. If the opponent wises up to Hokutomaru's tricks and starts respecting his air options, then they have effectively given the little ninja carte blanche to apply as much hop and jump pressure as he wants, now knowing his opponent is too scared to challenge.
+* '''High Mobility''': Hokutomaru has the most mobility options in the cast including: fast walk and run speed, a double jump, numerous air stall options, teleports, and command hop specials.
+* '''Flexible Neutral''': Between having fast movement and projectiles that can cover any angle - Hokutomaru can seamlessly transition between both fast rushdown or defensive zoning easily. These qualities help him hold his own in any matchup as it is hard to both chase after him and keep him out.
+* '''Rev Blow Spammer''': Hokutomaru's Rev Blow is notoriously hard to deal with, as it comes out in 18 frames, making it difficult to counter on reaction. However, even beyond being a good defensive option, Hokutomaru's double Rev Blow Command Combo is an incredibly cheap way to deal good damage, secure a hard knockdown, and generate insane amounts of meter.
+
+| cons=
+* '''No Meterless Reversal''': Hokutomaru has no meterless invincible reversal, which means he has to make do with his grounded REV Blow if he wants to bulldoze through offense. Rev Blows are armored from frame 2 so they lose to meaties, high dodge attacks, throws, supers, and opponents' own Rev Blows that are executed later.
+* '''Unsafe Rev Blow''': While it has better reward if it hits thanks to his Command Combo (CD > j.CD), it's only available during S.P.G. and is also one of the few Rev Blows punishable on block (-6).
+* '''Slow Meterless Specials''': Having slow meterless specials results in poor meterless guard cancel options compared to other characters.
+}}
+
+==Normals==
+
+===Far Normals===
+
+====far A====
+{{FrameDataCargo-COTW
+|name=Far A 
+|moveId=hokutomaru_f.A
+|input=f.A
+|description=* Standard far jab. Use it to check dash-ins or as a filler in block-strings/combos. 
+}}
+
+====far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=hokutomaru_f.B
+|input=f.B
+|description=* Very long special cancellable light that moves Hokutomaru slightly forward, can combo into 236B for a knockdown even at tip range. 
+*Great for hitconfirming your crouching 2B lows.
+}}
+
+====far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=hokutomaru_f.C
+|input=f.C
+|description=* Hokutomaru takes a big step forward with an elbow check. Has some of the best reach out of his standing buttons and combos readily into any of his specials. 
+* Strong Wild Punish tool when feint cancelled as it leaves him very close and +22
+}}
+
+====far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=hokutomaru_f.D
+|input=f.D
+|description=* Kick that is aimed slightly at the air. Can occasionally catch people who are jumping but generally not a great normal to use as it is only super cancellable and has noticeable recovery. 
+}}
+
+===Close Normals===
+
+====close A====
+{{FrameDataCargo-COTW
+|name=Close A 
+|moveId=hokutomaru_cl.A
+|input=cl.A
+|description=* Standard 4f proximity normal
+* Chains into other lights or Combination Attack. Good for applying pressure, hit confirms, or as a quick anti-hop anti-air. 
+}}
+
+====close B====
+{{FrameDataCargo-COTW
+|name=Close B
+|moveId=hokutomaru_cl.B
+|input=cl.B
+|description=*Very advantageous normal for pressure and starting combos. Frame traps and auto confirms into cl.C if used to start a blockstring from point blank.
+*Has enough hitstun to combo into 214AC, enabling strong 2-hit light confirms (ex. 2B cl.B 214AC).
+}}
+
+====close C====
+{{FrameDataCargo-COTW
+|name=Close C
+|moveId=hokutomaru_cl.C
+|input=cl.C
+|description=* Largest activation range of his close normals. An important starter and good punish option for confirming into his heavy specials.
+}}
+
+====close D====
+{{FrameDataCargo-COTW
+|name=Close D 
+|moveId=hokutomaru_cl.D
+|input=cl.D
+|description=* Strong plus frames but very slow to start up. Ideal as a meaty option for it's high plus frames on feint cancel. Also your most rewarding button to punish DPs with.
+}}
+
+===Crouching Normals===
+
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=Crouching A
+|moveId=hokutomaru_2A
+|input=2A
+|description=* Mash option that comes out in 4 frames regardless of proximity, has strong chain cancel options in 2B and f.B, ensuring a knockdown.
+}}
+
+====Crouching B====
+{{FrameDataCargo-COTW
+|name=Crouching B
+|moveId=hokutomaru_2B
+|input=2B
+|description=* Threatening low with great range and speed with strong cancel options into c.B or f.B for good reward. 
+}}
+
+====Crouching C====
+{{FrameDataCargo-COTW
+|name=Crouching C
+|moveId=hokutomaru_2C
+|input=2C
+|description=* Good far reaching button for whiff punishing with or checking grounded pokes. Can confirm easily into any of his heavy specials.
+}}
+
+====Crouching D====
+{{FrameDataCargo-COTW
+|name=Crouching D
+|moveId=hokutomaru_2D
+|input=2D
+|description=* Universal sweep attack. Unsafe on block but decent enough for checking walk back attempts or counter poking in neutral.
+}}
+
+===Jumping Normals===
+
+====Jump A====
+{{FrameDataCargo-COTW
+|name=Jump A
+|moveId=hokutomaru_j.A
+|input=j.A
+|description=* Special cancel allows for a small combo on counter hit air-to-air
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|name=Jump B
+|moveId=hokutomaru_j.B
+|input=j.B
+|description=* Hits cross-up, follow up with c.B > c.C to take advantage of the vacuum effect
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|name=Jump C
+|moveId=hokutomaru_j.C
+|input=j.C
+|description=* Generic jumping heavy punch. You would usually prefer to use j.D instead as a jump in.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|name=Jump D
+|moveId=hokutomaru_j.D
+|input=j.D
+|description=* His farthest reaching heavy attack in the air. Good choice for high reward jump-ins.
+}}
+
+===Command Moves===
+
+====Sliding====
+{{FrameDataCargo-COTW
+|name=Sliding
+|moveId=hokutomaru_3B
+|input=3B
+|description=*Slide kick that is punishable at point blank but becomes more plus when spaced out properly. 
+*Good option for catching people who are walking away from you or just as a way to approach on the ground. 
+*Unfortunately not plus enough on hit to get a consistent combo from any spacing or with counter hit/wild punishes. It is possible to combo off of this into 4f buttons if you time it perfectly as a point blank meaty.
+}}
+
+====Kuuten Geri====
+{{FrameDataCargo-COTW
+|name=Kuuten Geri
+|moveId=hokutomaru_3D
+|input=3D
+|description=* Cancellable into Air REV Arts and any version of j.22P
+* Launches opponents upwards when it hits.
+Risky anti-air as it has no air move invuln but it hits higher than his High Dodge Attack and grants a combo regardless of counter hit/Wild Punish, essentially serving as a DP brake in lieu of his slow 236D.
+}}
+
+====Nidan Jump====
+{{FrameDataCargo-COTW
+|name=Nidan Jump
+|moveId=hokutomaru_j.8
+|input=j.7/8/9
+|description=* Hokutomaru's double jump. His most annoying option for mixing people's anti-air reactions or to traverse the screen.
+*Hokutomaru will turn to reface the opponent if they got behind him while he's double jumping.
+*He is able to perform any regular aerial option available to him like from his normal jump including: normals, specials, JD, feint, etc.
+}}
+
+===Command Combos===
+====Command Combo====
+{{FrameDataCargo-COTW
+|name=Command Combo
+|moveId=hokutomaru_commandcombo,hokutomaru_commandcombo_2
+|input=(S.P.G. Active) CD > j.CD
+|description2=
+* A follow-up to get more damage out of Rev Blows. Can only be cancelled into if Rev Blow hits the opponent and isn't blocked.
+* ''Cannot'' be performed if the Rev Blow is the finisher for Combination Attack (cl.A > C > C > D > CD).
+* Do not use this if the initial Rev Blow counter hits as Hokutomaru can use a full combo instead.
+}}
+
+==Universal Options==
+
+===Throws===
+
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=hokutomaru_AB
+|input=AB
+|description=* Hokutomaru grabs his opponent and knocks them away with a flip into shuriken. 
+*Has more advantage than his back throw.
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=hokutomaru_4AB
+|input=4AB
+|description=
+*Hokutomaru grabs his opponents and blows them up with his ninjitsu. 
+*Simply hold up forward to perform an autotimed 5f safejump when the opponent is thrown into the corner.
+}}
+
+====Noumen Zukuri====
+{{FrameDataCargo-COTW
+|name=Noumen Zukuri
+|moveId=hokutomaru_j.AB
+|input=j.AB
+|description=* Air throw that always has the same knockdown advantage regardless of how high you throw them from. 
+*Useful for punishing opponents who are expecting to JD your other anti-air options.
+}}
+
+===REV Blows===
+
+====Ninpo Bakuen Punch====
+{{FrameDataCargo-COTW
+|name=Ninpo Bakuen Punch
+|moveId=hokutomaru_CD
+|input=(S.P.G. Active) CD
+|description=
+*Uniquely fast Rev Blow that forces the opponent to respect Hokutomaru's defense similar to a reversal, as even doing a counter Rev Blow or High Dodge is restrictive and difficult.
+*On hit, can be followed up by air Rev Blow as a target combo, giving Hokutomaru added reward on regular hit or Wild Punish Rev Blow.
+*Functional as an anti-air thanks to its upwards hitbox and inability to be JD'd by a jumping opponent.
+*Comes at the cost of being -5 on block, which is universally punishable if blocked point blank, which makes low-commitment pressure options effective against it.
+}}
+
+====Ninpo Bakuen Kick====
+{{FrameDataCargo-COTW
+|name=Ninpo Bakuen Kick
+|moveId=hokutomaru_j.CD
+|input=(S.P.G. Active) j.CD
+|description=* 
+*Aerial rev blow with usual guard point properties. This is safe on block and can even be plus if you manage to hit the opponent below their waist. 
+*A great tool for blowing up anti-air or air-to-air attempts.
+}}
+
+===Dodge Attacks===
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|name= High Dodge Attack
+|moveId=hokutomaru_2C+REV
+|input=2C+REV
+|description=* Beats Highs, most Mids, and REV Blows after the evasion is active.
+*Very good startup and hitbox for anti-airing, and is Hokutomaru's main tool for that purpose.
+*Special/super cancelable on hit only, so always inputting a cancel has no real downside.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|name=Low Dodge Attack
+|moveId=hokutomaru_5C+REV
+|input=5C+REV
+|description=* Universal overhead attack that beats Lows and Throws. A good move to check your opponent's reactions and steal wins if they are low health. 
+*Can also link into his close normals after if it counter hits or if it is timed properly as a meaty.
+}}
+
+===Feints===
+
+====Standing Feint====
+{{FrameDataCargo-COTW
+|name= Feint
+|moveId=hokutomaru_5D+REV
+|input=5/2/6D+REV
+|description=* Mimics a shuriken toss. Use this to throw off your opponents who are expecting to respond to a shuriken toss or just for your cl.C/D feint cancel pressure.
+}}
+
+====Air Feint====
+{{FrameDataCargo-COTW
+|name= Air Feint
+|moveId=hokutomaru_j.D+REV
+|input=j.D+REV
+|description=* Mimics a shuriken toss - in the air
+* Cannot be cancelled into
+In patch 3.00, removed the ability to cancel into normals after feinting.
+}}
+
+==Special Moves==
+
+===Shuriken===
+{{FrameDataCargo-COTW
+|name= Shuriken
+|moveId=hokutomaru_214A,hokutomaru_214C,hokutomaru_214AC
+|input=214A/C
+|description3= * An important projectile move for Hokutomaru to control space and use as an approach tool.
+* C version throws out 3 Shuriken clustered together
+* Opponent Normals can neutralize Shuriken if timed correctly.
+* The Shuriken can be hit out of the air by attacks. As such, the C Version can blow through single hit fireballs as only one of the Shuriken gets neutralized.
+* REV Art fireballs eliminate all Shuriken regardless of hits.
+}}
+
+===Naname Shuriken===
+{{FrameDataCargo-COTW
+|name= Naname Shuriken
+|moveId=hokutomaru_214B,hokutomaru_214D,hokutomaru_214BD
+|input=214B/D
+|description3=* Diagonal version of 214P that throws the Shuriken(s) at an upward 45° angle.
+* Opponent Normals can neutralize Shuriken if timed correctly.
+}}
+
+===Air Shuriken===
+{{FrameDataCargo-COTW
+|name= Air Shuriken
+|moveId=hokutomaru_j.214A,hokutomaru_j.214C,hokutomaru_j.214AC
+|input=j.214A/C
+|description3=* Throws the Shuriken straight ahead while keeping Hokutomaru suspended in the air. Regular versions have a height restriction and can only be done from a forward or neutral jump.
+* Opponent Normals can neutralize Shuriken if timed correctly.
+*REV Art versions have no height restriction and can be done while jumping backwards or even a backdash.
+}}
+
+===Air Naname Shuriken===
+{{FrameDataCargo-COTW
+|name= Air Naname Shuriken
+|moveId=hokutomaru_j.214B,hokutomaru_j.214D,hokutomaru_j.214BD
+|input=j.214B/D
+|description3=* Diagonal version of j.214P that throws the Shuriken(s) at a downward 45° angle. Regular versions have a height restriction and can only be done from a forward or neutral jump.
+* Opponent Normals can neutralize Shuriken if timed correctly.
+*REV Art versions have no height restriction and can be done while jumping backwards or even a backdash.
+}}
+
+===Kuuha Dan===
+{{FrameDataCargo-COTW
+|name= Kuuha Dan
+|moveId=hokutomaru_236B,hokutomaru_236D,hokutomaru_236BD
+|input=236B/D
+|description3=* Hokutomaru executes his version of Andy's famous Kuuha Dan. This move is a staple combo piece but is very unsafe on block/whiff if not hit confirmed properly. 
+* Unlike most other brake moves, the REV Art version does not effect the juggle limit of the D version when used in the same combo.
+* Most hits will whiff on a crouch blocking opponent.
+236BD version: There is an interruptible <3f gap before the last, cancellable hit where the opponent can mash DP, super or REV Blow.
+* Marco, B. Jenet, Hokutomaru and Mai's CDs are fast enough to punish.
+* If Hokutomaru is in S.P.G. cancelling into CD will neutralize the opponents CD, after which he can do his CD > j.CD target combo to get a crumbling/launching counter hit punish.
+}}
+
+===Zan'ei Ken===
+{{FrameDataCargo-COTW
+|name= Zan'ei Ken
+|moveId=hokutomaru_236A,hokutomaru_236C,hokutomaru_236AC
+|input=236A/C
+|description3=*More time under Andy's tutelage has taught him Andy's famous rushing dash punch. It is a decent move for surprising your opponent with a quick attack from further ranges as a gap-closer.
+*The hitbox will not come out unless Hokutomaru gets near his opponent. This means that from further ranges the animation will be shortened as the end recovery from performing the punch will not happen.
+*The A version is notably his fastest special on the ground which makes it his fastest meterless guard cancel option. 
+*The C version is ''always'' -6 from any range. It should be used very carefully as he will be consistently punishable on block. 
+*The AC version has the same coverage as the C version but can be cancelled into other Rev Arts to be plus or get a full combo. 
+}}
+
+===Karakusa Wari===
+{{FrameDataCargo-COTW
+|name= Karakusa Wari
+|moveId=hokutomaru_623B,hokutomaru_623D,hokutomaru_623BD
+|input=623B/D
+|description3=* B version is a command leap that can cancel into the REV Art versions of his air specials. A decent option for traversing over low attacks or some grounded fireballs.
+*D version has a strike at the end. Can be combo'd off of on counter hit or wild punish.
+*Rev Art version is the most useful as it is always plus on block and you can combo into his other Rev Arts on hit.
+}}
+
+===Rakka Zan: Kai===
+{{FrameDataCargo-COTW
+|name= Rakka Zan: Kai
+|moveId=hokutomaru_22A,hokutomaru_22C,hokutomaru_22AC
+|input=22A/C
+|description3=* Teleports Hokutomaru either directly above where he stood (22A) or above and in front of the opponent while extending a leg to hit them (22C/AC)
+* A version can be cancelled into Air Shuriken (j.214P) or Air Naname Shuriken (j.214K)
+* Startup for the C and AC version is much slower in actuality as the move puts Hokutomaru on the top part of the screen before he descends with a heel kick. Can always get a combo if your opponent is hit crouching or if they get counter hit. 
+* Useful tool for punishing players who are zoning him out or as a surprise neutral check. Be mindful that a wary opponent can anti-air his teleport easily with High Dodge or a DP.
+}}
+
+===Rakka Zan: Kai (Air)===
+{{FrameDataCargo-COTW
+|name= Rakka Zan: Kai
+|moveId=hokutomaru_j.22A,hokutomaru_j.22C,hokutomaru_j.22AC
+|input=j.22A/C
+|description3=*Aerial version of his teleport. The A/C versions can only be done from neutral or forward jumps. The Rev Art version can be done from any jump and backdashes as well. 
+* Can be done very low to the ground by inputting as [282P] rapidly
+*Has less advantage compared to his grounded version.
+}}
+
+==Super Moves==
+
+===Ignition Gears===
+
+====Zetsu: Hishou Ken====
+{{FrameDataCargo-COTW
+|name= Zetsu: Hishou Ken
+|moveId=hokutomaru_236236A
+|input=236236A
+|description=*"Fireball" super where Hokutomaru charges his ki and sends it out in front of him. This does function as a projectile so projectile invincible moves can go through it. It is also able to cancel out weaker projectiles and other Ignition gear projectiles like Kain 236236B.
+*Has invincible startup and is your preferred reversal option when only one bar is available. 
+*Can lose to a well timed High Dodge.
+}}
+
+====Ougi: Chou Hissatsu Tatsumaki====
+{{FrameDataCargo-COTW
+|name= Ougi: Chou Hissatsu Tatsumaki
+|moveId=hokutomaru_236236B
+|input=236236B
+|description=*Hurricane anti-air super. This version only has frame 1 head invincibility so it should not be used as a reversal outside of anti-air situations.
+* This super will hit on both sides so it is a good option to beat cross ups. JDing this super in the air will quickly pull you into it and often over Hokutomaru's head, potentially crossing yourself up in the process.
+}}
+
+===Redline Gears===
+
+====Zetsu: Hishou Ken====
+{{FrameDataCargo-COTW
+|name= Zetsu: Hishou Ken
+|moveId=hokutomaru_236236C
+|input=236236C
+|description=*More damaging version of his 236236A with similar uses and properties. It can notably cancel out weaker projectiles and other Redline gear projectiles like Kain 236236D.
+*It has the fastest startup of his non S.P.G supers so it is the easiest to link into after a tight air juggle. 
+*Can lose to a well timed High Dodge
+}}
+
+====Kyuukyuku Ougi: Chou Bakuen Tatsumaki====
+{{FrameDataCargo-COTW
+|name= Kyuukyuku Ougi: Chou Bakuen Tatsumaki
+|moveId=hokutomaru_236236D
+|input=236236D
+|description=*His most damaging super outside of S.P.G state. Aim to end in this if you can for the most damaging combo ender.
+*Unlike the B version this has full invincibility and can be used as a reversal option as well as an anti-air.
+}}
+
+===Hidden Gear===
+
+====Hiougi: Shiranui Ryuu====
+{{FrameDataCargo-COTW
+|name= Hiougi: Shiranui Ryuu
+|moveId=hokutomaru_236236REV
+|input= (S.P.G. Active) 236236REV
+|description=
+*Hokutomaru pays tribute to his teachers and performs a dash punch similar to his 236C. If he connects he will do an explosive combo.
+*Has the fastest startup and does the most damage out of all of his supers. He is fully invincible for the duration he is dashing which makes this a strong option for beating out mid-range fireballs or punishing far normals on block (ex. Billy f.C).
+* Will ALWAYS side-swap if it doesn't kill. Be mindful you can potentially corner yourself after the super finishes.
+* Does 72 damage in chip unless JD'd/REV guarded
+}}
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Hokutomaru]]

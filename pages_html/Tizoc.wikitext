@@ -1,0 +1,588 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW TIZOC Profile.png|thumb| An invincible symbol of justice who now makes his triumphant return to the ring.
+Despite hanging up his boots for a time, the joyous cries of the children in his corner spur him into action—and bring him back home. Pledging to lift the spirits of one young fan in particular, he laces up and sets his sights on the squared circle once again. For the mighty Tizoc, one thing’s for sure: this fight will be even more furious than the last.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 42f
+<br>'''Hop:''' 37f
+<br>'''Dash:''' 21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+'''Numpad notation'''<br> 
+{|
+|+ 
+|-
+! !! !! 
+|-
+| 7 || 8 || 9 || [[image:ub.gif]] || [[image:up.gif]] || [[image:uf.gif]]
+|-
+| 4 || 5 || 6 || [[image:bk.gif]] ||  || [[image:fd.gif]]
+|-
+| 1 || 2 || 3 || [[image:db.gif]] || [[image:dn.gif]] || [[image:df.gif]]
+|}
+
+'''Command Moves'''
+
+Grif-Fall - [After a backward throw] [[image:bk.gif]] + [[image:c.gif]] or [[image:fd.gif]] + [[image:c.gif]]
+
+Charge Grif-Chop - [[image:bk.gif]] + [Hold] [[image:c.gif]]
+
+Charge Grif-Kick - [[image:bk.gif]] + [Hold] [[image:d.gif]]
+
+'''Special Moves'''
+
+Justice Hurricane - [[image:Fd.gif]] [[image:Dn.gif]] [[image:Bk.gif]] [[image:Up.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Poseidon Wave [BR] [FE] - [[image:dn.gif]] [[image:db.gif]] [[image:bk.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Olympus Over [BR] - [[image:dn.gif]] [[image:db.gif]] [[image:bk.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Hercules Throw - [[image:dn.gif]] [[image:df.gif]] [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Active Typhon - [[image:fd.gif]] [[image:dn.gif]] [[image:df.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Artemis Rex [BR] - [[image:dn.gif]] [[image:df.gif]] [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Icarus Crash - [In air] [[image:dn.gif]] [[image:df.gif]] [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+'''REV Blows'''
+
+Grift-Drop Superkick - [During S.P.G.] [[image:c.gif]] [[image:d.gif]]
+
+Big Cross - [During S.P.G.] [}n air] [[image:c.gif]] [[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+
+Big Fall Griffon - [[image:Fd.gif]] [[image:Df.gif]] [[image:Dn.gif]] [[image:Db.gif]] [[image:Bk.gif]] [[image:Ub.gif]] [[image:Up.gif]] [[image:Fd.gif]] [[image:Df.gif]] [[image:Dn.gif]] [[image:Db.gif]] [[image:Bk.gif]] [[image:Ub.gif]] [[image:Up.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Daedalus Attack - [[image:qcf.gif]] [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Hidden Gear'''
+
+Deadalus Slalom Turn Sunset - (S.P.G active) [[image:qcf.gif]] [[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Much improved from his unremarkable debut in ''Garou'', Tizoc is this game’s resident grappler character, armed with tons of powerful command grabs and a potent poking game to help him brawl his way in. 
+
+At the core of Tizoc’s game plan is Justice Hurricane (360P), a highly damaging command grab that leads into looping okizeme, and one of many throws for any situation, including an incredible grab super in Big Fall Griffon (720P) with huge damage and instant startup. He’s not all about the grabs, though; Tizoc has solid normals all around that force his opponent to cede ground until they run out of room, unique but solid Dodge Attacks to work around opponents’ defenses, and lunging strike specials that can be Braked to condition his opponent to block and potentially get scooped. When he gets his hands on his opponent, be it a hit or throw, Tizoc has ways to convert into a hard knockdown to put opponents into an utterly terrifying guessing game.
+
+The challenge with Tizoc, however, is getting in in the first place. Tizoc is very slow, and he isn’t offered the same mobility options as other characters, instead having unique movement that is risky but rewarding. The REV system unfortunately doesn’t provide a way for Tizoc to burst past pokes and the like from his opponent, either. Thus Tizoc’s ability to dictate the match is very limited, and your patience will be tested heavily while playing him. 
+
+Patience, however, is very rewarding with this character. Eventually, the opportunity to burst in and get grappling will present itself, and when it does, Tizoc rides a (Poseidon) wave of momentum like no other character in the game. It’s moments like these that make this character incredibly satisfying to play!
+
+For more in-depth info on how to play Tizoc, check his <b><u>[https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Tizoc/Strategy Strategy]</u></b> page. 
+{{StrengthsAndWeaknesses
+| intro = Tizoc enters the arena with crushing command grabs and strike/throw mixups, but his slow movement makes every approach a test of patience.
+| pros=
+
+* '''Huge hitboxes''': For how slow they are, most of Tizoc’s normals come with best-in-class range compared to most other fighters. Far A is a great example, packing a hitbox with greater horizontal range than what most others would get out of their far heavies.
+
+* '''Hard Knockdowns''': Tizoc has many command grabs, as well as 214BD (and OTG 214BD) that let him score hard knockdowns without needing a super or Rev Blow. For these, no post-knockdown recovery roll is possible, and compared to other characters relying exclusively on Rev Blow or Supers for oki like this, Tizoc has a good ability to keep up offense when he opens his opponent up.
+
+* '''High-reward defense''': For how difficult it can be to utilize, guard cancels are especially rewarding with Tizoc. 5-9 frame command grabs allow Tizoc to be a constant threat during the opponent’s guard pressure, turning any close-range Just Defend into an opportunity to drop 100-250 damage on the opponent through some pretty tight gaps uncontestable by others.
+
+| cons=
+* '''Very slow''': Tizoc has the slowest movement in the game. His only 4F normal is his close 5A as of v.3.0. He cannot cancel his dash into normals, only a Hyper Jump early in its animation. Note that Hyper Jump startup can be cancelled into specials, effectively increasing their range (useful for command grabs). Overall, it is still worse than a regular dash.
+
+* '''Too dependent on Rev meter''': Tizoc frequently has to spend on Rev Guard or successfully Guard Cancel his way out of defense. Tizoc also frequently needs 25 meter or more just to end a combo or secure oki, as such he will be very hungry for Rev at any phase of the game, further emphasizing the importance of taking every Just Defend he can get.
+
+* '''Unreliable anti-airs''': Tizoc tends to struggle to anti-air when the opponent is jumping/hopping close to him, which they are incentivized to do by Tizoc's threatening grabs. Also difficult to counter hit confirm High Dodge Attack (beak) antiairs, since Tizoc doesn't have a safe-on-whiff brakable special.
+
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=tizoc_f.A
+|description= An open hand jab that compensates for its slow speed with huge range. Used for poking, but can score decent damage with a good hit-confirm or a cancel into a slow grab.
+* Excellent horizontal range, but the tip of the hitbox will whiff on a crouching opponent
+* Combos into 236BD and 214A on normal hit. Can combo into 214AC on Counter Hit / Wild Punish
+* One of the only lights in the game that gets better advantage on hit/block by canceling into feint
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=tizoc_f.B
+|description= A fast, plus-on-block side kick at waist-level, mostly used for poking and ending light chains on block.
+* Unlike Far A, never whiffs on crouching opponents
+* Can only ever combo into '''236236K''' or '''236236R''' with a super cancel, a counterhit will not reliably open any new routing
+* Despite having the lowest hitbox of all his far normals, can still be low-profiled by crouch dodge attacks ('''2CR''') like all of his other far normals
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=tizoc_f.C
+|description= A special-cancelable, far-reaching backhand chop. Used to score big damage.
+* Unusually long special cancel window
+* Combos into 214AC on normal hit. For an easier hit-confirm, '''Far C > Feint > Far A > 214A''' is an option.
+* On counterhit, combos into itself at shorter ranges with '''Far C > Feint > Far C'''. On a Wild Punish, will usually combo into itself except at absolute max range where 214AC becomes the best follow-up. 
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=tizoc_f.D
+|description= A big, straight kick forward. Used to fish for counterhits and whiff punishes.
+* Shorter range than Far C, but slightly faster and conversions on counterhit / Wild Punish are much more stable
+* Normal hits can only combo into supers. Counterhits will always combo into Far A, and a Wild Punish will always combo into Far C with no microwalk required.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=tizoc_cl.A
+|description=An open-handed upward jab. Used for light confirms and stopping hops at close range.
+* Can be chained into itself or other lights, otherwise combos into anything that Far A would. Additionally, this can reliably combo into 236P if the side-switch is desired
+* Can be low profiled by an opponent's 2CR
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=tizoc_cl.B
+|description= A quick stomp to the shin. Despite the animation, this move is not a low and can be blocked while standing. Primarily used as a pressure reset and to set up strike/throw mix.
+* Links into 2B/2A on hit for a combo, and this same sequence is a frametrap on a blocked Close B. Counterhit / Wild Punish does not open any additional combo routing.
+* Without special canceling or delaying the input, the normal versions of 236P will grab an opponent on the earliest frame possible after a blocked Close B. 236AC and any version of the 360 grab must be manually delayed by at least 2-4 frames after a blocked Close B, or the grab will whiff.
+* Cannot be dodged with either 2CR or 5CR
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=tizoc_cl.C
+|description=A downward chop with an open hand.Tizoc's fastest heavy attack. Mostly used to start high-damage combos, but can also set up strike/throw mix.
+* At very close range, will combo into itself with '''Close C > Feint> Close C''' on normal hit. On counterhit, can combo into Far C after the feint. On Wild Punish, can combo into 4[C] after the feint.
+* After a blocked '''Close C > Feint''', the EX 360 grab must be delayed by at least 1 frame or it will whiff. Any other grab will not require a delay.
+* At the edge of Close C's activation range, some grabs may whiff if used after a blocked '''Close C > Feint'''. At very close range, Tizoc will remain close enough for any grab to hit.
+* Cannot be dodged with either 2CR or 5CR
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=tizoc_cl.D
+|description= A heavy knee strike. Used for starting combos and getting huge plus frames.
+* Forces opponent to stand on hit.
+* Always combos into Close C with '''Close D > Feint > Close C'''
+* More pushback on block than Close C, which may cause some grabs to whiff after Close D is blocked
+* Can be low profiled by an opponent's 2CR
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-COTW
+|moveId=tizoc_2A
+|description=A short, horizontal elbow strike at waist-level. Primarily used to chain into far lights.
+* Very short range, and is therefore not a very good close-range defensive tool 
+* Can chain into Far A or Far B, especially with '''Close A > 2A > Far A'''. 
+* Can also be canceled into 236B/D or 623K to fish for grabs.
+* Combos into 236P, 214A or 236BD on hit
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=tizoc_2B
+|description=Tizoc extends his front foot against the ground. Used to start combos from a low.
+* Faster and longer range than 2A, and can be chained into other lights (usually Far A)
+* An opponent's 5CR will jump over this for a Wild Punish.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=tizoc_2C
+|description=A diagonal poke with an open hand. Used to stop hops at long range. 
+* Only combos into supers on normal hit. On counterhit, combos into Far A
+* Not reliable for stopping hops or jumps at shorter ranges.
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=tizoc_2D
+|description=A back kick against the floor. Fairly standard sweep.
+* On Wild Punish, a second sweep will hit for 157 total damage, or a 214BD can hit for 195 total damage at the cost of 25% rev meter (not including SPG reduction).
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.A
+|description= Far A, but now it's airborne. Used for air-to-air situations.
+* Fastest startup, highest hitbox and longest horizontal range of out of all of Tizoc's air normals
+* Can whiff against grounded opponents
+* Special-cancelable if used during a full jump (not a hop)
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.B
+|description=A leaping kick at a slightly downward angle. Primarily used to cross up opponents.
+* Fairly low hitbox, making it good for hitting opponents at a slightly lower elevation
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.C
+|description=A jumping frog splash. Primarily used to cross up an opponent.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.D
+|description=A flying dropkick. Primarily used for air-to air situations.
+* Slightly more horizontal range and damage than j.C, but not as good for starting a combo after the hit and does not cross up.
+}}
+
+===Command Normals===
+====Grif-Fall====
+{{FrameDataCargo-COTW
+|moveId=tizoc_4C/6C
+|description=An extension of his back throw that adds damage and does not side-switch the opponent. Do not use this if you want to keep your opponent behind you.
+}}
+
+====Charge Grif-Chop====
+{{FrameDataCargo-COTW
+|moveId=tizoc_4C
+|description=A charged version of Far C, used by holding back and holding the punch button. Don't forget to feint for additional advantage frames, same as the uncharged version.
+* If not fully charged, will be identical to Far C with no partial bonuses given
+* If it hits an airborne opponent, this can usually be followed up with 214A or 214AC, even on normal hit. This does not make it a good anti-air, but it is certainly a rewarding one.
+* If feint cancelled against a opponent on the ground, can follow up with Far C at most ranges (will require Far A at max range).
+}}
+
+====Charge Grif-Kick====
+{{FrameDataCargo-COTW
+|moveId=tizoc_4D
+|description=A charged version of Far D, used by holding back and holding the kick button.
+* Moves Tizoc forward when the kick is launched and fully charged
+* If spaced properly, can become even more advantageous on hit/block (up to +4 on block, +12 on normal hit and up to +17 on counterhit)
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=tizoc_cla_5c,tizoc_cla_5c_5c,tizoc_cla_5c_5d,tizoc_cla_5c_6d,tizoc_cla_5c_2d
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Same move as close C but the frame data and damage are different and the first hit can be cancelled by any follow-up.
+----
+cl.AC > C : Far C follow up, different frame data and damage.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Same move as his Low Dodge Attack(5C+REV) except it's faster, +2F on block, and can't be followed up with super.
+----
+2D ender : Same move as his 2D and nearly the same framedata, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=tizoc_AB
+|description=Bear hug the opponent and kick them forward.
+* Immediately press 214AC~AB after the animation ends to slide up to point-blank range at +14 advantage.
+* If the opponent is backed to the corner, dash once and immediately press 5CR for a meaty overhead that can be followed up with an immediate '''backdash > j.236AC''' for a combo
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=tizoc_4AB
+|description=
+* Press 4C or 6C to follow this up with an extra hit for a total of 140 damage and maintain screen side.
+** If Tizoc initiated the back throw when backed up to the corner, the 4C/6C follow-up will put Tizoc back in the corner, so consider the positioning tradeoff for the extra 40 damage.
+}}
+
+==REV Blows==
+====Grif-Drop Superkick====
+{{FrameDataCargo-COTW
+|moveId=tizoc_CD
+|captions='''FALLING KICK!'''
+|description=Tizoc's Rev Blow, an armored attack that is safe on block. Only accessible while in SPG. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#REV_Blow Read more about the Rev Blow here.]
+* Long range, will hit from just a little further than round start distance.
+* Sets up a [https://glossary.infil.net/?t=Safe%20Jump safejump] on hit. After the hit, immediately dash forward once, then forward jump with no delays.
+}}
+
+====Big Cross====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.CD
+|captions='''BEWARE!'''
+|description=Tizoc's aerial Rev Blow. Only accessible while in SPG.
+* Can be canceled into immediately after the second hit of 214BD
+}}
+
+==Feints==
+====Neutral / Forward / Down Feint====
+{{FrameDataCargo-COTW
+|moveId=tizoc_5D+REV
+|description=Tizoc's only feint. Mimics the startup of 214P, but without the back step of a 214C (break) or the slide forward of the light/EX versions. Mostly used to [https://glossary.infil.net/?t=Frame%20Kill frame kill] in a safejump setup.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=tizoc_2C+REV
+|captions = '''BEAK!'''
+|description=Tizoc's crouching dodge attack, a universally available attack for low-profiling and anti-airing. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#High_Dodge_Attack Read more about the crouching dodge attack here.]
+* Advances Tizoc forward, and can therefore be spaced to become safer on block (up to -1)
+* A hit on an airborne opponent will require a counterhit or Wild Punish for any special cancel followups to hit, otherwise they will whiff
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=tizoc_5C+REV
+|captions='''DIVE!'''
+|description=Tizoc's standing dodge attack, a universally available overhead attack that jumps over lows and throws. [https://dreamcancel.com/wiki/Fatal_Fury:_City_of_the_Wolves/Offense#Low_Dodge_Attack Read more about the standing dodge attack here.]
+* Unlike other 5CR attacks, this one starts a juggle. Without a [https://glossary.infil.net/?t=Meaty meaty] setup, 236236R will always hit. In the corner, 236236K will always hit. At max range, 236236K may whiff if not in the corner.
+* With a meaty setup in the corner, an immediate backdash canceled into j.236AC can combo after this, but the timing is very tight. The meaty 5CR can be set up with the following sequence in the corner: '''Forward throw > Dash forward > 5CR > 44 > j.236AC''' (235 damage)
+* Unlike other 5CR attacks, there is no additional frame advantage granted for a counterhit or Wild Punish
+}}
+
+==Brakable Moves==
+====Poseidon Wave [Brake]====
+{{FrameDataCargo-COTW
+|moveId=tizoc_214A~D+REV,tizoc_214C~D+REV,tizoc_214AC~D+REV
+|input=214A/C/AC~AB/D+REV
+|input2=qcb+A/C/AC~AB/D+REV
+|description3=
+* All versions can be feints during the advance; Tizoc stops short before the lariat connects.
+* The C version (214C) can be braked at the backstep preventing Tizoc from advancing.
+* Since the move is unsafe on block at close range, feinting this move at close range may trick opponents into waiting for block impact.
+* The feint for this move may be less likely to be useful at far range since opponents will be ready to whiff punish or recognize when this move is spaced to be safe on block.
+** For the Rev version feint, Tizoc recovers faster than the light version and moves much further forward.
+*** This lets him close the gap with quick recovery and apply strike/throw pressure on the opponent’s wakeup, or even at neutral.
+}}
+
+====Artemis Rex [Brake]====
+{{FrameDataCargo-COTW
+|moveId=tizoc_236B~D+REV,tizoc_236D~D+REV,tizoc_236BD~D+REV
+|input=236B/D/BD~AB/D+REV
+|input2=qcf+B/D/BD~AB/D+REV
+|description3=
+*Tizoc halts before the grab lands, allowing you to catch opponents trying to jump out with an anti-air.
+*The C version can be feinted a little later (still before active)
+*The Rev Art version is unusual as it is active (and blockable) before it can be feinted.
+**Unless cancelled into from max range far A, doesn't allow enough space/time to stop it before it is blocked or hits (it is very unsafe too).
+**Otherwise only functions as a true feint at neutral from further away since the opponent is out of range.
+**After the minimum distance, can be stopped at any position before its maximum range.
+**If immediately feinted, recovers one frame slower than 214AC (immediate feint).
+}}
+
+==Special Moves==
+
+==== Justice Hurricane ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_6248A, tizoc_6248C, tizoc_6248AC
+|input=6248A/C/AC
+|input2=360A/C/AC
+|description3=Tizoc has a lot of grabs, but this is THE grab. For all of his shortcomings as a character, this is a grab that allows him to cash out for big damage on offense while also being a stellar defensive tool when used as a guard cancel. The exact requirement for the 360 input is as follows:
+
+* At least 3 consecutive cardinal (straight up, down, left or right) directions must be hit. If this requirement is met, the fourth one can be substituted with a diagonal input (for example, 4269 is valid)
+* The direction of rotation does not matter. Additionally, diagonal inputs are not necessary for the input (but their inclusion will not invalidate the input sequence). For example, 4268 is valid, but 4862 is also valid.
+* The starting point can be any of the four cardinal directions. For example, 2684, 6842, 8426 and 4268 are all valid inputs.
+
+Keep these input requirements in mind, as multiple different versions of the 360 input may be more comfortable for different situations (buffering during a dash, guard cancels, buffering at the end of a jump, etc.)
+
+Additionally, this grab can cancel the first 5 frames of Tizoc's jump, even if that jump is done during the early frames of a dash. This can be used to artificially extend the range of this grab.
+----
+Light version : 
+* Tied with EX/REV for longest range version
+* Slowest at 7F, which can actually be advantageous when using as a guard cancel vs deep jump attacks.
+* After the animation, immediately press 214AC (brake) to move up to approximately hop distance away from the opponent at +10.
+* Tizoc will be much closer to the opponent after the animation if he is backed up to the corner when using this
+
+----
+Heavy version :
+* More damage and faster startup than the light grab, but shorter range
+* Great for guard cancels due to its high damage and extremely fast startup at no additional REV gauge cost. This grab is fast enough to even beat some light chains if used as a guard cancel, assuming the opponent is close enough to get grabbed.
+* Leaves Tizoc a little closer to the opponent after the animation compared to the light version. 214AC (brake) will leave you at point-blank range at +6.
+* When used while backed up against the corner, one dash leaves Tizoc at point-blank range at +19.
+
+----
+REV version :
+* Spend some Rev meter to get the range of the light version and the speed of the heavy version in one package, plus massively increased damage (nearly as much as his super grab).
+** Rev Accel into 214BD to inflict a total of 377 damage and stay at point-blank range from the opponent with +44 advantage
+* Dash twice immediately after the animation ends to be +11 at point blank range, setting up a meaty Close D that will be +5 on block and +9 on hit (enough to link into Close C) without canceling into feint (and feinting will not improve this)
+* If used while backed up to the corner, '''360C > hop > feint''' leaves Tizoc at +1 and just close enough to hit 236P or 360A / 360AC, or press 214A (do not brake) to be +11 at point-blank range, similar to the midscreen setup
+}}
+
+==== Poseidon Wave ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_214A, tizoc_214C, tizoc_214AC
+|input=214A/C/AC
+|input2=qcb+A/C/AC
+|description3= A running lariat. Unusually nuanced in braking options, and therefore quite useful in many oki setups for its fast forward movement. Launches on counterhit.
+
+
+----
+Light version :
+* Used for meterless light confirms. Any special-cancelable attack will combo into this.
+* The chest has a hitbox during the slide, but this is -6 on block at best and -9 at worst, making it unsafe. If the hand hitbox is blocked, it is safe at -2.
+* Can be braked during the travel to slide Tizoc forward by about half-screen distance without attacking the opponent
+----
+Heavy version :
+* Used to approach the opponent with +2 advantage on block at minimum
+* Tizoc backsteps before performing his lariat, making this significantly slower than the other versions.
+* Can be braked during the backstep to cancel the lariat entirely, but can also be braked during the travel to slide forward by about half to fullscreen distance, depending on brake timing.
+----
+EX/REV version :
+* This is the go-to move to cancel into from heavies.
+* Slides the furthest (nearly fullscreen distance) and recovers fastest when braked, making this a useful (and costly) tool for oki setups.
+* Similar on-block situation to the light version, but can be canceled into Rev Blow if Tizoc is in SPG, making this safe on block unless the opponent Guard Cancels into a grab or parry when the 214AC is blocked. Guard Canceled Rev Blows with 22F or faster startup will lose against Tizoc's Rev Blow, and the opponent does not exit blockstun after 214AC in time to counter Tizoc's Rev Blow.
+}}
+
+==== Olympus Over ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_214B, tizoc_214D, tizoc_214BD
+|input=214B/D/BD
+|input2=qcb+B/D/BD
+|description3=A 2-hit attack. Tizoc leaps into the air and comes back down with an elbow strike. Can be used as an anti-air (mind the lack of invulnerability) or to close the gap on the opponent. Both hits can launch if they counterhit.
+----
+Light version (214B) :
+* Longest range
+----
+Heavy version (214D) :
+* Shortest range and slowest startup, but more damage than light version
+* Tizoc backdashes before jumping into the air. This version can be braked during the backdash, canceling the jump entirely.
+* Has a few air-invulnerable frames as soon as the first hitbox becomes active
+----
+EX/REV version (214BD) :
+* Mostly used in combos (especially '''214AC > 214BD''') and as a Rev Accel after many of Tizoc's grabs to grant better knockdowns. 
+* Second hit ground bounces the opponent on hit. Can always combo into 214B on the ground bounce, or Rev Accel the second hit into a Rev Blow (better oki than j.236AC) or j.236AC (better damage than Rev Blow) for a hard knockdown. If the cancel from 214AC into 214BD is manually delayed, this can also combo into 214A for better corner carry (and worse oki) than 214B, or j.236A for superior damage and a hard knockdown compared to the other meterless enders.
+* Second hit can hit an opponent as an OTG attack. This leaves Tizoc at +44 advantage, and two forward dashes after will place him at point-blank range from the opponent with +2 advantage. Rev Accel into this after Tizoc's EX grabs to keep the pressure on the opponent.
+}}
+
+==== Hercules Throw ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_236A, tizoc_236AC
+|input=236A/C/AC
+|input2=qcf+A/C/AC
+|description2=Tizoc throws the opponent behind him and delivers a running kick. This is a command grab that is primarily used to switch sides with the opponent and throw them closer to the corner behind Tizoc.
+* The only true grab that Tizoc is allowed to combo into, and its range is extended if used during a combo
+* Like 360P/AC, this can be a powerful option for guard cancels. It is much easier, but slower and less rewarding compared to 360P. Useful for throwing the opponent into the corner.
+* The EX version starts a combo instead of playing a cinematic. A single Rev Accel into '''214BD > 214B''' alone can make this version deal more damage than the normal versions. Supers can easily push this damage to around 300, and a hidden gear scores around 423 if opponent isn't in SPG.
+}}
+
+==== Active Typhon ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_623B,tizoc_623D, tizoc_623BD
+|input=623B/D/BD
+|input2=dp+B/D/BD
+|description3=Tizoc flips into the air and lands on the opponent's shoulders to perform a Frankensteiner, switching sides with the opponent. Can be used to jump over attacks and punish with a grab, or as a special cancel to grab someone out of blockstun.
+
+* Light and heavy versions are mostly identical, but the heavy version goes further and recovers 2 frames faster. However, the heavy version can whiff on a crouching opponent if they are too close.
+** After the normal versions, immediately press 214AC (brake) to move up to point-blank distance at +4 advantage.
+
+* EX version is slightly faster and does just a little more damage, but whiffs on crouching opponents. Rev Accel into 214BD after the animation to deal a total of 247 damage and remain close to the opponent at +44 advantage
+
+*All versions have invulnerability to aerial attacks, but make no mistake, this is not an anti-air. At best, it makes this move a situational response to incoming safejumps.
+}}
+
+==== Artemis Rex ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_236B, tizoc_236D, tizoc_236BD
+|input=236B/D/BD
+|input2=qcf+B/D/BD
+|description3= Tizoc glides forward and grabs the opponent, slipping behind them to perform a German suplex. Used to grab opponents from long range. Does not switch sides with the opponent.
+----
+Light version (236B):
+* Shortest travel distance and slowest travel speed
+* Can be braked at any point before the grab hitbox becomes active
+* Dashing twice after the animation leaves Tizoc at point blank distance at -1, or spend a 214AC (brake) to be +6 at close enough distance to hit Close C
+* In the corner, grants a safejump after the animation: 1-frame microwalk, then jump forward. Either hit an air normal on the way down, or immediately use a grab on landing. Can be performed midscreen, but your followup on a hit is limited to '''Far A > 214A''' or '''Far B > super'''
+----
+Heavy version (236D):
+* Slower startup, but travels further and faster than the light version and recovers faster
+* Otherwise identical to the light version
+
+----
+REV version (236BD):
+
+* Unlike the other versions, this is not a true grab and can be blocked. Despite this, it still does not hit an airborne or juggled opponent
+* Any special cancelable attack will combo into this, and this can combo into 214BD with a Rev Accel on hit.
+* Fastest travel speed and longest travel distance
+* Can only be braked '''after''' the first active frame, not before.
+* In the corner, feint and hop forward immediately after the animation for a safejump
+* Dash twice after the animation to be +8 at point blank range ('''Close B > Close C''' will combo in this situation)
+}}
+
+==== Icarus Crash ====
+{{FrameDataCargo-COTW
+|moveId=tizoc_j.236A, tizoc_j.236C, tizoc_j.236AC
+|input=j.236A/C/AC
+|input2=j.qcf+A/C/AC
+|description3=Tizoc grabs the opponent in the air and slams them to the ground underneath him. Can be used as an air-to-air attack, or as a combo ender to get a hard knockdown.
+* Heavy version has shorter range than the other versions.
+* Rev version can be performed after a backdash. Additionally, it can combo into 214BD for 247 damage and +44 advantage.
+* Rev version has anywhere juggle property. This means that any juggle restrictions are bypassed. While Tizoc's aerials are not special cancellable, landing after hitting with an aerial can be followed up with j.236AC if you're fast enough.
+* 214A (do not brake) leaves Tizoc point blank at +1 for normal versions and +3 for the EX version
+}}
+
+==Super Special Moves==
+
+====Big Fall Griffon====
+{{FrameDataCargo-COTW
+|moveId=tizoc_62486248A,tizoc_62486248C
+|input=62486248A/C
+|input2=720A/C
+|captions=<br>Hope you jumped,<br>C super flash
+|description2=A beefier version of Tizoc's 360AC grab. Active on frame 1, making it a true reversal. Do not use in guard cancels on wakeup, this will apply damage scaling to the super attack for no benefit at all because it is already a 1F attack (contrary to its name, Zero Frame Supers are actually active on frame 1, not 0), and it will never beat a safejump because it is not a strike attack.
+
+* Slightly shorter range than 360A/360AC.
+* 1-bar version deals 10 more damage than 360AC, but its 1F startup gives it powerful defensive utility
+* 2-bar version is identical to the 1-bar version, but deals more damage.
+* Dashing twice or jumping forward after the 1-bar version leaves Tizoc +10 at point blank range.
+* 2-bar version leaves Tizoc too far away with insufficient advantage frames for any meaningful oki setups.
+}}
+
+====Daedalus Attack====
+{{FrameDataCargo-COTW
+|moveId=tizoc_236236B,tizoc_236236D
+|input=236236B/D
+|input2=qcfqcf+B/D
+|captions=<br>Attack animation,<br>D super flash
+|description2= A series of strikes with Tizoc's fists. Used to end combos and in super cancels.
+----
+1-bar version ('''236236B'''):
+* This is not a reversal, it is only invulnerable up to frame 3. Can become a reversal and, unlike the grab super, will even beat safejumps if used as a guard cancel.
+* At max range, the second and third hit may not combo, even if the first hit lands. This makes it ineffective as a standalone punish tool.
+* On hit, dash 3 times to be +5 at point blank range. 214C (do not brake) will leave Tizoc +1 at point blank range, allowing 360C / 360AC to grab the opponent on their earliest grabbable frame.
+----
+2-bar version ('''236236D'''):
+* Fully invulnerable and can function as a reversal, unlike the 1-bar version.
+* Switches sides with the opponent, but also leaves Tizoc +36 at point blank range with no movement needed. This opens up numerous options for oki:
+** An immediate dash followed by feint will reduce the advantage to 0, allowing a 5F grab to hit on the opponent's first grabbable frame. Alternatively, whiff any 2 of the following moves twice: 2A, 2B, Close C
+** Empty hop forward is -1 after landing (can block a reversal)
+** Whiff Close D (+9), a Close B launched immediately after will be +10 on hit and +8 on block
+** Whiff 2C or 2D (+2), a 360A will hit on the first grabbable frame 
+}}
+
+==Hidden Gear==
+====Daedalus Slalom Turn Sunset====
+{{FrameDataCargo-COTW
+|moveId=tizoc_236236REV
+|description=Tizoc's Hidden Gear. Can be used as a reversal in theory, but is woefully unreliable for it because of how easy it is to make this whiff.
+* It is a strike and can be blocked or Just Defended.
+* Long range for a hidden gear, can counter slow startup moves at range.
+* Can hit airborne opponents, though the hitbox does not go very high.
+* Can whiff if an opponent is moving forward or crouching at point-blank range in front of Tizoc
+* Only accessible while in SPG and costs 2 bars. Resets the Rev Meter to 0% on hit, even if the player is overheated when this attack is launched.
+* Leaves Tizoc on the other side of the screen at +8, there is no meaningful advantage to be pressed after the animation
+}}
+
+==Videos, Links & References==
+
+'''TIZOC｜Character Breakdown by SNK'''
+{{#ev:youtube|_FUeut1FFAQ}}
+
+
+{{CharNavbox_COTW}}
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Tizoc]]

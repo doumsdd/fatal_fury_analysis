@@ -1,0 +1,457 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW CR7 Profile.png|thumb| One of the top football players in the world. He uses his time off to visit South Town to hone his new football skills. The various techniques he has developed playing football make him an unstoppable force, even to seasoned fighters.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 11f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+(*) = Brake
+
+'''Command Moves'''
+
+Back Approach - [[image:bk.gif]] + [[image:b.gif]][[image:d.gif]]
+:┗ Headed Clearance - [[image:c.gif]]
+:┗ Step Up - [[image:a.gif]]
+
+Command Combo 1 - (In Air) [[image:a.gif]]>[[image:c.gif]]
+
+Command Combo 2 - (In Air) [[image:a.gif]]>[[image:d.gif]]
+
+'''REV Blows'''
+
+Perfect Save - (S.P.G. Active) [[image:c.gif]][[image:d.gif]] 
+
+Lightning Strike - (S.P.G. Active, in Air) [[image:c.gif]][[image:d.gif]]
+
+'''Special Moves'''
+
+Echo Shot - [[image:qcf.gif]] + [[image:b.gif]]/[[image:d.gif]]
+
+Field Dominator - [[image:qcb.gif]] + [[image:b.gif]]/[[image:d.gif]]
+
+Rising C Cross - [[image:dp.gif]] + [[image:a.gif]]/[[image:c.gif]](*)
+
+Deep-Rooted Step - [[image:qcb.gif]] + [[image:a.gif]]/[[image:c.gif]]
+:┗ Stop - [[image:a.gif]]
+:┗ Slide Tackle - [[image:b.gif]]
+:┗ Over The Limit - [[image:c.gif]]
+:┗ Ironclad Shoulder - [[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+
+Stellar Strike Shot - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]]/[[image:c.gif]]
+
+Blue Lightning Screw - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]]/[[image:d.gif]]
+
+'''Hidden Gear'''
+
+CR7 - (S.P.G. Active) [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+Cristiano Ronaldo is a standout character in the ''CotW'' cast, for many reasons. As you’d expect of a football/soccer player, a lot of his game revolves around conjuring magical Balls that he kicks around in various ways, making him a monster at setplay, mix-ups, and even zoning when needed. 
+
+Ronaldo is truly a menace on offense, however. Once he sets up a Ball, he can knock it around with his other moves, using the Balls to play neutral, approach behind using his multiple advancing moves, or even mindgame the opponent. Knocking the opponent down lets Ronaldo set a Ball up to do anything, from setting up left-rights or high-lows, to pressuring while staying safe from reversals, forcing the opponent to make constant guesses on defense. Not only does this give Ronaldo among the best okizeme of the cast, but every combo from the Balls does insane damage, especially with meter.
+
+Without access to Balls, though, Ronaldo begins to fall apart. He lacks strong, cancellable pokes that other characters have, leaving him with some really subpar options when he has no time to set up a Ball. He has an invincible DP (623P) and some absolutely obnoxious attacks even without the Ball, such as his far C and Low Dodge Attack — but with their flaws, you can’t always rely on them to get you out of a tight spot.
+
+If you can overcome these weird quirks, you can enjoy a wholly unique character with a near-infinite skill ceiling. When you put in the time to learn Ball setups and are able to apply his tech and setplay in a real match, then you’ll really start to ball out with Ronaldo.  
+{{StrengthsAndWeaknesses
+| intro = Cristiano Ronaldo is a versatile, technical fighter with zoning and setplay tools using his magical Ball. 
+| pros=
+* '''Aggression-facilitating Normals:''' Ronaldo's advancing normals, of which there are many, are more than worth the lack of conventional pokes. Far A is more plus than most of the game's heavy normals, and far C has enough active frames and range to effectively be a neutral skip with disproportionately low risk, and yet some of the game's highest damage behind it. Both of these options are also assisted by the game's best 2D, one of its biggest far D's, and Ronaldo's great midrange specials.
+* '''Setplay Machine:''' Ronaldo's Ball can create various powerful, reversal-safe setups on the opponent's wakeup, enabling a powerful mixup game with a lot of damage behind it. Even after the Ball disappears, Ronaldo has great options to force plus frames and restart his offense with spacing traps.
+* '''Space Control:''' In addition to facilitating good offense, Ronaldo's Ball is also very good at harassing the opponent from range, often with the threat of a conversion from the pokes and approach tools Ronaldo has access to. Sometimes, just summoning the ball is all it takes to make an opponent slow down, granting Ronaldo some breathing room.
+* '''High Damage:''' Ronaldo's confirms have some of the highest average damage in the game, and his ability to convert into full combos from spaced advancing attacks or ball setups only makes his ability to steal round on a whim even more powerful.
+
+| cons=
+* '''Vulnerable to whiff punishes''': While his impressive suite of forward-advancing attacks averages out to a significant net positive, the lack of conventional pokes still makes him especially vulnerable if these attacks whiff. If he isn’t outright whiff punished, he could at least find himself stuck on defense as a consequence of whiffing an attack.
+}}
+
+==Ronaldo's Ball==
+{{FrameDataCargo-COTW
+|name=Ball
+|moveId=ronaldo_ball,ronaldo_revball
+|description2=* Integral part of Ronaldo's kit which has a variety of uses.
+* For the regular Ball, if it is juggled once it can bounce off the opponent one additional time before disappearing. This cannot be done multiple times to extend the Ball's lifespan.
+* REV Ball bounces back on contact with opponent which can be hit back using normals. Can only can be bounced off the opponent twice total with the lifespan not being extendable. 
+* 214BD can setup a REV Ball as well but has special properties which causes KD on hit.
+}}
+Ronaldo's Ball is the most unique attribute of his kit. While it's his only projectile, it can be summoned in multiple different ways, juggled about using his attacks, and remains as an active hitbox until it stops and hits the floor or an enemy. Because of these properties, it's most useful as a pressure tool after okizeme, or as a simple zoning utility to keep the enemy out.
+
+The Ball can be blocked either high or low, but is still extremely valuable in cross-ups due to it giving up to +22 frame advantage (or even +41 using the REV version). Heavy buttons typically send the Ball flying forward, but also pushes Ronaldo towards the enemy as well, limiting the amount of fullscreen zoning he's able to do.
+
+Typically, you won't be able to set up anything with the Ball by itself, at least without a proper advantage state; a heavy knockdown using REV Rising C Cross is enough to grant +90, allowing for a simple setup of 214[D], f.A, and then something of a mixup afterwards with j.B or the like.
+
+==Normals==
+===Close Normals===
+====close A====
+{{FrameDataCargo-COTW
+|name=close A
+|moveId=ronaldo_cl.A
+|input=cl.A
+|description=* General +1 button that can chain into itself or Crouch A. 
+}}
+====close B====
+{{FrameDataCargo-COTW
+|name=close B
+|moveId=ronaldo_cl.B
+|input=cl.B
+|description=* +3 light on its own that can chain into itself and other lights.
+}}
+====close C====
+{{FrameDataCargo-COTW
+|name=close C
+|moveId=ronaldo_cl.C
+|input=cl.C
+|description=* Safe at -3 with feint. Linked into from a lot of normals on Counter Hit, but also a faster frametrap option than cl.D. Links into itself on Counter Hit.
+}}
+====close D====
+{{FrameDataCargo-COTW
+|name=close D
+|moveId=ronaldo_cl.D
+|input=cl.D
+|description=* '''+4 with feint.''' Ronaldo's best meaty with feint, but is prone to being REV Guarded out after. Crouching C followup is a 4f frametrap which can be cancelled for more pressure. 
+* On Counter Hit, this move can link into Close C (which can feint link into Crouching C).
+}}
+===Far Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|name=Far A
+|moveId=ronaldo_f.A
+|input=f.A
+|description= Very unique move. Ronaldo does a chest bump that moves him forward.
+
+* Has lots of active frames, so it can be up to +6 on block or link into other buttons on hit (including cl.C).
+* Has head hitbox, so it can preemptively anti-air some light buttons.
+* Despite animation, it is not airborne.
+* Juggles the Ball up and slightly forwards.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=ronaldo_f.B
+|input=f.B
+|description=* General close range poke that's fully safe on block. Useful at the end of light chains for confirming into 623A for soft knockdown. Also useful as a frame trap in light chains on block.
+* Juggles the Ball slightly up into the air, one of the most frequently used normals for this purpose.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=ronaldo_f.C
+|input=f.C
+|description=* Belligerent advancing, airborne mid. '''Use this.'''
+* Similar to Far A, but it actually is airborne for much of its animation, meaning it will beat lows, throws, and ground projectiles, while being very difficult to interrupt, since Ronaldo will just flip out.
+* Easily spaced to be plus on block, or plus enough on hit to link into c.C, or even 2C. Will always link to c.C on Counterhit or Wild Punish for amazing damage.
+* Great whiff punish normal, and yet it only has 13 frames of recovery on top of being prone to win trades, so it's actually kind of difficult to reliably whiff punish.
+* Shoots the Ball at a slight downward angle.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=ronaldo_f.D
+|input=f.D
+|description=* Longest range poke, but also prone to whiff punishes. Also unsafe up close at -5 as most characters can punish with Close/Far A. Like Far C, has '''??f''' of airborne frames that can Wild Punish. Like Far C, this can also link into cl.C on Counter Hit for a full combo.
+* Shoots the Ball at a slightly downward angle.
+}}
+===Crouching Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=Crouching A
+|moveId=ronaldo_2A
+|input=2A
+|description=* Standard crouch jab mash button, -1 on block but can cancel into itself and other A buttons for potential frame advantage.
+* Barely moves the Ball forward.
+}}
+====Crouching B====
+{{FrameDataCargo-COTW
+|name=Crouching B
+|moveId=ronaldo_2B
+|input=2B
+|description=* Cancellable into itself. Faster than Far B, and Far A after two of these can be +4~5. Can also cancel into Far B in a light chain to confirm into 623A.
+* Barely knocks away Ball.
+}}
+====Crouching C====
+{{FrameDataCargo-COTW
+|name=Crouching C
+|moveId=ronaldo_2C
+|input=2C
+|description=* Somewhat stubby range, but it can confirm into REV Arts for full combos. Key normal for feint combos from Close B/D, as well as a frametrap from Close D > Feint.
+* Shoots the Ball forward at a low angle.
+}}
+====Crouching D====
+{{FrameDataCargo-COTW
+|name=Crouching D
+|moveId=ronaldo_2D
+|input=2D
+|description=* Advancing slide kick. Doesn't shift hurtbox
+* Horrible on block, but it's good to catch people who keep walking forward/back without crouchblocking.
+* Shoots the Ball near ground level.
+}}
+===Jumping Normals===
+====jumping A====
+{{FrameDataCargo-COTW
+|name=jumping A
+|moveId=ronaldo_j.A
+|input=j.A
+|description=* General air jab. Useful for contesting slower buttons in the air.
+* Juggles the Ball a little bit forward. Likely a foul, however, since he's using his elbow.
+}}
+====jumping B====
+{{FrameDataCargo-COTW
+|name=jumping B
+|moveId=ronaldo_j.B
+|input=j.B
+|description=* Has a hitbox on his back knee that can crossup, making this normal good for Ball setplay.
+* Juggles the Ball backwards.
+}}
+====jumping C====
+{{FrameDataCargo-COTW
+|name=jumping C
+|moveId=ronaldo_j.C
+|input=j.C
+|description=* Most damaging jump-in, but a bit shorter range than Jumping D. It's relatively longer recovery only allows it to combo into Close B for combos. Mostly useful from hop or hard reads.
+* Shoots the Ball diagonally downward towards the enemy.
+}}
+====jumping D====
+{{FrameDataCargo-COTW
+|name=jumping D
+|moveId=ronaldo_j.D
+|input=j.D
+|description=* Farthest reaching but also slowest air normal. Useful from longer range jumps and can combo into Close D for combos for slightly more damage.
+* Shoots the Ball diagonally downward towards the enemy.
+}}
+===Command Moves===
+====Back Approach====
+{{FrameDataCargo-COTW
+|name=Back Approach
+|moveId=ronaldo_4BD
+|input=4BD
+|description=* Ronaldo starts shuffling backwards at a slightly slower speed than his backwards walking speed and allows him to do 2 new followups.
+}}
+
+=====Step Up=====
+{{FrameDataCargo-COTW
+|name=Step Up
+|moveId=ronaldo_4BD~A
+|input=4BD~LP
+|description=* 8f forward tackle. -7 on block. Not worth using raw.
+* Sends the Ball flying forwards towards the enemy.
+}}
+
+=====Headed Clearance=====
+{{FrameDataCargo-COTW
+|name=Headed Clearance
+|moveId=ronaldo_4BD~C
+|input=4BD~HP
+|description=* value in [] are for crouch blocking opponent. 16f header. Has '''??f''' airborne frames, but has no Wild Punish bonus.
+* Shoots the Ball forward.
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Command Combo 1
+|moveId=ronaldo_j.A~C
+|input=j.A~C
+|description=* Second hit doesn't connect with opponent on hit, strictly shifts this as a tool to shoot the Ball from long range. Best used from 214[D].
+|display=175x175px
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Command Combo 2
+|moveId=ronaldo_j.A~D
+|input=j.A~D
+|description=* Like Command Combo 1, second hit doesn't connect with opponent. Shoots Ball at a relatively lower angle.
+|display=175x175px
+}}
+
+==Universal Options==
+===Throw===
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=ronaldo_AB
+|input=AB
+|description=* Grants you Ball oki in the corner to do basically whatever you want. 
+}}
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Back Throw
+|moveId=ronaldo_4AB
+|input=4AB
+|description=* Puts a lot of space between you and opponent. Shooting a Ball may seem good, but strong players will take advantage of a free chance to Just Defend it for resources. 
+}}
+===Rev Blow===
+====Perfect Save====
+{{FrameDataCargo-COTW
+|name=Perfect Save
+|moveId=ronaldo_CD
+|input=CD
+|description=* Forward advancing REV Blow. Can be used at the end of REV Art combos for immense corner carry and hard knockdown.
+}}
+====Lightning Strike====
+{{FrameDataCargo-COTW
+|name=Lightning Strike
+|moveId=ronaldo_j.CD
+|input=j.CD
+|description=* General aerial REV Blow. Can be used after 623AC to add some extra damage, but not as relatively useful for corner carry.
+}}
+
+===Dodge Attacks===
+====High Dodge====
+{{FrameDataCargo-COTW
+|name=High Dodge
+|moveId=ronaldo_2CRev
+|input=2CRev
+|description=
+* Moves him forward.
+12f somewhat short-ranged anti-air that's useful to counter specific moves or short hops. Shoots Ball at a curved angle slowly. 
+}}
+
+====Low Dodge====
+{{FrameDataCargo-COTW
+|name=Low Dodge
+|moveId=ronaldo_5CRev
+|input=5CRev
+|description=
+* Beats Lows and Throws.
+24f standing overhead, and thanks to Ronaldo's damage output it's potentially insanely rewarding. Can catch people asleep at the wheel crouchblocking Ball mix, and it's easily spaced or timed to be up to +2 on block, which is more than any other Low Dodge for absolutely no reason.
+}}
+
+==Special Moves==
+
+====Echo Shot====
+{{FrameDataCargo-COTW
+|name=Echo Shot
+|moveId=ronaldo_236B, ronaldo_236D, ronaldo_236BD
+|input=236B/D/DB
+|description3=* Low-ground projectile. 236D advances Ronaldo a bit and shoots further. 
+* REV version will beat out non-REV projectiles and can bounce back to Ronaldo on contact with opponent for combos or continued pressure. Is also a ''hard knockdown on any connect'', so you can just randomly win neutral by landing this once.
+* The REV version is unaffected by juggle limits for some reason, so it can be looped into itself when hit at a sweetspot that lets it hit twice on a juggled opponent. This leads to disgusting damage if you have the execution.
+}}
+
+====Field Dominator====
+{{FrameDataCargo-COTW
+|name=Field Dominator
+|moveId=ronaldo_214B,ronaldo_214D,ronaldo_214BD
+|input=214BD
+|description3=* B and D version have same frame data but change how high the Ball goes. 
+* Setplay tool. Less useful in the corner because you can't do crossups, but still a great meaty option (up to '''+16''' as it can beat out some meterless reversals and reset the situation. 214BD is useful in the corner as it bounces on the opponent twice and can intercept meterless reversals, especially when using jumps midscreen.
+* 214BD creates a REV Ball with different distance
+* The button can be held in the D and REV version to make the Ball go higher and/or further.
+}}
+
+
+====Rising C Cross====
+{{FrameDataCargo-COTW
+|name=Rising C Cross
+|moveId=ronaldo_623A,ronaldo_623C,ronaldo_623AC
+|input=623A/C/AC
+|description3=* Values in [] note break cancels.
+* Light version is invincible to everything, Heavy and REV are invincible to air attacks. Light version mainly used as meterless reversal, while Heavy and REV are better as anti-airs or combo extenders/enders. 
+* Despite their invincibility, all versions lose to High Dodge Attack, as Ronaldo is considered airborne for all of their active frames. 
+}}
+
+====Deep-Rooted Step====
+{{FrameDataCargo-COTW
+|name=Deep-Rooted Step
+|moveId=ronaldo_214A,ronaldo_214C,ronaldo_214AC
+|input=214A/C/AC
+|description3= * Forward advancing stance with different followups.
+* REV version can dribble REV Ball on the floor (e.g 214BD > 214AC), useful in combos. 
+}}
+
+====Stop====
+{{FrameDataCargo-COTW
+|name=Stop
+|moveId=ronaldo_214P~A,ronaldo_214PP~A
+|input=214P~A,214PP~A
+|description2=* Manually stops stance. Can be used as a throw pressure tool to catch people asleep on the wheel.
+}}
+====Slide Tackle====
+{{FrameDataCargo-COTW
+|name=Slide Tackle
+|moveId=ronaldo_214P~B,ronaldo_214PP~B
+|input=214P~B,214PP~B
+|description2=* Does a running slide, -9 at worst with ways to space it to be safer. 
+* REV Version launches the opponent upward for followup REV Arts and is his strongest damaging launcher among all his REV Arts in a vacuum. Can be useful as a canned mixup with 214AC~D on block. Still unsafe so you'll need to REV cancel on block.
+}}
+
+====Over The Limit====
+{{FrameDataCargo-COTW
+|name=Over The Limit
+|moveId=ronaldo_214P~D,ronaldo_214PP~D
+|input=214P~D,214PP~D
+|description2=* 18f overhead that knocks down on hit. Can catch people looking for Slide Tackle off guard. 
+* Unsafe on block, only the REV version is cancellable to REV Blow to be made safe.
+* REV Version ground bounces on air hit.
+*Mostly a knowledge check and can get you killed if the opponent knows how to fuzzy guard both high and low follow ups
+}}
+
+====Ironclad Shoulder====
+{{FrameDataCargo-COTW
+|name=Ironclad Shoulder
+|moveId=ronaldo_214P~C,ronaldo_214PP~C
+|input=214P~C,214PP~C
+|description2=* Forward advancing shoulder tackle. Safe on block but you lose your turn. Being +1 on hit at close range allows you to go for a strike/throw mixup. 
+* On Counter Hit, it is +6, which can convert into Close C from anywhere.
+* REV Version launches opponent on hit, and is his most versatile launcher among his REV Arts, comboing into 236BD or 623AC easily. It is also +1 on block which grants you the same mixup, and Counter Hit grants a launching combo.
+}}
+
+==Supers==
+===Ignition Gears===
+====Stellar Strike Shot====
+{{FrameDataCargo-COTW
+|name=Stellar Strike Shot
+|moveId=ronaldo_236236A
+|input=236236A
+|description=* General close-range super that doesn't advance very far. Useful as a reversal on a hard read and the best 1 bar ender for damage. 
+}}
+
+====Blue Lightning Screw====
+{{FrameDataCargo-COTW
+|name=Blue Lightning Screw
+|moveId=ronaldo_236236B
+|input=236236B
+|description=* Fullscreen projectile super. Beats out almost any other non-super projectile, making this a strong answer to win fireball wars.
+*Does less damage than Stellar Strike Shot, but grants better frame advantage; preferred ender when looking for a ball setup in the corner.
+}}
+
+===Redline Gears===
+====Stellar Strike Shot====
+{{FrameDataCargo-COTW
+|name=Stellar Strike Shot
+|moveId=ronaldo_236236C
+|input=236236C
+|description=* Slightly faster than Level 1, now being as fast as Light DP. Still a good reversal and general 2 bar meter dump when you're not in SPG. 
+}}
+====Blue Lightning Screw====
+{{FrameDataCargo-COTW
+|name=Blue Lightning Screw
+|moveId=ronaldo_236236D
+|input=236236D
+|description=* Stronger version of Level 1 that does a bit more damage. Still less damage than his other supers. 
+}}
+===Hidden Gear===
+====CR7====
+{{FrameDataCargo-COTW
+|name=CR7
+|moveId=ronaldo_236236Rev
+|input=236236Rev
+|description=* Cinematic super of Ronaldo doing his legendary free kick. Note that Ronaldo and the opponent side swap on hit and are brought back to the center of the stage. SIUUUUUUU!
+}}
+
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Cristiano Ronaldo]]

@@ -1,0 +1,604 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:FF_COTW_Andy_Profile.png|thumb|Human weapon. Master of Shiranui ninjutsu.<br>
+This legendary South Town shinobi currently works with Mai in her clan’s village, where he helps train its youth.<br>
+Now that his pupil Hokutomaru has come into his own, Andy longs for the day when the two can square up in a real bout—not only as master and apprentice, but also man-to-man.<br>
+At the same time, he knows that a separate battle yet remains: A contest he has always yearned for. A man he was born to fight.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Dash:''' 11~21f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+
+==Movelist==
+
+(*) = Brake<br>
+(Midair Only) = Can only be done in the air. 
+
+'''Command Moves'''
+
+Command Combo 1 - Jump [[image:a.gif]] > [[image:c.gif]]
+
+Command Combo 2 - Far [[image:b.gif]] > [[image:d.gif]]
+
+
+'''REV Blows'''
+
+Shippuu Gadankou - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]]
+
+Hiei Ken - (S.P.G. active) [[image:c.gif]] + [[image:d.gif]] (Midair Only)
+
+
+'''Special Moves'''
+
+Hishou Ken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Kuu Hishou Ken - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (Midair Only)
+
+Zan'ei Ken - [[image:qcf.gif]] + [[image:a.gif]] (*) / [[image:c.gif]] (*)
+:'''┗''' Zan'ei Ken : Kyoukyuu - [[image:fd.gif]] + [[image:c.gif]]
+:'''┗''' Zan'ei Ken : Sokuhou - [[image:fd.gif]] + [[image:d.gif]]
+
+Shouryuu Dan - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Kuuha Dan - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Shin Gen'ei Shiranui - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]]
+:'''┗''' Shira Ame - [[image:b.gif]] 
+:'''┗''' Kuro Ame - [[image:c.gif]]
+:'''┗''' Shibuki - [[image:d.gif]]
+:'''┗''' Shin Kumo Garami - [[image:a.gif]]
+
+
+'''Ignition / Redline Gears'''
+
+Zan'ei Shouha Ken - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]]
+
+Zetsu Reppa Dan - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+
+'''Hidden Gear'''
+
+Zetsu Tougai Narashi - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Gameplay Overview==
+The easiest way to describe Andy in CotW is that he is a more aggressive take on Akuma from ''Street Fighter''. He’s a rushdown character outfitted with a fireball, air fireball, uppercut, demon flip complete with a cross-up and command grab, and in typical Andy fashion, he still has his multiple gap-closing special moves in Zan’ei Ken (236P) and Kuuha Dan (236K). 
+
+This mass of tricky yet safe moves gives Andy six ways to Sunday to play solid neutral, get in, mix up, pressure, force mistakes, and more, not to mention his combo versatility using the REV system. He’s no slouch on defense, either; in addition to an invincible DP and a reversal super that can be tricky to punish, Andy enjoys a strong, safe backdash cancel option in REV Kuu Hishou Ken (j.214AC) that can turn opponents’ low and throw attempts into a combo for Andy himself. 
+
+Where Andy is weakest is in his normals. He has several issues on this front, from struggling to confirm from lights, to lacking a good heavy for poking despite the range on his 5C. On top of weakening his neutral game, it means Andy can’t reliably lock down opponents into a mix-up until he gets a knockdown, and has to resort to either increased risk or spending REV to truly get his scary offense going from beyond close range.
+
+When it does get going, though, Andy employs some of the game’s scariest offense and strongest momentum. Players who like to overwhelm opponents with multiple ways to play the rushdown game will have a whirl playing the new take on this classic ''Fatal Fury'' protagonist.
+{{StrengthsAndWeaknesses
+| intro = Andy is a high-damage rushdown character with lots of safe pressure options and tricky ways to alter his movement.
+| pros=
+* '''Rewarding Combos''': The corner carry off of most of Andy's convertable hits is incredible, and it is frequently backed by strong damage, as well as a good knockdown he can use to start offense with safejumps or projectile oki. Both of his supers also carry the opponent a good distance, meaning that even in Overheat, he can usually corner his opponent from most hits.
+* '''Annoying Neutral''': With access to an air fireball, an enormous f.C, and a fast air Rev Blow on top of that, Andy's presence in neutral is very solid at any given time. Stopping his approach from the ground or air isn’t as simple as other characters due to his ability to change up his movement.
+* '''Good Pressure''': Andy has frequent access to safejumps and reversal-safe setups with his air fireball, made more rewarding by his abundance of plus frames, ranged pressure options, and high reward on hit.
+* '''Defense to Offense''': Along with an invincible DP, Andy has a potent backdash cancel option with j.214AC that’s plus on block and leads to a combo, and a fast air REV Blow that can be done close to the ground. Together, these give Andy a unique ability to beat throws and turn a match around.
+* '''Air Control''': Andy’s DP is just one of many several options to shut down opponents’ jumps, along with a fast, cancellable j.A, great anti-air hitboxes on close ''and'' far D (and the latter vacuums into a mix-up), good hop checks, and more to beat jumps from all ranges.
+| cons=
+* '''Slow to Get Going''': Due to his far normals having neither good cancel options nor ability to convert to knockdowns without a Counter Hit or super, Andy can’t really use REV Accel to push a mix-up from mid-range like other characters can. He needs to move closer before he can tap into his offense, unless he finds a knockdown from a distance, such as with a sweep or super cancel.
+* '''Flawed Poking''': Building on the last con, while Andy's far C is an incredible button for neutral, it's not only slow (and unrewarding without super), he also pays a price for having it in his other options having subpar hitboxes, reward, or both.
+* '''Weak Lights:''' Andy's A and B attacks are mostly very limited on range, and really only shine up close and in confirms, locking him out of low-commitment pokes and making him weaker against Rev Guard.
+* '''Damage Relies on REV''': While Andy’s combo damage with REV is staggering, he loses out on a lot more damage  by being conservative with resources than other characters do. This can pose problems whenever Andy is at high REV.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-COTW
+|moveId=andy_fa
+|display=180x180px
+|description=
+*Uniquely +1 despite being a far A. This is fun but ultimately not very useful, as none of Andy's frametrap normals reach at this range.
+
+This normal is kind of okay, but there is almost no reason to ever use it outside of niche blockstrings, where 236AC is a frametrap from it. 6 frames is pretty bad for a far A, as it won't give you a 5 framer as abare when out of c.A range, and the +1 is useless, as you can't frametrap from it without a cancel.
+}}
+
+====Far B====
+{{FrameDataCargo-COTW
+|moveId=andy_fb
+|display=180x180px
+|description=
+*Combos naturally into 236B or Command Combo > Rev Blow for a knockdown, so it's a go to-for light chains.
+*Despite that, its range is pretty bad, and it will frequently fall out of ranged confirms.
+*On CH or WP, combos to 236AC/BD. On top of its fast startup and high base damage, it's good for quick punishes.
+
+Andy's most frustrating normal to use. f.B seriously lacks range, however some of Andy's most useful confirms rely on this normal to do its job, which it often won't and just fall out instead. It has quite a bit of recovery, so it's even risky as a poke, but at 5 frames you can still pick up some punishes with it, as it reliably combos into 236BD and sometimes 236AC on Wild Punish or Counterhit.
+}}
+
+====Far C====
+{{FrameDataCargo-COTW
+|moveId=andy_fc
+|display=200x200px
+|description=
+*Insanely long advancing normal, but you WILL die for whiffing it.
+*Not special-cancellable but confirms into any of Andy's supers, links to c.C and lights on counterhit.
+*-4 means it's usually safe unless JD'd or when against a character with a 4 frame 2A that reaches.
+
+A normal arguably belonging to Billy retrofitted for Andy. One of THE longest normals in terms of actual reach and still decently fast despite that, and with no reliable long range poke, Andy definitely appreciates this. Downsides are utterly imploding on whiff as it has a very lengthy recovery period while moving you towards the opponent and into their reach, and being unrewarding by itself, and often even on counterhit with no Super to cancel into depending on reach.
+}}
+
+====Far D====
+{{FrameDataCargo-COTW
+|moveId=andy_fd
+|display=170x170px
+|description=
+*Whiffs on crouchers, doesn't have great range, isn't fast and only combos into super without a Counterhit or WP.
+*Vacuums on hit and links to 2C and 2D on Counterhit
+*Does anti-air rising targets and pulls them down towards you.
+A strong advancing whiff punish button with a unique vacuum effect which leads to either a solid strike throw mix-up on normal hit or a massive counterhit confirm. Has less recovery and is a bit faster than far C along with being better at catching people in the air. Not strictly better as it has less range and whiffs on crouchers but still a solid button.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-COTW
+|moveId=andy_cla
+|display=200x200px
+|description=
+*Very standard and unremarkable, used in confirms into DP.
+}}
+
+====Close B====
+{{FrameDataCargo-COTW
+|moveId=andy_clb
+|display=200x200px
+|description=
+* Standard 5B, on the faster side at 5 frames.
+
+Good pressure tool, as c.B's tend to be. 5 frames and +3 means it's probably your most reliable option to reset pressure, and it's a frametrap and confirm into c.C, which itself is plus on feint cancel. Combos naturally to 236B, so you'll often get it in place of f.B when going for Dash > 2B5B > 236B, which won't make the route drop.
+}}
+
+====Close C====
+{{FrameDataCargo-COTW
+|moveId=andy_clc
+|display=160x160px
+|captions=<br>First hit,<br>Second hit
+|description=
+*Two hits but plus on feint cancel.
+*Combos from close B.
+*First hit is super cancellable to counter a Rev Blow.
+
+Actually a very good normal on offense for a few reasons. Two hits and being plus means it's easy to confirm from, to a degree that you can react to it being a counterhit and cancel to Feint > 2C instead of 236D for a more optimal route. It's also plus on feint while not being too easy to Hyper Defense against, and the two hits make it easy to counter Rev Blow on reaction. Lastly, it's pretty fast at 6 frames, so it not only links from c.B, it's also a frametrap from it and just generally a decent button after a dash, granted it is horrible to whiff.
+}}
+
+====Close D====
+{{FrameDataCargo-COTW
+|moveId=andy_cld
+|display=200x200px
+|description=
+*+4 on block, +8 on hit with feint cancel.
+*Has a hitbox that frequently anti-airs hops, making it good for dashing in and resetting pressure.
+*Combos into itself (requires a micro walk or microdash) when counterhit into a feint.
+
+Andy's main close Heavy. Perfect for pressure at +4, and serves as a confirm to 2C as Andy's main heavy route. The hitbox helps cover early jumps or hops, so there's slightly less risk to using it against someone looking to bait a throw.
+}}
+
+===Crouch Normals===
+{{FrameDataCargo-COTW
+|moveId=andy_cra
+|display=170x170px
+|description=
+*Has decent range, good for confirms and is one of Andy's better mashing options at 5 frames.
+}}
+
+====Crouch B====
+{{FrameDataCargo-COTW
+|moveId=andy_crb
+|display=200x200px
+|description=
+*Undoubtedly Andy's best light, superior reach with decent returns on a low make it good for footsies and pressure.
+*Usually chained into more lights, but all of them will actually just whiff a majority of the time unless you're point blank.
+*Is a single hit confirm into 236236A, which can occasionally make it more threatening from range.
+
+Combined with dash, this is Andy's one light that's actually very good. While not the greatest, the ability to confirm into different enders depending on resouces available and preferred reward does give Andy an above average low presence in footsies and pressure. Oddly, this is a light normal that is for some reason a single hit confirm to one of Andy's super (and it's the one you'd want to combo into anyway). It's not easy to do, especially in netplay, but this restores much of the close range threat that Andy normally has to his ranged hits.
+}}
+
+====Crouch C====
+{{FrameDataCargo-COTW
+|moveId=andy_crc
+|display=170x170px
+|description=
+*Andy's most reliable poke, solid frame data and very good reward at all ranges.
+*While its range leaves some to be desired, it's still a good whiff punish tool.
+*Combos from close D feint as a double heavy confirm.
+
+This move is really good. Its range isn't anything too broken, but it's enough to contend with a lot of characters in footsies, and it doesn't have a very long total duration, making it kind of annoying to whiff punish on reaction. 0 on feint, which Andy can take advantage of in many ways with spacing traps, and on hit it's confirmable to supers and many party starter specials. Its only weakness is the lack of added reward on counterhit, as you can't connect another far heavy of any kind, and your lights probably won't reach,
+}}
+
+====Crouch D====
+{{FrameDataCargo-COTW
+|moveId=andy_crd
+|display=200x200px
+|description=
+*Okay range, but highly unsafe, as sweeps tend to be. Generally not a great poke unless precisely spaced.
+*Combos from Counter Hit far D, but has almost the exact same range as 2C, which is more rewarding.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-COTW
+|moveId=andy_ja,andy_ha
+|display=170x170px
+|description2=
+*Good air-to-air hitbox and a decent jumpin.
+*Has a Command Combo and is cancellable to specials/Rev Blow on full jumps.
+
+Andy's most useful air-to-air, as it's fast and he can use j.214AC and Rev Blow to turn it into damage and a hard knockdown, and even meterless you can at least get an extra hit on counterhits with the command combo, or check air JD from the opponent. Beyond that, and aside from jumpin tick throws, not used for much.
+}}
+
+====Jump B====
+{{FrameDataCargo-COTW
+|moveId=andy_jb
+|display=200x200px
+|description= 
+* Crossup button
+
+It's what it says on the box. The crossup hitbox is surprisingly poor, but still mostly reliable; its jumpin hitbox is much more generous.
+}}
+
+====Jump C====
+{{FrameDataCargo-COTW
+|moveId=andy_jc
+|display=180x180px
+|description= 
+* Heavy air-to-air with slow startup.
+
+Basically entirly inferior to j.D with lower damage and a similar hitbox that's worse for jumpins, but it does hit higher, so it's sometimes preferred.
+}}
+
+====Jump D====
+{{FrameDataCargo-COTW
+|moveId=andy_jd
+|display=170x170px
+|description= 
+* Best jumpin and safejump normal, also a decent air-to-air.
+
+Best all-rounder air normal, and yet another of Andy's numerous air-to-air options. Despite appearances, it's also just about his best jump in. Though shallow, the activity makes it easy for it to be plus enough to combo off. 
+
+Very risky to use this for throw punishes.
+}}
+
+==Combination Attack==
+====Combination Attack====
+{{FrameDataCargo-COTW
+|moveId=andy_cla_5c,andy_cla_5c_5c,andy_cla_5c_5d,andy_cla_5c_6d,andy_cla_5c_2d
+|input=cl.A > 5C > C > D/6D/2D
+|input2=cl.A > st.C > C > D/f+D/cr.D
+|captions=<br>cl.AC,<br>cl.ACC,<br>D ender,<br>6D ender,<br>2D ender
+|description5=
+*Every ender can be done during cl.AC or cl.ACC.
+*cl.AC first hit is cancellable by any follow-ups.
+*During S.P.G, REV Blow can be used as an ender, during cl.AC only the second hit is REV Blow cancellable.
+*D ender is REV Blow cancellable.
+Auto combo that can only be used by starting with close A > 5C(And no other direction), none of these moves are special or super cancellable.<br>
+----
+cl.AC : Same move as close C but the frame data and damage are different. Still two hits which makes seriously using this string on block almost impossible.
+----
+cl.AC > C : Far C follow up, different frame data and damage.
+----
+D ender : Far D follow up, different frame data and damage, very unsafe on block but soft knockdown on hit.
+----
+6D ender : Same move as his Low Dodge Attack(5C+REV), +2F on hit and block.
+----
+2D ender : Same move as his 2D and nearly the same framedata, meaning it's very unsafe on block.
+|display= 140x120px
+}}
+
+==Throws==
+====Forward Throw====
+{{FrameDataCargo-COTW
+|moveId=andy_throw
+|display=170x170px
+|description= 
+*
+}}
+
+====Back Throw====
+{{FrameDataCargo-COTW
+|moveId=andy_4throw
+|display=180x180px
+|description= 
+*  
+}}
+
+==Command Moves==
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|moveId=andy_ja_jc
+|display=180x180px
+|description=
+* Only available from full jumps. 
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|moveId=andy_fb_fd
+|display=170x170px
+|description=
+* Rev Blow ender only available in S.P.G. 
+}}
+
+==REV Blows==
+====Shippuu Gadankou====
+{{FrameDataCargo-COTW
+|moveId=andy_cd
+|display=200x200px
+|description= 
+*Damage value factors in SPG bonus.
+
+By itself this Rev Blow is completely unremarkable, its range, damage and hitbox are exactly the same as most of the other ones in the game. Because of this, and since Andy's defensive options are okay, you rarely see it on defense and is really mostly a combo tool. Andy likes corner carry and hard knockdowns, and he has very good uses for meter, so routing into this is frequently a good choice.
+}}
+
+====Hiei Ken====
+{{FrameDataCargo-COTW
+|moveId=andy_jcd
+|captions=<br>Dive,<br>Hit & block follow-up
+|display=180x160px
+|description=  
+*Faster than average air Rev Blow with downwards movement, making it yet another way Andy can mess with anti-airs.
+*Easy to combo into off of Andy's airborne specials, and it has very high corner carry compared to most.
+*Damage value factors in SPG bonus.
+}}
+
+==Feints==
+====Neutral Feint====
+{{FrameDataCargo-COTW
+|moveId=andy_5bc
+|display=180x180px
+|description=Andy's fastest feint and the one used in his normal framedata.
+}}
+
+====Down Feint====
+{{FrameDataCargo-COTW
+|moveId=andy_2bc
+|display=180x180px
+|description=
+* Mimmicks Andy's DP, but has worse frame data than 5DRev. Rarely used.
+}}
+
+==Dodge Attacks==
+====High Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=andy_2crev
+|display=200x200px
+|description=
+*Workable as an anti-air, generally best against hops.
+*Not bad as a counterpoke, but its range isn't anything crazy.
+}}
+
+====Low Dodge Attack====
+{{FrameDataCargo-COTW
+|moveId=andy_crev
+|display=200x200px
+|description=
+*Standard overhead with a subtle animation, hard to space for better frames, much more doable when used as a meaty.
+
+Andy's main high/low mixup option. While that sounds bad, the good thing is that its animation does make it more likely to hit than most just by being hard to notice. It has little use in neutral due to having mediocre range and being hard to space for better advantage, but it's okay against characters like Ken.
+}}
+
+==Special Moves==
+
+===Hishou Ken===
+{{FrameDataCargo-COTW
+|moveId=andy_214a,andy_214c,andy_214ac
+|input=214A/C/AC
+|display=180x180px
+|description3=
+* A regular hadouken that disappears before going fullscreen. Has THE shortest recovery of any slow fireball in the game to compensate.
+* EX version is a slower close range orb with 3 hits that's always plus, good in combos and for oki.
+* All versions have a shockingly large hitbox and are very active, will often catch jumping opponents.
+
+A fireball designed for midrange usage rather than long-range zoning, but it makes up for disappearing with its short recovery. This lets Andy both throw it out while maintaining the very real threat of an anti-air if the opponent doesn't jump on prediction, and also use it as a way to get + frames on oki or when spaced out. The slow moving nature of both versions especially helps with this application, with the A version being better for offense and B for neutral, as it goes further in the same active time.
+
+The EX version is kind of a different beast, as it completely lacks ranged beyond the space right in front of Andy, so it is most used by far as a combo tool. Beyond that, its neutral usage is restricted to keepout, where its admittedly large, disjointed, and very active hitbox comes in handy. On offense it's best used as an oki tool on account of its active frames, giving Andy some very easy-to-use projectile setplay. While there are no true strings into 214AC, it's a frametrap from 214BD > D, and plus with no pushback, so some conditioning can make it an effective pressure reset.
+}}
+
+===Kuu Hishou Ken===
+{{FrameDataCargo-COTW
+|moveId=andy_j214a,andy_j214c,andy_j214ac
+|input=j.214A/C/AC
+|display=180x180px
+|description3=
+* All versions halt Andy's jump momentum, EX version sends him backwards after the attack.
+* Meterless versions can only be done from a neutral or forward jump/hop but can be very plus.
+* EX version '''can be done from a backjump or even backdash''', usually safe or plus.
+
+Behaves similar to its grounded couterpart, but moves diagonally down and has recovery until landing. While that is a big weakness, and both meterless versions are usually unrewarding on hit, this move makes Andy almost impossible to consistently anti-air. From a neutral jump, Andy can do a failling button to catch people dashing under the fireball, while succesfully doing the fireball itself will usually let him land and pressure a distant opponent while beating anti-airs. This in conjunction with 214A/B makes some characters have to work overtime to get in against Andy, and he can punish risky approaches very hard. When spaced, both meterless version are good as reversal safe meaties, though they're hard to consistently set up.
+
+EX again is quite different, and also shockingly ignorant. It's doable from a backjump or backdash, sends Andy further back, and with how enormous its hitbox is it will rarely ever fail to let Andy safely land while retreating. It also does good damage, can lead to combos depending on height, and cancelling it into Rev Blow is a hard knockdown on hit, safe on block, and the opponent can't even guard cancel against it, while being dirt cheap. Shares its oki applications with 214BD, however it also works as a shimmy when done from a backdash or as a TK, where it can reliably lead to combos with Super.
+}}
+
+===Zan'ei Ken===
+{{FrameDataCargo-COTW
+|moveId=andy_236a,andy_236c,andy_236ac
+|input=236A/C/AC
+|display=200x200px
+|description3=
+* Has variable startup and duration depending on distance from the opponent or brake timing.
+
+Straight dashpunch. 236A is a safe pressure ender, albeit one that leaves Andy very close to the opponent for a throw mixup. As a combo tool it's kind of bad; it ends juggles with low damage, and leaves grounded targets far from Andy and +1, unless it's the starter and CH, where it links to light normals for mostly low damage. This makes it much more useful as a guard cancel, where it's a fast option with an easy input that will frequently counterhit, and its followup combo's low damage is less relevant. It's also very quick to whiff with good mobility, although dashing is still usually better. 236C has worse frame data and better range, but it's a rekka. It's a decent ender with good corner carry, and an okay neutral tool, but it's unsafe so its followups need to be represented on block, which themselves are unrewarding and weak.
+
+236AC is is basically a better 236C; better on block with higher reward that can be confirmed, so it's much better in neutral. It's also a core combo extender with good base damage and easy combos from it, very frequently used in stronger combos.
+}}
+
+===Zan'ei Ken follow-ups===
+{{FrameDataCargo-COTW
+|moveId=andy_236c_6c,andy_236ac_6c
+|input=236C/AC > 6C
+|display=200x200px
+|description2=
+* Hitconfirmable followup and combo ender/extender
+
+Used as a combo tool since 236C > D cannot be juggled into, and it has little use otherwise. There is generally no reason not to use it after 236AC on hit, so go wild.
+}}
+<!-- Zan'ei Ken : Kyoukyuu -->
+{{FrameDataCargo-COTW
+|moveId=andy_236c_6d,andy_236ac_6d
+|input=236C/AC > 6D
+|display=200x200px
+|description2=
+* Frame trap tool to complement 236C/AC > C that always knocks down.
+* Soft knockdown and cannot be combo'd from.
+
+Has a longer delay window than its counterpart, so it's the main one to use on block as a frametrap or true string low, made safer after 236AC by the threat of a cancel to a Rev Art that can frametrap or move Andy out of the way.
+}}
+<!-- Zan'ei Ken : Sokuhou -->
+
+===Shouryuu Dan===
+{{FrameDataCargo-COTW
+|moveId=andy_623a,andy_623c,andy_623ac
+|input=623A/C/AC
+|display=200x200px
+|description3=
+* A version is a meterless reversal with subpar range and startup.
+* B version is a core combo extender and an anti air if braked
+* EX version is a damaging extender even without brake.
+
+Resident DP. Works basically as any other; great anti-air, Guard Cancel option and reversal in 623A specifically. Also a central combo tool, and on account of its limited initial range, 623C Brake will often require a microdash to use midscreen, but this is a minor optimization that you can avoid by just doing dash > 623AC instead, which is much easier to connect and only slightly weaker. 623C is generally better if braked, but 623AC loses out on damage and cancel options, so it's only recommended to Brake for safety.
+}}
+
+===Kuuha Dan===
+{{FrameDataCargo-COTW
+|moveId=andy_236b,andy_236d,andy_236bd
+|input=236B/D/BD
+|display=200x200px
+|description3= 
+* All versions are mostly combo tools with decent corner carry.
+* 236D and 236BD can be braked to make them safe on block or start a juggle.
+
+Advancing launcher. While 236D has some uses as a frametrap with decent reward on hit, generally all 3 versions are combo tools. 236A will usually end your combo unless it hits high enough, but is a good cancel from f.B for a knockdown. On brake, both the D and BD versions do an absolutely pitiful 20 damage, making it so a few routes are literally better off not including them at all, though 236BD generally has no reason to be braked, and its full version is much stronger, and 236D brake is one of Andy's most used combo tools regardless.
+}}
+
+===Shin Gen'ei Shiranui===
+{{FrameDataCargo-COTW
+|moveId=andy_214b,andy_214d,andy_214bd
+|input=214B/D/BD
+|display=140x140px
+|description3=
+* A mobility tool with followup attacks. Nicknamed "Demon Flip", a move with the same nickname belonging to Street Fighter's Akuma.
+* B and D versions travel a set distance based on button used, it's not possible to cross up with 214B unless the opponent moves under you.
+* 214BD always tracks the opponent, ensuring any followup will hit regardless of screen position.
+
+Funny Flip. All have their applications in offense and neutral and the meterless ones will generally be more used for the latter, however an empty flip is mostly only used on oki to bait reversals in specific setups or go for a throw mixup.
+}}
+
+===Shin Gen'ei Shiranui follow-ups===
+{{FrameDataCargo-COTW
+|moveId=andy_214b_b,andy_214bd_b
+|input=214B/D/BD > B
+|display=200x200px
+|description2=
+* Fastest followup, can be plus on block depending on timing and tends to trade with or beat defensive air-to-airs.
+* Very good if timed to be meaty, but it's easily reaction DP'd with no way to mix it up meterlessly.
+* Has significant landing recovery, so it can't be made safe against most reversals.
+
+Primary hit followup, with no significant difference between versions. Puts a massive hitbox in front of Andy that's basically always going to keep him safe if it connects, so it's good as a safety net when doing 214B in neutral to bait out responses. It will usually beat or favorably trade with people trying to air-to-air in response to the flip, though the hitbox doesn't go as high as it looks, so some can jump over it. Gives a massive launch on air counterhit, which again, isn't too uncommon, and on grounded hit it's also Andy's highest damage starter.
+
+It can be very plus as a meaty hit, and it's also an overhead, but good luck trying to take advantage of that when so much of the cast can DP an obviously close flip at no cost or risk and it cannot be mixed up with a low hit on the same frame.
+}}
+<!-- Shira Ame -->
+
+{{FrameDataCargo-COTW
+|moveId=andy_214b_c,andy_214bd_c
+|input=214B/D/BD > C
+|display=200x200px
+|description2=
+* Similar to B but hits behind Andy, making it very niche on 214B.
+* 214BD > C instead teleports behind the opponent, which is useful to make anti-airs whiff and for sideswitch routes.
+
+A dedicated crossup attack, but you still need to make sure you actually go over the opponent with your meterless flips since it has no front hitbox, similar to Dong's j4C. Has very similar frame data to Flip B, so it's usually safe, this time with the added utility of letting you cross up anti-air DP attempts and give people a bad input. When timed well it can even make a successful anti-air whiff entirely, though these setups aren't airtight or rewarding unless a DP is actually baited. Naturally this is best on 214D, but even from 214B it's a good way to hit someone dashing under you to make Flip A and B whiff. Also it's not an overhead but that literally does not matter.
+
+214BD > C is the FT2 killer. Fullscreen teleport with a quick startup; while it's not unreactable, it's hard to anti-air this consistently even despite the lengthened startup. Can cancel into j214AC if it connects, which is a combo on hit and a frametrap string on block that only loses to vertical reversals. Very strong option for neutral, and on offense it's an on-demand DP bait when timed right. Like the other followups, if timed late enough it won't come out, but the teleport will actually still happen, which can catch people off guard.
+}}
+<!-- Kuro Ame -->
+
+{{FrameDataCargo-COTW
+|moveId=andy_214b_d,andy_214bd_d
+|input=214B/D/BD > D
+|display=200x200px
+|description2=
+* Hilariously active low slide. A very powerful meaty, and can easily be spaced in neutral to be safe or plus.
+* In meaty setups, Andy can do an empty flip to bait reversals intended to beat slide.
+* Can be mixed up with B, an overhead, but this is fuzzy blockable or DP'able.
+
+While it is a low out of Demon Flip, this move is really more of a harrass tool and a + on block meaty than any kind of mixup, as it's not possible to hit this on the same frame as Flip B, and even on timings that come close, a DP beats both AND empty flip. In setups that have the slide hit meaty however, not only is it a good starter and reliably +, Andy is usually going to be able to empty flip and bait reversals, do a different meaty, or simply throw the opponent, so this is probably meterless slide's best application.
+
+Ironically, EX slide is actually more niche, as it's less + on block and a weaker starter and cannot be spaced in neutral, though with the added threat from EX flip's other options, it will probably more frequently catch people off guard as a low. Even if the opponent can react, Flip C makes a reaction DP risky, so it will likely just get blocked, where it has excellent blockstun for Rev Cancels, if not for a raw connect.
+}}
+<!-- Shibuki -->
+
+{{FrameDataCargo-COTW
+|moveId=andy_214b_a,andy_214bd_a
+|input=214B/D/BD > A
+|display=200x200px
+|description2=
+* Command grab. Metered version whiffs on crouchers, but can be mixed up with other options to open people up.
+* Tends to beat high dodges and ill-timed DP brake anti-airs, but cannot hit airborne opponents.
+* All versions are a hard knockdown, metered version can be cancelled into other EX moves on hit for a combo.
+
+Similar to Flip D, it's a bit challenging to use the meterless versions as mixup; you need the opponent to not react with a DP or to not have one at all in order to push any kind of mix between this and Flip B. However, this move is similarily good in neutral since it just straight up beats high dodge and even some late brakeable DP's, since they're not immune to throws. If the opponent relies on these options and isn't ready to commit a fully invicible reversal to anti-air, this can be a very rewarding way to get in on them, since it's a hard knockdown.
+
+To that end, doing the appropriate meterless version is better, as EX actually does less damage but has the same knockdown. EX Flip Grab is more rewarding on hit if you have resources however, and it can actually be a mixup thanks again to Flip C. And while it will lose to crouch, it will beat anti-airs all the same, so it can be a more brainless tool to accomplish what the meterless ones do, and potentially nuke their HP while at it.
+}}
+<!-- Shin Kumo Garami -->
+
+==Super Special Moves==
+====Zan'ei Shouha Ken====
+{{FrameDataCargo-COTW
+|moveId=andy_236236a,andy_236236c
+|input=236236A/C
+|captions=<br>Attack animation,<br>C super flash
+|description2=* Only the C version is invincible and can be braked.
+* Neither version has exceptional range, but they're both easy to combo into.
+* 236236A is generally Andy's best use of meter, it has good damage and corner carry.
+* 236236C is maybe Andy's best reversal and still an okay combo ender.
+* 236236C can be braked halfway through. Links into cl.D on counter hit or wild punish.
+Your best friend for meter usage. 236236A is fast, does high damage and always leads to an identical knockdown, so Andy can always get his preferred setups from it, so long as the spacing is right. Even midscreen, the corner carry is huge and you still get to run oki after. For all of this, it's the best in basically every situation where invulnerability isn't needed, and is still preferred as a guard cancel.
+
+236236C is significantly rarer to see, as not only does it do less damage for its cost, but also has a worse knockdown. Its main selling points are being Andy's best metered reversal (or at least the most reliable), and being brakable halfway through, leading to a combo, which has its situational uses. For max damage punishes this just isn't the way to go, but as a starter (usually as a reversal), it keeps the opponent grounded when braked, letting Andy followup with a full heavy to heavy confirm for over 50% damage in S.P.G. so long as he has Rev to spare, off of what is a really strong reversal. Also, these combos refund some of its cost in the process, so they're straight up more economic than the full super.
+
+Interestingly, Andy can perform a "pseudo-236236C" by doing 236AC~6C > 623AC > 214AC, or 236AC~6C > 623AC~AB for the braked version. This visually resembles 236236C, but deals less damage and fills up the REV gauge instead of depleting meter. Hilariously, this means he can "perform" this super twice in one combo.
+}}
+
+====Chou/Zetsu Reppa Dan====
+{{FrameDataCargo-COTW
+|name=Chou/Zetsu Reppa Dan
+|moveId=andy_236236b,andy_236236d
+|captions=<br>Attack animation,<br>D super flash
+|input=236236B/D
+|display=160x160px
+|description2=* Both version are invincible.
+*Due to the slow startup, neither version is particularly good as a wakeup reversal, though they can definitely work.
+*They both hit quite high and far, which actually gives them some utility in neutral as fireball punishes and they are preferred in a few pickups.
+*236236B has a situational use as a combo ender due to giving better frame advantage than 236236A and thus enabling much better mid screen okizeme in exchange for a little damage.
+
+The two versions are almost entirely identical with 236236D simply being higher damage with a better hitbox. Not great as wakeup supers, but if you want to gamble regardless, this is your main option. Considering the slow startup but enormous hitbox, both of these supers are actually better used as long range anti-airs, whiff punishes, or anti-fireball options.
+}}
+
+==Hidden Gear==
+====Zetsu Tougai Narashi====
+{{FrameDataCargo-COTW
+|moveId=andy_236236REV
+|display=150x150px
+|description= * Resets the Rev meter to 0%, even during Overheat. Only available during S.P.G.
+*Very weird compared to most Hidden Gears, usually won't hit on its first active frame on grounded opponents which can hurt it as a reversal.
+
+Hidden Gear with an unusual attack animation and hitbox, which ironically makes it one of the most limiting ones in the game. Frequently not hitting on the first frame and its strange hitbox make it unreliable as a reversal, and its knockdown is fairly weak as well, so the best you'll get is f.C as a late meaty or 214C to poke from range, which are unrewarding and potentially unsafe. Suffice to say, your meter is generally better spent on 236236A, however when you do use this as a combo ender, combined with Andy's monstrous punish damage, you are likely winning the round off that combo alone.
+}}
+
+==Videos, Links & References==
+
+'''ANDY BOGARD｜Character Breakdown by SNK'''
+{{#ev:youtube|b6PAVrmGTEE}}
+
+
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Andy Bogard]]

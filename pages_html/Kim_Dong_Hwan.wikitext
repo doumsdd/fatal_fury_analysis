@@ -1,0 +1,559 @@
+{{CharNavbox_COTW}}
+<section begin="image"/>[[File:COTW Dong Hwan Profile.png|thumb| Son of taekwondo master Kim Kaphwan, and no stranger to the martial art himself—a true taekwondo prodigy, as he puts it. Dong Hwan’s unabashed, happy-go-lucky lifestyle after the previous tournament earns him a stern reprimand from his father, which promptly takes him down a peg or two. Turns out it’s just the kind of wake-up call Dong Hwan needs, though—and so, adamant that his grasp of taekwondo will someday surpass even his dad’s, the fledgling fighter (secretly) dives headfirst into his own unique brand of training.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 41f
+<br>'''Hop:''' 36f
+<br>'''Short Dash:''' 11f
+<br>'''Backdash:''' 23f
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+----
+==Movelist==
+
+(*) = Brake
+
+'''Command Moves'''
+
+Mule Kick - (In Air) [[image:bk.gif]][[image:c.gif]]
+
+Tai Hineri - (In Air) [[image:a.gif]][[image:b.gif]]
+
+Command Combo 1 - (close)[[image:b.gif]] > [[image:d.gif]] > [[image:fd.gif]][[image:d.gif]] > (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+Command Combo 2 - (In Air) [[image:a.gif]] > [[image:c.gif]]
+
+'''REV Blows'''
+
+Kaiten Dong Hwan - (S.P.G. active) [[image:c.gif]][[image:d.gif]]
+
+Inazuma Hurricane Kick - (S.P.G. active, in air) [[image:c.gif]][[image:d.gif]]
+
+'''Special Moves'''
+
+Raimei Zan - [[image:qcb.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*)
+
+Air Raimei Zan - (In Air) [[image:qcb.gif]] + [[image:b.gif]] (*) / [[image:d.gif]] (*)
+
+Shiden Kyaku - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Kuusajin - [[image:dp.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Ashi Binta - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Hishou Kyaku - (In Air) [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Ignition / Redline Gears'''
+
+Raimei Dan - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Super Dong Hwan Kick - (In Air) [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Hidden Gear'''
+
+Tenshou Raimei Kyaku - [[image:qcf.gif]][[image:qcf.gif]] + [[image:rev.gif]]
+
+==Quick Combo Reference==
+
+{| border="1" align="center" style="font-size:90%"
+|+ 
+===Quick Combo Reference===
+'''Notation'''
+|-
+| '''Meterless'''
+|
+Anywhere<br/>
+Anywhere<br/>
+Poke<br/>
+Light Confirm<br/>
+|
+clC > 236D, 623C*, 236B, 214A = 296dmg<br/>
+clC > 236D, (66) 623C*, 236B, 623A = 304dmg<br/>
+2C > 214C = 158 dmg<br/>
+clA, 2B, farA > 214A = 155 dmg<br/>
+|-
+| '''Rev'''
+|
+Anywhere<br/>
+Poke<br/>
+|
+clB, clC > 236D, 236BD > 623AC*, 236B, 623A = 332dmg<br/>
+2C > 214AC > 236BD > 623AC*, 236B, 623A = 269dmg<br/>
+|-
+| '''1 Bar'''
+|
+Anywhere<br/>
+TK<br/>
+|
+clC > 236D, 623C*, 236B, 236236B = 400 dmg<br/>
+clC > 236D, 623C*, j236236B, 623A = 419 dmg<br/>
+|-
+| '''2 Bar'''
+|
+Anywhere<br/>
+Corner<br/>
+|
+clC > 236D, 623C*, 236B, 236236D = 480 dmg<br/>
+clC > 236D, j236236B, 623C*, j236236B = 508 dmg<br/>
+|-
+|}
+
+==Gameplay Overview==
+{{SUBPAGENAME}} is an aggressive rushdown character that thrives when he's in the opponent's face and specializes in making them guess what's next.
+
+His combos and general gameplay have pretty high execution, however he can easily do 30% of a lifebar without using a Rev Art or Super. Many of his moves have multiple Brake points, adding onto his pressure and mix. Dong's most unique aspect is his air movement, being able to use Air Raimei Zan as a pseudo jump, up to 3 times in the air. What that essentially means is he can easily extend his jump or avoid things he otherwise wouldn't. His great air normals and crossups (jB and Mule Kick) only enhance this danger.
+
+Dong's biggest issue is fittingly enough, inconsistency. His stubby range and slow speed means he has a hard time getting in against some of the cast. And whilst the Rev Art versions of his moves are amazing for pressure, they scale insanely hard, leaving him with quickly stagnating damage and worse reward for more cost. And outside of counter hits, only clC can start his high damage combos, whilst his Light confirms are extremely limited.
+
+Still, once you get the hang of things, you can enjoy leaving your opponent guessing for their life as you DONG IT UP.
+
+{{StrengthsAndWeaknesses
+| intro = {{SUBPAGENAME}} is a high execution rushdown character with great mix and unique options. 
+| pros=
+* '''Damage''': Dong Hwan's damage off of his normal specials is above a lot of others, only helped further by his supers and Super Dong Hwan Kick loops. 
+* '''Constant Mix''': With a toolkit as big as his, Dong Hwan can easily keep the opponent guessing as to what his next move will be, and get a big reward when they finally crack open.
+* '''Bombastic Punishes''': Counters and Punishes allow him to start his normally restricted combos from anywhere, with 2C and High Dodge losing their biggest weaknesses.
+* '''Fly? No, jump good.''': Dong's air game is one of the best there is, being able to essentially jump multiple times.
+| cons=
+* '''Stubby''': Part of being a Kim is being stubby, but Dong suffers from it harder than his dad or brother ever have. He can struggle with punishing some moves that others can, or struggle to get his pressure going. His run being slower than usual doesn't help matters.
+* '''Lackluster Confirms''': Dong's special cancellable normals usually lack range or good scaling, this generally forces him to settle with low damage confirms or confirm with a super from his much better pokes which takes away from his high damage potential
+* '''Meter Management''': Dong relies heavily on using his EX specials whether it be for his amazing air game or relentless pressure and he needs it even more for his higher damage potential combos. This usually puts Dong in a predicament where he has to choose to either be conservative with meter for dumping damage or use it to make up for his lackluster traits. 
+}}
+
+==Normals==
+===Close Normals===
+====close A====
+{{FrameDataCargo-COTW
+|name=Close A
+|moveId=dong_cl.A
+|input=cl.A
+|description=
+* Dong's fastest Normal.
+Great for starting light strings, stopping hops, and that's about it.
+}}
+
+====close B====
+{{FrameDataCargo-COTW
+|name=Close B
+|moveId=dong_cl.B
+|input=cl.B
+|description=
+* Links into clC.
+* Starts his Command Combo
+One of your essential normals due to the fact it links into clC, has good range too.
+}}
+
+====close C====
+{{FrameDataCargo-COTW
+|name=Close C
+|moveId=dong_cl.C
+|input=cl.C
+|description=
+* The Button.
+* Comboes into 236D.
+* +2 on block after a feint.
+* Links into 2C after a feint for even better hitconfirming.
+This is your best friend, cherish this button as it's what gets everything started. Easy to confirm with, starts the big routes without a need to use Rev.
+}}
+
+====close D====
+{{FrameDataCargo-COTW
+|name=Close D
+|moveId=dong_cl.D
+|input=cl.D
+|description=
+* A button
+* Links into far A & 2A
+* Links into clC on a counter hit
+
+Generally less useful button than clC, however the link into A buttons and better advantage makes this a button a niche for easy block confirming, notably being better than clC against Rev Guard and GC Rev Blow
+
+Lack of special cancels means you have to resort to linking into an A button and cancelling with a super to do any substantial damage on normal hit.
+}}
+
+===Far Normals===
+====far A====
+{{FrameDataCargo-COTW
+|name=Far A
+|moveId=dong_f.A
+|input=f.A
+|description=
+Your main light confirm.
+}}
+
+====far B====
+{{FrameDataCargo-COTW
+|name=Far B
+|moveId=dong_f.B
+|input=f.B
+|description=
+Good as a poke but no cancels.
+}}
+
+====far C====
+{{FrameDataCargo-COTW
+|name=Far C
+|moveId=dong_f.C
+|input=f.C
+|description=
+Great for Wild Punishes, very jank on normal Counter Hits however since it doesn't link into anything.
+
+Much better at catching jumps than far D but whiffs on crouchers at further ranges
+}}
+
+====far D====
+{{FrameDataCargo-COTW
+|name=Far D
+|moveId=dong_f.D
+|input=f.D
+|description=
+Great range and allows for great confirms on Counter.
+
+1 frame slower than far C but always hits crouchers and has better horizontal range. Fantastic for whiff-punishes, leading to a high damage combo on Wild Punish
+}}
+
+===Crouching Normals===
+====Crouching A====
+{{FrameDataCargo-COTW
+|name=Crouching A
+|moveId=dong_2A
+|input=2A
+|description=
+Longest Dong light normal that's also a low, no special cancel makes this a unrewarding button but its range is useful when confirming into a super from 2B
+}}
+
+====Crouching B====
+{{FrameDataCargo-COTW
+|name=Crouching B
+|moveId=dong_2B
+|input=2B
+|description=
+Great button to confirm with, cancel into 5A for your light confirms
+}}
+
+====Crouching C====
+{{FrameDataCargo-COTW
+|name=Crouching C
+|moveId=dong_2C
+|input=2C
+|description=
+* The Kim Family's Sacred Art
+* -1 on block after a feint
+Very stubby, special-cancelable normal. Good for intercepting runs/dashes and taking advantage of plus frames. Combos into 236D on counter hit
+}}
+
+====Crouching D====
+{{FrameDataCargo-COTW
+|name=Crouching D
+|moveId=dong_2D
+|input=2D
+|description=
+* a sweep
+Don't whiff this because the hurtbox lasts a bit after the hit, making you a big fat target for Wild Punishes.
+}}
+
+===Jumping Normals===
+====Jumping A====
+{{FrameDataCargo-COTW
+|name=Jumping A
+|moveId=dong_j.A
+|input=j.A
+|description=
+* Starts his airborn Target Combo.
+* Comboes into 236K.
+* Hits crouching opponents.
+* Hits standing opponents if done at the start of a jump.
+Great air normal, useful for jump ins and pressure.
+}}
+
+====Jumping B====
+{{FrameDataCargo-COTW
+|name=Jumping B
+|moveId=dong_j.B
+|input=j.B
+|description=
+* Can hit as a crossup.
+* Barely hits crouching opponents.
+Another great air normal, not a great crossup but its still a crossup.
+}}
+
+====Jumping C====
+{{FrameDataCargo-COTW
+|name=Jumping C
+|moveId=dong_j.C
+|input=j.C
+|description=
+* Causes a juggle on airborne opponents.
+* Special cancelable.
+* Whiffs crouching opponents.
+A very interesting normal, as it can start combos if it hits an opponent in the air, so it's best used for those rather than jump ins, where it whiffs on crouching opponents.
+}}
+
+====Jumping D====
+{{FrameDataCargo-COTW
+|name=Jumping D
+|moveId=dong_j.D
+|input=j.D
+|description=
+His highest damage air normal, and also the slowest. A solid heavy jump-in and its large horizontal reach makes it great for controlling the air and walling people out.
+}}
+
+===Command Normals===
+====Mule Kick====
+{{FrameDataCargo-COTW
+|name=Mule Kick
+|moveId=dong_j.4C
+|captions= EL BURRO
+|description=
+* Pulls in on hit.
+* Is even when done at its highest on block.
+* Tends to bug out when done above their head.
+* Doesn't give him a third gun as the name implies.
+His best crossup, the taco. Fast, long reaching and starts combos thanks to its great hit stun and pull in on hit.
+}}
+
+====Tai Hineri====
+{{FrameDataCargo-COTW
+|name=Tai Hineri
+|moveId=dong_j.AB
+|input=j.AB
+|description=
+Air throw, leaves you a full screen lenght away from them
+}}
+
+====Command Combo 1====
+{{FrameDataCargo-COTW
+|name=Target Combo 1
+|moveId=dong_cl.B~D,dong_cl.B~D~6D,dong_cl.B~D~6D~CD
+|captions=<br>D follow-up,<br>6D follow-up,<br>CD ender
+|input=cl.B > D / D > 6D / 6D > CD
+|description=
+You die if you just do this, finish the Target Combo.
+|description2=
+A bit too risky to be of much use but its there if needed.
+|description3=Only available in S.P.G, gives it a nice knockdown.
+|display=150x150px
+}}
+
+====Command Combo 2====
+{{FrameDataCargo-COTW
+|name=Target Combo 2
+|moveId=dong_j.A~j.C
+|input=j.A > j.C
+|description=
+* j.C loses its juggle when doing this.
+On paper it lets you turn this jump in into a heavies tarter, but its not good at that job.
+}}
+
+==Universal Options==
+===Throw===
+====Forward Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=dong_AB
+|input=AB
+|description=
+* Dong kicks the opponent full screen and taunts them. While they may seem too far away for a follow-up, immediately running after recovery can get Dong in their face at up to +5, allowing for meaty pressure. 
+}}
+====Back Throw====
+{{FrameDataCargo-COTW
+|name=Forward Throw
+|moveId=dong_4AB
+|input=4AB
+|description=
+Leaves them midscreen, potentially setting up a cross-up
+}}
+
+===Rev Blow===
+
+====Kaiten Dong Hwan====
+{{FrameDataCargo-COTW
+|name=Kaiten Dong Hwan
+|moveId=dong_CD
+|input=CD
+|description=
+* Slap your body the floor.
+Decently ranged Rev Blow.
+}}
+
+====Inazuma Hurricane Kick====
+{{FrameDataCargo-COTW
+|name=Inazuma Hurricane Kick
+|moveId=dong_j.CD
+|input=j.CD
+|description=
+* Whiffs on crouching opponents.
+Dong shows off his Football skills, great as an ender and an air to air, but not good as an overhead.
+Your most consistent way of converting off of j236BD and 214BD.
+}}
+
+===Dodge===
+====High Dodge====
+{{FrameDataCargo-COTW
+|name=High Dodge
+|moveId=dong_2CRev
+|input=2CRev
+|description=
+* Beats Highs and Rev Blows
+* Combos into 236D on counter hit
+
+Extremely good poke for Dong, it has less range than far D but is faster and special cancellable on hit meaning you can buffer a special and it won't come out on block or whiff. Unfortunately the scaling on confirms from this is high but this still is one of Dong's most useful neutral tools
+}}
+
+====Low Dodge====
+{{FrameDataCargo-COTW
+|name=Low Dodge
+|moveId=dong_5CRev
+|input=5CRev
+|description=
+* Beats Lows and Throws.
+On its own it's fairly standard but on Counter or Wild Punish it links into clC and 2C, making it a great tool.
+}}
+
+==Specials==
+====Raimei Zan====
+{{FrameDataCargo-COTW
+|name=Raimei Zan
+|moveId=dong_214B,dong_214D,dong_214BD
+|input=214B/D/BD
+|description3=
+* Can be done as a feint with 2DRev.
+* Beats Lows.
+* Light version hits mid and isn't a true blockstring.
+* Heavy version is unsafe most of the time.
+* All versions can be braked.
+** Heavy, Rev and Feint versions give you enough height to do j214BD or Super Dong Kick.
+Amazing mix tool, key part of Dong's gameplan, be it the move on its own or by braking it. On counter he gets a full combo from any version. The main risk comes from the fact it can be mashed out of or DPed if the opponent knows what to do.
+}}
+
+====Air Raimei Zan====
+{{FrameDataCargo-COTW
+|name=Air Raimei Zan
+|moveId=dong_j.214B,dong_j.214D,dong_j.214BD
+|input=j.214B/D/BD
+|description3=
+* All versions hit mid and can be very unsafe.
+* All versions can be braked.
+** You can do anything after a Brake, including another j214K, giving him a quadruple jump of sorts.
+* You can only do each version once per jump.
+* Rev version is +6 on hit after a 214D Brake.
+* Only Rev version can be done as a TK input, but it must be slightly delayed else it doesn't come out in time. Very plus depending on height
+Dong may not be able to fly but he can jump good, this move is an amazing mobility tool. Rev version recovers the fastest so its best saved for last.
+}}
+
+====Shiden Kyaku====
+{{FrameDataCargo-COTW
+|name=Shiden Kyaku
+|moveId=dong_236B,dong_236D,dong_236BD
+|input=236B/D/BD
+|description3=
+* Heavy version is a low, only comboes after clC and Counter 2C/2CRev. Death on block.
+* Only Rev version can be braked.
+** Can be done on startup or after the first kick.
+** Braking the first kick leaves you +1
+* Light Version causes a juggle on air hit.
+The stomp returns, and he can combo it now. This his most important combo tool, especially the heavy version. The EX version is a great combo and pressure tool.
+}}
+
+====Kuusajin====
+{{FrameDataCargo-COTW
+|name=Kuusajin
+|moveId=dong_623A,dong_623C,dong_623AC
+|input=623A/C/AC
+|description3=
+* Standard DP.
+* Rev version can be canceled into another Rev Art before or with the last hit.
+Nothing much to say here, it's an ok DP. Main issue is the Heavy version's stubby range, making some things harder or impossible.
+}}
+
+====Ashi Binta====
+{{FrameDataCargo-COTW
+|name=Ashi Binta
+|moveId=dong_214A,dong_214C,dong_214AC
+|input=214A/C/AC
+|description3=
+* Moves him forward.
+* Heavy and Rev versions can be braked.
+** Rev version can be braked at 2 points during the move.
+** Is +2 on block after either brake points. First point leaves you in throw range, second just outside of it
+* Heavy version is +6 when braked on a counter hit.
+* Becomes a launching counter if only the last hit counters.
+Very important move for his combos and pressure. 214A is his main light confirm and 214C lets him stay up close. The Rev version is a great combo tool and in pressure as you can change up the brake timing.
+}}
+
+====Hishou Kyaku====
+{{FrameDataCargo-COTW
+|name=Hishou Kyaku
+|moveId=dong_j.236B,dong_j.236D,dong_j.236BD
+|input=j.236B/D/BD
+|description3=
+* The classic Kim dive kick, worse for wear.
+* Heavy version will never land all hits and will often leave you minus '''ON HIT'''...avoid the heavy version.
+Spacing the light divekick is the only way to get plus on hit, and it's typically safe on block. Has a tendency to drop hits on air contact. Rev version can be done while jumping back, which can be useful while running away. The Rev version can also be canceled into 214BD, which can be Brake Canceled for some tricky crossups, but it's fairly expensive meterwise.
+}}
+
+==Supers==
+===Ignition Gears===
+====Raimei Dan====
+{{FrameDataCargo-COTW
+|name=Raimei Dan
+|moveId=dong_236236B
+|input=236236B
+|description=
+* Fully Invul.
+* Comboes from Lights.
+Ol' reliable, does great damage and is really easy to combo into. Gives him very easy safe jump set ups when used as a combo ender anywhere on screen
+}}
+
+====Super Dong Hwan Kick====
+{{FrameDataCargo-COTW
+|name=Super Dong Hwan Kick
+|moveId=dong_j.236236B
+|input=j.236236B
+|description=
+* 10/10 name.
+* Has no invul.
+* Comboes off of jA and jC.
+* If done very low to the opponent in a combo, it allows for combo extensions.
+You use this super to be optimal or to be a show off, high risk for a bit more reward. If done correctly however, he can do 2 Supers in a combo and extend after it. Usually after 236D or 623C/AC (Braked), however the easiest setup is to do 623AC > j214BD*, inputting the super during the Brake animation.
+}}
+
+===Redline Gears===
+====Raimei Dan====
+{{FrameDataCargo-COTW
+|name=Raimei Dan
+|moveId=dong_236236D
+|input=236236D
+|description=
+* Fully Invul.
+Usually his best meter dump whenever you're not in SPG.
+}}
+
+====Super Dong Hwan Kick====
+{{FrameDataCargo-COTW
+|name=Super Dong Hwan Kick
+|moveId=dong_j.236236D
+|input=j.236236D
+|description=
+* Not even the name can save this.
+* Still no invul but it lets him combo from back jump jA.
+Flashy and does more damage but it's generally a waste of meter. In pretty much every situation where you'd want to dump both bars on this, a double Level 1 Super Dong Hwan Kick setup (for the higher damage), or Hidden Gear if you're in SPG (for the Rev cooldown), are both better ways to spend the resources. Outside of securing kills in situations where a single Level 1 won't be enough (and you don't want to risk potentially dropping a double Level 1), or taking advantage of the invincibility in the air to occasionally surprise your opponent, there just isn't really much reason to go for this.
+}}
+
+===Secret Gear===
+====Tenshou Raimei Kyaku====
+{{FrameDataCargo-COTW
+|name=Tenshou Raimei Kyaku
+|moveId=dong_236236REV
+|input=236236REV
+|description=
+* Fully Invul.
+* Available only in SPG.
+Big cinematic Super, useful when needed but he's often spending 2 bars on 2 Supers.
+}}
+
+{{CharNavbox_COTW}}
+----
+{{Navbox FF COTW}}
+
+[[Category:Fatal Fury: City of the Wolves]]
+[[Category:Kim Dong Hwan]]
