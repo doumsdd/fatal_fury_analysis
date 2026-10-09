@@ -1,0 +1,487 @@
+{
+  "total_images": 220,
+  "characters": {
+    "Kain": 38,
+    "Kevin": 46,
+    "Salvatore": 56,
+    "Marco623P.png": 1,
+    "MarcoCloseA.png": 1,
+    "MarcoCloseB.png": 1,
+    "MarcoCloseC1.png": 1,
+    "MarcoCloseC2.png": 1,
+    "MarcoCloseD.png": 1,
+    "MarcoDB.png": 1,
+    "MarcoFThrow.png": 1,
+    "MarcoFarA.png": 1,
+    "MarcoFarB.png": 1,
+    "MarcoFarC.png": 1,
+    "MarcoFarD.png": 1,
+    "MarcoHoldK.png": 1,
+    "MarcoHoldP.png": 1,
+    "Marcobthrow.png": 1,
+    "MarcojA.png": 1,
+    "MarcojB.png": 1,
+    "MarcojC.png": 1,
+    "MarcojD.png": 1,
+    "Rock5D+REV.png": 1,
+    "Rock623P.png": 1,
+    "Rock6D+REV.png": 1,
+    "Rock6JumpA.png": 1,
+    "RockBThrow.png": 1,
+    "RockCloseA.png": 1,
+    "RockCloseB.png": 1,
+    "RockCloseC.png": 1,
+    "RockCloseD.png": 1,
+    "RockCrouchA.png": 1,
+    "RockCrouchB.png": 1,
+    "RockCrouchC.png": 1,
+    "RockCrouchD.png": 1,
+    "RockFThrow.png": 1,
+    "RockFarA.png": 1,
+    "RockFarB.png": 1,
+    "RockFarC.png": 1,
+    "RockFarD.png": 1,
+    "RockJumpA.png": 1,
+    "RockJumpB.png": 1,
+    "RockJumpC.png": 1,
+    "RockJumpD.png": 1
+  },
+  "portrait_candidates": {
+    "Kain": [
+      {
+        "filename": "CotW_Kain_AB.png",
+        "url": "https://dreamcancel.com/w/images/9/97/CotW_Kain_AB.png"
+      },
+      {
+        "filename": "CotW_Kain_cl.A.png",
+        "url": "https://dreamcancel.com/w/images/0/0a/CotW_Kain_cl.A.png"
+      },
+      {
+        "filename": "CotW_Kain_cl.B.png",
+        "url": "https://dreamcancel.com/w/images/2/27/CotW_Kain_cl.B.png"
+      },
+      {
+        "filename": "CotW_Kain_cl.C.png",
+        "url": "https://dreamcancel.com/w/images/2/28/CotW_Kain_cl.C.png"
+      },
+      {
+        "filename": "CotW_Kain_cl.D.png",
+        "url": "https://dreamcancel.com/w/images/6/6f/CotW_Kain_cl.D.png"
+      },
+      {
+        "filename": "CotW_Kain_f.A.png",
+        "url": "https://dreamcancel.com/w/images/0/09/CotW_Kain_f.A.png"
+      },
+      {
+        "filename": "CotW_Kain_f.B.png",
+        "url": "https://dreamcancel.com/w/images/c/c4/CotW_Kain_f.B.png"
+      },
+      {
+        "filename": "CotW_Kain_f.C.png",
+        "url": "https://dreamcancel.com/w/images/9/9a/CotW_Kain_f.C.png"
+      },
+      {
+        "filename": "CotW_Kain_f.D.png",
+        "url": "https://dreamcancel.com/w/images/c/c6/CotW_Kain_f.D.png"
+      },
+      {
+        "filename": "CotW_Kain_j.A.png",
+        "url": "https://dreamcancel.com/w/images/b/b8/CotW_Kain_j.A.png"
+      },
+      {
+        "filename": "CotW_Kain_j.B.png",
+        "url": "https://dreamcancel.com/w/images/e/ee/CotW_Kain_j.B.png"
+      },
+      {
+        "filename": "CotW_Kain_j.C.png",
+        "url": "https://dreamcancel.com/w/images/6/65/CotW_Kain_j.C.png"
+      },
+      {
+        "filename": "CotW_Kain_j.D.png",
+        "url": "https://dreamcancel.com/w/images/f/fb/CotW_Kain_j.D.png"
+      }
+    ],
+    "Kevin": [
+      {
+        "filename": "CotW_Kevin_22K.png",
+        "url": "https://dreamcancel.com/w/images/4/48/CotW_Kevin_22K.png"
+      },
+      {
+        "filename": "CotW_Kevin_22K~A.png",
+        "url": "https://dreamcancel.com/w/images/0/00/CotW_Kevin_22K~A.png"
+      },
+      {
+        "filename": "CotW_Kevin_22K~D.png",
+        "url": "https://dreamcancel.com/w/images/6/62/CotW_Kevin_22K~D.png"
+      },
+      {
+        "filename": "CotW_Kevin_623K.png",
+        "url": "https://dreamcancel.com/w/images/f/f7/CotW_Kevin_623K.png"
+      },
+      {
+        "filename": "CotW_Kevin_AB.png",
+        "url": "https://dreamcancel.com/w/images/2/23/CotW_Kevin_AB.png"
+      },
+      {
+        "filename": "CotW_Kevin_cl.A.png",
+        "url": "https://dreamcancel.com/w/images/0/05/CotW_Kevin_cl.A.png"
+      },
+      {
+        "filename": "CotW_Kevin_cl.B.png",
+        "url": "https://dreamcancel.com/w/images/3/3b/CotW_Kevin_cl.B.png"
+      },
+      {
+        "filename": "CotW_Kevin_cl.C.png",
+        "url": "https://dreamcancel.com/w/images/2/26/CotW_Kevin_cl.C.png"
+      },
+      {
+        "filename": "CotW_Kevin_cl.D.png",
+        "url": "https://dreamcancel.com/w/images/e/e6/CotW_Kevin_cl.D.png"
+      },
+      {
+        "filename": "CotW_Kevin_f.A.png",
+        "url": "https://dreamcancel.com/w/images/a/a7/CotW_Kevin_f.A.png"
+      },
+      {
+        "filename": "CotW_Kevin_f.B.png",
+        "url": "https://dreamcancel.com/w/images/e/e8/CotW_Kevin_f.B.png"
+      },
+      {
+        "filename": "CotW_Kevin_f.C.png",
+        "url": "https://dreamcancel.com/w/images/1/14/CotW_Kevin_f.C.png"
+      },
+      {
+        "filename": "CotW_Kevin_f.D.png",
+        "url": "https://dreamcancel.com/w/images/e/ec/CotW_Kevin_f.D.png"
+      },
+      {
+        "filename": "CotW_Kevin_j.A.png",
+        "url": "https://dreamcancel.com/w/images/2/22/CotW_Kevin_j.A.png"
+      },
+      {
+        "filename": "CotW_Kevin_j.B.png",
+        "url": "https://dreamcancel.com/w/images/1/1c/CotW_Kevin_j.B.png"
+      },
+      {
+        "filename": "CotW_Kevin_j.C.png",
+        "url": "https://dreamcancel.com/w/images/a/a8/CotW_Kevin_j.C.png"
+      },
+      {
+        "filename": "CotW_Kevin_j.D.png",
+        "url": "https://dreamcancel.com/w/images/b/b4/CotW_Kevin_j.D.png"
+      }
+    ],
+    "Salvatore": [
+      {
+        "filename": "CotW_Salvatore_AB.png",
+        "url": "https://dreamcancel.com/w/images/3/3c/CotW_Salvatore_AB.png"
+      },
+      {
+        "filename": "CotW_Salvatore_cl.A.png",
+        "url": "https://dreamcancel.com/w/images/6/63/CotW_Salvatore_cl.A.png"
+      },
+      {
+        "filename": "CotW_Salvatore_cl.B.png",
+        "url": "https://dreamcancel.com/w/images/3/31/CotW_Salvatore_cl.B.png"
+      },
+      {
+        "filename": "CotW_Salvatore_cl.C.png",
+        "url": "https://dreamcancel.com/w/images/2/2b/CotW_Salvatore_cl.C.png"
+      },
+      {
+        "filename": "CotW_Salvatore_cl.D_1.png",
+        "url": "https://dreamcancel.com/w/images/e/e6/CotW_Salvatore_cl.D_1.png"
+      },
+      {
+        "filename": "CotW_Salvatore_cl.D_2.png",
+        "url": "https://dreamcancel.com/w/images/f/fe/CotW_Salvatore_cl.D_2.png"
+      },
+      {
+        "filename": "CotW_Salvatore_f.A.png",
+        "url": "https://dreamcancel.com/w/images/c/cd/CotW_Salvatore_f.A.png"
+      },
+      {
+        "filename": "CotW_Salvatore_f.B.png",
+        "url": "https://dreamcancel.com/w/images/b/b6/CotW_Salvatore_f.B.png"
+      },
+      {
+        "filename": "CotW_Salvatore_f.C.png",
+        "url": "https://dreamcancel.com/w/images/1/16/CotW_Salvatore_f.C.png"
+      },
+      {
+        "filename": "CotW_Salvatore_f.D.png",
+        "url": "https://dreamcancel.com/w/images/1/14/CotW_Salvatore_f.D.png"
+      },
+      {
+        "filename": "CotW_Salvatore_feint.png",
+        "url": "https://dreamcancel.com/w/images/1/1a/CotW_Salvatore_feint.png"
+      },
+      {
+        "filename": "CotW_Salvatore_j.A.png",
+        "url": "https://dreamcancel.com/w/images/2/22/CotW_Salvatore_j.A.png"
+      },
+      {
+        "filename": "CotW_Salvatore_j.B.png",
+        "url": "https://dreamcancel.com/w/images/7/77/CotW_Salvatore_j.B.png"
+      },
+      {
+        "filename": "CotW_Salvatore_j.C.png",
+        "url": "https://dreamcancel.com/w/images/b/b8/CotW_Salvatore_j.C.png"
+      },
+      {
+        "filename": "CotW_Salvatore_j.D.png",
+        "url": "https://dreamcancel.com/w/images/a/a0/CotW_Salvatore_j.D.png"
+      },
+      {
+        "filename": "CotW_Salvatore_step~D.png",
+        "url": "https://dreamcancel.com/w/images/1/19/CotW_Salvatore_step~D.png"
+      }
+    ],
+    "Marco623P.png": [
+      {
+        "filename": "CotWMarco623P.png",
+        "url": "https://dreamcancel.com/w/images/5/53/CotWMarco623P.png"
+      }
+    ],
+    "MarcoCloseA.png": [
+      {
+        "filename": "CotWMarcoCloseA.png",
+        "url": "https://dreamcancel.com/w/images/7/7a/CotWMarcoCloseA.png"
+      }
+    ],
+    "MarcoCloseB.png": [
+      {
+        "filename": "CotWMarcoCloseB.png",
+        "url": "https://dreamcancel.com/w/images/c/c4/CotWMarcoCloseB.png"
+      }
+    ],
+    "MarcoCloseC1.png": [
+      {
+        "filename": "CotWMarcoCloseC1.png",
+        "url": "https://dreamcancel.com/w/images/d/dd/CotWMarcoCloseC1.png"
+      }
+    ],
+    "MarcoCloseC2.png": [
+      {
+        "filename": "CotWMarcoCloseC2.png",
+        "url": "https://dreamcancel.com/w/images/b/bc/CotWMarcoCloseC2.png"
+      }
+    ],
+    "MarcoCloseD.png": [
+      {
+        "filename": "CotWMarcoCloseD.png",
+        "url": "https://dreamcancel.com/w/images/e/e0/CotWMarcoCloseD.png"
+      }
+    ],
+    "MarcoDB.png": [
+      {
+        "filename": "CotWMarcoDB.png",
+        "url": "https://dreamcancel.com/w/images/f/f7/CotWMarcoDB.png"
+      }
+    ],
+    "MarcoFThrow.png": [
+      {
+        "filename": "CotWMarcoFThrow.png",
+        "url": "https://dreamcancel.com/w/images/8/8f/CotWMarcoFThrow.png"
+      }
+    ],
+    "MarcoFarA.png": [
+      {
+        "filename": "CotWMarcoFarA.png",
+        "url": "https://dreamcancel.com/w/images/b/bb/CotWMarcoFarA.png"
+      }
+    ],
+    "MarcoFarB.png": [
+      {
+        "filename": "CotWMarcoFarB.png",
+        "url": "https://dreamcancel.com/w/images/7/74/CotWMarcoFarB.png"
+      }
+    ],
+    "MarcoFarC.png": [
+      {
+        "filename": "CotWMarcoFarC.png",
+        "url": "https://dreamcancel.com/w/images/5/54/CotWMarcoFarC.png"
+      }
+    ],
+    "MarcoFarD.png": [
+      {
+        "filename": "CotWMarcoFarD.png",
+        "url": "https://dreamcancel.com/w/images/0/04/CotWMarcoFarD.png"
+      }
+    ],
+    "MarcoHoldK.png": [
+      {
+        "filename": "CotWMarcoHoldK.png",
+        "url": "https://dreamcancel.com/w/images/f/f7/CotWMarcoHoldK.png"
+      }
+    ],
+    "MarcoHoldP.png": [
+      {
+        "filename": "CotWMarcoHoldP.png",
+        "url": "https://dreamcancel.com/w/images/a/aa/CotWMarcoHoldP.png"
+      }
+    ],
+    "Marcobthrow.png": [
+      {
+        "filename": "CotWMarcobthrow.png",
+        "url": "https://dreamcancel.com/w/images/f/f3/CotWMarcobthrow.png"
+      }
+    ],
+    "MarcojA.png": [
+      {
+        "filename": "CotWMarcojA.png",
+        "url": "https://dreamcancel.com/w/images/4/4f/CotWMarcojA.png"
+      }
+    ],
+    "MarcojB.png": [
+      {
+        "filename": "CotWMarcojB.png",
+        "url": "https://dreamcancel.com/w/images/7/7f/CotWMarcojB.png"
+      }
+    ],
+    "MarcojC.png": [
+      {
+        "filename": "CotWMarcojC.png",
+        "url": "https://dreamcancel.com/w/images/2/26/CotWMarcojC.png"
+      }
+    ],
+    "MarcojD.png": [
+      {
+        "filename": "CotWMarcojD.png",
+        "url": "https://dreamcancel.com/w/images/7/71/CotWMarcojD.png"
+      }
+    ],
+    "Rock5D+REV.png": [
+      {
+        "filename": "CotWRock5D+REV.png",
+        "url": "https://dreamcancel.com/w/images/4/4f/CotWRock5D%2BREV.png"
+      }
+    ],
+    "Rock623P.png": [
+      {
+        "filename": "CotWRock623P.png",
+        "url": "https://dreamcancel.com/w/images/4/4a/CotWRock623P.png"
+      }
+    ],
+    "Rock6D+REV.png": [
+      {
+        "filename": "CotWRock6D+REV.png",
+        "url": "https://dreamcancel.com/w/images/2/2b/CotWRock6D%2BREV.png"
+      }
+    ],
+    "Rock6JumpA.png": [
+      {
+        "filename": "CotWRock6JumpA.png",
+        "url": "https://dreamcancel.com/w/images/5/59/CotWRock6JumpA.png"
+      }
+    ],
+    "RockBThrow.png": [
+      {
+        "filename": "CotWRockBThrow.png",
+        "url": "https://dreamcancel.com/w/images/6/6d/CotWRockBThrow.png"
+      }
+    ],
+    "RockCloseA.png": [
+      {
+        "filename": "CotWRockCloseA.png",
+        "url": "https://dreamcancel.com/w/images/b/b6/CotWRockCloseA.png"
+      }
+    ],
+    "RockCloseB.png": [
+      {
+        "filename": "CotWRockCloseB.png",
+        "url": "https://dreamcancel.com/w/images/9/9c/CotWRockCloseB.png"
+      }
+    ],
+    "RockCloseC.png": [
+      {
+        "filename": "CotWRockCloseC.png",
+        "url": "https://dreamcancel.com/w/images/2/24/CotWRockCloseC.png"
+      }
+    ],
+    "RockCloseD.png": [
+      {
+        "filename": "CotWRockCloseD.png",
+        "url": "https://dreamcancel.com/w/images/9/98/CotWRockCloseD.png"
+      }
+    ],
+    "RockCrouchA.png": [
+      {
+        "filename": "CotWRockCrouchA.png",
+        "url": "https://dreamcancel.com/w/images/7/7e/CotWRockCrouchA.png"
+      }
+    ],
+    "RockCrouchB.png": [
+      {
+        "filename": "CotWRockCrouchB.png",
+        "url": "https://dreamcancel.com/w/images/8/83/CotWRockCrouchB.png"
+      }
+    ],
+    "RockCrouchC.png": [
+      {
+        "filename": "CotWRockCrouchC.png",
+        "url": "https://dreamcancel.com/w/images/6/67/CotWRockCrouchC.png"
+      }
+    ],
+    "RockCrouchD.png": [
+      {
+        "filename": "CotWRockCrouchD.png",
+        "url": "https://dreamcancel.com/w/images/0/00/CotWRockCrouchD.png"
+      }
+    ],
+    "RockFThrow.png": [
+      {
+        "filename": "CotWRockFThrow.png",
+        "url": "https://dreamcancel.com/w/images/a/a8/CotWRockFThrow.png"
+      }
+    ],
+    "RockFarA.png": [
+      {
+        "filename": "CotWRockFarA.png",
+        "url": "https://dreamcancel.com/w/images/c/ce/CotWRockFarA.png"
+      }
+    ],
+    "RockFarB.png": [
+      {
+        "filename": "CotWRockFarB.png",
+        "url": "https://dreamcancel.com/w/images/e/e8/CotWRockFarB.png"
+      }
+    ],
+    "RockFarC.png": [
+      {
+        "filename": "CotWRockFarC.png",
+        "url": "https://dreamcancel.com/w/images/0/05/CotWRockFarC.png"
+      }
+    ],
+    "RockFarD.png": [
+      {
+        "filename": "CotWRockFarD.png",
+        "url": "https://dreamcancel.com/w/images/1/19/CotWRockFarD.png"
+      }
+    ],
+    "RockJumpA.png": [
+      {
+        "filename": "CotWRockJumpA.png",
+        "url": "https://dreamcancel.com/w/images/a/ad/CotWRockJumpA.png"
+      }
+    ],
+    "RockJumpB.png": [
+      {
+        "filename": "CotWRockJumpB.png",
+        "url": "https://dreamcancel.com/w/images/a/aa/CotWRockJumpB.png"
+      }
+    ],
+    "RockJumpC.png": [
+      {
+        "filename": "CotWRockJumpC.png",
+        "url": "https://dreamcancel.com/w/images/d/d9/CotWRockJumpC.png"
+      }
+    ],
+    "RockJumpD.png": [
+      {
+        "filename": "CotWRockJumpD.png",
+        "url": "https://dreamcancel.com/w/images/5/52/CotWRockJumpD.png"
+      }
+    ]
+  }
+}

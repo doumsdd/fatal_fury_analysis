@@ -1,88 +1,165 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Scraping des portraits et donnÃ©es pour Fatal Fury: City of the Wolves
+Recherche et téléchargement des portraits Fatal Fury COTW
 """
 
 import requests
-import os
 import json
-from config import API_ENDPOINT, CHARACTERS_FALLBACK, PORTRAITS_DIR
+import os
+import time
+from config import API_ENDPOINT, PORTRAITS_DIR
 
-# CrÃ©er le dossier portraits s'il n'existe pas
-os.makedirs(PORTRAITS_DIR, exist_ok=True)
-
-def get_page_image(page_name):
-    """RÃ©cupÃ¨re l'image principale d'une page wiki via l'API."""
-    url = f"{API_ENDPOINT}?action=query&titles={page_name}&prop=images&format=json"
-    try:
-        response = requests.get(url)
+def get_all_cotw_images():
+    """Récupère toutes les images CotW du wiki."""
+    all_images = []
+    continuation = None
+    
+    while True:
+        params = {
+            'action': 'query',
+            'format': 'json',
+            'list': 'allimages',
+            'aifrom': 'CotW',
+            'ailimit': '500'
+        }
+        
+        if continuation:
+            params['aicontinue'] = continuation
+        
+        response = requests.get(API_ENDPOINT, params=params, timeout=10)
         data = response.json()
-        if 'query' in data and 'pages' in data['query']:
-            pages = data['query']['pages']
-            page_id = list(pages.keys())[0]
-            images = pages[page_id].get('images', [])
-            # Cherche un fichier image dans les liens de la page
-            for img in images:
-                if img['title'].startswith("File:") or img['title'].startswith("File :"):
-                    return img['title'].replace("File:", "").replace("File :", "")
-        return None
-    except Exception as e:
-        print(f"Error fetching {page_name}: {e}")
-        return None
+        
+        if 'query' in data and 'allimages' in data:
+            all_images.extend(data['query']['allimages'])
+        
+        if 'continue' in data:
+            continuation = data['continue'].get('aicontinue')
+        else:
+            break
+    
+    return all_images
 
-def download_wiki_image(file_name, save_path):
-    """TÃ©lÃ©charge une image depuis le wiki."""
-    thumb_url = f"https://dreamcancel.com/wiki/Special:FilePath/{file_name}"
+def find_portraits(images):
+    """Extrait les portraits et splash arts des personnages."""
+    # Patterns typiques pour les portraits
+    portrait_keywords = [
+        '_Portrait.',
+        '_Splash.',
+        '_TitleScreen.',
+        '_Select.',
+        '_Icon.',
+        '_Win.',
+        '_Card.',
+        '_Banner.'
+    ]
+    
+    portraits = {}
+    move_animations = {}
+    
+    for img in images:
+        name = img['name']
+        
+        # Vérifier si c'est un portrait/splash
+        is_portrait = any(kw in name for kw in portrait_keywords)
+        
+        if is_portrait:
+            # Extraire le nom du personnage
+            char_name = name.split('_')[1] if len(name.split('_')) > 1 else "Unknown"
+            portraits[char_name] = img['url']
+        else:
+            # Stocker comme animation de coup si pertinent
+            if 'CotW_' in name or 'CotW' in name.split('_')[0]:
+                parts = name.split('_')
+                if len(parts) > 1:
+                    char_name = parts[1]
+                    if char_name not in move_animations:
+                        move_animations[char_name] = []
+                    move_animations[char_name].append({
+                        'name': name,
+                        'url': img['url']
+                    })
+    
+    return portraits, move_animations
+
+def download_image(url, filename):
+    """Télécharge une image."""
+    filepath = os.path.join(PORTRAITS_DIR, filename)
     try:
-        res = requests.get(thumb_url, stream=True)
+        res = requests.get(url, stream=True, timeout=10)
         if res.status_code == 200:
-            with open(save_path, 'wb') as f:
-                for chunk in res.iter_content(1024):
+            with open(filepath, 'wb') as f:
+                for chunk in res.iter_content(8192):
                     f.write(chunk)
             return True
     except Exception as e:
-        print(f"Failed to download {file_name}: {e}")
+        print(f"❌ Erreur lors du téléchargement de {filename}: {e}")
     return False
 
-if __name__ == "__main__":
-    portraits_map = {}
+def main():
+    print("🐺 Recherche et récupération des portraits FFCOTW\n")
     
-    # Liste des personnages principaux pour FFCOTW (peut Ãªtre enrichie)
-    ff_characters = [
-        "Terry Bogard", "Rock Howard", "Billy Kane", "B.Jenet", "Gato", 
-        "Hokutomaru", "Hotaru Futaba", "Kim Dong Hwan", "Kain R. Heinlein", 
-        "Kevin Rian", "Marco Rodrigues", "Mr. Big", "Salvatore Ganacci", 
-        "Vox Reaper", "Duck King", "Rick Strowd", "Preecha", "Laocorn Gaudeamus",
-        "Andy Bogard", "Joe Higashi", "Ken Masters", "Chun-Li", "Manjiro & Ken",
-        "Kim Jae Hoon", "Nightmare Geese", "Kim Kaphwan"
-    ]
-
-    print("Starting FFCOTW Portrait Extraction...")
+    os.makedirs(PORTRAITS_DIR, exist_ok=True)
     
-    for char in ff_characters:
-        file_name = get_page_image(char)
-        if file_name:
-            safe_name = char.replace(" ", "_").replace("&", "and")
-            filename = f"{safe_name}.png"
-            filepath = os.path.join(PORTRAITS_DIR, filename)
-            
-            if not os.path.exists(filepath):
-                print(f"Downloading {filename}...")
-                success = download_wiki_image(file_name, filepath)
-                if success:
-                    portraits_map[char] = filename
-                else:
-                    portraits_map[char] = None # Failed download
+    # Récupérer toutes les images
+    print("📥 Récupération des images du wiki DreamCancel...")
+    all_images = get_all_cotw_images()
+    print(f"✅ {len(all_images)} images trouvées au total\n")
+    
+    # Trier les images par personnage
+    characters = {}
+    for img in all_images:
+        name = img['name']
+        if 'CotW_' in name or name.startswith('CotW'):
+            prefix = name.replace('CotW_', '').replace('CotW', '', 1)
+            parts = prefix.split('_')
+            if len(parts) > 1:
+                char_name = parts[0]
+                if char_name not in characters:
+                    characters[char_name] = []
+                characters[char_name].append(img)
+    
+    print(f"📊 Personnages identifiés: {len(characters)}\n")
+    
+    # Essayer de trouver des portraits/spash arts
+    print("🔍 Recherche de portraits et splash arts...")
+    portraits_found = {}
+    
+    for char_name, imgs in characters.items():
+        # Chercher un portrait ou splash art
+        for img in imgs:
+            img_name = img['name']
+            # Identifier s'il s'agit d'un portrait
+            if any(pattern in img_name for pattern in ['.png', '.jpg', '.webp']):
+                # Si l'image ne semble pas être une animation de coup
+                if not any(kw in img_name for kw in ['214', '236', '28', '5C', '6A', 'CD', '2A', '2B', '2C', '2D', '3A', '3B', '3C', '6B', '6C', '4A', '4B', '4C', '4D', '7B', '7C']):
+                    portraits_found[char_name] = img
+    
+    print(f"✨ {len(portraits_found)} portraits/splash arts potentiels trouvés!\n")
+    
+    # Afficher la liste des personnages avec images
+    print("📋 Liste des personnages et types d'images:\n")
+    for char_name in sorted(characters.keys()):
+        imgs = characters[char_name]
+        img_types = set()
+        for img in imgs:
+            name = img['name']
+            if 'Portrait' in name or 'Splash' in name or 'TitleScreen' in name:
+                img_types.add('Portraits/Splash')
+            elif any(kw in name for kw in ['214', '236', '28', '5C', '6A', 'CD']):
+                img_types.add('Moves/Spécial')
             else:
-                portraits_map[char] = filename
-        
-        # Petit delay pour Ãªtre gentil avec le serveur
-        import time
-        time.sleep(0.5)
+                img_types.add('Autre')
+        print(f"  • {char_name:20s} : {len(imgs)} images - {', '.join(img_types)}")
+    
+    # Sauvegarder les données brutes
+    with open('ffcow_raw_images.json', 'w', encoding='utf-8') as f:
+        json.dump({'characters': dict(characters), 'portraits': portraits_found}, 
+                  f, ensure_ascii=False, indent=2)
+    
+    print(f"\n{'='*70}")
+    print(f"💾 Données sauvegardées dans: ffcow_raw_images.json")
+    print(f"{'='*70}\n")
 
-    # Sauvegarde du mapping
-    with open("portraits_mapping.json", "w", encoding="utf-8") as f:
-        json.dump(portraits_map, f, ensure_ascii=False, indent=2)
-        
-    print(f"\nDone! Found {len([k for v in portraits_map.values() if v])} portraits.")
+if __name__ == "__main__":
+    main()

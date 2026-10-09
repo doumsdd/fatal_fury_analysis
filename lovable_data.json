@@ -1,12 +1,266 @@
 [
-    {
-      "id": "demo",
-      "name": "Demo Character",
-      "stats": {
-        "strength": 50,
-        "speed": 50,
-        "defense": 50
-      },
-      "image": null
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Andy Bogard",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 2,
+    "name": "B.Jenet",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 3,
+    "name": "Billy Kane",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 4,
+    "name": "Blue Mary",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 5,
+    "name": "Cristiano Ronaldo",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 6,
+    "name": "Duck King",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 7,
+    "name": "Gato",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 8,
+    "name": "Joe Higashi",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 9,
+    "name": "Kain R. Heinlein",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 10,
+    "name": "Kenshiro",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 11,
+    "name": "Kevin Rian",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 12,
+    "name": "Kim Jae Hoon",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 13,
+    "name": "Kim Kaphwan",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 14,
+    "name": "Laocorn Gaudeamus",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 15,
+    "name": "Marco Rodrigues",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 16,
+    "name": "Mr. Karate",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 17,
+    "name": "Nightmare Geese",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 18,
+    "name": "Preecha",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 19,
+    "name": "Rick Strowd",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 20,
+    "name": "Rock Howard",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 21,
+    "name": "Salvatore Ganacci",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 22,
+    "name": "Terry Bogard",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 23,
+    "name": "Vox Reaper",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  },
+  {
+    "id": 24,
+    "name": "Wolfgang Krauser",
+    "image": null,
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "DLC"
+  }
+]
