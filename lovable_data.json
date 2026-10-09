@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Andy Bogard",
-    "image": null,
+    "image": "Andy_Bogard.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -12,8 +12,8 @@
   },
   {
     "id": 2,
-    "name": "B.Jenet",
-    "image": null,
+    "name": "Billy Kane",
+    "image": "Billy_Kane.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -23,8 +23,8 @@
   },
   {
     "id": 3,
-    "name": "Billy Kane",
-    "image": null,
+    "name": "Gato",
+    "image": "Gato.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -34,8 +34,8 @@
   },
   {
     "id": 4,
-    "name": "Blue Mary",
-    "image": null,
+    "name": "Hokutomaru",
+    "image": "Hokutomaru.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -45,8 +45,8 @@
   },
   {
     "id": 5,
-    "name": "Cristiano Ronaldo",
-    "image": null,
+    "name": "Joe Higashi",
+    "image": "Joe_Higashi.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -56,8 +56,8 @@
   },
   {
     "id": 6,
-    "name": "Duck King",
-    "image": null,
+    "name": "Kenshiro",
+    "image": "Kenshiro.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -67,8 +67,8 @@
   },
   {
     "id": 7,
-    "name": "Gato",
-    "image": null,
+    "name": "Mr. Karate",
+    "image": "Mr._Karate.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -78,8 +78,8 @@
   },
   {
     "id": 8,
-    "name": "Joe Higashi",
-    "image": null,
+    "name": "Nightmare Geese",
+    "image": "Nightmare_Geese.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -89,8 +89,8 @@
   },
   {
     "id": 9,
-    "name": "Kain R. Heinlein",
-    "image": null,
+    "name": "Preecha",
+    "image": "Preecha.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -100,8 +100,8 @@
   },
   {
     "id": 10,
-    "name": "Kenshiro",
-    "image": null,
+    "name": "Rock Howard",
+    "image": "Rock_Howard.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
@@ -111,156 +111,13 @@
   },
   {
     "id": 11,
-    "name": "Kevin Rian",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 12,
-    "name": "Kim Jae Hoon",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 13,
-    "name": "Kim Kaphwan",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 14,
-    "name": "Laocorn Gaudeamus",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 15,
-    "name": "Marco Rodrigues",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 16,
-    "name": "Mr. Karate",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 17,
-    "name": "Nightmare Geese",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 18,
-    "name": "Preecha",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
-  },
-  {
-    "id": 19,
-    "name": "Rick Strowd",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
-  },
-  {
-    "id": 20,
-    "name": "Rock Howard",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
-  },
-  {
-    "id": 21,
-    "name": "Salvatore Ganacci",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
-  },
-  {
-    "id": 22,
     "name": "Terry Bogard",
-    "image": null,
+    "image": "Terry_Bogard.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
       "game": "Fatal Fury: City of the Wolves"
     },
-    "availability": "DLC"
-  },
-  {
-    "id": 23,
-    "name": "Vox Reaper",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
-  },
-  {
-    "id": 24,
-    "name": "Wolfgang Krauser",
-    "image": null,
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "DLC"
+    "availability": "Released"
   }
 ]
