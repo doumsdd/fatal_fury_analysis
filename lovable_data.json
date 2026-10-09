@@ -210,6 +210,17 @@
   },
   {
     "id": 20,
+    "name": "Nightmare Geese",
+    "image": "Nightmare_Geese.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 21,
     "name": "Preecha",
     "image": "Preecha.png",
     "stats": {
@@ -220,7 +231,7 @@
     "availability": "Released"
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "Rick Strowd",
     "image": "Rick_Strowd.png",
     "stats": {
@@ -231,7 +242,7 @@
     "availability": "Released"
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Rock Howard",
     "image": "Rock_Howard.png",
     "stats": {
@@ -242,7 +253,7 @@
     "availability": "Released"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Salvatore Ganacci",
     "image": "Salvatore_Ganacci.png",
     "stats": {
@@ -253,7 +264,7 @@
     "availability": "Released"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Terry Bogard",
     "image": "Terry_Bogard.png",
     "stats": {
@@ -264,7 +275,18 @@
     "availability": "Released"
   },
   {
-    "id": 25,
+    "id": 26,
+    "name": "Tizoc",
+    "image": "Tizoc.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 27,
     "name": "Vox Reaper",
     "image": "Vox_Reaper.png",
     "stats": {
@@ -275,7 +297,7 @@
     "availability": "Released"
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Wolfgang Krauser",
     "image": "Wolfgang_Krauser.png",
     "stats": {

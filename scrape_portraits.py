@@ -24,7 +24,7 @@ def get_all_ff_cotw_icons():
         "BJenet": ("B.Jenet", "FF_COTW_B_Jenet_Icon"),
         "Gato": ("Gato", "FF_COTW_Gato_Icon"),
         "Hokutomaru": ("Hokutomaru", "FF_COTW_Hokutomaru_Icon"),
-        "Hotaru Futaba": ("Hotaru Futaba", "FF_COTW_Hotaru_Futaba_Icon"),
+        "HotaruFutaba": ("Hotaru Futaba", "FF_COTW_Hotaru_Futaba_Icon"),
         "KimDongHwan": ("Kim Dong Hwan", "FF_COTW_Kim_Dong_Hwan_Icon"),
         "KainRHeinlein": ("Kain R. Heinlein", "FF_COTW_Kain_R_Heinlein_Icon"),
         "Kevin": ("Kevin Rian", "FF_COTW_Kevin_Icon"),
@@ -35,8 +35,7 @@ def get_all_ff_cotw_icons():
         "DuckKing": ("Duck King", "FF_COTW_Duck_King_Icon"),
         "Rick": ("Rick Strowd", "FF_COTW_Rick_Icon"),
         "Preecha": ("Preecha", "FF_COTW_Preecha_Icon"),
-        "LaocornGaudeamus": ("Laocorn Gaudeamus", "FF_COTW_Laocorn_Gaudeamus_Icon"),
-        "Ken Masters": ("Ken Masters", "FF_COTW_Ken_Icon"),
+        "KenMasters": ("Ken Masters", "FF_COTW_Ken_Icon"),
         "ChunLi": ("Chun-Li", "FF_COTW_Chun-Li_Icon"),
         "JaeHoon": ("Kim Jae Hoon", "COTW_Jae_Hoon_Icon"),
         "Kim": ("Kim Kaphwan", "FF_COTW_Kim_Icon"),
@@ -45,8 +44,17 @@ def get_all_ff_cotw_icons():
         "Krauser": ("Wolfgang Krauser", "FF_COTW_Krauser_Icon"),
         "MrKarate": ("Mr. Karate", "FF_COTW_Mr_Karate_Icon"),
         "Kenshiro": ("Kenshiro", "FF_COTW_Kenshiro_Icon"),
-        "Mai": ("Mai Shiranui", "FF_COTW_Mai_Icon")
+        "Mai": ("Mai Shiranui", "FF_COTW_Mai_Icon"),
+        "Tizoc": ("Tizoc", "FF_COTW_Tizoc_Icon"),
+        "NightmareGeese": ("Nightmare Geese", "FF_COTW_Nightmare_Geese_Icon")
     }
+    
+    # Personnages exclus car non sortis sur le wiki:
+    # - Laocorn Gaudeamus (Sortie: Novembre 2026)
+    # - Manjiro & Ken (Sortie: Octobre 2026)
+    
+    # Personnages sans icônes disponibles sur le wiki à ce jour:
+    # - Hotaru Futaba, Kain R. Heinlein, Kim Dong Hwan
     
     all_chars = {}
     
