@@ -13,53 +13,52 @@ from config import API_ENDPOINT, PORTRAITS_DIR
 
 def get_all_ff_cotw_icons():
     """Récupère toutes les icônes de personnages FFCOTW."""
-    # Mapping des noms courts vers les noms complets
+    # Mapping exact des caractères de recherche vers les noms complets
+    # et les préfixes d'image car certains utilisent un format différent
     character_mapping = {
-        "Terry": "Terry Bogard",
-        "Rock": "Rock Howard",
-        "Andy": "Andy Bogard",
-        "Joe": "Joe Higashi",
-        "Billy": "Billy Kane",
-        "BJenet": "B.Jenet",
-        "Gato": "Gato",
-        "Hokutomaru": "Hokutomaru",
-        "Hotaru Futaba": "Hotaru Futaba",
-        "KimDongHwan": "Kim Dong Hwan",
-        "KainRHeinlein": "Kain R. Heinlein",
-        "Kevin Rian": "Kevin Rian",
-        "MarcoRodrigues": "Marco Rodrigues",
-        "MrBig": "Mr. Big",
-        "Salvatore Ganacci": "Salvatore Ganacci",
-        "Vox Reaper": "Vox Reaper",
-        "DuckKing": "Duck King",
-        "RickStrowd": "Rick Strowd",
-        "Preecha": "Preecha",
-        "LaocornGaudeamus": "Laocorn Gaudeamus",
-        "Ken Masters": "Ken Masters",
-        "ChunLi": "Chun-Li",
-        "KimJaeHoon": "Kim Jae Hoon",
-        "Nightmare Geese": "Nightmare Geese",
-        "Kim Kaphwan": "Kim Kaphwan",
-        "Blue Mary": "Blue Mary",
-        "Cristiano Ronaldo": "Cristiano Ronaldo",
-        "Wolfgang Krauser": "Wolfgang Krauser",
-        "Mr Karate": "Mr. Karate",
-        "Kenshiro": "Kenshiro",
-        "Mai Shiranui": "Mai Shiranui"
+        "Terry": ("Terry Bogard", "FF_COTW_Terry_Icon"),
+        "Rock": ("Rock Howard", "FF_COTW_Rock_Icon"),
+        "Andy": ("Andy Bogard", "FF_COTW_Andy_Icon"),
+        "Joe": ("Joe Higashi", "FF_COTW_Joe_Icon"),
+        "Billy": ("Billy Kane", "FF_COTW_Billy_Icon"),
+        "BJenet": ("B.Jenet", "FF_COTW_B_Jenet_Icon"),
+        "Gato": ("Gato", "FF_COTW_Gato_Icon"),
+        "Hokutomaru": ("Hokutomaru", "FF_COTW_Hokutomaru_Icon"),
+        "Hotaru Futaba": ("Hotaru Futaba", "FF_COTW_Hotaru_Futaba_Icon"),
+        "KimDongHwan": ("Kim Dong Hwan", "FF_COTW_Kim_Dong_Hwan_Icon"),
+        "KainRHeinlein": ("Kain R. Heinlein", "FF_COTW_Kain_R_Heinlein_Icon"),
+        "Kevin": ("Kevin Rian", "FF_COTW_Kevin_Icon"),
+        "Marco": ("Marco Rodrigues", "FF_COTW_Marco_Icon"),
+        "MrBig": ("Mr. Big", "FF_COTW_Mr_Big_Icon"),
+        "Salvatore": ("Salvatore Ganacci", "FF_COTW_Salvatore_Icon"),
+        "Vox Reaper": ("Vox Reaper", "FF_COTW_Vox_Icon"),
+        "DuckKing": ("Duck King", "FF_COTW_Duck_King_Icon"),
+        "Rick": ("Rick Strowd", "FF_COTW_Rick_Icon"),
+        "Preecha": ("Preecha", "FF_COTW_Preecha_Icon"),
+        "LaocornGaudeamus": ("Laocorn Gaudeamus", "FF_COTW_Laocorn_Gaudeamus_Icon"),
+        "Ken Masters": ("Ken Masters", "FF_COTW_Ken_Icon"),
+        "ChunLi": ("Chun-Li", "FF_COTW_Chun-Li_Icon"),
+        "JaeHoon": ("Kim Jae Hoon", "COTW_Jae_Hoon_Icon"),
+        "Kim": ("Kim Kaphwan", "FF_COTW_Kim_Icon"),
+        "Mary": ("Blue Mary", "FF_COTW_Mary_Icon"),
+        "CR7": ("Cristiano Ronaldo", "FF_COTW_CR7_Icon"),
+        "Krauser": ("Wolfgang Krauser", "FF_COTW_Krauser_Icon"),
+        "MrKarate": ("Mr. Karate", "FF_COTW_Mr_Karate_Icon"),
+        "Kenshiro": ("Kenshiro", "FF_COTW_Kenshiro_Icon"),
+        "Mai": ("Mai Shiranui", "FF_COTW_Mai_Icon")
     }
-    
-    # Liste des personnages à rechercher (espaces remplacés par rien)
-    characters_to_search = list(character_mapping.keys())
     
     all_chars = {}
     
-    for char_key in characters_to_search:
+    for search_key in character_mapping.keys():
+        display_name, image_prefix = character_mapping[search_key]
+        
         params = {
             'action': 'query',
             'format': 'json',
             'list': 'allimages',
-            'aiprefix': f'FF_COTW_{char_key}_Icon',
-            'ailimit': '10'
+            'aiprefix': f'{image_prefix}',
+            'ailimit': '5'
         }
         
         try:
@@ -68,17 +67,15 @@ def get_all_ff_cotw_icons():
             
             if 'query' in data and data['query']['allimages']:
                 img = data['query']['allimages'][0]
-                display_name = character_mapping[char_key]
                 all_chars[display_name] = {
                     'filename': img['name'],
                     'url': img['url']
                 }
+                print(f"  ✅ {display_name}: {img['name']}")
         except Exception as e:
-            print(f"  ⚠️ Error fetching {char_key}: {e}")
+            print(f"  ⚠️ Error fetching {display_name}: {e}")
     
-    print(f"\n✅ {len(all_chars)} icônes trouvées:")
-    for name, info in sorted(all_chars.items()):
-        print(f"  • {name}: {info['filename']}")
+    print(f"\n📊 Total trouvé: {len(all_chars)} icônes\n")
     
     return all_chars
 

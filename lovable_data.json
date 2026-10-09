@@ -12,6 +12,17 @@
   },
   {
     "id": 2,
+    "name": "B.Jenet",
+    "image": "B.Jenet.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 3,
     "name": "Billy Kane",
     "image": "Billy_Kane.png",
     "stats": {
@@ -22,7 +33,51 @@
     "availability": "Released"
   },
   {
-    "id": 3,
+    "id": 4,
+    "name": "Blue Mary",
+    "image": "Blue_Mary.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 5,
+    "name": "Chun-Li",
+    "image": "Chun-Li.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 6,
+    "name": "Cristiano Ronaldo",
+    "image": "Cristiano_Ronaldo.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 7,
+    "name": "Duck King",
+    "image": "Duck_King.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 8,
     "name": "Gato",
     "image": "Gato.png",
     "stats": {
@@ -33,7 +88,7 @@
     "availability": "Released"
   },
   {
-    "id": 4,
+    "id": 9,
     "name": "Hokutomaru",
     "image": "Hokutomaru.png",
     "stats": {
@@ -44,7 +99,7 @@
     "availability": "Released"
   },
   {
-    "id": 5,
+    "id": 10,
     "name": "Joe Higashi",
     "image": "Joe_Higashi.png",
     "stats": {
@@ -55,7 +110,18 @@
     "availability": "Released"
   },
   {
-    "id": 6,
+    "id": 11,
+    "name": "Ken Masters",
+    "image": "Ken_Masters.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 12,
     "name": "Kenshiro",
     "image": "Kenshiro.png",
     "stats": {
@@ -66,7 +132,73 @@
     "availability": "Released"
   },
   {
-    "id": 7,
+    "id": 13,
+    "name": "Kevin Rian",
+    "image": "Kevin_Rian.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 14,
+    "name": "Kim Jae Hoon",
+    "image": "Kim_Jae_Hoon.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 15,
+    "name": "Kim Kaphwan",
+    "image": "Kim_Kaphwan.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 16,
+    "name": "Mai Shiranui",
+    "image": "Mai_Shiranui.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 17,
+    "name": "Marco Rodrigues",
+    "image": "Marco_Rodrigues.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 18,
+    "name": "Mr. Big",
+    "image": "Mr._Big.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 19,
     "name": "Mr. Karate",
     "image": "Mr._Karate.png",
     "stats": {
@@ -77,18 +209,7 @@
     "availability": "Released"
   },
   {
-    "id": 8,
-    "name": "Nightmare Geese",
-    "image": "Nightmare_Geese.png",
-    "stats": {
-      "role": "Fighter",
-      "faction": "Fatal Fury Universe",
-      "game": "Fatal Fury: City of the Wolves"
-    },
-    "availability": "Released"
-  },
-  {
-    "id": 9,
+    "id": 20,
     "name": "Preecha",
     "image": "Preecha.png",
     "stats": {
@@ -99,7 +220,18 @@
     "availability": "Released"
   },
   {
-    "id": 10,
+    "id": 21,
+    "name": "Rick Strowd",
+    "image": "Rick_Strowd.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 22,
     "name": "Rock Howard",
     "image": "Rock_Howard.png",
     "stats": {
@@ -110,9 +242,42 @@
     "availability": "Released"
   },
   {
-    "id": 11,
+    "id": 23,
+    "name": "Salvatore Ganacci",
+    "image": "Salvatore_Ganacci.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 24,
     "name": "Terry Bogard",
     "image": "Terry_Bogard.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 25,
+    "name": "Vox Reaper",
+    "image": "Vox_Reaper.png",
+    "stats": {
+      "role": "Fighter",
+      "faction": "Fatal Fury Universe",
+      "game": "Fatal Fury: City of the Wolves"
+    },
+    "availability": "Released"
+  },
+  {
+    "id": 26,
+    "name": "Wolfgang Krauser",
+    "image": "Wolfgang_Krauser.png",
     "stats": {
       "role": "Fighter",
       "faction": "Fatal Fury Universe",
