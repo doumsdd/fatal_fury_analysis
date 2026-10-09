@@ -1,0 +1,8 @@
+# Standard Python requirements for this project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+beautifulsoup4
+requests

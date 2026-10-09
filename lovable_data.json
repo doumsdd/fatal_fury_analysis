@@ -1,0 +1,12 @@
+[
+    {
+      "id": "demo",
+      "name": "Demo Character",
+      "stats": {
+        "strength": 50,
+        "speed": 50,
+        "defense": 50
+      },
+      "image": null
+    }
+  ]
