@@ -8,7 +8,8 @@ from pathlib import Path
 from config import API_ENDPOINT, CHARACTERS_LIST, PAGES_HTML_DIR, OUTPUT_CSV_RAW, OUTPUT_CSV_CLEAN, REQUEST_DELAY
 
 def get_character_html(character_name):
-    slug = character_name.replace(' ', '_')
+    # Normaliser le nom de personnage pour l'API wiki (. -> _)
+    slug = character_name.replace(' ', '_').replace('.', '_')
     page_title = f"Fatal_Fury:_City_of_the_Wolves/{slug}"
     try:
         params = {'action': 'parse', 'page': page_title, 'prop': 'text', 'format': 'json'}

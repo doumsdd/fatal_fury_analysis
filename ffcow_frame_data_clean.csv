@@ -1,1820 +1,1776 @@
 ﻿Character,name,damage,startup,active_frames,recovery
-Andy Bogard,-,,15,,
-Andy Bogard,-,,25,,
-Andy Bogard,-,,19,31,
-Andy Bogard,100,100,9,4,22
-Andy Bogard,100,100,10,3,24
-Andy Bogard,100,100,13,4,1
-Andy Bogard,100,100,17,6,3
-Andy Bogard,100,100,44,11,13
-Andy Bogard,100 (20+10x3+20+30),100,16,5,20
-Andy Bogard,100 (30+15x3+25),100,1,8,18
-Andy Bogard,110 (30x2+50),110,18,11,150
-Andy Bogard,110 (30x3+20),110,23,37,94
-Andy Bogard,120,120,5,3,26
-Andy Bogard,120 (30+10x4+50),120,1,7,16
-Andy Bogard,120 (40+80),120,5,3,26
-Andy Bogard,132,132,25,5,21
-Andy Bogard,132 (66x2),132,17,11,19
-Andy Bogard,140 (40x2+60),140,5,8,40
-Andy Bogard,160 (40x2+80),160,5,8,40
-Andy Bogard,220 (40+20x5+80),220,10,33,33
-Andy Bogard,25,25,4,3,9
-Andy Bogard,25,25,5,3,9
-Andy Bogard,250 (60+20x4+110),250,8,5,39
-Andy Bogard,290 (50+20x9+10+50),290,9,33,38
-Andy Bogard,30,30,6,3,9
-Andy Bogard,30,30,5,4,7
-Andy Bogard,30,30,5,4,10
-Andy Bogard,30,30,5,3,
-Andy Bogard,320 (20+40x2+10x5x+40+10x4+90),320,9,7,5
-Andy Bogard,35,35,5,4,13
-Andy Bogard,35,35,4,8,2
-Andy Bogard,40,40,4,8,2
-Andy Bogard,40,40,7,6,2
-Andy Bogard,40,40,10,4,19
-Andy Bogard,40,40,9,5,22
-Andy Bogard,451 (77+110+264),451,6,53,11
-Andy Bogard,50,50,10,3,21
-Andy Bogard,55 (30+25),55,7,4,18
-Andy Bogard,60,60,13,31,1
-Andy Bogard,60,60,15,31,1
-Andy Bogard,60,60,13,5,100
-Andy Bogard,60,60,15,5,100
-Andy Bogard,60,60,10,7,16
-Andy Bogard,60,60,15,9,18
-Andy Bogard,60,60,15,10,18
-Andy Bogard,60,60,9,5,22
-Andy Bogard,60,60,12,2,18
-Andy Bogard,65,65,8,4,17
-Andy Bogard,65 (20+45),65,6,3,23
-Andy Bogard,70,70,8,5,2
-Andy Bogard,70,70,13,4,19
-Andy Bogard,75,75,9,5,18
-Andy Bogard,80,80,12,4,22
-Andy Bogard,80,80,10,4,19
-Andy Bogard,80,80,10,5,2
-Andy Bogard,80,80,10,4,17
-Andy Bogard,80,80,24,4,17
-Andy Bogard,80,80,24,4,19
-Andy Bogard,80,80,12,2,23
-Andy Bogard,80 (10+20x3+10),80,14,5,23
-Andy Bogard,80 (50+10x3),80,6,14,42
-Andy Bogard,90,90,13,4,0
-Andy Bogard,90,90,13,5,2
-Andy Bogard,90,90,46,11,13
-Andy Bogard,90 (20x4+10),90,1,17,5
-Billy Kane,-,,20,,
-Billy Kane,100,100,10,3,26
-Billy Kane,100 (20x5),100,14,4,17
-Billy Kane,100 (40+30+10x3),100,15,4,11
-Billy Kane,10xhit,10,11,20,6
-Billy Kane,110 (20+30+20x3),110,16,4,15
-Billy Kane,120 (50+10x4+30),120,5,3,26
-Billy Kane,120 (60x2),120,5,3,26
-Billy Kane,132,132,24,5,3
-Billy Kane,132 (110+22),132,25,4,26
-Billy Kane,20,20,16,2,22
-Billy Kane,20,20,12,4,19
-Billy Kane,20,20,16,4,20
-Billy Kane,20,20,16,4,25
-Billy Kane,20,20,18,4,25
-Billy Kane,20030x2+20x5+60,20030,10,11,52
-Billy Kane,230 (25x6+80),230,7,68,61
-Billy Kane,25,25,5,4,9
-Billy Kane,29080 +20x2 +10x9 +80,29080,11,6,37
-Billy Kane,30,30,7,3,13
-Billy Kane,30,30,15,3,20
-Billy Kane,30,30,16,4,15
-Billy Kane,310 (8x20+150),310,6,90,92
-Billy Kane,35,35,4,4,8
-Billy Kane,40,40,8,4,14
-Billy Kane,40,40,6,4,7
-Billy Kane,40,40,9,7,2
-Billy Kane,40,40,6,6,2
-Billy Kane,40,40,6,4,4
-Billy Kane,40,40,7,1,21
-Billy Kane,40,40,11,1,20
-Billy Kane,40,40,7,3,29
-Billy Kane,40,40,15,2,20
-Billy Kane,429 (55+88+5x21+181),429,6,5,48
-Billy Kane,45,45,7,3,11
-Billy Kane,50,50,9,7,2
-Billy Kane,50,50,9,3,29
-Billy Kane,50,50,16,3,26
-Billy Kane,50,50,16,3,28
-Billy Kane,60,60,8,4,15
-Billy Kane,60,60,12,3,24
-Billy Kane,60,60,21,4,23
-Billy Kane,60,60,7,4,29
-Billy Kane,60,60,11,3,27
-Billy Kane,60,60,16,3,26
-Billy Kane,60 (20x3),60,17,6,29
-Billy Kane,70,70,8,4,19
-Billy Kane,70,70,15,4,2
-Billy Kane,70,70,14,4,17
-Billy Kane,75,75,14,4,27
-Billy Kane,80,80,7,4,21
-Billy Kane,80,80,9,4,21
-Billy Kane,80,80,8,5,2
-Billy Kane,80,80,22,4,17
-Billy Kane,80,80,24,3,19
-Billy Kane,80,80,15,423,18
-Billy Kane,80,80,17,4,25
-Billy Kane,80,80,12,3,28
-Billy Kane,80,80,17,3,33
-Billy Kane,80 (30+50),80,11,4,18
-Billy Kane,80 (40x2),80,12,4,27
-Billy Kane,90,90,10,4,20
-Billy Kane,90,90,9,3,24
-Billy Kane,90,90,20,11,17
-Billy Kane,90/60,90,10,3,21
-Blue Mary,-,,34,,
-Blue Mary,-,,17,,
-Blue Mary,-,,18,37,6
-Blue Mary,-,,18,37,4
-Blue Mary,-,,15,23,
-Blue Mary,-,,14,19,
-Blue Mary,-,,17,25,
-Blue Mary,-,,37,6,
-Blue Mary,-,,37,4,
-Blue Mary,100,100,6,15,15
-Blue Mary,10010 + 20 + 10 + 20 + 40,10010,2,8,11
-Blue Mary,10010 + 20 + 10 + 20 +40,10010,7,11,49
-Blue Mary,120,120,5,3,26
-Blue Mary,120,120,5,3,26
-Blue Mary,132,132,25,4,23
-Blue Mary,132 (77+55),132,22,20,51
-Blue Mary,140,140,3,2,43
-Blue Mary,140 (40+100),140,3,2,43
-Blue Mary,140 [160],140,4,2,57
-Blue Mary,160 [140],160,4,2,43
-Blue Mary,25,25,5,4,9
-Blue Mary,2600 + 70 + 30x3 + 100,2600,6,10,60
-Blue Mary,280,280,2,2,50
-Blue Mary,2A,2,12,14,8
-Blue Mary,2C,2,2,7,2
-Blue Mary,30,30,5,3,8
-Blue Mary,30,30,4,3,8
-Blue Mary,30,30,5,3,8
-Blue Mary,30,30,4,6,2
-Blue Mary,320 (100+220),320,1,1,50
-Blue Mary,35,35,6,4,10
-Blue Mary,3500 + 70 + 20x5 + 180,3500,6,10,59
-Blue Mary,40,40,6,3,6
-Blue Mary,40,40,6,6,2
-Blue Mary,40,40,10,3,19
-Blue Mary,40 (20x2),40,2,9,12
-Blue Mary,41855 + 33x6 + 22x2 + 33 + 88,41855,6,5,46
-Blue Mary,50,50,4,8,2
-Blue Mary,50,50,20,2,18
-Blue Mary,50,50,9,4,24
-Blue Mary,50,50,11,3,20
-Blue Mary,50,50,26,5,16
-Blue Mary,56 (20+40),56,9,5,17
-Blue Mary,60,60,22,4,16
-Blue Mary,60,60,38,,
-Blue Mary,60,60,14,15,15
-Blue Mary,60,60,41,,
-Blue Mary,60 (30x2),60,9,12,47
-Blue Mary,60 (40 + 20),60,40,,
-Blue Mary,70,70,7,3,21
-Blue Mary,70,70,11,3,19
-Blue Mary,70,70,25,4,16
-Blue Mary,70,70,38,,
-Blue Mary,70,70,10,15,15
-Blue Mary,70,70,44,,
-Blue Mary,70,70,24,5,15
-Blue Mary,70 (20+50),70,5,11,43
-Blue Mary,70 (30 + 40),70,2,7,5
-Blue Mary,75 (30+50),75,23,3,15
-Blue Mary,80,80,8,4,19
-Blue Mary,80,80,10,5,2
-Blue Mary,80,80,9,3,26
-Blue Mary,80,80,14,15,15
-Blue Mary,80,80,24,4,3
-Blue Mary,80,80,7,15,17
-Blue Mary,80 (30+50),80,23,3,18
-Blue Mary,85,85,11,3,19
-Blue Mary,90,90,9,3,17
-Blue Mary,90,90,9,4,20
-Blue Mary,90,90,8,5,2
-Blue Mary,90,90,9,1,24
-Blue Mary,"Mary takes a single swift step forwards.During Quick step, Mary can cancel into any of her ""Quick"" specials or any version of her M. Arrest: D.These ""Quick"" specials are enhanced with better damage and/or frame advantage.Quick Step's travel distance is slightly cut short if cancelled.236A/C :Lasts exactly as many frames as her regular forward dash (23) but travels further.Cancellable on frame 14.Any move -4 or better on block will be uninterruptible/gapless if cancelled into Quick Step: A > Quick Counter. (See table below)236AC :Travels even further than regular versions and has 4 fewer total frames.Cancellable on frame 13.Any move -7 or better on block will be uninterruptible/gapless if cancelled into REV Quick Step: A > REV Quick Counter. (See table below)Frame advantage on Quick Step cancelsMoveOn HitOn BlockOn Hit (REV)On Block (REV)cl. A-13-14-9-10cl. B-10-14-6-10cl. C+1-4+5+0cl. D+2-2+6+2f. C-3-7+1-32A-12-14-8-102C-2-7+2-3REV Slicer--KD+0",236,13,14,9
-Blue Mary,REV Slicer,,0,,
-Blue Mary,cl. A,13,14,9,10
-Blue Mary,cl. B,10,14,6,10
-Blue Mary,cl. C,1,4,5,0
-Blue Mary,cl. D,2,2,6,2
-Blue Mary,f. C,3,7,1,3
-Chun-Li,-,,25,,
-Chun-Li,-,,18,,
-Chun-Li,100,100,9,4,22
-Chun-Li,100,100,5,2,6
-Chun-Li,100 (10x6 + 40),100,16,75,8
-Chun-Li,100 (20x5),100,7,,
-Chun-Li,100 (20x5),100,5,,
-Chun-Li,100 (30+30+10+30),100,7,60,28
-Chun-Li,110,110,28,1,2
-Chun-Li,120,120,5,3,26
-Chun-Li,120 (10x9 + 30),120,5,18,82
-Chun-Li,120 (60x2),120,5,3,26
-Chun-Li,130,130,25,1,2
-Chun-Li,130 (10x7 + 60),130,10,81,14
-Chun-Li,130 (40+30+10x3+30),130,2,6,60
-Chun-Li,132 [120],132,25,4,23
-Chun-Li,132 [120],132,20,4,66
-Chun-Li,18010x16 + 20,18010,11,55,29
-Chun-Li,20,20,5,15,2
-Chun-Li,20,20,6,15,2
-Chun-Li,24010x11 + 120,24010,8,46,46
-Chun-Li,25,25,5,3,10
-Chun-Li,25,25,5,4,11
-Chun-Li,30,30,5,3,11
-Chun-Li,30,30,9,4,2
-Chun-Li,30x2,30,5,3,2
-Chun-Li,31020x14 + 30,31020,7,42,35
-Chun-Li,3366x15 + 20 + 220,3366,17,10,17
-Chun-Li,35,35,6,4,13
-Chun-Li,40,40,6,6,2
-Chun-Li,40,40,7,16,2
-Chun-Li,46788+33+11x15+27+44+110,46788,6,6,35
-Chun-Li,50,50,5,6,2
-Chun-Li,50,50,4,10,2
-Chun-Li,50,50,8,4,2
-Chun-Li,50,50,22,4,15
-Chun-Li,50,50,8,3,18
-Chun-Li,50,50,7,4,16
-Chun-Li,50,50,12,1,6
-Chun-Li,60,60,7,3,17
-Chun-Li,60,60,9,3,19
-Chun-Li,60,60,10,4,15
-Chun-Li,60,60,21,3,20
-Chun-Li,60,60,36,2,11
-Chun-Li,60,60,17,3,5
-Chun-Li,60,60,15,6,8
-Chun-Li,70,70,6,3,16
-Chun-Li,70,70,9,6,15
-Chun-Li,70 (10x4 + 30),70,10,1,3
-Chun-Li,80,80,11,4,23
-Chun-Li,80,80,11,4,20
-Chun-Li,80,80,23,2,2
-Chun-Li,80 (30+50),80,17,3,3
-Chun-Li,80 (30+50),80,5,59,33
-Chun-Li,85,85,9,4,19
-Chun-Li,90,90,11,4,16
-Chun-Li,90,90,8,5,2
-Chun-Li,90,90,10,5,2
-Chun-Li,90,90,16,5,19
-Chun-Li,90,90,10,4,22
-Chun-Li,90,90,26,1,2
-Chun-Li,90 (10x3 + 60),90,10,52,16
-Chun-Li,90 (10x4 + 50),90,23,73,8
-Chun-Li,95 (30+65),95,11,2,22
-Cristiano Ronaldo,-,,1,,
-Cristiano Ronaldo,-,,8,,
-Cristiano Ronaldo,-,,12,,
+Andy Bogard,-,,15.0,,
+Andy Bogard,-,,25.0,,
+Andy Bogard,-,,19.0,31.0,
+Andy Bogard,100,100.0,9.0,4.0,22.0
+Andy Bogard,100,100.0,10.0,3.0,24.0
+Andy Bogard,100,100.0,13.0,4.0,1.0
+Andy Bogard,100,100.0,17.0,6.0,3.0
+Andy Bogard,100,100.0,44.0,11.0,13.0
+Andy Bogard,100 (20+10x3+20+30),100.0,16.0,5.0,20.0
+Andy Bogard,100 (30+15x3+25),100.0,1.0,8.0,18.0
+Andy Bogard,110 (30x2+50),110.0,18.0,11.0,150.0
+Andy Bogard,110 (30x3+20),110.0,23.0,37.0,94.0
+Andy Bogard,120,120.0,5.0,3.0,26.0
+Andy Bogard,120 (30+10x4+50),120.0,1.0,7.0,16.0
+Andy Bogard,120 (40+80),120.0,5.0,3.0,26.0
+Andy Bogard,132,132.0,25.0,5.0,21.0
+Andy Bogard,132 (66x2),132.0,17.0,11.0,19.0
+Andy Bogard,140 (40x2+60),140.0,5.0,8.0,40.0
+Andy Bogard,160 (40x2+80),160.0,5.0,8.0,40.0
+Andy Bogard,220 (40+20x5+80),220.0,10.0,33.0,33.0
+Andy Bogard,25,25.0,4.0,3.0,9.0
+Andy Bogard,25,25.0,5.0,3.0,9.0
+Andy Bogard,250 (60+20x4+110),250.0,8.0,5.0,39.0
+Andy Bogard,290 (50+20x9+10+50),290.0,9.0,33.0,38.0
+Andy Bogard,30,30.0,6.0,3.0,9.0
+Andy Bogard,30,30.0,5.0,4.0,7.0
+Andy Bogard,30,30.0,5.0,4.0,10.0
+Andy Bogard,30,30.0,5.0,3.0,
+Andy Bogard,320 (20+40x2+10x5x+40+10x4+90),320.0,9.0,7.0,5.0
+Andy Bogard,35,35.0,5.0,4.0,13.0
+Andy Bogard,35,35.0,4.0,8.0,2.0
+Andy Bogard,40,40.0,4.0,8.0,2.0
+Andy Bogard,40,40.0,7.0,6.0,2.0
+Andy Bogard,40,40.0,10.0,4.0,19.0
+Andy Bogard,40,40.0,9.0,5.0,22.0
+Andy Bogard,451 (77+110+264),451.0,6.0,53.0,11.0
+Andy Bogard,50,50.0,10.0,3.0,21.0
+Andy Bogard,55 (30+25),55.0,7.0,4.0,18.0
+Andy Bogard,60,60.0,13.0,31.0,1.0
+Andy Bogard,60,60.0,15.0,31.0,1.0
+Andy Bogard,60,60.0,13.0,5.0,100.0
+Andy Bogard,60,60.0,15.0,5.0,100.0
+Andy Bogard,60,60.0,10.0,7.0,16.0
+Andy Bogard,60,60.0,15.0,9.0,18.0
+Andy Bogard,60,60.0,15.0,10.0,18.0
+Andy Bogard,60,60.0,9.0,5.0,22.0
+Andy Bogard,60,60.0,12.0,2.0,18.0
+Andy Bogard,65,65.0,8.0,4.0,17.0
+Andy Bogard,65 (20+45),65.0,6.0,3.0,23.0
+Andy Bogard,70,70.0,8.0,5.0,2.0
+Andy Bogard,70,70.0,13.0,4.0,19.0
+Andy Bogard,75,75.0,9.0,5.0,18.0
+Andy Bogard,80,80.0,12.0,4.0,22.0
+Andy Bogard,80,80.0,10.0,4.0,19.0
+Andy Bogard,80,80.0,10.0,5.0,2.0
+Andy Bogard,80,80.0,10.0,4.0,17.0
+Andy Bogard,80,80.0,24.0,4.0,17.0
+Andy Bogard,80,80.0,24.0,4.0,19.0
+Andy Bogard,80,80.0,12.0,2.0,23.0
+Andy Bogard,80 (10+20x3+10),80.0,14.0,5.0,23.0
+Andy Bogard,80 (50+10x3),80.0,6.0,14.0,42.0
+Andy Bogard,90,90.0,13.0,4.0,0.0
+Andy Bogard,90,90.0,13.0,5.0,2.0
+Andy Bogard,90,90.0,46.0,11.0,13.0
+Andy Bogard,90 (20x4+10),90.0,1.0,17.0,5.0
+Billy Kane,-,,20.0,,
+Billy Kane,100,100.0,10.0,3.0,26.0
+Billy Kane,100 (20x5),100.0,14.0,4.0,17.0
+Billy Kane,100 (40+30+10x3),100.0,15.0,4.0,11.0
+Billy Kane,10xhit,10.0,11.0,20.0,6.0
+Billy Kane,110 (20+30+20x3),110.0,16.0,4.0,15.0
+Billy Kane,120 (50+10x4+30),120.0,5.0,3.0,26.0
+Billy Kane,120 (60x2),120.0,5.0,3.0,26.0
+Billy Kane,132,132.0,24.0,5.0,3.0
+Billy Kane,132 (110+22),132.0,25.0,4.0,26.0
+Billy Kane,20,20.0,16.0,2.0,22.0
+Billy Kane,20,20.0,12.0,4.0,19.0
+Billy Kane,20,20.0,16.0,4.0,20.0
+Billy Kane,20,20.0,16.0,4.0,25.0
+Billy Kane,20,20.0,18.0,4.0,25.0
+Billy Kane,20030x2+20x5+60,20030.0,10.0,11.0,52.0
+Billy Kane,230 (25x6+80),230.0,7.0,68.0,61.0
+Billy Kane,25,25.0,5.0,4.0,9.0
+Billy Kane,29080 +20x2 +10x9 +80,29080.0,11.0,6.0,37.0
+Billy Kane,30,30.0,7.0,3.0,13.0
+Billy Kane,30,30.0,15.0,3.0,20.0
+Billy Kane,30,30.0,16.0,4.0,15.0
+Billy Kane,310 (8x20+150),310.0,6.0,90.0,92.0
+Billy Kane,35,35.0,4.0,4.0,8.0
+Billy Kane,40,40.0,8.0,4.0,14.0
+Billy Kane,40,40.0,6.0,4.0,7.0
+Billy Kane,40,40.0,9.0,7.0,2.0
+Billy Kane,40,40.0,6.0,6.0,2.0
+Billy Kane,40,40.0,6.0,4.0,4.0
+Billy Kane,40,40.0,7.0,1.0,21.0
+Billy Kane,40,40.0,11.0,1.0,20.0
+Billy Kane,40,40.0,7.0,3.0,29.0
+Billy Kane,40,40.0,15.0,2.0,20.0
+Billy Kane,429 (55+88+5x21+181),429.0,6.0,5.0,48.0
+Billy Kane,45,45.0,7.0,3.0,11.0
+Billy Kane,50,50.0,9.0,7.0,2.0
+Billy Kane,50,50.0,9.0,3.0,29.0
+Billy Kane,50,50.0,16.0,3.0,26.0
+Billy Kane,50,50.0,16.0,3.0,28.0
+Billy Kane,60,60.0,8.0,4.0,15.0
+Billy Kane,60,60.0,12.0,3.0,24.0
+Billy Kane,60,60.0,21.0,4.0,23.0
+Billy Kane,60,60.0,7.0,4.0,29.0
+Billy Kane,60,60.0,11.0,3.0,27.0
+Billy Kane,60,60.0,16.0,3.0,26.0
+Billy Kane,60 (20x3),60.0,17.0,6.0,29.0
+Billy Kane,70,70.0,8.0,4.0,19.0
+Billy Kane,70,70.0,15.0,4.0,2.0
+Billy Kane,70,70.0,14.0,4.0,17.0
+Billy Kane,75,75.0,14.0,4.0,27.0
+Billy Kane,80,80.0,7.0,4.0,21.0
+Billy Kane,80,80.0,9.0,4.0,21.0
+Billy Kane,80,80.0,8.0,5.0,2.0
+Billy Kane,80,80.0,22.0,4.0,17.0
+Billy Kane,80,80.0,24.0,3.0,19.0
+Billy Kane,80,80.0,15.0,423.0,18.0
+Billy Kane,80,80.0,17.0,4.0,25.0
+Billy Kane,80,80.0,12.0,3.0,28.0
+Billy Kane,80,80.0,17.0,3.0,33.0
+Billy Kane,80 (30+50),80.0,11.0,4.0,18.0
+Billy Kane,80 (40x2),80.0,12.0,4.0,27.0
+Billy Kane,90,90.0,10.0,4.0,20.0
+Billy Kane,90,90.0,9.0,3.0,24.0
+Billy Kane,90,90.0,20.0,11.0,17.0
+Billy Kane,90/60,90.0,10.0,3.0,21.0
+Blue Mary,-,,34.0,,
+Blue Mary,-,,17.0,,
+Blue Mary,-,,18.0,37.0,6.0
+Blue Mary,-,,18.0,37.0,4.0
+Blue Mary,-,,15.0,23.0,
+Blue Mary,-,,14.0,19.0,
+Blue Mary,-,,17.0,25.0,
+Blue Mary,-,,37.0,6.0,
+Blue Mary,-,,37.0,4.0,
+Blue Mary,100,100.0,6.0,15.0,15.0
+Blue Mary,10010 + 20 + 10 + 20 + 40,10010.0,2.0,8.0,11.0
+Blue Mary,10010 + 20 + 10 + 20 +40,10010.0,7.0,11.0,49.0
+Blue Mary,120,120.0,5.0,3.0,26.0
+Blue Mary,120,120.0,5.0,3.0,26.0
+Blue Mary,132,132.0,25.0,4.0,23.0
+Blue Mary,132 (77+55),132.0,22.0,20.0,51.0
+Blue Mary,140,140.0,3.0,2.0,43.0
+Blue Mary,140 (40+100),140.0,3.0,2.0,43.0
+Blue Mary,140 [160],140.0,4.0,2.0,57.0
+Blue Mary,160 [140],160.0,4.0,2.0,43.0
+Blue Mary,25,25.0,5.0,4.0,9.0
+Blue Mary,2600 + 70 + 30x3 + 100,2600.0,6.0,10.0,60.0
+Blue Mary,280,280.0,2.0,2.0,50.0
+Blue Mary,2A,2.0,12.0,14.0,8.0
+Blue Mary,2C,2.0,2.0,7.0,2.0
+Blue Mary,30,30.0,5.0,3.0,8.0
+Blue Mary,30,30.0,4.0,3.0,8.0
+Blue Mary,30,30.0,5.0,3.0,8.0
+Blue Mary,30,30.0,4.0,6.0,2.0
+Blue Mary,320 (100+220),320.0,1.0,1.0,50.0
+Blue Mary,35,35.0,6.0,4.0,10.0
+Blue Mary,3500 + 70 + 20x5 + 180,3500.0,6.0,10.0,59.0
+Blue Mary,40,40.0,6.0,3.0,6.0
+Blue Mary,40,40.0,6.0,6.0,2.0
+Blue Mary,40,40.0,10.0,3.0,19.0
+Blue Mary,40 (20x2),40.0,2.0,9.0,12.0
+Blue Mary,41855 + 33x6 + 22x2 + 33 + 88,41855.0,6.0,5.0,46.0
+Blue Mary,50,50.0,4.0,8.0,2.0
+Blue Mary,50,50.0,20.0,2.0,18.0
+Blue Mary,50,50.0,9.0,4.0,24.0
+Blue Mary,50,50.0,11.0,3.0,20.0
+Blue Mary,50,50.0,26.0,5.0,16.0
+Blue Mary,56 (20+40),56.0,9.0,5.0,17.0
+Blue Mary,60,60.0,22.0,4.0,16.0
+Blue Mary,60,60.0,38.0,,
+Blue Mary,60,60.0,14.0,15.0,15.0
+Blue Mary,60,60.0,41.0,,
+Blue Mary,60 (30x2),60.0,9.0,12.0,47.0
+Blue Mary,60 (40 + 20),60.0,40.0,,
+Blue Mary,70,70.0,7.0,3.0,21.0
+Blue Mary,70,70.0,11.0,3.0,19.0
+Blue Mary,70,70.0,25.0,4.0,16.0
+Blue Mary,70,70.0,38.0,,
+Blue Mary,70,70.0,10.0,15.0,15.0
+Blue Mary,70,70.0,44.0,,
+Blue Mary,70,70.0,24.0,5.0,15.0
+Blue Mary,70 (20+50),70.0,5.0,11.0,43.0
+Blue Mary,70 (30 + 40),70.0,2.0,7.0,5.0
+Blue Mary,75 (30+50),75.0,23.0,3.0,15.0
+Blue Mary,80,80.0,8.0,4.0,19.0
+Blue Mary,80,80.0,10.0,5.0,2.0
+Blue Mary,80,80.0,9.0,3.0,26.0
+Blue Mary,80,80.0,14.0,15.0,15.0
+Blue Mary,80,80.0,24.0,4.0,3.0
+Blue Mary,80,80.0,7.0,15.0,17.0
+Blue Mary,80 (30+50),80.0,23.0,3.0,18.0
+Blue Mary,85,85.0,11.0,3.0,19.0
+Blue Mary,90,90.0,9.0,3.0,17.0
+Blue Mary,90,90.0,9.0,4.0,20.0
+Blue Mary,90,90.0,8.0,5.0,2.0
+Blue Mary,90,90.0,9.0,1.0,24.0
+Blue Mary,"Mary takes a single swift step forwards.During Quick step, Mary can cancel into any of her ""Quick"" specials or any version of her M. Arrest: D.These ""Quick"" specials are enhanced with better damage and/or frame advantage.Quick Step's travel distance is slightly cut short if cancelled.236A/C :Lasts exactly as many frames as her regular forward dash (23) but travels further.Cancellable on frame 14.Any move -4 or better on block will be uninterruptible/gapless if cancelled into Quick Step: A > Quick Counter. (See table below)236AC :Travels even further than regular versions and has 4 fewer total frames.Cancellable on frame 13.Any move -7 or better on block will be uninterruptible/gapless if cancelled into REV Quick Step: A > REV Quick Counter. (See table below)Frame advantage on Quick Step cancelsMoveOn HitOn BlockOn Hit (REV)On Block (REV)cl. A-13-14-9-10cl. B-10-14-6-10cl. C+1-4+5+0cl. D+2-2+6+2f. C-3-7+1-32A-12-14-8-102C-2-7+2-3REV Slicer--KD+0",236.0,13.0,14.0,9.0
+Blue Mary,REV Slicer,,0.0,,
+Blue Mary,cl. A,13.0,14.0,9.0,10.0
+Blue Mary,cl. B,10.0,14.0,6.0,10.0
+Blue Mary,cl. C,1.0,4.0,5.0,0.0
+Blue Mary,cl. D,2.0,2.0,6.0,2.0
+Blue Mary,f. C,3.0,7.0,1.0,3.0
+Chun-Li,-,,25.0,,
+Chun-Li,-,,18.0,,
+Chun-Li,100,100.0,9.0,4.0,22.0
+Chun-Li,100,100.0,5.0,2.0,6.0
+Chun-Li,100 (10x6 + 40),100.0,16.0,75.0,8.0
+Chun-Li,100 (20x5),100.0,7.0,,
+Chun-Li,100 (20x5),100.0,5.0,,
+Chun-Li,100 (30+30+10+30),100.0,7.0,60.0,28.0
+Chun-Li,110,110.0,28.0,1.0,2.0
+Chun-Li,120,120.0,5.0,3.0,26.0
+Chun-Li,120 (10x9 + 30),120.0,5.0,18.0,82.0
+Chun-Li,120 (60x2),120.0,5.0,3.0,26.0
+Chun-Li,130,130.0,25.0,1.0,2.0
+Chun-Li,130 (10x7 + 60),130.0,10.0,81.0,14.0
+Chun-Li,130 (40+30+10x3+30),130.0,2.0,6.0,60.0
+Chun-Li,132 [120],132.0,25.0,4.0,23.0
+Chun-Li,132 [120],132.0,20.0,4.0,66.0
+Chun-Li,18010x16 + 20,18010.0,11.0,55.0,29.0
+Chun-Li,20,20.0,5.0,15.0,2.0
+Chun-Li,20,20.0,6.0,15.0,2.0
+Chun-Li,24010x11 + 120,24010.0,8.0,46.0,46.0
+Chun-Li,25,25.0,5.0,3.0,10.0
+Chun-Li,25,25.0,5.0,4.0,11.0
+Chun-Li,30,30.0,5.0,3.0,11.0
+Chun-Li,30,30.0,9.0,4.0,2.0
+Chun-Li,30x2,30.0,5.0,3.0,2.0
+Chun-Li,31020x14 + 30,31020.0,7.0,42.0,35.0
+Chun-Li,3366x15 + 20 + 220,3366.0,17.0,10.0,17.0
+Chun-Li,35,35.0,6.0,4.0,13.0
+Chun-Li,40,40.0,6.0,6.0,2.0
+Chun-Li,40,40.0,7.0,16.0,2.0
+Chun-Li,46788+33+11x15+27+44+110,46788.0,6.0,6.0,35.0
+Chun-Li,50,50.0,5.0,6.0,2.0
+Chun-Li,50,50.0,4.0,10.0,2.0
+Chun-Li,50,50.0,8.0,4.0,2.0
+Chun-Li,50,50.0,22.0,4.0,15.0
+Chun-Li,50,50.0,8.0,3.0,18.0
+Chun-Li,50,50.0,7.0,4.0,16.0
+Chun-Li,50,50.0,12.0,1.0,6.0
+Chun-Li,60,60.0,7.0,3.0,17.0
+Chun-Li,60,60.0,9.0,3.0,19.0
+Chun-Li,60,60.0,10.0,4.0,15.0
+Chun-Li,60,60.0,21.0,3.0,20.0
+Chun-Li,60,60.0,36.0,2.0,11.0
+Chun-Li,60,60.0,17.0,3.0,5.0
+Chun-Li,60,60.0,15.0,6.0,8.0
+Chun-Li,70,70.0,6.0,3.0,16.0
+Chun-Li,70,70.0,9.0,6.0,15.0
+Chun-Li,70 (10x4 + 30),70.0,10.0,1.0,3.0
+Chun-Li,80,80.0,11.0,4.0,23.0
+Chun-Li,80,80.0,11.0,4.0,20.0
+Chun-Li,80,80.0,23.0,2.0,2.0
+Chun-Li,80 (30+50),80.0,17.0,3.0,3.0
+Chun-Li,80 (30+50),80.0,5.0,59.0,33.0
+Chun-Li,85,85.0,9.0,4.0,19.0
+Chun-Li,90,90.0,11.0,4.0,16.0
+Chun-Li,90,90.0,8.0,5.0,2.0
+Chun-Li,90,90.0,10.0,5.0,2.0
+Chun-Li,90,90.0,16.0,5.0,19.0
+Chun-Li,90,90.0,10.0,4.0,22.0
+Chun-Li,90,90.0,26.0,1.0,2.0
+Chun-Li,90 (10x3 + 60),90.0,10.0,52.0,16.0
+Chun-Li,90 (10x4 + 50),90.0,23.0,73.0,8.0
+Chun-Li,95 (30+65),95.0,11.0,2.0,22.0
+Cristiano Ronaldo,-,,1.0,,
+Cristiano Ronaldo,-,,8.0,,
+Cristiano Ronaldo,-,,12.0,,
 Cristiano Ronaldo,-,,,,
-Cristiano Ronaldo,-,,20,,
-Cristiano Ronaldo,100,100,11,10,15
-Cristiano Ronaldo,100,100,8,7,8
-Cristiano Ronaldo,110,110,12,7,15
-Cristiano Ronaldo,120,120,5,43,
-Cristiano Ronaldo,120,120,5,33,
-Cristiano Ronaldo,132,132,25,5,22
-Cristiano Ronaldo,132,132,24,63,1
-Cristiano Ronaldo,20,20,4,3,3
-Cristiano Ronaldo,"20,60",20,6,55,33
-Cristiano Ronaldo,25,25,5,2,3
-Cristiano Ronaldo,30,30,5,10,6
-Cristiano Ronaldo,30,30,6,4,4
-Cristiano Ronaldo,"30x4,100",30,10,75,47
-Cristiano Ronaldo,35,35,6,4,3
-Cristiano Ronaldo,40,40,7,6,5
-Cristiano Ronaldo,40,40,6,80,
-Cristiano Ronaldo,"40,50",40,8,58,35
-Cristiano Ronaldo,"40,60",40,7,90,35
-Cristiano Ronaldo,50,50,5,100,
-Cristiano Ronaldo,50,50,8,5,19
-Cristiano Ronaldo,50,50,16,5,16
-Cristiano Ronaldo,50,50,12,1,6
-Cristiano Ronaldo,"50,200",50,7,35,35
-Cristiano Ronaldo,"50x4,80",50,18,85,46
-Cristiano Ronaldo,60,60,6,3,20
-Cristiano Ronaldo,60,60,8,3,14
-Cristiano Ronaldo,60,60,18,3,29
-Cristiano Ronaldo,70,70,41,16,100
-Cristiano Ronaldo,70,70,9,5,16
-Cristiano Ronaldo,70,70,12,140,
-Cristiano Ronaldo,70,70,17,23,73
-Cristiano Ronaldo,70,70,18,3,29
-Cristiano Ronaldo,"70,5x11,205",70,6,45,55
-Cristiano Ronaldo,"70,70",70,17,24,41
-Cristiano Ronaldo,80,80,22,16,100
-Cristiano Ronaldo,80,80,12,8,13
-Cristiano Ronaldo,80,80,8,160,
-Cristiano Ronaldo,80,80,24,5,3
-Cristiano Ronaldo,80,80,15,30,4
-Cristiano Ronaldo,80,80,18,28,2
-Cristiano Ronaldo,80,80,22,18,4
-Cristiano Ronaldo,80,80,8,9,9
-Cristiano Ronaldo,"88,27x4,55,11x9, 99",88,10,16,67
-Cristiano Ronaldo,90,90,13,6,17
-Cristiano Ronaldo,90,90,12,7,18
-Duck King,-,,30,,
+Cristiano Ronaldo,-,,20.0,,
+Cristiano Ronaldo,100,100.0,11.0,10.0,15.0
+Cristiano Ronaldo,100,100.0,8.0,7.0,8.0
+Cristiano Ronaldo,110,110.0,12.0,7.0,15.0
+Cristiano Ronaldo,120,120.0,5.0,43.0,
+Cristiano Ronaldo,120,120.0,5.0,33.0,
+Cristiano Ronaldo,132,132.0,25.0,5.0,22.0
+Cristiano Ronaldo,132,132.0,24.0,63.0,1.0
+Cristiano Ronaldo,20,20.0,4.0,3.0,3.0
+Cristiano Ronaldo,"20,60",20.0,6.0,55.0,33.0
+Cristiano Ronaldo,25,25.0,5.0,2.0,3.0
+Cristiano Ronaldo,30,30.0,5.0,10.0,6.0
+Cristiano Ronaldo,30,30.0,6.0,4.0,4.0
+Cristiano Ronaldo,"30x4,100",30.0,10.0,75.0,47.0
+Cristiano Ronaldo,35,35.0,6.0,4.0,3.0
+Cristiano Ronaldo,40,40.0,7.0,6.0,5.0
+Cristiano Ronaldo,40,40.0,6.0,80.0,
+Cristiano Ronaldo,"40,50",40.0,8.0,58.0,35.0
+Cristiano Ronaldo,"40,60",40.0,7.0,90.0,35.0
+Cristiano Ronaldo,50,50.0,5.0,100.0,
+Cristiano Ronaldo,50,50.0,8.0,5.0,19.0
+Cristiano Ronaldo,50,50.0,16.0,5.0,16.0
+Cristiano Ronaldo,50,50.0,12.0,1.0,6.0
+Cristiano Ronaldo,"50,200",50.0,7.0,35.0,35.0
+Cristiano Ronaldo,"50x4,80",50.0,18.0,85.0,46.0
+Cristiano Ronaldo,60,60.0,6.0,3.0,20.0
+Cristiano Ronaldo,60,60.0,8.0,3.0,14.0
+Cristiano Ronaldo,60,60.0,18.0,3.0,29.0
+Cristiano Ronaldo,70,70.0,41.0,16.0,100.0
+Cristiano Ronaldo,70,70.0,9.0,5.0,16.0
+Cristiano Ronaldo,70,70.0,12.0,140.0,
+Cristiano Ronaldo,70,70.0,17.0,23.0,73.0
+Cristiano Ronaldo,70,70.0,18.0,3.0,29.0
+Cristiano Ronaldo,"70,5x11,205",70.0,6.0,45.0,55.0
+Cristiano Ronaldo,"70,70",70.0,17.0,24.0,41.0
+Cristiano Ronaldo,80,80.0,22.0,16.0,100.0
+Cristiano Ronaldo,80,80.0,12.0,8.0,13.0
+Cristiano Ronaldo,80,80.0,8.0,160.0,
+Cristiano Ronaldo,80,80.0,24.0,5.0,3.0
+Cristiano Ronaldo,80,80.0,15.0,30.0,4.0
+Cristiano Ronaldo,80,80.0,18.0,28.0,2.0
+Cristiano Ronaldo,80,80.0,22.0,18.0,4.0
+Cristiano Ronaldo,80,80.0,8.0,9.0,9.0
+Cristiano Ronaldo,"88,27x4,55,11x9, 99",88.0,10.0,16.0,67.0
+Cristiano Ronaldo,90,90.0,13.0,6.0,17.0
+Cristiano Ronaldo,90,90.0,12.0,7.0,18.0
+Duck King,-,,30.0,,
 Duck King,-,,,,
-Duck King,-,,18,,
-Duck King,10,10,12,3,19
-Duck King,100,100,10,3,30
-Duck King,100,100,18,12,18
-Duck King,100,100,18,3,80
-Duck King,120,120,5,3,26
-Duck King,120,120,18,14,18
-Duck King,120,120,18,3,64
-Duck King,120 (20 + 10 + 10 + 20 + 60),120,9,22,38
-Duck King,120 (30 + 10*3 + 60),120,8,22,38
-Duck King,120 (30+30+60),120,5,3,26
-Duck King,120 (40 + 80),120,6,26,19
-Duck King,132,132,25,3,26
-Duck King,132 (120),132,23,20,55
-Duck King,140,140,18,3,64
-Duck King,20 (10 + 10),20,14,21,21
-Duck King,24020 * 6 + 90,24020,7,4,143
-Duck King,25,25,5,3,10
-Duck King,25,25,6,3,9
-Duck King,270100 + 1*11 + 159,270100,2,2,292
-Duck King,290100 + 1*11 + 179,290100,1,2,292
-Duck King,30,30,5,3,13
-Duck King,30,30,4,3,8
-Duck King,30,30,10,4,31
-Duck King,30,30,19,3,23
-Duck King,30,30,19,3,23
-Duck King,30 (10 + 20),30,10,17,19
-Duck King,30 (10 + 20),30,19,16,18
-Duck King,30 (5 + 5 + 20),30,11,27,21
-Duck King,310100 + 1*11 + 199,310100,1,1,290
-Duck King,330100 + 1*11 + 219,330100,1,1,290
-Duck King,34030*8 + 90,34030,7,4,123
-Duck King,35,35,6,4,6
-Duck King,40,40,7,3,11
-Duck King,40,40,7,2,4
-Duck King,40,40,10,10,16
-Duck King,40,40,5,3,21
-Duck King,40,40,19,3,23
-Duck King,40,40,22,3,27
-Duck King,40 (10*4),40,18,5,15
-Duck King,43,43,26,3,41
-Duck King,45280 + 5*9 + 1*33 + 5 + 1 + 255,45280,6,4,35
-Duck King,50,50,5,2,5
-Duck King,50,50,12,4,35
-Duck King,50,50,7,4,18
-Duck King,50,50,12,24,3
-Duck King,50,50,22,3,27
-Duck King,50,50,22,3,22
-Duck King,50,50,21,3,28
-Duck King,60,60,10,3,18
-Duck King,60,60,7,3,15
-Duck King,60 (10*6),60,17,23,38
-Duck King,7 (1*7),7,10,2,6
-Duck King,70,70,11,4,19
-Duck King,70,70,8,4,21
-Duck King,70,70,9,2,7
-Duck King,70,70,13,4,2
-Duck King,70,70,5,4,19
-Duck King,70,70,15,1,24
-Duck King,70,70,10,4,31
-Duck King,70,70,17,1,17
-Duck King,70,70,5,3,21
-Duck King,70 (10*5 + 20),70,18,23,24
-Duck King,75 (30+45),75,8,6,22
-Duck King,80,80,7,3,21
-Duck King,80,80,8,2,8
-Duck King,80,80,8,4,24
-Duck King,80,80,21,3,18
-Duck King,80,80,21,3,21
-Duck King,80 (10 + 40 + 30),80,13,70,
-Duck King,80 (20*4),80,17,15,19
-Duck King,80 (30 + 10*3 + 20),80,5,19,49
-Duck King,80 (30 + 10*3 + 20),80,11,13,14
+Duck King,-,,18.0,,
+Duck King,10,10.0,12.0,3.0,19.0
+Duck King,100,100.0,10.0,3.0,30.0
+Duck King,100,100.0,18.0,12.0,18.0
+Duck King,100,100.0,18.0,3.0,80.0
+Duck King,120,120.0,5.0,3.0,26.0
+Duck King,120,120.0,18.0,14.0,18.0
+Duck King,120,120.0,18.0,3.0,64.0
+Duck King,120 (20 + 10 + 10 + 20 + 60),120.0,9.0,22.0,38.0
+Duck King,120 (30 + 10*3 + 60),120.0,8.0,22.0,38.0
+Duck King,120 (30+30+60),120.0,5.0,3.0,26.0
+Duck King,120 (40 + 80),120.0,6.0,26.0,19.0
+Duck King,132,132.0,25.0,3.0,26.0
+Duck King,132 (120),132.0,23.0,20.0,55.0
+Duck King,140,140.0,18.0,3.0,64.0
+Duck King,20 (10 + 10),20.0,14.0,21.0,21.0
+Duck King,24020 * 6 + 90,24020.0,7.0,4.0,143.0
+Duck King,25,25.0,5.0,3.0,10.0
+Duck King,25,25.0,6.0,3.0,9.0
+Duck King,270100 + 1*11 + 159,270100.0,2.0,2.0,292.0
+Duck King,290100 + 1*11 + 179,290100.0,1.0,2.0,292.0
+Duck King,30,30.0,5.0,3.0,13.0
+Duck King,30,30.0,4.0,3.0,8.0
+Duck King,30,30.0,10.0,4.0,31.0
+Duck King,30,30.0,19.0,3.0,23.0
+Duck King,30,30.0,19.0,3.0,23.0
+Duck King,30 (10 + 20),30.0,10.0,17.0,19.0
+Duck King,30 (10 + 20),30.0,19.0,16.0,18.0
+Duck King,30 (5 + 5 + 20),30.0,11.0,27.0,21.0
+Duck King,310100 + 1*11 + 199,310100.0,1.0,1.0,290.0
+Duck King,330100 + 1*11 + 219,330100.0,1.0,1.0,290.0
+Duck King,34030*8 + 90,34030.0,7.0,4.0,123.0
+Duck King,35,35.0,6.0,4.0,6.0
+Duck King,40,40.0,7.0,3.0,11.0
+Duck King,40,40.0,7.0,2.0,4.0
+Duck King,40,40.0,10.0,10.0,16.0
+Duck King,40,40.0,5.0,3.0,21.0
+Duck King,40,40.0,19.0,3.0,23.0
+Duck King,40,40.0,22.0,3.0,27.0
+Duck King,40 (10*4),40.0,18.0,5.0,15.0
+Duck King,43,43.0,26.0,3.0,41.0
+Duck King,45280 + 5*9 + 1*33 + 5 + 1 + 255,45280.0,6.0,4.0,35.0
+Duck King,50,50.0,5.0,2.0,5.0
+Duck King,50,50.0,12.0,4.0,35.0
+Duck King,50,50.0,7.0,4.0,18.0
+Duck King,50,50.0,12.0,24.0,3.0
+Duck King,50,50.0,22.0,3.0,27.0
+Duck King,50,50.0,22.0,3.0,22.0
+Duck King,50,50.0,21.0,3.0,28.0
+Duck King,60,60.0,10.0,3.0,18.0
+Duck King,60,60.0,7.0,3.0,15.0
+Duck King,60 (10*6),60.0,17.0,23.0,38.0
+Duck King,7 (1*7),7.0,10.0,2.0,6.0
+Duck King,70,70.0,11.0,4.0,19.0
+Duck King,70,70.0,8.0,4.0,21.0
+Duck King,70,70.0,9.0,2.0,7.0
+Duck King,70,70.0,13.0,4.0,2.0
+Duck King,70,70.0,5.0,4.0,19.0
+Duck King,70,70.0,15.0,1.0,24.0
+Duck King,70,70.0,10.0,4.0,31.0
+Duck King,70,70.0,17.0,1.0,17.0
+Duck King,70,70.0,5.0,3.0,21.0
+Duck King,70 (10*5 + 20),70.0,18.0,23.0,24.0
+Duck King,75 (30+45),75.0,8.0,6.0,22.0
+Duck King,80,80.0,7.0,3.0,21.0
+Duck King,80,80.0,8.0,2.0,8.0
+Duck King,80,80.0,8.0,4.0,24.0
+Duck King,80,80.0,21.0,3.0,18.0
+Duck King,80,80.0,21.0,3.0,21.0
+Duck King,80 (10 + 40 + 30),80.0,13.0,70.0,
+Duck King,80 (20*4),80.0,17.0,15.0,19.0
+Duck King,80 (30 + 10*3 + 20),80.0,5.0,19.0,49.0
+Duck King,80 (30 + 10*3 + 20),80.0,11.0,13.0,14.0
 Gato,-,,,,
-Gato,-,,16,,
-Gato,-,,21,,
-Gato,-,,11,,
-Gato,-,,17,,
-Gato,100,100,10,3,25
-Gato,100,100,5,2,42
-Gato,100 (20+20+60),100,10,3,25
-Gato,100 (40+5*4+40),100,9,5,22
-Gato,112 (38 + 20 + 41 + 49 + 112 = 260),112,25,4,23
-Gato,120,120,5,3,26
-Gato,120,120,25,4,23
-Gato,120,120,28,10,18
-Gato,120,120,3,13,
-Gato,120,120,6,2,38
-Gato,120 (30+30+60),120,10,3,85
-Gato,120 (40+80),120,5,3,26
-Gato,120 (60+60),120,3,2,104
-Gato,130 (50+10*4+40),130,7,5,21
-Gato,150,150,3,13,
-Gato,19 + 38 = 57 (35 + 19 + 38 = 92),19,6,2,18
-Gato,20 + 15 = 35  (30 + 57 + 42 + 20 + 15 = 164),20,17,3,16
-Gato,20 + 50 = 70,20,7,2,16
-Gato,25,25,6,4,10
-Gato,250 (100 + 20*4 + 70),250,6,4,80
-Gato,30,30,4,4,8
-Gato,30,30,6,3,9
-Gato,30,30,5,3,8
-Gato,30,30,9,8,21
-Gato,30,30,9,8,18
-Gato,310 (100 + 80 + 130),310,7,5,25
-Gato,330 (20*12 + 90),330,5,39,90
-Gato,35,35,5,4,9
-Gato,40,40,7,3,16
-Gato,40,40,6,6,2
-Gato,40,40,12,4,19
-Gato,40 (30 + 57 + 42 + 40 = 169),40,10,4,23
-Gato,40 + 23 = 63,40,4,5,5
-Gato,42 (30 + 57 + 42 = 129),42,9,3,15
-Gato,45 (30 + 57 + 42 + 45 = 174),45,10,3,22
-Gato,45 (35 + 19 + 38 + 45 = 137),45,11,3,22
-Gato,45 + 40 = 85,45,17,3,16
-Gato,45 + 45 = 90,45,17,3,18
-Gato,456 (88 + 33 + 33 + 44 + 60 + 198),456,6,5,34
-Gato,50,50,4,6,2
-Gato,50,50,9,4,35
-Gato,50,50,4,3,85
-Gato,57 (30 + 57 = 87),57,6,4,13
-Gato,60,60,6,4,14
-Gato,60,60,19,3,19
-Gato,60,60,18,4,19
-Gato,60,60,17,4,19
-Gato,60,60,14,3,44
-Gato,60,60,6,2,4
-Gato,60,60,6,3,5
-Gato,60,60,14,13,3
-Gato,60,60,4,10,19
-Gato,63 (30 + 57 + 63 = 150),63,10,4,23
-Gato,65,65,8,4,18
-Gato,70,70,9,3,17
-Gato,70,70,10,5,2
-Gato,70 (30 + 57 + 70 = 157),70,10,3,22
-Gato,70 + 160 = 230,70,8,5,30
-Gato,80,80,8,6,2
-Gato,80,80,13,5,17
-Gato,80,80,11,3,24
-Gato,80,80,13,4,38
-Gato,80,80,6,4,2
-Gato,80,80,12,11,5
-Gato,80,80,4,10,18
-Gato,80 (50+5*3+15),80,5,6,76
-Gato,90,90,9,4,18
+Gato,-,,16.0,,
+Gato,-,,21.0,,
+Gato,-,,11.0,,
+Gato,-,,17.0,,
+Gato,100,100.0,10.0,3.0,25.0
+Gato,100,100.0,5.0,2.0,42.0
+Gato,100 (20+20+60),100.0,10.0,3.0,25.0
+Gato,100 (40+5*4+40),100.0,9.0,5.0,22.0
+Gato,112 (38 + 20 + 41 + 49 + 112 = 260),112.0,25.0,4.0,23.0
+Gato,120,120.0,5.0,3.0,26.0
+Gato,120,120.0,25.0,4.0,23.0
+Gato,120,120.0,28.0,10.0,18.0
+Gato,120,120.0,3.0,13.0,
+Gato,120,120.0,6.0,2.0,38.0
+Gato,120 (30+30+60),120.0,10.0,3.0,85.0
+Gato,120 (40+80),120.0,5.0,3.0,26.0
+Gato,120 (60+60),120.0,3.0,2.0,104.0
+Gato,130 (50+10*4+40),130.0,7.0,5.0,21.0
+Gato,150,150.0,3.0,13.0,
+Gato,19 + 38 = 57 (35 + 19 + 38 = 92),19.0,6.0,2.0,18.0
+Gato,20 + 15 = 35  (30 + 57 + 42 + 20 + 15 = 164),20.0,17.0,3.0,16.0
+Gato,20 + 50 = 70,20.0,7.0,2.0,16.0
+Gato,25,25.0,6.0,4.0,10.0
+Gato,250 (100 + 20*4 + 70),250.0,6.0,4.0,80.0
+Gato,30,30.0,4.0,4.0,8.0
+Gato,30,30.0,6.0,3.0,9.0
+Gato,30,30.0,5.0,3.0,8.0
+Gato,30,30.0,9.0,8.0,21.0
+Gato,30,30.0,9.0,8.0,18.0
+Gato,310 (100 + 80 + 130),310.0,7.0,5.0,25.0
+Gato,330 (20*12 + 90),330.0,5.0,39.0,90.0
+Gato,35,35.0,5.0,4.0,9.0
+Gato,40,40.0,7.0,3.0,16.0
+Gato,40,40.0,6.0,6.0,2.0
+Gato,40,40.0,12.0,4.0,19.0
+Gato,40 (30 + 57 + 42 + 40 = 169),40.0,10.0,4.0,23.0
+Gato,40 + 23 = 63,40.0,4.0,5.0,5.0
+Gato,42 (30 + 57 + 42 = 129),42.0,9.0,3.0,15.0
+Gato,45 (30 + 57 + 42 + 45 = 174),45.0,10.0,3.0,22.0
+Gato,45 (35 + 19 + 38 + 45 = 137),45.0,11.0,3.0,22.0
+Gato,45 + 40 = 85,45.0,17.0,3.0,16.0
+Gato,45 + 45 = 90,45.0,17.0,3.0,18.0
+Gato,456 (88 + 33 + 33 + 44 + 60 + 198),456.0,6.0,5.0,34.0
+Gato,50,50.0,4.0,6.0,2.0
+Gato,50,50.0,9.0,4.0,35.0
+Gato,50,50.0,4.0,3.0,85.0
+Gato,57 (30 + 57 = 87),57.0,6.0,4.0,13.0
+Gato,60,60.0,6.0,4.0,14.0
+Gato,60,60.0,19.0,3.0,19.0
+Gato,60,60.0,18.0,4.0,19.0
+Gato,60,60.0,17.0,4.0,19.0
+Gato,60,60.0,14.0,3.0,44.0
+Gato,60,60.0,6.0,2.0,4.0
+Gato,60,60.0,6.0,3.0,5.0
+Gato,60,60.0,14.0,13.0,3.0
+Gato,60,60.0,4.0,10.0,19.0
+Gato,63 (30 + 57 + 63 = 150),63.0,10.0,4.0,23.0
+Gato,65,65.0,8.0,4.0,18.0
+Gato,70,70.0,9.0,3.0,17.0
+Gato,70,70.0,10.0,5.0,2.0
+Gato,70 (30 + 57 + 70 = 157),70.0,10.0,3.0,22.0
+Gato,70 + 160 = 230,70.0,8.0,5.0,30.0
+Gato,80,80.0,8.0,6.0,2.0
+Gato,80,80.0,13.0,5.0,17.0
+Gato,80,80.0,11.0,3.0,24.0
+Gato,80,80.0,13.0,4.0,38.0
+Gato,80,80.0,6.0,4.0,2.0
+Gato,80,80.0,12.0,11.0,5.0
+Gato,80,80.0,4.0,10.0,18.0
+Gato,80 (50+5*3+15),80.0,5.0,6.0,76.0
+Gato,90,90.0,9.0,4.0,18.0
 Hokutomaru,-,,,,
-Hokutomaru,-,,16,,
-Hokutomaru,-,,2,,
-Hokutomaru,-,,36,,
-Hokutomaru,-,,9,,
-Hokutomaru,-,,38,,
-Hokutomaru,100,100,5,2,6
-Hokutomaru,100 (40+15x4),100,1,18,5
-Hokutomaru,120,120,5,3,26
-Hokutomaru,120 (40+5x6+50),120,1,17,5
-Hokutomaru,120 (60+60),120,5,3,26
-Hokutomaru,132,132,18,9,39
-Hokutomaru,132,132,21,8,15
-Hokutomaru,132,132,21,5,20
-Hokutomaru,230 (10x13+100),230,7,32,31
-Hokutomaru,25,25,6,4,9
-Hokutomaru,250 (10x15+100),250,8,34,57
-Hokutomaru,290 (10x14+150),290,6,35,42
-Hokutomaru,30,30,5,3,10
-Hokutomaru,30,30,7,4,14
-Hokutomaru,30,30,4,4,8
-Hokutomaru,330 (10x15+180),330,7,34,56
-Hokutomaru,35,35,5,4,7
-Hokutomaru,40,40,5,6,2
-Hokutomaru,40,40,6,6,2
-Hokutomaru,440,440,6,10,30
-Hokutomaru,50,50,11,4,19
-Hokutomaru,50,50,9,3,24
-Hokutomaru,55,55,6,4,17
-Hokutomaru,60,60,7,9,14
-Hokutomaru,60,60,14,1,26
-Hokutomaru,60,60,14,1,11
-Hokutomaru,60 (20x3),60,20,1,21
-Hokutomaru,60 (20x3),60,20,1,22
-Hokutomaru,60 (20x3),60,21,1,11
-Hokutomaru,60(30+30),60,2,7,5
-Hokutomaru,65,65,9,3,19
-Hokutomaru,70,70,8,5,2
-Hokutomaru,70,70,9,5,2
-Hokutomaru,70,70,10,2,19
-Hokutomaru,70,70,25,5,15
-Hokutomaru,70,70,19,5,14
-Hokutomaru,70,70,34,13,9
-Hokutomaru,70,70,25,16,9
-Hokutomaru,70,70,34,2,1
-Hokutomaru,70,70,25,3,2
-Hokutomaru,75,75,9,4,19
-Hokutomaru,80,80,11,3,16
-Hokutomaru,80,80,23,3,16
-Hokutomaru,80,80,15,1,26
-Hokutomaru,80,80,14,1,27
-Hokutomaru,80,80,14,8,
-Hokutomaru,80,80,14,1,11
-Hokutomaru,80,80,16,2,19
-Hokutomaru,80,80,16,2,19
-Hokutomaru,80 (40+10x4),80,13,5,25
-Hokutomaru,90,90,9,4,19
-Hotaru Futaba,-,,2,,
-Hotaru Futaba,-,,17,,
-Hotaru Futaba,-,,26,,
-Hotaru Futaba,100,100,10,3,22
-Hotaru Futaba,100,100,5,2,6
-Hotaru Futaba,100,100,21,6,15
-Hotaru Futaba,100 (30x2+40),100,9,2,35
-Hotaru Futaba,110,110,16,5,15
-Hotaru Futaba,110 (30x3+10x2),110,1,5,16
-Hotaru Futaba,120,120,5,3,26
-Hotaru Futaba,120,120,5,3,26
-Hotaru Futaba,132,132,25,3,24
-Hotaru Futaba,132,132,15,6,44
-Hotaru Futaba,150 (40x2+70),150,10,2,34
-Hotaru Futaba,220 (30x3+130)36 (12x3) (block),220,7,6,64
-Hotaru Futaba,230 (10x8+5x7+115)38 (3x8+2x7) (block),230,13,614,69
-Hotaru Futaba,25,25,4,4,7
-Hotaru Futaba,25,25,5,4,9
-Hotaru Futaba,25,25,7,5,23
-Hotaru Futaba,30,30,5,3,10
-Hotaru Futaba,30,30,5,3,11
-Hotaru Futaba,30,30,5,7,2
-Hotaru Futaba,30,30,6,6,2
-Hotaru Futaba,30,30,7,3,28
-Hotaru Futaba,30,30,5,6,5
-Hotaru Futaba,300 (50x3+10x5+100)51 (16x2+19) (block),300,3,6,6
-Hotaru Futaba,320 (15x8+10x8+120)56 (4x8+3x6) (block),320,8,524,76
-Hotaru Futaba,35,35,6,3,12
-Hotaru Futaba,35,35,5,4,7
-Hotaru Futaba,456 (88+44x2+88+192)75 (block),456,6,5,42
-Hotaru Futaba,50,50,9,3,23
-Hotaru Futaba,60,60,7,4,2
-Hotaru Futaba,60,60,8,4,2
-Hotaru Futaba,60,60,6,4,16
-Hotaru Futaba,60,60,23,3,15
-Hotaru Futaba,60,60,18,46,2
-Hotaru Futaba,60,60,16,47,5
-Hotaru Futaba,65,65,6,4,16
-Hotaru Futaba,70,70,9,5,17
-Hotaru Futaba,70,70,8,3,21
-Hotaru Futaba,70,70,9,4,18
-Hotaru Futaba,70,70,11,4,23
-Hotaru Futaba,70 (10x3+40),70,12,5,22
-Hotaru Futaba,75,75,9,4,17
-Hotaru Futaba,80,80,10,4,45
-Hotaru Futaba,80,80,23,3,15
-Hotaru Futaba,80,80,15,6,19
-Hotaru Futaba,80 (10x3+50),80,3,17,4
-Hotaru Futaba,80 (30+50),80,13,45,47
-Hotaru Futaba,80 (30+50),80,13,47,47
-Hotaru Futaba,80 (40x2),80,16,42,76
-Hotaru Futaba,80 (50+15x2),80,5,10,46
-Hotaru Futaba,85,85,10,4,20
-Hotaru Futaba,90,90,9,4,22
-Hotaru Futaba,90 (10x4+50),90,3,16,4
-Hotaru Futaba,90 (20x2+50),90,13,35,64
-Hotaru Futaba,90 (30+20x3),90,1,6,18
-Joe Higashi,-,,16,,
-Joe Higashi,-,,25,,
-Joe Higashi,-,,4,18,
-Joe Higashi,100,100,10,4,22
-Joe Higashi,100 (20+30+50),100,20,2,26
-Joe Higashi,100 (30+70),100,8,3,54
-Joe Higashi,100 (40+60),100,16,12,24
-Joe Higashi,100 (40+60)/60,100,27,6,19
-Joe Higashi,110 (30+80),110,1,8,6
-Joe Higashi,120 (40+80),120,5,3,26
-Joe Higashi,120 (40+80),120,5,3,26
-Joe Higashi,120 (40+80),120,17,11,24
-Joe Higashi,130(70 BR)20x2+30+60,130,3,11,8
-Joe Higashi,132,132,25,3,26
-Joe Higashi,132 (55+77),132,21,20,73
-Joe Higashi,140 (40x2+60),140,20,2,26
-Joe Higashi,140 (50+90),140,19,2,21
-Joe Higashi,140/18010x6+80/120,140,21,137,59
-Joe Higashi,170/20020x6+50/80,170,10,137,56
-Joe Higashi,20 (5x4),20,15,14,22
-Joe Higashi,230100+10x3+20x5,230100,9,7,88
-Joe Higashi,240/27020x6+120/150,240,14,137,50
-Joe Higashi,25,25,5,3,9
-Joe Higashi,30,30,4,3,9
-Joe Higashi,30,30,5,3,10
-Joe Higashi,30,30,10,3,26
-Joe Higashi,30 (10x3),30,19,37,3
-Joe Higashi,30 (5x6),30,9,32,19
-Joe Higashi,310100+10x3+20x9,310100,8,7,78
-Joe Higashi,35,35,6,3,12
-Joe Higashi,40,40,6,5,6
-Joe Higashi,40,40,7,5,2
-Joe Higashi,40,40,16,3,28
-Joe Higashi,451110+33+22+33x2+22x2+44+132,451110,6,5,50
-Joe Higashi,50,50,7,4,19
-Joe Higashi,50,50,5,5,2
-Joe Higashi,50,50,12,3,24
-Joe Higashi,60,60,8,4,20
-Joe Higashi,60,60,7,4,15
-Joe Higashi,60,60,15,33,3
-Joe Higashi,60,60,23,4,20
-Joe Higashi,60,60,15,4,21
-Joe Higashi,60 (20+40),60,6,3,18
-Joe Higashi,65,65,7,3,18
-Joe Higashi,70,70,9,3,22
-Joe Higashi,70,70,10,5,2
-Joe Higashi,70,70,11,4,18
-Joe Higashi,70,70,16,2,21
-Joe Higashi,70,70,15,3,21
-Joe Higashi,70,70,23,3,19
-Joe Higashi,70,70,24,4,20
-Joe Higashi,70,70,15,4,21
-Joe Higashi,80,80,11,4,18
-Joe Higashi,80,80,8,7,2
-Joe Higashi,80,80,10,3,26
-Joe Higashi,80,80,22,4,15
-Joe Higashi,80,80,22,4,17
-Joe Higashi,80,80,13,10,22
-Joe Higashi,80,80,6,9,39
-Joe Higashi,80,80,22,4,22
-Joe Higashi,80,80,23,3,19
-Joe Higashi,80 (30+50),80,7,3,21
-Joe Higashi,80 (40x2),80,1,17,33
-Joe Higashi,90,90,11,10,16
-Joe Higashi,90 (30+60),90,8,4,18
-Joe Higashi,90 (30x3),90,20,35,3
-Kain R. Heinlein,-,,,,
-Kain R. Heinlein,"11, 22, 55 (88)",11,7,6,3
-Kain R. Heinlein,110,110,10,11,
-Kain R. Heinlein,110,110,18,18,
-Kain R. Heinlein,132,132,5,,
-Kain R. Heinlein,132,132,6,,
-Kain R. Heinlein,132,132,23,5,4
-Kain R. Heinlein,132,132,24,4,
-Kain R. Heinlein,180,180,11,8,
-Kain R. Heinlein,250,250,9,20,
-Kain R. Heinlein,27,27,5,1,1
-Kain R. Heinlein,280,280,6,28,
-Kain R. Heinlein,"30, 30, 40 (100)",30,7,16,
-Kain R. Heinlein,320,320,8,21,
-Kain R. Heinlein,33,33,4,6,1
-Kain R. Heinlein,33,33,5,1,2
-Kain R. Heinlein,33,33,9,6,
-Kain R. Heinlein,"33, 38 (71)",33,6,3,6
-Kain R. Heinlein,38,38,5,1,1
-Kain R. Heinlein,"40, 40 (80)",40,13,28,25
-Kain R. Heinlein,44,44,5,3,3
-Kain R. Heinlein,44,44,6,2,2
-Kain R. Heinlein,44,44,6,,
-Kain R. Heinlein,"44, 55 (99)",44,13,0,
-Kain R. Heinlein,440,440,8,4,28
-Kain R. Heinlein,50,50,7,28,24
-Kain R. Heinlein,"50, 40 (90)",50,8,51,
-Kain R. Heinlein,55,55,5,,
-Kain R. Heinlein,55,55,9,6,6
-Kain R. Heinlein,55,55,13,5,7
-Kain R. Heinlein,55,55,13,,
-Kain R. Heinlein,"55, 41 (96)",55,4,,
-Kain R. Heinlein,"5x3, 104 (119)",5,8,18,
-Kain R. Heinlein,"60, 20 (80)",60,6,57,
-Kain R. Heinlein,66,66,8,2,7
-Kain R. Heinlein,72,72,8,3,3
-Kain R. Heinlein,77,77,8,3,3
-Kain R. Heinlein,77,77,9,,
-Kain R. Heinlein,88,88,10,1,5
-Kain R. Heinlein,88,88,8,,
-Kain R. Heinlein,88,88,25,2,2
-Kain R. Heinlein,88,88,14,18,
-Ken Masters,-,,17,,
-Ken Masters,-,,50,,
-Ken Masters,-,,26,,
-Ken Masters,100,100,9,3,24
-Ken Masters,100,100,28,4,15
-Ken Masters,100 (20x2+30x2) / 40 cross-up,100,7,2,2
-Ken Masters,10020x5,10020,22,412,24
-Ken Masters,11030x2+10+40,11030,2,7,13
-Ken Masters,120,120,5,3,26
-Ken Masters,120 (30+90 airborne),120,18,3,23
-Ken Masters,120 (40+80),120,5,3,26
-Ken Masters,12020+10+30x3,12020,16,14,46
-Ken Masters,12020x2+30x3,12020,22,412,24
-Ken Masters,12050+5x3+55,12050,9,513,36
-Ken Masters,130 (80+50 vs airborne),130,11,3,19
-Ken Masters,132,132,25,5,23
-Ken Masters,132 (11x4+88),132,9,2,10
-Ken Masters,14020+30x4,14020,2,16,14
-Ken Masters,150 (60+90 airborne),150,18,3,19
-Ken Masters,22040x3+20x2+60,22040,7,7,58
-Ken Masters,25,25,5,3,7
-Ken Masters,25,25,5,3,9
-Ken Masters,26030+20x3+50+10x3+90,26030,9,53,85
-Ken Masters,27010x5+30x5+70,27010,7,7,71
-Ken Masters,30,30,6,4,14
-Ken Masters,30,30,5,4,9
-Ken Masters,30,30,10,5,28
-Ken Masters,30,30,13,4,22
-Ken Masters,30,30,22,4,21
-Ken Masters,30,30,16,4,20
-Ken Masters,30,30,14,5,19
-Ken Masters,30,30,24,4,19
-Ken Masters,30,30,20,5,23
-Ken Masters,30xhit,30,13,3,16
-Ken Masters,34030+20x3+50+20x5+100,34030,5,8,130
-Ken Masters,40,40,6,3,16
-Ken Masters,40,40,8,3,22
-Ken Masters,40,40,4,6,2
-Ken Masters,40,40,18,4,20
-Ken Masters,40,40,16,5,19
-Ken Masters,40,40,18,4,28
-Ken Masters,40,40,19,5,23
-Ken Masters,40,40,22,5,27
-Ken Masters,40 (78 total),40,19,2,21
-Ken Masters,45,45,5,8,2
-Ken Masters,45188+11x6+55+11x12+110,45188,6,5,43
-Ken Masters,50,50,8,4,18
-Ken Masters,50,50,8,5,2
-Ken Masters,50,50,22,4,15
-Ken Masters,50,50,12,3,23
-Ken Masters,50,50,26,3,20
-Ken Masters,50,50,20,4,24
-Ken Masters,50,50,19,3,18
-Ken Masters,50 (120 combo total),50,21,3,25
-Ken Masters,60,60,7,4,17
-Ken Masters,60,60,7,7,2
-Ken Masters,60,60,6,3,16
-Ken Masters,60,60,15,46,2
-Ken Masters,60,60,14,47,4
-Ken Masters,60,60,26,3,20
-Ken Masters,60,60,20,4,23
-Ken Masters,70,70,9,5,16
-Ken Masters,70,70,5,12,39
-Ken Masters,7020+50,7020,4,2,31
-Ken Masters,75,75,9,6,2
-Ken Masters,80,80,11,4,23
-Ken Masters,80,80,9,5,16
-Ken Masters,80,80,22,4,15
-Ken Masters,80,80,20,4,21
-Ken Masters,80,80,26,3,21
-Ken Masters,80 (20x4),80,7,453,8
-Ken Masters,80 (40+40),80,236236,22,3
-Ken Masters,8020x2+40,8020,0,18,292
-Ken Masters,85,85,8,4,23
-Ken Masters,90,90,7,5,2
-Ken Masters,90,90,10,5,2
-Ken Masters,90,90,214,11,4
-Ken Masters,90 (30x3),90,2,8,13
-Ken Masters,90 (40+50),90,14,43,4
-Kenshiro,-,,5,100,
-Kenshiro,-,,100,,
-Kenshiro,-,,20,,
-Kenshiro,-,,26,,
-Kenshiro,-,,236,6,
-Kenshiro,-,,236,5,
-Kenshiro,-,,5,10,28
-Kenshiro,-,,3,10,23
-Kenshiro,100,100,10,10,150
-Kenshiro,100,100,10,4,22
-Kenshiro,100,100,15,9,2
-Kenshiro,100 (10x5+20+30),100,10,15,
-Kenshiro,100 (10x5+50),100,13,15,
-Kenshiro,100 (20 + 80),100,7,4,58
-Kenshiro,110 (30 + 80),110,6,4,58
-Kenshiro,120,120,5,3,26
-Kenshiro,120,120,5,3,26
-Kenshiro,130 (1*11 + 119),130,17,42,38
-Kenshiro,132,132,25,4,26
-Kenshiro,132 (80+40),132,25,20,55
-Kenshiro,140 (10*7 + 70),140,18,26,35
-Kenshiro,140 (60 + 80),140,8,2,88
-Kenshiro,180,180,7,5,41
-Kenshiro,230 (80 + 150),230,7,2,98
-Kenshiro,25,25,4,3,11
-Kenshiro,25,25,6,0,2
-Kenshiro,270 (70 + 200),270,6,2,28
-Kenshiro,30,30,7,3,15
-Kenshiro,35,35,5,3,9
-Kenshiro,40,40,6,8,9
-Kenshiro,40,40,7,2,4
-Kenshiro,40,40,29,4,19
-Kenshiro,40,40,21,4,19
-Kenshiro,44280 + 20 + 1*89 + 50 + 150,44280,6,2,43
-Kenshiro,50,50,5,2,5
-Kenshiro,50,50,12,24,5
-Kenshiro,60,60,12,4,17
-Kenshiro,60,60,19,2,16
-Kenshiro,70,70,9,1,7
-Kenshiro,70,70,9,2,7
-Kenshiro,70,70,11,4,18
-Kenshiro,75,75,8,4,24
-Kenshiro,8 (10x5+30),8,10,15,1
-Kenshiro,80,80,7,3,23
-Kenshiro,80,80,9,2,8
-Kenshiro,80,80,10,3,26
-Kenshiro,80,80,22,4,15
-Kenshiro,80,80,24,3,14
-Kenshiro,80,80,28,2,20
-Kenshiro,80,80,26,2,19
-Kenshiro,80,80,13,4,25
-Kenshiro,80,80,15,9,2
-Kenshiro,80 (10*6 +20),80,10,26,20
-Kenshiro,80 (20 + 60),80,5,4,65
-Kenshiro,85,85,8,3,23
-Kenshiro,85,85,11,8,150
-Kenshiro,90,90,21,2,17
-Kenshiro,90,90,14,4,27
-Kenshiro,90,90,13,3,27
-Kevin Rian,-,,11,101,
-Kevin Rian,-,,20,,
-Kevin Rian,-,,17,,
-Kevin Rian,-,,34,8,
-Kevin Rian,-,,30,6,
-Kevin Rian,-,,25,4,
-Kevin Rian,-,,9,8,
-Kevin Rian,100,100,9,3,19
-Kevin Rian,100,100,28,5,13
-Kevin Rian,100 (30+70),100,9,2,33
-Kevin Rian,100 (50x2),100,1,16,4
-Kevin Rian,100 (60+40),100,24,3,16
-Kevin Rian,100/120/140,100,14,4,17
-Kevin Rian,110 (40+70),110,10,4,34
-Kevin Rian,110 (50 + 60),110,1,18,4
-Kevin Rian,110/130/150,110,22,4,16
-Kevin Rian,110/130/150Lv1: 40+70Lv2: 60+70Lv3: 80+70,110,1,18,3
-Kevin Rian,120,120,5,3,26
-Kevin Rian,120,120,25,5,14
-Kevin Rian,132,132,25,4,20
-Kevin Rian,132,132,22,9,55
-Kevin Rian,180,180,9,5,36
-Kevin Rian,180 (50+130),180,10,2,32
-Kevin Rian,230 (40x3+110),230,8,622,41
-Kevin Rian,25,25,6,4,11
-Kevin Rian,270 (30x4+170),270,8,404,40
-Kevin Rian,30,30,4,3,10
-Kevin Rian,30,30,5,3,11
-Kevin Rian,310 (30x3+70+150),310,7,62,39
-Kevin Rian,40,40,6,3,9
-Kevin Rian,40,40,7,3,18
-Kevin Rian,40,40,5,4,7
-Kevin Rian,40,40,7,6,2
-Kevin Rian,440 (11+99+330),440,6,2,50
-Kevin Rian,45,45,6,8,2
-Kevin Rian,50,50,7,3,19
-Kevin Rian,50,50,10,3,25
-Kevin Rian,60,60,8,4,20
-Kevin Rian,65,65,10,3,20
-Kevin Rian,70,70,8,4,18
-Kevin Rian,70,70,26,3,18
-Kevin Rian,75,75,7,3,22
-Kevin Rian,75,75,10,4,2
-Kevin Rian,80,80,22,4,13
-Kevin Rian,80,80,23,4,17
-Kevin Rian,80 (20 + 60),80,8,5,15
-Kevin Rian,85,85,10,4,18
-Kevin Rian,85,85,11,4,2
-Kevin Rian,90,90,11,3,18
-Kevin Rian,90,90,10,5,19
-Kevin Rian,90,90,16,3,27
-Kevin Rian,90,90,19,7,20
-Kevin Rian,90,90,25,6,13
-Kevin Rian,90 [60],90,33,5,18
-Kim Dong Hwan,100,100,10,3,21
-Kim Dong Hwan,100,100,5,,
-Kim Dong Hwan,100 (50x2),100,20,3,17
-Kim Dong Hwan,100 (5x20),100,12,18,15
-Kim Dong Hwan,100 (5x4 + 80),100,16,19,19
-Kim Dong Hwan,108 (13x4 + 56),108,18,3,10
-Kim Dong Hwan,110 (30 + 10x4 + 40),110,8,5,54
-Kim Dong Hwan,120,120,5,,
-Kim Dong Hwan,120 (30 + 30 + 50),120,5,3,26
-Kim Dong Hwan,120 (40 + 10x4 + 40),120,7,5,54
-Kim Dong Hwan,120 (40 + 4x20),120,10,21,15
-Kim Dong Hwan,130 (16x4 + 66),130,8,7,10
-Kim Dong Hwan,132,132,25,2,10
-Kim Dong Hwan,220,220,9,4,33
-Kim Dong Hwan,230 (30 + 15x4 + 140),230,5,13,20
-Kim Dong Hwan,25,25,5,3,12
-Kim Dong Hwan,30,30,4,4,7
-Kim Dong Hwan,30,30,6,4,17
-Kim Dong Hwan,310 (150 + 160),310,6,5,14
-Kim Dong Hwan,33,33,7,3,
-Kim Dong Hwan,340 (50 + 20x7 + 150),340,4,13,31
-Kim Dong Hwan,35,35,5,4,7
-Kim Dong Hwan,36,36,18,2,3
-Kim Dong Hwan,40,40,6,3,9
-Kim Dong Hwan,40,40,6,4,
-Kim Dong Hwan,434,434,6,6,36
-Kim Dong Hwan,45,45,6,4,11
-Kim Dong Hwan,48 (19 + 29),48,7,4,6
-Kim Dong Hwan,50,50,7,2,0
-Kim Dong Hwan,50,50,10,5,6
-Kim Dong Hwan,50,50,21,2,26
-Kim Dong Hwan,70,70,9,7,
-Kim Dong Hwan,70,70,16,7,14
-Kim Dong Hwan,70 (20 + 50),70,6,2,21
-Kim Dong Hwan,75,75,8,3,21
-Kim Dong Hwan,80,80,10,4,18
-Kim Dong Hwan,80,80,11,8,
-Kim Dong Hwan,80,80,21,4,17
-Kim Dong Hwan,80 (20 + 60),80,21,1,19
-Kim Dong Hwan,80 (30 + 50),80,7,2,17
-Kim Dong Hwan,80 (4x20),80,12,20,15
-Kim Dong Hwan,80 (5x4 + 60),80,9,20,22
-Kim Dong Hwan,85,85,12,3,20
-Kim Dong Hwan,90,90,24,3,2
-Kim Dong Hwan,90,90,25,3,20
-Kim Dong Hwan,90,90,24,3,22
-Kim Dong Hwan,90,90,27,4,26
-Kim Dong Hwan,90,90,24,4,15
-Kim Dong Hwan,90 (30 + 20x3),90,5,7,48
-Kim Dong Hwan,90 (5x8 + 50),90,15,21,22
-Kim Jae Hoon,-,,30,,
-Kim Jae Hoon,-,,18,,
-Kim Jae Hoon,100,100,10,4,20
-Kim Jae Hoon,100,100,10,4,22
-Kim Jae Hoon,100 (10+10+10+70),100,18,3,20
-Kim Jae Hoon,100 (30+70),100,18,3,22
-Kim Jae Hoon,110,110,28,4,21
-Kim Jae Hoon,110,110,25,4,17
-Kim Jae Hoon,110 (20+20+70),110,17,4,29
-Kim Jae Hoon,110 (50+60),110,16,3,19
-Kim Jae Hoon,120,120,5,3,26
-Kim Jae Hoon,120 (10+10+10+90),120,24,3,20
-Kim Jae Hoon,120 (20+20+80),120,16,4,27
-Kim Jae Hoon,120 (40+40+40),120,5,3,26
-Kim Jae Hoon,120(150 charged) (10+10+10+20+50),120,23,3,23
-Kim Jae Hoon,132 [33+33+66 vs airborne hitstun],132,19,20,53
-Kim Jae Hoon,132 [44+88 vs airborne hitstun],132,25,4,26
-Kim Jae Hoon,160100+60,160100,10,3,27
-Kim Jae Hoon,23030+20*6+80,23030,8,2,164
-Kim Jae Hoon,25,25,5,3,8
-Kim Jae Hoon,25040+60+60+90,25040,9,3,20
-Kim Jae Hoon,30,30,4,3,7
-Kim Jae Hoon,30,30,6,4,8
-Kim Jae Hoon,31020+15*13+95,31020,7,2,265
-Kim Jae Hoon,35,35,6,3,12
-Kim Jae Hoon,35,35,5,4,6
-Kim Jae Hoon,40,40,7,4,11
-Kim Jae Hoon,40,40,6,5,2
-Kim Jae Hoon,40,40,20,3,33
-Kim Jae Hoon,40,40,12,5,29
-Kim Jae Hoon,40,40,12,5,24
-Kim Jae Hoon,41840+20*6+30*4+100,41840,6,2,87
-Kim Jae Hoon,50,50,8,6,2
-Kim Jae Hoon,50,50,10,5,2
-Kim Jae Hoon,50,50,19,3,32
-Kim Jae Hoon,60,60,12,4,17
-Kim Jae Hoon,60,60,10,3,23
-Kim Jae Hoon,60,60,20,7,17
-Kim Jae Hoon,60,60,12,5,24
-Kim Jae Hoon,70,70,8,3,18
-Kim Jae Hoon,70,70,10,5,2
-Kim Jae Hoon,70,70,11,4,18
-Kim Jae Hoon,70,70,17,4,16
-Kim Jae Hoon,70 (30+20+20),70,8,14,46
-Kim Jae Hoon,70 (30+40),70,2,7,5
-Kim Jae Hoon,75 (15+15+15+15+15),75,11,2,15
-Kim Jae Hoon,75 (15+15+15+15+15),75,12,2,15
-Kim Jae Hoon,80,80,9,5,18
-Kim Jae Hoon,80,80,11,5,2
-Kim Jae Hoon,80,80,10,3,26
-Kim Jae Hoon,80,80,22,4,15
-Kim Jae Hoon,80,80,24,3,14
-Kim Jae Hoon,80 (20+20+20+20),80,11,3,17
-Kim Jae Hoon,80 (30+50),80,12,4,23
-Kim Jae Hoon,80 (30+50),80,5,12,38
-Kim Jae Hoon,80 (40+20+20),80,8,11,49
-Kim Jae Hoon,80 (40+40),80,11,3,24
-Kim Jae Hoon,90,90,11,4,11
-Kim Jae Hoon,90,90,24,4,20
-Kim Jae Hoon,90 (20+70),90,14,4,29
-Kim Kaphwan,-,,18,,
-Kim Kaphwan,100,100,9,4,22
-Kim Kaphwan,100,100,10,4,22
-Kim Kaphwan,100 (0*4 + 100),100,9,38,34
-Kim Kaphwan,100 (20 + 20 + 60),100,21,3,90
-Kim Kaphwan,110 (30 + 20 + 60),110,10,36,63
-Kim Kaphwan,120,120,5,3,26
-Kim Kaphwan,"120 (0*5 + 120), 80 (20*4)",120,11,74,6
-Kim Kaphwan,120 (40 + 80),120,5,3,26
-Kim Kaphwan,120 (40*3),120,8,36,73
-Kim Kaphwan,130 (40 + 90),130,18,7,25
-Kim Kaphwan,130 (40 + 90),130,16,7,21
-Kim Kaphwan,132,132,25,4,26
-Kim Kaphwan,132,132,19,20,60
-Kim Kaphwan,2200*10 + 220,2200,7,21,36
-Kim Kaphwan,25,25,5,4,9
-Kim Kaphwan,25030*5 + 100,25030,10,5,54
-Kim Kaphwan,30,30,6,4,12
-Kim Kaphwan,30,30,4,3,9
-Kim Kaphwan,30,30,5,3,11
-Kim Kaphwan,30,30,5,8,3
-Kim Kaphwan,3000*13 + 300,3000,6,21,36
-Kim Kaphwan,33030*8 + 90,33030,8,5,82
-Kim Kaphwan,40,40,5,3,12
-Kim Kaphwan,40,40,5,8,2
-Kim Kaphwan,40,40,7,5,2
-Kim Kaphwan,40,40,7,3,71
-Kim Kaphwan,40,40,20,5,18
-Kim Kaphwan,40 (20+20),40,6,8,13
-Kim Kaphwan,44450 + 5*25 + 30 + 30 + 180,44450,6,10,7
-Kim Kaphwan,50,50,10,3,24
-Kim Kaphwan,50 (20 + 30),50,8,10,48
-Kim Kaphwan,50 (20 + 30),50,7,10,48
-Kim Kaphwan,60,60,12,4,17
-Kim Kaphwan,60,60,20,2,17
-Kim Kaphwan,60,60,12,3,69
-Kim Kaphwan,60,60,12,5,19
-Kim Kaphwan,70,70,8,4,21
-Kim Kaphwan,70,70,10,4,2
-Kim Kaphwan,70,70,11,4,18
-Kim Kaphwan,70,70,7,6,78
-Kim Kaphwan,70,70,7,6,76
-Kim Kaphwan,70 (20 + 50),70,17,6,71
-Kim Kaphwan,75 (25 + 50),75,9,12,20
-Kim Kaphwan,80,80,10,3,26
-Kim Kaphwan,80,80,22,4,15
-Kim Kaphwan,80,80,22,3,16
-Kim Kaphwan,80,80,20,5,18
-Kim Kaphwan,80,80,18,5,18
-Kim Kaphwan,80,80,27,3,2
-Kim Kaphwan,80 (20*4),80,11,2,8
-Kim Kaphwan,80 [50],80,5,8,44
-Kim Kaphwan,90,90,9,3,20
-Kim Kaphwan,90,90,9,4,24
-Kim Kaphwan,90,90,9,8,2
-Kim Kaphwan,90,90,14,4,22
-Kim Kaphwan,90,90,24,3,2
-Kim Kaphwan,90,90,23,3,3
-Kim Kaphwan,90,90,21,3,5
-Kim Kaphwan,90 (30 + 60),90,8,13,18
-Kim Kaphwan,90 (30 + 60),90,8,15,65
-Kim Kaphwan,90 (30 + 60),90,9,5,56
+Hokutomaru,-,,16.0,,
+Hokutomaru,-,,2.0,,
+Hokutomaru,-,,36.0,,
+Hokutomaru,-,,9.0,,
+Hokutomaru,-,,38.0,,
+Hokutomaru,100,100.0,5.0,2.0,6.0
+Hokutomaru,100 (40+15x4),100.0,1.0,18.0,5.0
+Hokutomaru,120,120.0,5.0,3.0,26.0
+Hokutomaru,120 (40+5x6+50),120.0,1.0,17.0,5.0
+Hokutomaru,120 (60+60),120.0,5.0,3.0,26.0
+Hokutomaru,132,132.0,18.0,9.0,39.0
+Hokutomaru,132,132.0,21.0,8.0,15.0
+Hokutomaru,132,132.0,21.0,5.0,20.0
+Hokutomaru,230 (10x13+100),230.0,7.0,32.0,31.0
+Hokutomaru,25,25.0,6.0,4.0,9.0
+Hokutomaru,250 (10x15+100),250.0,8.0,34.0,57.0
+Hokutomaru,290 (10x14+150),290.0,6.0,35.0,42.0
+Hokutomaru,30,30.0,5.0,3.0,10.0
+Hokutomaru,30,30.0,7.0,4.0,14.0
+Hokutomaru,30,30.0,4.0,4.0,8.0
+Hokutomaru,330 (10x15+180),330.0,7.0,34.0,56.0
+Hokutomaru,35,35.0,5.0,4.0,7.0
+Hokutomaru,40,40.0,5.0,6.0,2.0
+Hokutomaru,40,40.0,6.0,6.0,2.0
+Hokutomaru,440,440.0,6.0,10.0,30.0
+Hokutomaru,50,50.0,11.0,4.0,19.0
+Hokutomaru,50,50.0,9.0,3.0,24.0
+Hokutomaru,55,55.0,6.0,4.0,17.0
+Hokutomaru,60,60.0,7.0,9.0,14.0
+Hokutomaru,60,60.0,14.0,1.0,26.0
+Hokutomaru,60,60.0,14.0,1.0,11.0
+Hokutomaru,60 (20x3),60.0,20.0,1.0,21.0
+Hokutomaru,60 (20x3),60.0,20.0,1.0,22.0
+Hokutomaru,60 (20x3),60.0,21.0,1.0,11.0
+Hokutomaru,60(30+30),60.0,2.0,7.0,5.0
+Hokutomaru,65,65.0,9.0,3.0,19.0
+Hokutomaru,70,70.0,8.0,5.0,2.0
+Hokutomaru,70,70.0,9.0,5.0,2.0
+Hokutomaru,70,70.0,10.0,2.0,19.0
+Hokutomaru,70,70.0,25.0,5.0,15.0
+Hokutomaru,70,70.0,19.0,5.0,14.0
+Hokutomaru,70,70.0,34.0,13.0,9.0
+Hokutomaru,70,70.0,25.0,16.0,9.0
+Hokutomaru,70,70.0,34.0,2.0,1.0
+Hokutomaru,70,70.0,25.0,3.0,2.0
+Hokutomaru,75,75.0,9.0,4.0,19.0
+Hokutomaru,80,80.0,11.0,3.0,16.0
+Hokutomaru,80,80.0,23.0,3.0,16.0
+Hokutomaru,80,80.0,15.0,1.0,26.0
+Hokutomaru,80,80.0,14.0,1.0,27.0
+Hokutomaru,80,80.0,14.0,8.0,
+Hokutomaru,80,80.0,14.0,1.0,11.0
+Hokutomaru,80,80.0,16.0,2.0,19.0
+Hokutomaru,80,80.0,16.0,2.0,19.0
+Hokutomaru,80 (40+10x4),80.0,13.0,5.0,25.0
+Hokutomaru,90,90.0,9.0,4.0,19.0
+Hotaru Futaba,-,,2.0,,
+Hotaru Futaba,-,,17.0,,
+Hotaru Futaba,-,,26.0,,
+Hotaru Futaba,100,100.0,10.0,3.0,22.0
+Hotaru Futaba,100,100.0,5.0,2.0,6.0
+Hotaru Futaba,100,100.0,21.0,6.0,15.0
+Hotaru Futaba,100 (30x2+40),100.0,9.0,2.0,35.0
+Hotaru Futaba,110,110.0,16.0,5.0,15.0
+Hotaru Futaba,110 (30x3+10x2),110.0,1.0,5.0,16.0
+Hotaru Futaba,120,120.0,5.0,3.0,26.0
+Hotaru Futaba,120,120.0,5.0,3.0,26.0
+Hotaru Futaba,132,132.0,25.0,3.0,24.0
+Hotaru Futaba,132,132.0,15.0,6.0,44.0
+Hotaru Futaba,150 (40x2+70),150.0,10.0,2.0,34.0
+Hotaru Futaba,220 (30x3+130)36 (12x3) (block),220.0,7.0,6.0,64.0
+Hotaru Futaba,230 (10x8+5x7+115)38 (3x8+2x7) (block),230.0,13.0,614.0,69.0
+Hotaru Futaba,25,25.0,4.0,4.0,7.0
+Hotaru Futaba,25,25.0,5.0,4.0,9.0
+Hotaru Futaba,25,25.0,7.0,5.0,23.0
+Hotaru Futaba,30,30.0,5.0,3.0,10.0
+Hotaru Futaba,30,30.0,5.0,3.0,11.0
+Hotaru Futaba,30,30.0,5.0,7.0,2.0
+Hotaru Futaba,30,30.0,6.0,6.0,2.0
+Hotaru Futaba,30,30.0,7.0,3.0,28.0
+Hotaru Futaba,30,30.0,5.0,6.0,5.0
+Hotaru Futaba,300 (50x3+10x5+100)51 (16x2+19) (block),300.0,3.0,6.0,6.0
+Hotaru Futaba,320 (15x8+10x8+120)56 (4x8+3x6) (block),320.0,8.0,524.0,76.0
+Hotaru Futaba,35,35.0,6.0,3.0,12.0
+Hotaru Futaba,35,35.0,5.0,4.0,7.0
+Hotaru Futaba,456 (88+44x2+88+192)75 (block),456.0,6.0,5.0,42.0
+Hotaru Futaba,50,50.0,9.0,3.0,23.0
+Hotaru Futaba,60,60.0,7.0,4.0,2.0
+Hotaru Futaba,60,60.0,8.0,4.0,2.0
+Hotaru Futaba,60,60.0,6.0,4.0,16.0
+Hotaru Futaba,60,60.0,23.0,3.0,15.0
+Hotaru Futaba,60,60.0,18.0,46.0,2.0
+Hotaru Futaba,60,60.0,16.0,47.0,5.0
+Hotaru Futaba,65,65.0,6.0,4.0,16.0
+Hotaru Futaba,70,70.0,9.0,5.0,17.0
+Hotaru Futaba,70,70.0,8.0,3.0,21.0
+Hotaru Futaba,70,70.0,9.0,4.0,18.0
+Hotaru Futaba,70,70.0,11.0,4.0,23.0
+Hotaru Futaba,70 (10x3+40),70.0,12.0,5.0,22.0
+Hotaru Futaba,75,75.0,9.0,4.0,17.0
+Hotaru Futaba,80,80.0,10.0,4.0,45.0
+Hotaru Futaba,80,80.0,23.0,3.0,15.0
+Hotaru Futaba,80,80.0,15.0,6.0,19.0
+Hotaru Futaba,80 (10x3+50),80.0,3.0,17.0,4.0
+Hotaru Futaba,80 (30+50),80.0,13.0,45.0,47.0
+Hotaru Futaba,80 (30+50),80.0,13.0,47.0,47.0
+Hotaru Futaba,80 (40x2),80.0,16.0,42.0,76.0
+Hotaru Futaba,80 (50+15x2),80.0,5.0,10.0,46.0
+Hotaru Futaba,85,85.0,10.0,4.0,20.0
+Hotaru Futaba,90,90.0,9.0,4.0,22.0
+Hotaru Futaba,90 (10x4+50),90.0,3.0,16.0,4.0
+Hotaru Futaba,90 (20x2+50),90.0,13.0,35.0,64.0
+Hotaru Futaba,90 (30+20x3),90.0,1.0,6.0,18.0
+Joe Higashi,-,,16.0,,
+Joe Higashi,-,,25.0,,
+Joe Higashi,-,,4.0,18.0,
+Joe Higashi,100,100.0,10.0,4.0,22.0
+Joe Higashi,100 (20+30+50),100.0,20.0,2.0,26.0
+Joe Higashi,100 (30+70),100.0,8.0,3.0,54.0
+Joe Higashi,100 (40+60),100.0,16.0,12.0,24.0
+Joe Higashi,100 (40+60)/60,100.0,27.0,6.0,19.0
+Joe Higashi,110 (30+80),110.0,1.0,8.0,6.0
+Joe Higashi,120 (40+80),120.0,5.0,3.0,26.0
+Joe Higashi,120 (40+80),120.0,5.0,3.0,26.0
+Joe Higashi,120 (40+80),120.0,17.0,11.0,24.0
+Joe Higashi,130(70 BR)20x2+30+60,130.0,3.0,11.0,8.0
+Joe Higashi,132,132.0,25.0,3.0,26.0
+Joe Higashi,132 (55+77),132.0,21.0,20.0,73.0
+Joe Higashi,140 (40x2+60),140.0,20.0,2.0,26.0
+Joe Higashi,140 (50+90),140.0,19.0,2.0,21.0
+Joe Higashi,140/18010x6+80/120,140.0,21.0,137.0,59.0
+Joe Higashi,170/20020x6+50/80,170.0,10.0,137.0,56.0
+Joe Higashi,20 (5x4),20.0,15.0,14.0,22.0
+Joe Higashi,230100+10x3+20x5,230100.0,9.0,7.0,88.0
+Joe Higashi,240/27020x6+120/150,240.0,14.0,137.0,50.0
+Joe Higashi,25,25.0,5.0,3.0,9.0
+Joe Higashi,30,30.0,4.0,3.0,9.0
+Joe Higashi,30,30.0,5.0,3.0,10.0
+Joe Higashi,30,30.0,10.0,3.0,26.0
+Joe Higashi,30 (10x3),30.0,19.0,37.0,3.0
+Joe Higashi,30 (5x6),30.0,9.0,32.0,19.0
+Joe Higashi,310100+10x3+20x9,310100.0,8.0,7.0,78.0
+Joe Higashi,35,35.0,6.0,3.0,12.0
+Joe Higashi,40,40.0,6.0,5.0,6.0
+Joe Higashi,40,40.0,7.0,5.0,2.0
+Joe Higashi,40,40.0,16.0,3.0,28.0
+Joe Higashi,451110+33+22+33x2+22x2+44+132,451110.0,6.0,5.0,50.0
+Joe Higashi,50,50.0,7.0,4.0,19.0
+Joe Higashi,50,50.0,5.0,5.0,2.0
+Joe Higashi,50,50.0,12.0,3.0,24.0
+Joe Higashi,60,60.0,8.0,4.0,20.0
+Joe Higashi,60,60.0,7.0,4.0,15.0
+Joe Higashi,60,60.0,15.0,33.0,3.0
+Joe Higashi,60,60.0,23.0,4.0,20.0
+Joe Higashi,60,60.0,15.0,4.0,21.0
+Joe Higashi,60 (20+40),60.0,6.0,3.0,18.0
+Joe Higashi,65,65.0,7.0,3.0,18.0
+Joe Higashi,70,70.0,9.0,3.0,22.0
+Joe Higashi,70,70.0,10.0,5.0,2.0
+Joe Higashi,70,70.0,11.0,4.0,18.0
+Joe Higashi,70,70.0,16.0,2.0,21.0
+Joe Higashi,70,70.0,15.0,3.0,21.0
+Joe Higashi,70,70.0,23.0,3.0,19.0
+Joe Higashi,70,70.0,24.0,4.0,20.0
+Joe Higashi,70,70.0,15.0,4.0,21.0
+Joe Higashi,80,80.0,11.0,4.0,18.0
+Joe Higashi,80,80.0,8.0,7.0,2.0
+Joe Higashi,80,80.0,10.0,3.0,26.0
+Joe Higashi,80,80.0,22.0,4.0,15.0
+Joe Higashi,80,80.0,22.0,4.0,17.0
+Joe Higashi,80,80.0,13.0,10.0,22.0
+Joe Higashi,80,80.0,6.0,9.0,39.0
+Joe Higashi,80,80.0,22.0,4.0,22.0
+Joe Higashi,80,80.0,23.0,3.0,19.0
+Joe Higashi,80 (30+50),80.0,7.0,3.0,21.0
+Joe Higashi,80 (40x2),80.0,1.0,17.0,33.0
+Joe Higashi,90,90.0,11.0,10.0,16.0
+Joe Higashi,90 (30+60),90.0,8.0,4.0,18.0
+Joe Higashi,90 (30x3),90.0,20.0,35.0,3.0
+Ken Masters,-,,17.0,,
+Ken Masters,-,,50.0,,
+Ken Masters,-,,26.0,,
+Ken Masters,100,100.0,9.0,3.0,24.0
+Ken Masters,100,100.0,28.0,4.0,15.0
+Ken Masters,100 (20x2+30x2) / 40 cross-up,100.0,7.0,2.0,2.0
+Ken Masters,10020x5,10020.0,22.0,412.0,24.0
+Ken Masters,11030x2+10+40,11030.0,2.0,7.0,13.0
+Ken Masters,120,120.0,5.0,3.0,26.0
+Ken Masters,120 (30+90 airborne),120.0,18.0,3.0,23.0
+Ken Masters,120 (40+80),120.0,5.0,3.0,26.0
+Ken Masters,12020+10+30x3,12020.0,16.0,14.0,46.0
+Ken Masters,12020x2+30x3,12020.0,22.0,412.0,24.0
+Ken Masters,12050+5x3+55,12050.0,9.0,513.0,36.0
+Ken Masters,130 (80+50 vs airborne),130.0,11.0,3.0,19.0
+Ken Masters,132,132.0,25.0,5.0,23.0
+Ken Masters,132 (11x4+88),132.0,9.0,2.0,10.0
+Ken Masters,14020+30x4,14020.0,2.0,16.0,14.0
+Ken Masters,150 (60+90 airborne),150.0,18.0,3.0,19.0
+Ken Masters,22040x3+20x2+60,22040.0,7.0,7.0,58.0
+Ken Masters,25,25.0,5.0,3.0,7.0
+Ken Masters,25,25.0,5.0,3.0,9.0
+Ken Masters,26030+20x3+50+10x3+90,26030.0,9.0,53.0,85.0
+Ken Masters,27010x5+30x5+70,27010.0,7.0,7.0,71.0
+Ken Masters,30,30.0,6.0,4.0,14.0
+Ken Masters,30,30.0,5.0,4.0,9.0
+Ken Masters,30,30.0,10.0,5.0,28.0
+Ken Masters,30,30.0,13.0,4.0,22.0
+Ken Masters,30,30.0,22.0,4.0,21.0
+Ken Masters,30,30.0,16.0,4.0,20.0
+Ken Masters,30,30.0,14.0,5.0,19.0
+Ken Masters,30,30.0,24.0,4.0,19.0
+Ken Masters,30,30.0,20.0,5.0,23.0
+Ken Masters,30xhit,30.0,13.0,3.0,16.0
+Ken Masters,34030+20x3+50+20x5+100,34030.0,5.0,8.0,130.0
+Ken Masters,40,40.0,6.0,3.0,16.0
+Ken Masters,40,40.0,8.0,3.0,22.0
+Ken Masters,40,40.0,4.0,6.0,2.0
+Ken Masters,40,40.0,18.0,4.0,20.0
+Ken Masters,40,40.0,16.0,5.0,19.0
+Ken Masters,40,40.0,18.0,4.0,28.0
+Ken Masters,40,40.0,19.0,5.0,23.0
+Ken Masters,40,40.0,22.0,5.0,27.0
+Ken Masters,40 (78 total),40.0,19.0,2.0,21.0
+Ken Masters,45,45.0,5.0,8.0,2.0
+Ken Masters,45188+11x6+55+11x12+110,45188.0,6.0,5.0,43.0
+Ken Masters,50,50.0,8.0,4.0,18.0
+Ken Masters,50,50.0,8.0,5.0,2.0
+Ken Masters,50,50.0,22.0,4.0,15.0
+Ken Masters,50,50.0,12.0,3.0,23.0
+Ken Masters,50,50.0,26.0,3.0,20.0
+Ken Masters,50,50.0,20.0,4.0,24.0
+Ken Masters,50,50.0,19.0,3.0,18.0
+Ken Masters,50 (120 combo total),50.0,21.0,3.0,25.0
+Ken Masters,60,60.0,7.0,4.0,17.0
+Ken Masters,60,60.0,7.0,7.0,2.0
+Ken Masters,60,60.0,6.0,3.0,16.0
+Ken Masters,60,60.0,15.0,46.0,2.0
+Ken Masters,60,60.0,14.0,47.0,4.0
+Ken Masters,60,60.0,26.0,3.0,20.0
+Ken Masters,60,60.0,20.0,4.0,23.0
+Ken Masters,70,70.0,9.0,5.0,16.0
+Ken Masters,70,70.0,5.0,12.0,39.0
+Ken Masters,7020+50,7020.0,4.0,2.0,31.0
+Ken Masters,75,75.0,9.0,6.0,2.0
+Ken Masters,80,80.0,11.0,4.0,23.0
+Ken Masters,80,80.0,9.0,5.0,16.0
+Ken Masters,80,80.0,22.0,4.0,15.0
+Ken Masters,80,80.0,20.0,4.0,21.0
+Ken Masters,80,80.0,26.0,3.0,21.0
+Ken Masters,80 (20x4),80.0,7.0,453.0,8.0
+Ken Masters,80 (40+40),80.0,236236.0,22.0,3.0
+Ken Masters,8020x2+40,8020.0,0.0,18.0,292.0
+Ken Masters,85,85.0,8.0,4.0,23.0
+Ken Masters,90,90.0,7.0,5.0,2.0
+Ken Masters,90,90.0,10.0,5.0,2.0
+Ken Masters,90,90.0,214.0,11.0,4.0
+Ken Masters,90 (30x3),90.0,2.0,8.0,13.0
+Ken Masters,90 (40+50),90.0,14.0,43.0,4.0
+Kenshiro,-,,5.0,100.0,
+Kenshiro,-,,100.0,,
+Kenshiro,-,,20.0,,
+Kenshiro,-,,26.0,,
+Kenshiro,-,,236.0,6.0,
+Kenshiro,-,,236.0,5.0,
+Kenshiro,-,,5.0,10.0,28.0
+Kenshiro,-,,3.0,10.0,23.0
+Kenshiro,100,100.0,10.0,10.0,150.0
+Kenshiro,100,100.0,10.0,4.0,22.0
+Kenshiro,100,100.0,15.0,9.0,2.0
+Kenshiro,100 (10x5+20+30),100.0,10.0,15.0,
+Kenshiro,100 (10x5+50),100.0,13.0,15.0,
+Kenshiro,100 (20 + 80),100.0,7.0,4.0,58.0
+Kenshiro,110 (30 + 80),110.0,6.0,4.0,58.0
+Kenshiro,120,120.0,5.0,3.0,26.0
+Kenshiro,120,120.0,5.0,3.0,26.0
+Kenshiro,130 (1*11 + 119),130.0,17.0,42.0,38.0
+Kenshiro,132,132.0,25.0,4.0,26.0
+Kenshiro,132 (80+40),132.0,25.0,20.0,55.0
+Kenshiro,140 (10*7 + 70),140.0,18.0,26.0,35.0
+Kenshiro,140 (60 + 80),140.0,8.0,2.0,88.0
+Kenshiro,180,180.0,7.0,5.0,41.0
+Kenshiro,230 (80 + 150),230.0,7.0,2.0,98.0
+Kenshiro,25,25.0,4.0,3.0,11.0
+Kenshiro,25,25.0,6.0,0.0,2.0
+Kenshiro,270 (70 + 200),270.0,6.0,2.0,28.0
+Kenshiro,30,30.0,7.0,3.0,15.0
+Kenshiro,35,35.0,5.0,3.0,9.0
+Kenshiro,40,40.0,6.0,8.0,9.0
+Kenshiro,40,40.0,7.0,2.0,4.0
+Kenshiro,40,40.0,29.0,4.0,19.0
+Kenshiro,40,40.0,21.0,4.0,19.0
+Kenshiro,44280 + 20 + 1*89 + 50 + 150,44280.0,6.0,2.0,43.0
+Kenshiro,50,50.0,5.0,2.0,5.0
+Kenshiro,50,50.0,12.0,24.0,5.0
+Kenshiro,60,60.0,12.0,4.0,17.0
+Kenshiro,60,60.0,19.0,2.0,16.0
+Kenshiro,70,70.0,9.0,1.0,7.0
+Kenshiro,70,70.0,9.0,2.0,7.0
+Kenshiro,70,70.0,11.0,4.0,18.0
+Kenshiro,75,75.0,8.0,4.0,24.0
+Kenshiro,8 (10x5+30),8.0,10.0,15.0,1.0
+Kenshiro,80,80.0,7.0,3.0,23.0
+Kenshiro,80,80.0,9.0,2.0,8.0
+Kenshiro,80,80.0,10.0,3.0,26.0
+Kenshiro,80,80.0,22.0,4.0,15.0
+Kenshiro,80,80.0,24.0,3.0,14.0
+Kenshiro,80,80.0,28.0,2.0,20.0
+Kenshiro,80,80.0,26.0,2.0,19.0
+Kenshiro,80,80.0,13.0,4.0,25.0
+Kenshiro,80,80.0,15.0,9.0,2.0
+Kenshiro,80 (10*6 +20),80.0,10.0,26.0,20.0
+Kenshiro,80 (20 + 60),80.0,5.0,4.0,65.0
+Kenshiro,85,85.0,8.0,3.0,23.0
+Kenshiro,85,85.0,11.0,8.0,150.0
+Kenshiro,90,90.0,21.0,2.0,17.0
+Kenshiro,90,90.0,14.0,4.0,27.0
+Kenshiro,90,90.0,13.0,3.0,27.0
+Kevin Rian,-,,11.0,101.0,
+Kevin Rian,-,,20.0,,
+Kevin Rian,-,,17.0,,
+Kevin Rian,-,,34.0,8.0,
+Kevin Rian,-,,30.0,6.0,
+Kevin Rian,-,,25.0,4.0,
+Kevin Rian,-,,9.0,8.0,
+Kevin Rian,100,100.0,9.0,3.0,19.0
+Kevin Rian,100,100.0,28.0,5.0,13.0
+Kevin Rian,100 (30+70),100.0,9.0,2.0,33.0
+Kevin Rian,100 (50x2),100.0,1.0,16.0,4.0
+Kevin Rian,100 (60+40),100.0,24.0,3.0,16.0
+Kevin Rian,100/120/140,100.0,14.0,4.0,17.0
+Kevin Rian,110 (40+70),110.0,10.0,4.0,34.0
+Kevin Rian,110 (50 + 60),110.0,1.0,18.0,4.0
+Kevin Rian,110/130/150,110.0,22.0,4.0,16.0
+Kevin Rian,110/130/150Lv1: 40+70Lv2: 60+70Lv3: 80+70,110.0,1.0,18.0,3.0
+Kevin Rian,120,120.0,5.0,3.0,26.0
+Kevin Rian,120,120.0,25.0,5.0,14.0
+Kevin Rian,132,132.0,25.0,4.0,20.0
+Kevin Rian,132,132.0,22.0,9.0,55.0
+Kevin Rian,180,180.0,9.0,5.0,36.0
+Kevin Rian,180 (50+130),180.0,10.0,2.0,32.0
+Kevin Rian,230 (40x3+110),230.0,8.0,622.0,41.0
+Kevin Rian,25,25.0,6.0,4.0,11.0
+Kevin Rian,270 (30x4+170),270.0,8.0,404.0,40.0
+Kevin Rian,30,30.0,4.0,3.0,10.0
+Kevin Rian,30,30.0,5.0,3.0,11.0
+Kevin Rian,310 (30x3+70+150),310.0,7.0,62.0,39.0
+Kevin Rian,40,40.0,6.0,3.0,9.0
+Kevin Rian,40,40.0,7.0,3.0,18.0
+Kevin Rian,40,40.0,5.0,4.0,7.0
+Kevin Rian,40,40.0,7.0,6.0,2.0
+Kevin Rian,440 (11+99+330),440.0,6.0,2.0,50.0
+Kevin Rian,45,45.0,6.0,8.0,2.0
+Kevin Rian,50,50.0,7.0,3.0,19.0
+Kevin Rian,50,50.0,10.0,3.0,25.0
+Kevin Rian,60,60.0,8.0,4.0,20.0
+Kevin Rian,65,65.0,10.0,3.0,20.0
+Kevin Rian,70,70.0,8.0,4.0,18.0
+Kevin Rian,70,70.0,26.0,3.0,18.0
+Kevin Rian,75,75.0,7.0,3.0,22.0
+Kevin Rian,75,75.0,10.0,4.0,2.0
+Kevin Rian,80,80.0,22.0,4.0,13.0
+Kevin Rian,80,80.0,23.0,4.0,17.0
+Kevin Rian,80 (20 + 60),80.0,8.0,5.0,15.0
+Kevin Rian,85,85.0,10.0,4.0,18.0
+Kevin Rian,85,85.0,11.0,4.0,2.0
+Kevin Rian,90,90.0,11.0,3.0,18.0
+Kevin Rian,90,90.0,10.0,5.0,19.0
+Kevin Rian,90,90.0,16.0,3.0,27.0
+Kevin Rian,90,90.0,19.0,7.0,20.0
+Kevin Rian,90,90.0,25.0,6.0,13.0
+Kevin Rian,90 [60],90.0,33.0,5.0,18.0
+Kim Dong Hwan,100,100.0,10.0,3.0,21.0
+Kim Dong Hwan,100,100.0,5.0,,
+Kim Dong Hwan,100 (50x2),100.0,20.0,3.0,17.0
+Kim Dong Hwan,100 (5x20),100.0,12.0,18.0,15.0
+Kim Dong Hwan,100 (5x4 + 80),100.0,16.0,19.0,19.0
+Kim Dong Hwan,108 (13x4 + 56),108.0,18.0,3.0,10.0
+Kim Dong Hwan,110 (30 + 10x4 + 40),110.0,8.0,5.0,54.0
+Kim Dong Hwan,120,120.0,5.0,,
+Kim Dong Hwan,120 (30 + 30 + 50),120.0,5.0,3.0,26.0
+Kim Dong Hwan,120 (40 + 10x4 + 40),120.0,7.0,5.0,54.0
+Kim Dong Hwan,120 (40 + 4x20),120.0,10.0,21.0,15.0
+Kim Dong Hwan,130 (16x4 + 66),130.0,8.0,7.0,10.0
+Kim Dong Hwan,132,132.0,25.0,2.0,10.0
+Kim Dong Hwan,220,220.0,9.0,4.0,33.0
+Kim Dong Hwan,230 (30 + 15x4 + 140),230.0,5.0,13.0,20.0
+Kim Dong Hwan,25,25.0,5.0,3.0,12.0
+Kim Dong Hwan,30,30.0,4.0,4.0,7.0
+Kim Dong Hwan,30,30.0,6.0,4.0,17.0
+Kim Dong Hwan,310 (150 + 160),310.0,6.0,5.0,14.0
+Kim Dong Hwan,33,33.0,7.0,3.0,
+Kim Dong Hwan,340 (50 + 20x7 + 150),340.0,4.0,13.0,31.0
+Kim Dong Hwan,35,35.0,5.0,4.0,7.0
+Kim Dong Hwan,36,36.0,18.0,2.0,3.0
+Kim Dong Hwan,40,40.0,6.0,3.0,9.0
+Kim Dong Hwan,40,40.0,6.0,4.0,
+Kim Dong Hwan,434,434.0,6.0,6.0,36.0
+Kim Dong Hwan,45,45.0,6.0,4.0,11.0
+Kim Dong Hwan,48 (19 + 29),48.0,7.0,4.0,6.0
+Kim Dong Hwan,50,50.0,7.0,2.0,0.0
+Kim Dong Hwan,50,50.0,10.0,5.0,6.0
+Kim Dong Hwan,50,50.0,21.0,2.0,26.0
+Kim Dong Hwan,70,70.0,9.0,7.0,
+Kim Dong Hwan,70,70.0,16.0,7.0,14.0
+Kim Dong Hwan,70 (20 + 50),70.0,6.0,2.0,21.0
+Kim Dong Hwan,75,75.0,8.0,3.0,21.0
+Kim Dong Hwan,80,80.0,10.0,4.0,18.0
+Kim Dong Hwan,80,80.0,11.0,8.0,
+Kim Dong Hwan,80,80.0,21.0,4.0,17.0
+Kim Dong Hwan,80 (20 + 60),80.0,21.0,1.0,19.0
+Kim Dong Hwan,80 (30 + 50),80.0,7.0,2.0,17.0
+Kim Dong Hwan,80 (4x20),80.0,12.0,20.0,15.0
+Kim Dong Hwan,80 (5x4 + 60),80.0,9.0,20.0,22.0
+Kim Dong Hwan,85,85.0,12.0,3.0,20.0
+Kim Dong Hwan,90,90.0,24.0,3.0,2.0
+Kim Dong Hwan,90,90.0,25.0,3.0,20.0
+Kim Dong Hwan,90,90.0,24.0,3.0,22.0
+Kim Dong Hwan,90,90.0,27.0,4.0,26.0
+Kim Dong Hwan,90,90.0,24.0,4.0,15.0
+Kim Dong Hwan,90 (30 + 20x3),90.0,5.0,7.0,48.0
+Kim Dong Hwan,90 (5x8 + 50),90.0,15.0,21.0,22.0
+Kim Jae Hoon,-,,30.0,,
+Kim Jae Hoon,-,,18.0,,
+Kim Jae Hoon,100,100.0,10.0,4.0,20.0
+Kim Jae Hoon,100,100.0,10.0,4.0,22.0
+Kim Jae Hoon,100 (10+10+10+70),100.0,18.0,3.0,20.0
+Kim Jae Hoon,100 (30+70),100.0,18.0,3.0,22.0
+Kim Jae Hoon,110,110.0,28.0,4.0,21.0
+Kim Jae Hoon,110,110.0,25.0,4.0,17.0
+Kim Jae Hoon,110 (20+20+70),110.0,17.0,4.0,29.0
+Kim Jae Hoon,110 (50+60),110.0,16.0,3.0,19.0
+Kim Jae Hoon,120,120.0,5.0,3.0,26.0
+Kim Jae Hoon,120 (10+10+10+90),120.0,24.0,3.0,20.0
+Kim Jae Hoon,120 (20+20+80),120.0,16.0,4.0,27.0
+Kim Jae Hoon,120 (40+40+40),120.0,5.0,3.0,26.0
+Kim Jae Hoon,120(150 charged) (10+10+10+20+50),120.0,23.0,3.0,23.0
+Kim Jae Hoon,132 [33+33+66 vs airborne hitstun],132.0,19.0,20.0,53.0
+Kim Jae Hoon,132 [44+88 vs airborne hitstun],132.0,25.0,4.0,26.0
+Kim Jae Hoon,160100+60,160100.0,10.0,3.0,27.0
+Kim Jae Hoon,23030+20*6+80,23030.0,8.0,2.0,164.0
+Kim Jae Hoon,25,25.0,5.0,3.0,8.0
+Kim Jae Hoon,25040+60+60+90,25040.0,9.0,3.0,20.0
+Kim Jae Hoon,30,30.0,4.0,3.0,7.0
+Kim Jae Hoon,30,30.0,6.0,4.0,8.0
+Kim Jae Hoon,31020+15*13+95,31020.0,7.0,2.0,265.0
+Kim Jae Hoon,35,35.0,6.0,3.0,12.0
+Kim Jae Hoon,35,35.0,5.0,4.0,6.0
+Kim Jae Hoon,40,40.0,7.0,4.0,11.0
+Kim Jae Hoon,40,40.0,6.0,5.0,2.0
+Kim Jae Hoon,40,40.0,20.0,3.0,33.0
+Kim Jae Hoon,40,40.0,12.0,5.0,29.0
+Kim Jae Hoon,40,40.0,12.0,5.0,24.0
+Kim Jae Hoon,41840+20*6+30*4+100,41840.0,6.0,2.0,87.0
+Kim Jae Hoon,50,50.0,8.0,6.0,2.0
+Kim Jae Hoon,50,50.0,10.0,5.0,2.0
+Kim Jae Hoon,50,50.0,19.0,3.0,32.0
+Kim Jae Hoon,60,60.0,12.0,4.0,17.0
+Kim Jae Hoon,60,60.0,10.0,3.0,23.0
+Kim Jae Hoon,60,60.0,20.0,7.0,17.0
+Kim Jae Hoon,60,60.0,12.0,5.0,24.0
+Kim Jae Hoon,70,70.0,8.0,3.0,18.0
+Kim Jae Hoon,70,70.0,10.0,5.0,2.0
+Kim Jae Hoon,70,70.0,11.0,4.0,18.0
+Kim Jae Hoon,70,70.0,17.0,4.0,16.0
+Kim Jae Hoon,70 (30+20+20),70.0,8.0,14.0,46.0
+Kim Jae Hoon,70 (30+40),70.0,2.0,7.0,5.0
+Kim Jae Hoon,75 (15+15+15+15+15),75.0,11.0,2.0,15.0
+Kim Jae Hoon,75 (15+15+15+15+15),75.0,12.0,2.0,15.0
+Kim Jae Hoon,80,80.0,9.0,5.0,18.0
+Kim Jae Hoon,80,80.0,11.0,5.0,2.0
+Kim Jae Hoon,80,80.0,10.0,3.0,26.0
+Kim Jae Hoon,80,80.0,22.0,4.0,15.0
+Kim Jae Hoon,80,80.0,24.0,3.0,14.0
+Kim Jae Hoon,80 (20+20+20+20),80.0,11.0,3.0,17.0
+Kim Jae Hoon,80 (30+50),80.0,12.0,4.0,23.0
+Kim Jae Hoon,80 (30+50),80.0,5.0,12.0,38.0
+Kim Jae Hoon,80 (40+20+20),80.0,8.0,11.0,49.0
+Kim Jae Hoon,80 (40+40),80.0,11.0,3.0,24.0
+Kim Jae Hoon,90,90.0,11.0,4.0,11.0
+Kim Jae Hoon,90,90.0,24.0,4.0,20.0
+Kim Jae Hoon,90 (20+70),90.0,14.0,4.0,29.0
+Kim Kaphwan,-,,18.0,,
+Kim Kaphwan,100,100.0,9.0,4.0,22.0
+Kim Kaphwan,100,100.0,10.0,4.0,22.0
+Kim Kaphwan,100 (0*4 + 100),100.0,9.0,38.0,34.0
+Kim Kaphwan,100 (20 + 20 + 60),100.0,21.0,3.0,90.0
+Kim Kaphwan,110 (30 + 20 + 60),110.0,10.0,36.0,63.0
+Kim Kaphwan,120,120.0,5.0,3.0,26.0
+Kim Kaphwan,"120 (0*5 + 120), 80 (20*4)",120.0,11.0,74.0,6.0
+Kim Kaphwan,120 (40 + 80),120.0,5.0,3.0,26.0
+Kim Kaphwan,120 (40*3),120.0,8.0,36.0,73.0
+Kim Kaphwan,130 (40 + 90),130.0,18.0,7.0,25.0
+Kim Kaphwan,130 (40 + 90),130.0,16.0,7.0,21.0
+Kim Kaphwan,132,132.0,25.0,4.0,26.0
+Kim Kaphwan,132,132.0,19.0,20.0,60.0
+Kim Kaphwan,2200*10 + 220,2200.0,7.0,21.0,36.0
+Kim Kaphwan,25,25.0,5.0,4.0,9.0
+Kim Kaphwan,25030*5 + 100,25030.0,10.0,5.0,54.0
+Kim Kaphwan,30,30.0,6.0,4.0,12.0
+Kim Kaphwan,30,30.0,4.0,3.0,9.0
+Kim Kaphwan,30,30.0,5.0,3.0,11.0
+Kim Kaphwan,30,30.0,5.0,8.0,3.0
+Kim Kaphwan,3000*13 + 300,3000.0,6.0,21.0,36.0
+Kim Kaphwan,33030*8 + 90,33030.0,8.0,5.0,82.0
+Kim Kaphwan,40,40.0,5.0,3.0,12.0
+Kim Kaphwan,40,40.0,5.0,8.0,2.0
+Kim Kaphwan,40,40.0,7.0,5.0,2.0
+Kim Kaphwan,40,40.0,7.0,3.0,71.0
+Kim Kaphwan,40,40.0,20.0,5.0,18.0
+Kim Kaphwan,40 (20+20),40.0,6.0,8.0,13.0
+Kim Kaphwan,44450 + 5*25 + 30 + 30 + 180,44450.0,6.0,10.0,7.0
+Kim Kaphwan,50,50.0,10.0,3.0,24.0
+Kim Kaphwan,50 (20 + 30),50.0,8.0,10.0,48.0
+Kim Kaphwan,50 (20 + 30),50.0,7.0,10.0,48.0
+Kim Kaphwan,60,60.0,12.0,4.0,17.0
+Kim Kaphwan,60,60.0,20.0,2.0,17.0
+Kim Kaphwan,60,60.0,12.0,3.0,69.0
+Kim Kaphwan,60,60.0,12.0,5.0,19.0
+Kim Kaphwan,70,70.0,8.0,4.0,21.0
+Kim Kaphwan,70,70.0,10.0,4.0,2.0
+Kim Kaphwan,70,70.0,11.0,4.0,18.0
+Kim Kaphwan,70,70.0,7.0,6.0,78.0
+Kim Kaphwan,70,70.0,7.0,6.0,76.0
+Kim Kaphwan,70 (20 + 50),70.0,17.0,6.0,71.0
+Kim Kaphwan,75 (25 + 50),75.0,9.0,12.0,20.0
+Kim Kaphwan,80,80.0,10.0,3.0,26.0
+Kim Kaphwan,80,80.0,22.0,4.0,15.0
+Kim Kaphwan,80,80.0,22.0,3.0,16.0
+Kim Kaphwan,80,80.0,20.0,5.0,18.0
+Kim Kaphwan,80,80.0,18.0,5.0,18.0
+Kim Kaphwan,80,80.0,27.0,3.0,2.0
+Kim Kaphwan,80 (20*4),80.0,11.0,2.0,8.0
+Kim Kaphwan,80 [50],80.0,5.0,8.0,44.0
+Kim Kaphwan,90,90.0,9.0,3.0,20.0
+Kim Kaphwan,90,90.0,9.0,4.0,24.0
+Kim Kaphwan,90,90.0,9.0,8.0,2.0
+Kim Kaphwan,90,90.0,14.0,4.0,22.0
+Kim Kaphwan,90,90.0,24.0,3.0,2.0
+Kim Kaphwan,90,90.0,23.0,3.0,3.0
+Kim Kaphwan,90,90.0,21.0,3.0,5.0
+Kim Kaphwan,90 (30 + 60),90.0,8.0,13.0,18.0
+Kim Kaphwan,90 (30 + 60),90.0,8.0,15.0,65.0
+Kim Kaphwan,90 (30 + 60),90.0,9.0,5.0,56.0
 Mai Shiranui,-,,,,
-Mai Shiranui,100,100,5,2,44
-Mai Shiranui,100,100,23,4,6
-Mai Shiranui,100,100,12,11,10
-Mai Shiranui,100 (20 + 80),100,18,4,4
-Mai Shiranui,100 (20x3 + 40),100,15,18,10
-Mai Shiranui,110 (30 + 80),110,16,4,1
-Mai Shiranui,110 (40 + 70),110,12,4,8
-Mai Shiranui,118 (99 + 19),118,26,3,21
-Mai Shiranui,120,120,5,3,26
-Mai Shiranui,120,120,5,41,
-Mai Shiranui,120,120,12,8,12
-Mai Shiranui,120,120,12,11,10
-Mai Shiranui,120 (40 + 10x5 + 30),120,8,60,6
-Mai Shiranui,132 (110 + 22),132,21,3,5
-Mai Shiranui,132 (77 + 55),132,11,3,14
-Mai Shiranui,200 (20x5 + 100),200,9,24,36
-Mai Shiranui,240 (10x3 + 20x5 + 110),240,10,27,24
-Mai Shiranui,25,25,5,4,12
-Mai Shiranui,260 (20x7 + 120),260,8,20,26
-Mai Shiranui,30,30,4,4,9
-Mai Shiranui,30,30,7,3,13
-Mai Shiranui,30,30,6,3,11
-Mai Shiranui,300 (10x3 + 20x6 + 150),300,8,29,30
-Mai Shiranui,300 (30x5 + 150),300,5,30,36
-Mai Shiranui,320 (10x21 + 110),320,6,19,32
-Mai Shiranui,33 (14 + 19),33,12,9,21
-Mai Shiranui,35,35,5,4,6
-Mai Shiranui,36,36,26,4,20
-Mai Shiranui,40,40,7,4,17
-Mai Shiranui,40,40,6,5,4
-Mai Shiranui,440,440,7,4,34
-Mai Shiranui,50,50,5,7,5
-Mai Shiranui,50,50,11,10,0
-Mai Shiranui,60,60,10,3,23
-Mai Shiranui,60,60,15,4,6
-Mai Shiranui,60 (30x2),60,11,3,19
-Mai Shiranui,65 (30 + 35),65,6,2,16
-Mai Shiranui,70,70,11,3,19
-Mai Shiranui,70,70,7,4,7
-Mai Shiranui,70,70,9,5,7
-Mai Shiranui,70,70,14,4,21
-Mai Shiranui,70 (30 + 40),70,12,6,17
-Mai Shiranui,80,80,12,4,21
-Mai Shiranui,80,80,8,4,19
-Mai Shiranui,80,80,25,4,15
-Mai Shiranui,80 (40x2),80,15,2,8
-Mai Shiranui,90,90,9,4,22
-Mai Shiranui,90,90,18,6,18
-Mai Shiranui,90 (15x2 + 10 + 40),90,15,18,9
-Mai Shiranui,90 (20x2 + 50),90,12,3,16
-Mai Shiranui,90 (30 + 10x6),90,6,56,5
-Mai Shiranui,90 (30 + 10x6),90,9,60,5
-Marco Rodrigues,-,,21,,
-Marco Rodrigues,-,,17,,
+Mai Shiranui,100,100.0,5.0,2.0,44.0
+Mai Shiranui,100,100.0,23.0,4.0,6.0
+Mai Shiranui,100,100.0,12.0,11.0,10.0
+Mai Shiranui,100 (20 + 80),100.0,18.0,4.0,4.0
+Mai Shiranui,100 (20x3 + 40),100.0,15.0,18.0,10.0
+Mai Shiranui,110 (30 + 80),110.0,16.0,4.0,1.0
+Mai Shiranui,110 (40 + 70),110.0,12.0,4.0,8.0
+Mai Shiranui,118 (99 + 19),118.0,26.0,3.0,21.0
+Mai Shiranui,120,120.0,5.0,3.0,26.0
+Mai Shiranui,120,120.0,5.0,41.0,
+Mai Shiranui,120,120.0,12.0,8.0,12.0
+Mai Shiranui,120,120.0,12.0,11.0,10.0
+Mai Shiranui,120 (40 + 10x5 + 30),120.0,8.0,60.0,6.0
+Mai Shiranui,132 (110 + 22),132.0,21.0,3.0,5.0
+Mai Shiranui,132 (77 + 55),132.0,11.0,3.0,14.0
+Mai Shiranui,200 (20x5 + 100),200.0,9.0,24.0,36.0
+Mai Shiranui,240 (10x3 + 20x5 + 110),240.0,10.0,27.0,24.0
+Mai Shiranui,25,25.0,5.0,4.0,12.0
+Mai Shiranui,260 (20x7 + 120),260.0,8.0,20.0,26.0
+Mai Shiranui,30,30.0,4.0,4.0,9.0
+Mai Shiranui,30,30.0,7.0,3.0,13.0
+Mai Shiranui,30,30.0,6.0,3.0,11.0
+Mai Shiranui,300 (10x3 + 20x6 + 150),300.0,8.0,29.0,30.0
+Mai Shiranui,300 (30x5 + 150),300.0,5.0,30.0,36.0
+Mai Shiranui,320 (10x21 + 110),320.0,6.0,19.0,32.0
+Mai Shiranui,33 (14 + 19),33.0,12.0,9.0,21.0
+Mai Shiranui,35,35.0,5.0,4.0,6.0
+Mai Shiranui,36,36.0,26.0,4.0,20.0
+Mai Shiranui,40,40.0,7.0,4.0,17.0
+Mai Shiranui,40,40.0,6.0,5.0,4.0
+Mai Shiranui,440,440.0,7.0,4.0,34.0
+Mai Shiranui,50,50.0,5.0,7.0,5.0
+Mai Shiranui,50,50.0,11.0,10.0,0.0
+Mai Shiranui,60,60.0,10.0,3.0,23.0
+Mai Shiranui,60,60.0,15.0,4.0,6.0
+Mai Shiranui,60 (30x2),60.0,11.0,3.0,19.0
+Mai Shiranui,65 (30 + 35),65.0,6.0,2.0,16.0
+Mai Shiranui,70,70.0,11.0,3.0,19.0
+Mai Shiranui,70,70.0,7.0,4.0,7.0
+Mai Shiranui,70,70.0,9.0,5.0,7.0
+Mai Shiranui,70,70.0,14.0,4.0,21.0
+Mai Shiranui,70 (30 + 40),70.0,12.0,6.0,17.0
+Mai Shiranui,80,80.0,12.0,4.0,21.0
+Mai Shiranui,80,80.0,8.0,4.0,19.0
+Mai Shiranui,80,80.0,25.0,4.0,15.0
+Mai Shiranui,80 (40x2),80.0,15.0,2.0,8.0
+Mai Shiranui,90,90.0,9.0,4.0,22.0
+Mai Shiranui,90,90.0,18.0,6.0,18.0
+Mai Shiranui,90 (15x2 + 10 + 40),90.0,15.0,18.0,9.0
+Mai Shiranui,90 (20x2 + 50),90.0,12.0,3.0,16.0
+Mai Shiranui,90 (30 + 10x6),90.0,6.0,56.0,5.0
+Mai Shiranui,90 (30 + 10x6),90.0,9.0,60.0,5.0
+Marco Rodrigues,-,,21.0,,
+Marco Rodrigues,-,,17.0,,
 Marco Rodrigues,-,,,,
-Marco Rodrigues,-,,37,,
-Marco Rodrigues,100,100,11,60,11
-Marco Rodrigues,100,100,17,85,0
-Marco Rodrigues,11+5*2+16*3+5*4+16*2+11*4+38+231 (434),11,6,12,35
-Marco Rodrigues,120,120,5,59,
-Marco Rodrigues,120,120,5,26,
-Marco Rodrigues,132,132,21,58,2
-Marco Rodrigues,140,140,29,87,
-Marco Rodrigues,160,160,27,87,
-Marco Rodrigues,25,25,6,2,1
-Marco Rodrigues,250,250,8,78,22
-Marco Rodrigues,30,30,4,4,1
-Marco Rodrigues,30,30,5,2,1
-Marco Rodrigues,30*3 (90),30,15,64,4
-Marco Rodrigues,30+40 (70),30,9,1,8
-Marco Rodrigues,30+40+30+50 (143),30,9,1,8
-Marco Rodrigues,30+60 (90),30,13,75,17
-Marco Rodrigues,30+70 (100),30,27,80,
-Marco Rodrigues,35,35,6,2,0
-Marco Rodrigues,35,35,7,3,
-Marco Rodrigues,35+35 (70),35,11,2,2
-Marco Rodrigues,35+35+50 (120),35,11,59,8
-Marco Rodrigues,35+45 (77),35,7,3,
-Marco Rodrigues,40,40,8,1,4
-Marco Rodrigues,40,40,7,6,3
-Marco Rodrigues,40*2+10*4+100 (220),40,7,60,76
-Marco Rodrigues,45,45,6,4,
-Marco Rodrigues,50,50,10,4,6
-Marco Rodrigues,50,50,19,5,8
-Marco Rodrigues,50,50,13,5,9
-Marco Rodrigues,50*3+20+5*4+130 (320),50,6,58,69
-Marco Rodrigues,50+70 (120),50,13,67,24
-Marco Rodrigues,60,60,13,35,1
-Marco Rodrigues,60,60,16,34,0
-Marco Rodrigues,70,70,6,7,10
-Marco Rodrigues,70,70,7,83,2
-Marco Rodrigues,70 (50),70,5,55,34
-Marco Rodrigues,70 (50),70,7,41,44
-Marco Rodrigues,75,75,10,1,2
-Marco Rodrigues,80,80,25,3,2
-Marco Rodrigues,80,80,6,88,2
-Marco Rodrigues,80,80,19,4,4
-Marco Rodrigues,80,80,15,57,9
-Marco Rodrigues,80 (70),80,6,47,43
-Marco Rodrigues,80*3+70 (310),80,7,63,27
-Marco Rodrigues,82,82,9,85,3
-Marco Rodrigues,85,85,11,4,3
-Marco Rodrigues,9*5+82 (127),9,17,85,3
-Marco Rodrigues,90,90,10,0,4
-Marco Rodrigues,90,90,9,9,
-Marco Rodrigues,90,90,9,8,
-Marco Rodrigues,90,90,13,72,10
-Mr. Big,-,,18,,
-Mr. Big,-,,26,,
-Mr. Big,-,,3,18,23
-Mr. Big,100,100,9,4,18
-Mr. Big,100,100,10,4,22
-Mr. Big,100,100,24,3,23
-Mr. Big,10010x6+40,10010,9,2,34
-Mr. Big,110,110,23,3,27
-Mr. Big,110 (30+20+60),110,16,15,38
-Mr. Big,120,120,5,3,26
-Mr. Big,120,120,18,12,24
-Mr. Big,120,120,20,3,23
-Mr. Big,120 (30+30+60),120,5,3,26
-Mr. Big,130,130,17,12,25
-Mr. Big,130 (20x4+50),130,17,443,26
-Mr. Big,130 (40+20+70),130,10,15,38
-Mr. Big,132,132,25,4,26
-Mr. Big,132,132,19,20,56
-Mr. Big,14010x6+80,14010,9,2,39
-Mr. Big,24030x5+90,24030,8,71,63
-Mr. Big,25,25,6,3,11
-Mr. Big,25,25,2,8,3
-Mr. Big,25015x10+10,25015,4,2,46
-Mr. Big,30,30,7,3,14
-Mr. Big,30,30,10,3,14
-Mr. Big,30,30,4,3,9
-Mr. Big,30,30,9,3,14
-Mr. Big,30,30,5,4,9
-Mr. Big,31030x5+160,31030,7,83,51
-Mr. Big,3405x10 + 30 + 10x10 + 160,3405,1,1,39
-Mr. Big,35,35,7,4,11
-Mr. Big,40,40,5,4,7
-Mr. Big,40,40,6,4,2
-Mr. Big,40,40,7,5,2
-Mr. Big,40,40,9,4,21
-Mr. Big,44055 + 33x4 + 11x8 + 165,44055,6,4,53
-Mr. Big,50,50,10,3,24
-Mr. Big,60,60,12,4,17
-Mr. Big,60 (15x4),60,11,27,28
-Mr. Big,60 [100],60,23,25,3
-Mr. Big,60 [80],60,16,28,2
-Mr. Big,70,70,12,3,20
-Mr. Big,70,70,11,4,18
-Mr. Big,70 (20+50),70,1,9,4
-Mr. Big,70 (30+10*4),70,6,3,10
-Mr. Big,80,80,8,4,24
-Mr. Big,80,80,10,3,20
-Mr. Big,80,80,10,4,2
-Mr. Big,80,80,10,3,26
-Mr. Big,80,80,22,4,15
-Mr. Big,80,80,21,3,17
-Mr. Big,80,80,24,3,14
-Mr. Big,80,80,16,29,3
-Mr. Big,80 (20x4),80,20,27,28
-Mr. Big,80 (30+50),80,6,14,39
-Mr. Big,85,85,9,4,24
-Mr. Big,90,90,14,10,26
-Mr. Big,90,90,23,2,24
-Mr. Karate,-,,,,
-Mr. Karate,-,,65,,
-Mr. Karate,-,,16,,
-Mr. Karate,-,,5,140,14
-Mr. Karate,-,,3,142,14
-Mr. Karate,-,,1,29,3
-Mr. Karate,-,,1,27,3
-Mr. Karate,-,,1,16,
-Mr. Karate,-,,27,,
-Mr. Karate,10,10,1,5,4
-Mr. Karate,100,100,10,4,23
-Mr. Karate,100,100,10,4,22
-Mr. Karate,100 (0+1*18+82),100,22,14,27
-Mr. Karate,100 (40+60),100,18,1,40
-Mr. Karate,110 (0+1*18+92),110,22,14,27
-Mr. Karate,110 (40+70),110,17,1,40
-Mr. Karate,120,120,5,3,26
-Mr. Karate,120,120,24,64,10
-Mr. Karate,120 (0+1*12+118),120,15,8,24
-Mr. Karate,120 (0+1*18+102),120,16,14,27
-Mr. Karate,120 (30 + 30 + 60),120,5,3,26
-Mr. Karate,120 (5*8 + 80),120,11,4,36
-Mr. Karate,130 (0+1*12+118),130,15,8,24
-Mr. Karate,132 [120],132,25,4,26
-Mr. Karate,140 (30 + 50 + 80),140,16,66,
-Mr. Karate,160 (5*7 + 125),160,15,4,36
-Mr. Karate,180 (30 + 50 + 100),180,16,66,
-Mr. Karate,23010 + 5*3 + 10*4 + 5 + 10*3 + 20 + 110,23010,9,8,47
-Mr. Karate,240 [270],240,11,32,81
-Mr. Karate,25,25,5,4,8
-Mr. Karate,30,30,4,3,9
-Mr. Karate,30,30,5,3,11
-Mr. Karate,32030 + 5*3 + 10*4 + 5 + 10 * 5 + 40 + 140,32030,7,13,49
-Mr. Karate,330 (70 + 70 + 190) [360 (70 + 70 + 220)],330,10,48,70
-Mr. Karate,35,35,5,3,11
-Mr. Karate,35,35,6,3,9
-Mr. Karate,37030 + 5*3 + 10*4 + 5 + 10*3 + 1*12 + 20 + 19 + 38*2 + 95,37030,7,13,49
-Mr. Karate,40,40,6,4,16
-Mr. Karate,40,40,7,5,2
-Mr. Karate,40,40,9,4,31
-Mr. Karate,45150*2 + 10*6 + 30 + 50*2 + 120,45150,6,5,37
-Mr. Karate,50,50,5,7,2
-Mr. Karate,50,50,7,5,2
-Mr. Karate,50,50,12,3,22
-Mr. Karate,60,60,8,4,18
-Mr. Karate,60,60,12,6,17
-Mr. Karate,60,60,13,3,2
-Mr. Karate,60,60,7,5,2
-Mr. Karate,60,60,18,10,6
-Mr. Karate,60,60,8,11,45
-Mr. Karate,60,60,9,4,31
-Mr. Karate,60 [170 (40 + 20*5 +30)],60,8,11,45
-Mr. Karate,60 [40],60,5,9,40
-Mr. Karate,70,70,11,5,2
-Mr. Karate,70,70,8,3,19
-Mr. Karate,70,70,26,33,3
-Mr. Karate,70 (30+40),70,6,1,23
-Mr. Karate,70 [180 (40 + 30 + 20*4 +30)],70,6,11,45
-Mr. Karate,80,80,10,4,20
-Mr. Karate,80,80,7,4,25
-Mr. Karate,80,80,9,6,2
-Mr. Karate,80,80,12,3,26
-Mr. Karate,80,80,23,4,15
-Mr. Karate,80,80,12,4,27
-Mr. Karate,80,80,23,3,20
-Mr. Karate,80,80,26,33,85
-Mr. Karate,80,80,35,2,8
-Mr. Karate,80,80,13,12,21
-Mr. Karate,80,80,16,3,19
-Mr. Karate,80 (30 + 50),80,8,3,18
-Mr. Karate,90,90,35,86,8
-Mr. Karate,90,90,13,12,21
-Mr. Karate,90 (40+50),90,18,1,40
-Mr. Karate,[132] (50 + 2*5 + 60),132,21,20,58
-Nightmare Geese,%0,0,214,6,6
-Nightmare Geese,-,,18,,
-Nightmare Geese,-,,7,,
-Nightmare Geese,100,100,10,4,21
-Nightmare Geese,100,100,10,4,22
-Nightmare Geese,100,100,35,8,9
-Nightmare Geese,100,100,3,12,29
-Nightmare Geese,100,100,13,2,30
-Nightmare Geese,100 (20+20+20+40),100,18,33,76
-Nightmare Geese,110,110,32,8,7
-Nightmare Geese,110 (30+80),110,12,25,2
-Nightmare Geese,120,120,5,3,26
-Nightmare Geese,120,120,5,3,26
-Nightmare Geese,120,120,5,1,30
-Nightmare Geese,132 (50+70),132,19,20,0
-Nightmare Geese,132 (60+20+40),132,23,9,26
-Nightmare Geese,140,140,3,12,29
-Nightmare Geese,140,140,7,1,10
-Nightmare Geese,140,140,13,2,30
-Nightmare Geese,160,160,3,12,29
-Nightmare Geese,20020*9 + 20,20020,8,11,46
-Nightmare Geese,220,220,8,23,42
-Nightmare Geese,23020*9 + 50,23020,8,11,46
-Nightmare Geese,240,240,8,23,71
-Nightmare Geese,25,25,6,4,10
-Nightmare Geese,29020*9 + 110,29020,8,1,39
-Nightmare Geese,30,30,4,3,9
-Nightmare Geese,30,30,5,3,11
-Nightmare Geese,30,30,12,4,16
-Nightmare Geese,30,30,16,4,15
-Nightmare Geese,33020*9 + 150,33020,8,11,46
-Nightmare Geese,33050x4 + 130,33050,8,27,83
-Nightmare Geese,35,35,7,4,11
-Nightmare Geese,35,35,6,4,7
-Nightmare Geese,37050x4 + 170,37050,8,27,71
-Nightmare Geese,40,40,5,3,11
-Nightmare Geese,40,40,7,6,2
-Nightmare Geese,45140+10*19+180,45140,6,10,37
-Nightmare Geese,50,50,11,3,24
-Nightmare Geese,60,60,12,4,17
-Nightmare Geese,60,60,15,30,4
-Nightmare Geese,60,60,15,6,100
-Nightmare Geese,60,60,15,6,200
-Nightmare Geese,60 [80],60,12,3,27
-Nightmare Geese,60 [80],60,19,4,27
-Nightmare Geese,60 [80],60,20,4,27
-Nightmare Geese,70,70,11,5,2
-Nightmare Geese,70,70,10,4,2
-Nightmare Geese,70,70,11,4,18
-Nightmare Geese,70,70,16,18,23
-Nightmare Geese,70 (30+40),70,8,3,20
-Nightmare Geese,70 [70 (30+40)],70,30,2,2
-Nightmare Geese,70 [90],70,12,3,27
-Nightmare Geese,75,75,8,3,20
-Nightmare Geese,80,80,13,4,15
-Nightmare Geese,80,80,9,3,20
-Nightmare Geese,80,80,10,3,26
-Nightmare Geese,80,80,8,5,20
-Nightmare Geese,80,80,11,4,24
-Nightmare Geese,80,80,13,3,19
-Nightmare Geese,80 (40+40),80,22,4,15
-Nightmare Geese,80 (40+40),80,23,3,14
-Nightmare Geese,80 (40+40),80,12,4,250
-Nightmare Geese,90,90,15,4,15
-Nightmare Geese,90,90,11,4,24
-Nightmare Geese,90 [40+30],90,27,4,14
-Nightmare Geese,90 [40+40],90,19,4,14
-Preecha,-,,17,,
-Preecha,-,,13,26,
-Preecha,-,,11,20,
-Preecha,100,100,8,3,23
-Preecha,100,100,18,7,23
-Preecha,100 (20+80),100,21,6,18
-Preecha,100 (20+80) / 50 cross-up,100,28,7,20
-Preecha,120,120,15,9,12
-Preecha,120 (30+20x2+50),120,20,3,18
-Preecha,120 (30+30+60),120,5,3,26
-Preecha,120 (30+30+60),120,5,3,26
-Preecha,130 (40+20x2+50),130,20,3,18
-Preecha,132,132,25,4,22
-Preecha,132,132,20,50,4
-Preecha,15,15,13,4,23
-Preecha,15,15,13,4,19
-Preecha,15,15,9,4,23
-Preecha,15,15,9,4,24
-Preecha,15,15,14,4,25
-Preecha,15,15,14,4,28
-Preecha,20,20,14,3,21
-Preecha,20,20,15,3,14
-Preecha,220,220,9,10,82
-Preecha,220 (15x6+20x4+50),220,9,171,15
-Preecha,25,25,5,4,10
-Preecha,250 (50+40+20x4+80),250,9,169,10
-Preecha,290 (10x4+20x3+30x4+70),290,7,177,33
-Preecha,30,30,5,3,14
-Preecha,30,30,4,4,9
-Preecha,30,30,5,4,11
-Preecha,310 (100+210),310,6,8,78
-Preecha,334 (15+14x2+9x3+19x3+28x4+95),334,7,177,63
-Preecha,40,40,6,4,11
-Preecha,40,40,6,4,9
-Preecha,40,40,4,7,2
-Preecha,40,40,6,6,2
-Preecha,40,40,4,6,4
-Preecha,40,40,20,3,49
-Preecha,40 (20+20),40,5,3,50
-Preecha,40 (30+10),40,7,3,50
-Preecha,440 (55+33+55+77+220),440,6,57,9
-Preecha,45,45,4,7,2
-Preecha,45,45,17,3,35
-Preecha,50,50,22,4,17
-Preecha,50,50,9,3,19
-Preecha,50,50,9,3,24
-Preecha,50,50,24,4,15
-Preecha,50,50,30,3,50
-Preecha,50,50,30,3,57
-Preecha,55,55,17,3,35
-Preecha,60,60,8,4,17
-Preecha,60,60,7,3,17
-Preecha,60,60,6,3,19
-Preecha,60,60,21,3,16
-Preecha,60,60,14,48,6
-Preecha,60 (50+10),60,6,3,50
-Preecha,70,70,8,4,15
-Preecha,70,70,10,4,2
-Preecha,70,70,7,3,21
-Preecha,70,70,21,3,16
-Preecha,75,75,6,3,18
-Preecha,80,80,8,6,2
-Preecha,80,80,25,3,19
-Preecha,80 (40+10x2+20),80,14,73,77
-Preecha,80 (40x2),80,14,71,1
-Preecha,90,90,9,4,19
-Preecha,90,90,8,4,22
-Preecha,90,90,10,3,24
-Rick Strowd,(20+20+30) 70,20,8,3,75
+Marco Rodrigues,-,,37.0,,
+Marco Rodrigues,100,100.0,11.0,60.0,11.0
+Marco Rodrigues,100,100.0,17.0,85.0,0.0
+Marco Rodrigues,11+5*2+16*3+5*4+16*2+11*4+38+231 (434),11.0,6.0,12.0,35.0
+Marco Rodrigues,120,120.0,5.0,59.0,
+Marco Rodrigues,120,120.0,5.0,26.0,
+Marco Rodrigues,132,132.0,21.0,58.0,2.0
+Marco Rodrigues,140,140.0,29.0,87.0,
+Marco Rodrigues,160,160.0,27.0,87.0,
+Marco Rodrigues,25,25.0,6.0,2.0,1.0
+Marco Rodrigues,250,250.0,8.0,78.0,22.0
+Marco Rodrigues,30,30.0,4.0,4.0,1.0
+Marco Rodrigues,30,30.0,5.0,2.0,1.0
+Marco Rodrigues,30*3 (90),30.0,15.0,64.0,4.0
+Marco Rodrigues,30+40 (70),30.0,9.0,1.0,8.0
+Marco Rodrigues,30+40+30+50 (143),30.0,9.0,1.0,8.0
+Marco Rodrigues,30+60 (90),30.0,13.0,75.0,17.0
+Marco Rodrigues,30+70 (100),30.0,27.0,80.0,
+Marco Rodrigues,35,35.0,6.0,2.0,0.0
+Marco Rodrigues,35,35.0,7.0,3.0,
+Marco Rodrigues,35+35 (70),35.0,11.0,2.0,2.0
+Marco Rodrigues,35+35+50 (120),35.0,11.0,59.0,8.0
+Marco Rodrigues,35+45 (77),35.0,7.0,3.0,
+Marco Rodrigues,40,40.0,8.0,1.0,4.0
+Marco Rodrigues,40,40.0,7.0,6.0,3.0
+Marco Rodrigues,40*2+10*4+100 (220),40.0,7.0,60.0,76.0
+Marco Rodrigues,45,45.0,6.0,4.0,
+Marco Rodrigues,50,50.0,10.0,4.0,6.0
+Marco Rodrigues,50,50.0,19.0,5.0,8.0
+Marco Rodrigues,50,50.0,13.0,5.0,9.0
+Marco Rodrigues,50*3+20+5*4+130 (320),50.0,6.0,58.0,69.0
+Marco Rodrigues,50+70 (120),50.0,13.0,67.0,24.0
+Marco Rodrigues,60,60.0,13.0,35.0,1.0
+Marco Rodrigues,60,60.0,16.0,34.0,0.0
+Marco Rodrigues,70,70.0,6.0,7.0,10.0
+Marco Rodrigues,70,70.0,7.0,83.0,2.0
+Marco Rodrigues,70 (50),70.0,5.0,55.0,34.0
+Marco Rodrigues,70 (50),70.0,7.0,41.0,44.0
+Marco Rodrigues,75,75.0,10.0,1.0,2.0
+Marco Rodrigues,80,80.0,25.0,3.0,2.0
+Marco Rodrigues,80,80.0,6.0,88.0,2.0
+Marco Rodrigues,80,80.0,19.0,4.0,4.0
+Marco Rodrigues,80,80.0,15.0,57.0,9.0
+Marco Rodrigues,80 (70),80.0,6.0,47.0,43.0
+Marco Rodrigues,80*3+70 (310),80.0,7.0,63.0,27.0
+Marco Rodrigues,82,82.0,9.0,85.0,3.0
+Marco Rodrigues,85,85.0,11.0,4.0,3.0
+Marco Rodrigues,9*5+82 (127),9.0,17.0,85.0,3.0
+Marco Rodrigues,90,90.0,10.0,0.0,4.0
+Marco Rodrigues,90,90.0,9.0,9.0,
+Marco Rodrigues,90,90.0,9.0,8.0,
+Marco Rodrigues,90,90.0,13.0,72.0,10.0
+Nightmare Geese,%0,0.0,214.0,6.0,6.0
+Nightmare Geese,-,,18.0,,
+Nightmare Geese,-,,7.0,,
+Nightmare Geese,100,100.0,10.0,4.0,21.0
+Nightmare Geese,100,100.0,10.0,4.0,22.0
+Nightmare Geese,100,100.0,35.0,8.0,9.0
+Nightmare Geese,100,100.0,3.0,12.0,29.0
+Nightmare Geese,100,100.0,13.0,2.0,30.0
+Nightmare Geese,100 (20+20+20+40),100.0,18.0,33.0,76.0
+Nightmare Geese,110,110.0,32.0,8.0,7.0
+Nightmare Geese,110 (30+80),110.0,12.0,25.0,2.0
+Nightmare Geese,120,120.0,5.0,3.0,26.0
+Nightmare Geese,120,120.0,5.0,3.0,26.0
+Nightmare Geese,120,120.0,5.0,1.0,30.0
+Nightmare Geese,132 (50+70),132.0,19.0,20.0,0.0
+Nightmare Geese,132 (60+20+40),132.0,23.0,9.0,26.0
+Nightmare Geese,140,140.0,3.0,12.0,29.0
+Nightmare Geese,140,140.0,7.0,1.0,10.0
+Nightmare Geese,140,140.0,13.0,2.0,30.0
+Nightmare Geese,160,160.0,3.0,12.0,29.0
+Nightmare Geese,20020*9 + 20,20020.0,8.0,11.0,46.0
+Nightmare Geese,220,220.0,8.0,23.0,42.0
+Nightmare Geese,23020*9 + 50,23020.0,8.0,11.0,46.0
+Nightmare Geese,240,240.0,8.0,23.0,71.0
+Nightmare Geese,25,25.0,6.0,4.0,10.0
+Nightmare Geese,29020*9 + 110,29020.0,8.0,1.0,39.0
+Nightmare Geese,30,30.0,4.0,3.0,9.0
+Nightmare Geese,30,30.0,5.0,3.0,11.0
+Nightmare Geese,30,30.0,12.0,4.0,16.0
+Nightmare Geese,30,30.0,16.0,4.0,15.0
+Nightmare Geese,33020*9 + 150,33020.0,8.0,11.0,46.0
+Nightmare Geese,33050x4 + 130,33050.0,8.0,27.0,83.0
+Nightmare Geese,35,35.0,7.0,4.0,11.0
+Nightmare Geese,35,35.0,6.0,4.0,7.0
+Nightmare Geese,37050x4 + 170,37050.0,8.0,27.0,71.0
+Nightmare Geese,40,40.0,5.0,3.0,11.0
+Nightmare Geese,40,40.0,7.0,6.0,2.0
+Nightmare Geese,45140+10*19+180,45140.0,6.0,10.0,37.0
+Nightmare Geese,50,50.0,11.0,3.0,24.0
+Nightmare Geese,60,60.0,12.0,4.0,17.0
+Nightmare Geese,60,60.0,15.0,30.0,4.0
+Nightmare Geese,60,60.0,15.0,6.0,100.0
+Nightmare Geese,60,60.0,15.0,6.0,200.0
+Nightmare Geese,60 [80],60.0,12.0,3.0,27.0
+Nightmare Geese,60 [80],60.0,19.0,4.0,27.0
+Nightmare Geese,60 [80],60.0,20.0,4.0,27.0
+Nightmare Geese,70,70.0,11.0,5.0,2.0
+Nightmare Geese,70,70.0,10.0,4.0,2.0
+Nightmare Geese,70,70.0,11.0,4.0,18.0
+Nightmare Geese,70,70.0,16.0,18.0,23.0
+Nightmare Geese,70 (30+40),70.0,8.0,3.0,20.0
+Nightmare Geese,70 [70 (30+40)],70.0,30.0,2.0,2.0
+Nightmare Geese,70 [90],70.0,12.0,3.0,27.0
+Nightmare Geese,75,75.0,8.0,3.0,20.0
+Nightmare Geese,80,80.0,13.0,4.0,15.0
+Nightmare Geese,80,80.0,9.0,3.0,20.0
+Nightmare Geese,80,80.0,10.0,3.0,26.0
+Nightmare Geese,80,80.0,8.0,5.0,20.0
+Nightmare Geese,80,80.0,11.0,4.0,24.0
+Nightmare Geese,80,80.0,13.0,3.0,19.0
+Nightmare Geese,80 (40+40),80.0,22.0,4.0,15.0
+Nightmare Geese,80 (40+40),80.0,23.0,3.0,14.0
+Nightmare Geese,80 (40+40),80.0,12.0,4.0,250.0
+Nightmare Geese,90,90.0,15.0,4.0,15.0
+Nightmare Geese,90,90.0,11.0,4.0,24.0
+Nightmare Geese,90 [40+30],90.0,27.0,4.0,14.0
+Nightmare Geese,90 [40+40],90.0,19.0,4.0,14.0
+Preecha,-,,17.0,,
+Preecha,-,,13.0,26.0,
+Preecha,-,,11.0,20.0,
+Preecha,100,100.0,8.0,3.0,23.0
+Preecha,100,100.0,18.0,7.0,23.0
+Preecha,100 (20+80),100.0,21.0,6.0,18.0
+Preecha,100 (20+80) / 50 cross-up,100.0,28.0,7.0,20.0
+Preecha,120,120.0,15.0,9.0,12.0
+Preecha,120 (30+20x2+50),120.0,20.0,3.0,18.0
+Preecha,120 (30+30+60),120.0,5.0,3.0,26.0
+Preecha,120 (30+30+60),120.0,5.0,3.0,26.0
+Preecha,130 (40+20x2+50),130.0,20.0,3.0,18.0
+Preecha,132,132.0,25.0,4.0,22.0
+Preecha,132,132.0,20.0,50.0,4.0
+Preecha,15,15.0,13.0,4.0,23.0
+Preecha,15,15.0,13.0,4.0,19.0
+Preecha,15,15.0,9.0,4.0,23.0
+Preecha,15,15.0,9.0,4.0,24.0
+Preecha,15,15.0,14.0,4.0,25.0
+Preecha,15,15.0,14.0,4.0,28.0
+Preecha,20,20.0,14.0,3.0,21.0
+Preecha,20,20.0,15.0,3.0,14.0
+Preecha,220,220.0,9.0,10.0,82.0
+Preecha,220 (15x6+20x4+50),220.0,9.0,171.0,15.0
+Preecha,25,25.0,5.0,4.0,10.0
+Preecha,250 (50+40+20x4+80),250.0,9.0,169.0,10.0
+Preecha,290 (10x4+20x3+30x4+70),290.0,7.0,177.0,33.0
+Preecha,30,30.0,5.0,3.0,14.0
+Preecha,30,30.0,4.0,4.0,9.0
+Preecha,30,30.0,5.0,4.0,11.0
+Preecha,310 (100+210),310.0,6.0,8.0,78.0
+Preecha,334 (15+14x2+9x3+19x3+28x4+95),334.0,7.0,177.0,63.0
+Preecha,40,40.0,6.0,4.0,11.0
+Preecha,40,40.0,6.0,4.0,9.0
+Preecha,40,40.0,4.0,7.0,2.0
+Preecha,40,40.0,6.0,6.0,2.0
+Preecha,40,40.0,4.0,6.0,4.0
+Preecha,40,40.0,20.0,3.0,49.0
+Preecha,40 (20+20),40.0,5.0,3.0,50.0
+Preecha,40 (30+10),40.0,7.0,3.0,50.0
+Preecha,440 (55+33+55+77+220),440.0,6.0,57.0,9.0
+Preecha,45,45.0,4.0,7.0,2.0
+Preecha,45,45.0,17.0,3.0,35.0
+Preecha,50,50.0,22.0,4.0,17.0
+Preecha,50,50.0,9.0,3.0,19.0
+Preecha,50,50.0,9.0,3.0,24.0
+Preecha,50,50.0,24.0,4.0,15.0
+Preecha,50,50.0,30.0,3.0,50.0
+Preecha,50,50.0,30.0,3.0,57.0
+Preecha,55,55.0,17.0,3.0,35.0
+Preecha,60,60.0,8.0,4.0,17.0
+Preecha,60,60.0,7.0,3.0,17.0
+Preecha,60,60.0,6.0,3.0,19.0
+Preecha,60,60.0,21.0,3.0,16.0
+Preecha,60,60.0,14.0,48.0,6.0
+Preecha,60 (50+10),60.0,6.0,3.0,50.0
+Preecha,70,70.0,8.0,4.0,15.0
+Preecha,70,70.0,10.0,4.0,2.0
+Preecha,70,70.0,7.0,3.0,21.0
+Preecha,70,70.0,21.0,3.0,16.0
+Preecha,75,75.0,6.0,3.0,18.0
+Preecha,80,80.0,8.0,6.0,2.0
+Preecha,80,80.0,25.0,3.0,19.0
+Preecha,80 (40+10x2+20),80.0,14.0,73.0,77.0
+Preecha,80 (40x2),80.0,14.0,71.0,1.0
+Preecha,90,90.0,9.0,4.0,19.0
+Preecha,90,90.0,8.0,4.0,22.0
+Preecha,90,90.0,10.0,3.0,24.0
+Rick Strowd,(20+20+30) 70,20.0,8.0,3.0,75.0
 Rick Strowd,-,,,,
-Rick Strowd,-,,16,,
-Rick Strowd,-,,20,,
-Rick Strowd,100,100,10,4,22
-Rick Strowd,120,120,5,3,26
-Rick Strowd,120,120,5,3,26
-Rick Strowd,132,132,25,3,26
-Rick Strowd,132 (80+40),132,25,20,55
-Rick Strowd,20,20,6,1,2
-Rick Strowd,220,220,8,3,58
-Rick Strowd,230,230,10,55,44
-Rick Strowd,25,25,5,3,10
-Rick Strowd,30,30,5,4,6
-Rick Strowd,330,330,7,3,58
-Rick Strowd,35,35,6,3,14
-Rick Strowd,35,35,4,3,10
-Rick Strowd,360,360,10,26,54
-Rick Strowd,40,40,6,3,14
-Rick Strowd,465,465,6,4,35
-Rick Strowd,50,50,12,24,5
-Rick Strowd,60,60,20,3,2
-Rick Strowd,70,70,10,3,19
-Rick Strowd,70,70,8,4,19
-Rick Strowd,70,70,19,4,2
-Rick Strowd,80,80,7,7,17
-Rick Strowd,80,80,22,4,15
-Rick Strowd,80,80,3,12,63
-Rick Strowd,80,80,24,3,14
-Rick Strowd,90,90,12,6,17
-Rock Howard,-,,24,,
-Rock Howard,-,,20,,
-Rock Howard,-,,30,,
-Rock Howard,-,,8,70,
-Rock Howard,-,,5,50,
-Rock Howard,-,,26,,
-Rock Howard,100,100,8,4,23
-Rock Howard,100,100,3,1,29
-Rock Howard,100,100,26,7,15
-Rock Howard,100,100,11,2,25
-Rock Howard,100 (20+80),100,11,56,2
-Rock Howard,100 (20+80),100,10,55,68
-Rock Howard,100 (30+20x2+30),100,7,3,57
-Rock Howard,100 (40+60),100,15,8,28
-Rock Howard,120,120,5,3,26
-Rock Howard,120,120,5,3,26
-Rock Howard,120,120,3,3,29
-Rock Howard,120,120,3,3,33
-Rock Howard,120 (40+10x4+40),120,5,3,55
-Rock Howard,120 (40+80),120,15,10,25
-Rock Howard,132,132,25,5,22
-Rock Howard,132,132,28,6,58
-Rock Howard,220 (30x4+100),220,10,15,56
-Rock Howard,240,240,8,45,36
-Rock Howard,25,25,4,3,8
-Rock Howard,25,25,5,3,10
-Rock Howard,25,25,5,4,9
-Rock Howard,280 (60+30x2+7x10+90),280,9,20,50
-Rock Howard,30,30,7,3,17
-Rock Howard,30,30,18,3,20
-Rock Howard,310 (60x3+130),310,6,49,32
-Rock Howard,40,40,5,3,9
-Rock Howard,40,40,5,4,9
-Rock Howard,40,40,6,5,2
-Rock Howard,451 (88+363),451,6,6,56
-Rock Howard,50,50,3,7,2
-Rock Howard,50,50,4,8,2
-Rock Howard,50,50,6,5,5
-Rock Howard,50,50,12,3,24
-Rock Howard,60,60,8,4,17
-Rock Howard,60,60,13,47,6
-Rock Howard,60,60,11,15,6
-Rock Howard,60,60,12,4,19
-Rock Howard,70,70,9,3,23
-Rock Howard,70,70,7,5,21
-Rock Howard,70,70,6,4,20
-Rock Howard,70,70,9,4,2
-Rock Howard,70,70,11,3,20
-Rock Howard,70,70,12,4,19
-Rock Howard,70,70,20,5,19
-Rock Howard,75,75,6,3,21
-Rock Howard,80,80,7,6,2
-Rock Howard,80,80,10,4,24
-Rock Howard,80,80,24,3,14
-Rock Howard,80,80,24,4,13
-Rock Howard,80,80,11,9,21
-Rock Howard,80,80,20,5,17
-Rock Howard,80,80,11,2,91
-Rock Howard,80 (30+10x2+30),80,5,3,53
-Rock Howard,80 (40x2),80,11,15,8
-Rock Howard,90,90,11,3,18
-Rock Howard,90,90,31,5,15
-Rock Howard,90,90,16,2,91
-Salvatore Ganacci,-,,21,345,
-Salvatore Ganacci,-,,17,,
-Salvatore Ganacci,-,,11,97,
-Salvatore Ganacci,-,,11,98,
-Salvatore Ganacci,-,,25,,
-Salvatore Ganacci,-,,36,,
-Salvatore Ganacci,-,,37,,
-Salvatore Ganacci,-,,27,,
-Salvatore Ganacci,-,,16,,
-Salvatore Ganacci,100,100,11,4,23
-Salvatore Ganacci,100,100,8,6,18
-Salvatore Ganacci,100,100,11,10,53
-Salvatore Ganacci,100,100,11,9,53
-Salvatore Ganacci,100 (40+60),100,8,4,28
-Salvatore Ganacci,120,120,5,3,26
-Salvatore Ganacci,120 (20x2+30+50),120,5,3,26
-Salvatore Ganacci,120 (50+10+30x2),120,16,4,38
-Salvatore Ganacci,132,132,25,3,28
-Salvatore Ganacci,132,132,23,4,18
-Salvatore Ganacci,20,20,4,3,10
-Salvatore Ganacci,20,20,7,9,93
-Salvatore Ganacci,20,20,9,7,93
-Salvatore Ganacci,220 ((20x4)x2+60),220,9,112,76
-Salvatore Ganacci,25,25,4,4,8
-Salvatore Ganacci,25,25,5,3,11
-Salvatore Ganacci,25,25,6,3,11
-Salvatore Ganacci,25,25,11,3,18
-Salvatore Ganacci,250,250,1,26,66
-Salvatore Ganacci,30,30,5,3,9
-Salvatore Ganacci,30,30,26,8,23
-Salvatore Ganacci,30,30,6,10,89
-Salvatore Ganacci,30 (10x3),30,2,3,21
-Salvatore Ganacci,300,300,1,29,132
-Salvatore Ganacci,310 (10x19+20+100),310,8,250,74
-Salvatore Ganacci,35,35,5,3,8
-Salvatore Ganacci,35,35,6,4,17
-Salvatore Ganacci,40,40,5,13,2
-Salvatore Ganacci,40,40,6,8,2
-Salvatore Ganacci,40,40,12,4,26
-Salvatore Ganacci,40,40,25,7,38
-Salvatore Ganacci,40,40,22,8,23
-Salvatore Ganacci,40,40,33,7,24
-Salvatore Ganacci,40,40,12,10,4
-Salvatore Ganacci,40 (20x2),40,17,3,61
-Salvatore Ganacci,40 (20x2),40,14,3,53
-Salvatore Ganacci,451 (88+11x25+88),451,6,8,177
-Salvatore Ganacci,50,50,5,13,2
-Salvatore Ganacci,50,50,21,3,20
-Salvatore Ganacci,50,50,12,3,17
-Salvatore Ganacci,50,50,11,10,5
-Salvatore Ganacci,55,55,9,3,22
-Salvatore Ganacci,55,55,8,4,21
-Salvatore Ganacci,60,60,7,3,15
-Salvatore Ganacci,60,60,42,6,34
-Salvatore Ganacci,60,60,14,8,20
-Salvatore Ganacci,60,60,14,8,51
-Salvatore Ganacci,60,60,12,6,26
-Salvatore Ganacci,60 (20x3),60,2,3,21
-Salvatore Ganacci,60 (30x2),60,10,3,12
-Salvatore Ganacci,60 (30x2),60,7,3,17
-Salvatore Ganacci,65 (15+15+35),65,11,3,19
-Salvatore Ganacci,70,70,11,4,20
-Salvatore Ganacci,70,70,10,2,6
-Salvatore Ganacci,70,70,10,4,17
-Salvatore Ganacci,70,70,14,7,51
-Salvatore Ganacci,70 (10x7),70,11,2,3
-Salvatore Ganacci,80,80,13,4,21
-Salvatore Ganacci,80,80,21,3,19
-Salvatore Ganacci,80,80,12,8,22
-Salvatore Ganacci,90,90,9,4,23
-Salvatore Ganacci,90,90,8,6,22
-Salvatore Ganacci,90 (60 far),90,25,6,17
-Terry Bogard,-,,25,,
-Terry Bogard,-,,14,,
-Terry Bogard,-,,19,,
-Terry Bogard,100,100,9,4,23
-Terry Bogard,100,100,27,4,16
-Terry Bogard,110,110,13,11,21
-Terry Bogard,110,110,20,4,17
-Terry Bogard,110 (50+5x4+40),110,1,6,3
-Terry Bogard,120,120,5,3,26
-Terry Bogard,120,120,17,12,24
-Terry Bogard,132 (50 + 20 + 50 [120]),132,25,8,36
-Terry Bogard,132 (50 + 70 [120]),132,8,2,21
-Terry Bogard,132 (50 + 70 [120]),132,8,3,12
-Terry Bogard,140,140,25,12,18
-Terry Bogard,20,20,7,5,18
-Terry Bogard,20,20,12,4,19
-Terry Bogard,20,20,18,4,19
-Terry Bogard,20,20,16,4,17
-Terry Bogard,20,20,20,3,23
-Terry Bogard,20,20,25,4,24
-Terry Bogard,20,20,22,4,19
-Terry Bogard,200 (40+160),200,10,16,55
-Terry Bogard,240,240,9,72,61
-Terry Bogard,25,25,4,4,8
-Terry Bogard,25,25,6,4,9
-Terry Bogard,30,30,5,3,10
-Terry Bogard,30,30,5,3,10
-Terry Bogard,300 (50+15*10+100),300,10,15,38
-Terry Bogard,330 (70+100+160),330,2,8,115
-Terry Bogard,35,35,7,4,20
-Terry Bogard,40,40,7,3,15
-Terry Bogard,40,40,6,5,10
-Terry Bogard,40,40,6,9,2
-Terry Bogard,40,40,6,6,2
-Terry Bogard,"434 Min: 208, (80+35+15*10+135)",434,6,5,27
-Terry Bogard,50,50,6,4,18
-Terry Bogard,50,50,4,6,2
-Terry Bogard,50,50,4,7,2
-Terry Bogard,50,50,22,4,13
-Terry Bogard,50,50,19,4,20
-Terry Bogard,50,50,12,3,23
-Terry Bogard,50,50,18,1,34
-Terry Bogard,60,60,10,4,15
-Terry Bogard,60,60,14,49,5
-Terry Bogard,60,60,20,1,34
-Terry Bogard,60,60,20,1,25
-Terry Bogard,60 (30x2) [90 (30x3)],60,16,43,4
-Terry Bogard,60 [80],60,18,49,1
-Terry Bogard,65,65,9,3,16
-Terry Bogard,70,70,9,4,2
-Terry Bogard,70,70,10,5,16
-Terry Bogard,80,80,9,4,18
-Terry Bogard,80,80,7,5,2
-Terry Bogard,80,80,9,4,23
-Terry Bogard,80,80,26,4,17
-Terry Bogard,90,90,10,4,18
-Terry Bogard,90,90,21,4,17
-Terry Bogard,90 (30+10+50),90,5,6,22
-Terry Bogard,90 (30+10+50),90,1,7,3
-Terry Bogard,95 (40+55),95,11,4,16
-Tizoc,-,,15,,
-Tizoc,-,,11,28,
-Tizoc,-,,28,10,
-Tizoc,-,,14,21,
-Tizoc,-,,17,20,
-Tizoc,-,,19,20,
-Tizoc,-,,13,1,20
-Tizoc,100,100,24,3,17
-Tizoc,100,100,11,3,24
-Tizoc,100,100,4,5,3
-Tizoc,100,100,26,4,21
-Tizoc,100,100,15,3,18
-Tizoc,100,100,19,3,23
-Tizoc,100 (40+60),100,9,6,22
-Tizoc,110,110,11,4,20
-Tizoc,110,110,23,8,14
-Tizoc,120 (10x3+90),120,5,3,26
-Tizoc,120 (40+80),120,25,6,20
-Tizoc,120 (40+80),120,9,5,22
-Tizoc,132 (120),132,25,6,26
-Tizoc,132 (120),132,23,18,55
-Tizoc,140,140,48,3,17
-Tizoc,140,140,9,2,34
-Tizoc,140,140,20,10,39
-Tizoc,140,140,24,10,31
-Tizoc,140,140,14,11,37
-Tizoc,140,140,6,2,43
-Tizoc,160,160,8,2,43
-Tizoc,170,170,28,10,25
-Tizoc,170,170,28,8,23
-Tizoc,180,180,28,7,22
-Tizoc,180,180,4,2,45
-Tizoc,200,200,7,2,52
-Tizoc,200 (50x2+100),200,10,3,43
-Tizoc,240,240,5,2,54
-Tizoc,25,25,5,4,10
-Tizoc,30,30,4,4,9
-Tizoc,30,30,6,3,10
-Tizoc,310,310,5,2,50
-Tizoc,310 (30x6+130),310,6,93,66
-Tizoc,320 (100+220),320,1,2,44
-Tizoc,35,35,8,4,15
-Tizoc,40,40,7,4,16
-Tizoc,40,40,6,5,8
-Tizoc,40,40,5,2,26
-Tizoc,400 (100+300),400,1,2,55
-Tizoc,418 (88+110+220),418,6,4,37
-Tizoc,45,45,7,5,2
-Tizoc,50,50,7,10,2
-Tizoc,50,50,11,3,17
-Tizoc,50,50,23,4,20
-Tizoc,50,50,16,6,16
-Tizoc,60,60,11,3,19
-Tizoc,60,60,7,2,36
-Tizoc,70,70,9,3,18
-Tizoc,80,80,12,4,20
-Tizoc,80,80,10,4,14
-Tizoc,80,80,10,4,18
-Tizoc,80,80,11,6,2
-Tizoc,90,90,11,4,18
-Tizoc,90,90,10,6,2
-Tizoc,90,90,10,3,26
-Vox Reaper,-,,20,,
-Vox Reaper,-,,21,,
-Vox Reaper,100,100,10,4,22
-Vox Reaper,100,100,10,3,25
-Vox Reaper,100,100,0,23,3
-Vox Reaper,100 (40+60),100,16,8,18
-Vox Reaper,100 (50+20+30),100,9,2,33
-Vox Reaper,120,120,5,3,26
-Vox Reaper,120,120,5,3,26
-Vox Reaper,120,120,27,3,17
-Vox Reaper,132,132,25,3,23
-Vox Reaper,132,132,20,21,59
-Vox Reaper,180 (40x2+100),180,10,2,32
-Vox Reaper,240 (50+190),240,10,12,44
-Vox Reaper,25,25,5,3,10
-Vox Reaper,260 (50+20x5+110),260,8,52,51
-Vox Reaper,30,30,5,3,10
-Vox Reaper,30,30,4,4,8
-Vox Reaper,30,30,5,4,12
-Vox Reaper,320 (50+10x8+190),320,9,6,83
-Vox Reaper,35,35,6,3,16
-Vox Reaper,35,35,6,4,7
-Vox Reaper,375 (100+95+180),375,8,14,38
-Vox Reaper,40,40,6,8,2
-Vox Reaper,40,40,6,5,2
-Vox Reaper,40,40,6,10,44
-Vox Reaper,45688+33x2+55+44x2+55+11x8+16,45688,6,9,30
-Vox Reaper,50,50,6,8,2
-Vox Reaper,50,50,10,3,23
-Vox Reaper,50,50,7,13,49
-Vox Reaper,60,60,7,4,24
-Vox Reaper,60,60,6,4,17
-Vox Reaper,60,60,24,3,18
-Vox Reaper,60,60,5,15,56
-Vox Reaper,60,60,12,6,18
-Vox Reaper,70,70,9,4,20
-Vox Reaper,70,70,8,5,2
-Vox Reaper,70,70,10,4,2
-Vox Reaper,70,70,9,3,20
-Vox Reaper,75,75,8,3,22
-Vox Reaper,80,80,11,3,24
-Vox Reaper,80,80,24,3,18
-Vox Reaper,80,80,22,14,19
-Vox Reaper,80,80,17,16,4
-Vox Reaper,80,80,15,16,56
-Vox Reaper,80 / 50 (Far),80,17,14,19
-Vox Reaper,90,90,10,4,22
-Vox Reaper,90,90,9,3,19
-Wolfgang Krauser,-,,30,,
-Wolfgang Krauser,-,,19,,
-Wolfgang Krauser,100,100,11,1,21
-Wolfgang Krauser,100,100,10,4,25
-Wolfgang Krauser,100,100,10,4,22
-Wolfgang Krauser,100,100,24,6,25
-Wolfgang Krauser,110,110,25,6,15
-Wolfgang Krauser,120 (30 + 30 + 60),120,5,3,26
-Wolfgang Krauser,120 (30 + 30 + 60),120,5,3,26
-Wolfgang Krauser,130,130,25,4,114
-Wolfgang Krauser,132,132,25,4,26
-Wolfgang Krauser,132,132,19,20,58
-Wolfgang Krauser,140,140,9,5,70
-Wolfgang Krauser,140,140,11,5,70
-Wolfgang Krauser,150,150,22,4,114
-Wolfgang Krauser,170,170,11,5,70
-Wolfgang Krauser,180,180,27,4,114
-Wolfgang Krauser,"240 [260, 280]",240,10,61,68
-Wolfgang Krauser,2600 + 20*8 + 100,2600,8,2,62
-Wolfgang Krauser,30,30,4,4,10
-Wolfgang Krauser,30,30,6,3,10
-Wolfgang Krauser,30,30,5,4,11
-Wolfgang Krauser,30,30,11,8,17
-Wolfgang Krauser,30,30,1,6,25
-Wolfgang Krauser,"300 [320, 340]",300,9,61,68
-Wolfgang Krauser,3200 + 20*8 + 160,3200,7,2,78
-Wolfgang Krauser,35,35,6,5,6
-Wolfgang Krauser,40,40,7,4,14
-Wolfgang Krauser,40,40,7,4,11
-Wolfgang Krauser,40,40,11,8,17
-Wolfgang Krauser,45150 + 20*8 + 40 + 160,45150,6,5,52
-Wolfgang Krauser,50,50,9,6,2
-Wolfgang Krauser,50,50,23,4,15
-Wolfgang Krauser,50,50,8,3,26
-Wolfgang Krauser,50,50,12,3,22
-Wolfgang Krauser,50 [60],50,15,30,2
-Wolfgang Krauser,60,60,6,8,2
-Wolfgang Krauser,60,60,21,2,19
-Wolfgang Krauser,60,60,14,3,23
-Wolfgang Krauser,60 [70],60,17,4,6
-Wolfgang Krauser,66 (30+36),66,12,6,17
-Wolfgang Krauser,70,70,9,3,20
-Wolfgang Krauser,70,70,8,3,19
-Wolfgang Krauser,70 (30 + 40),70,1,7,6
-Wolfgang Krauser,80,80,10,6,2
-Wolfgang Krauser,80,80,12,3,26
-Wolfgang Krauser,80,80,13,4,19
-Wolfgang Krauser,80,80,23,4,16
-Wolfgang Krauser,80 [100],80,18,76,2
-Wolfgang Krauser,85,85,8,5,22
-Wolfgang Krauser,90,90,10,4,14
-Wolfgang Krauser,90,90,11,6,2
-Wolfgang Krauser,90,90,23,6,17
-Wolfgang Krauser,90 (30+60),90,14,3,23
+Rick Strowd,-,,16.0,,
+Rick Strowd,-,,20.0,,
+Rick Strowd,100,100.0,10.0,4.0,22.0
+Rick Strowd,120,120.0,5.0,3.0,26.0
+Rick Strowd,120,120.0,5.0,3.0,26.0
+Rick Strowd,132,132.0,25.0,3.0,26.0
+Rick Strowd,132 (80+40),132.0,25.0,20.0,55.0
+Rick Strowd,20,20.0,6.0,1.0,2.0
+Rick Strowd,220,220.0,8.0,3.0,58.0
+Rick Strowd,230,230.0,10.0,55.0,44.0
+Rick Strowd,25,25.0,5.0,3.0,10.0
+Rick Strowd,30,30.0,5.0,4.0,6.0
+Rick Strowd,330,330.0,7.0,3.0,58.0
+Rick Strowd,35,35.0,6.0,3.0,14.0
+Rick Strowd,35,35.0,4.0,3.0,10.0
+Rick Strowd,360,360.0,10.0,26.0,54.0
+Rick Strowd,40,40.0,6.0,3.0,14.0
+Rick Strowd,465,465.0,6.0,4.0,35.0
+Rick Strowd,50,50.0,12.0,24.0,5.0
+Rick Strowd,60,60.0,20.0,3.0,2.0
+Rick Strowd,70,70.0,10.0,3.0,19.0
+Rick Strowd,70,70.0,8.0,4.0,19.0
+Rick Strowd,70,70.0,19.0,4.0,2.0
+Rick Strowd,80,80.0,7.0,7.0,17.0
+Rick Strowd,80,80.0,22.0,4.0,15.0
+Rick Strowd,80,80.0,3.0,12.0,63.0
+Rick Strowd,80,80.0,24.0,3.0,14.0
+Rick Strowd,90,90.0,12.0,6.0,17.0
+Rock Howard,-,,24.0,,
+Rock Howard,-,,20.0,,
+Rock Howard,-,,30.0,,
+Rock Howard,-,,8.0,70.0,
+Rock Howard,-,,5.0,50.0,
+Rock Howard,-,,26.0,,
+Rock Howard,100,100.0,8.0,4.0,23.0
+Rock Howard,100,100.0,3.0,1.0,29.0
+Rock Howard,100,100.0,26.0,7.0,15.0
+Rock Howard,100,100.0,11.0,2.0,25.0
+Rock Howard,100 (20+80),100.0,11.0,56.0,2.0
+Rock Howard,100 (20+80),100.0,10.0,55.0,68.0
+Rock Howard,100 (30+20x2+30),100.0,7.0,3.0,57.0
+Rock Howard,100 (40+60),100.0,15.0,8.0,28.0
+Rock Howard,120,120.0,5.0,3.0,26.0
+Rock Howard,120,120.0,5.0,3.0,26.0
+Rock Howard,120,120.0,3.0,3.0,29.0
+Rock Howard,120,120.0,3.0,3.0,33.0
+Rock Howard,120 (40+10x4+40),120.0,5.0,3.0,55.0
+Rock Howard,120 (40+80),120.0,15.0,10.0,25.0
+Rock Howard,132,132.0,25.0,5.0,22.0
+Rock Howard,132,132.0,28.0,6.0,58.0
+Rock Howard,220 (30x4+100),220.0,10.0,15.0,56.0
+Rock Howard,240,240.0,8.0,45.0,36.0
+Rock Howard,25,25.0,4.0,3.0,8.0
+Rock Howard,25,25.0,5.0,3.0,10.0
+Rock Howard,25,25.0,5.0,4.0,9.0
+Rock Howard,280 (60+30x2+7x10+90),280.0,9.0,20.0,50.0
+Rock Howard,30,30.0,7.0,3.0,17.0
+Rock Howard,30,30.0,18.0,3.0,20.0
+Rock Howard,310 (60x3+130),310.0,6.0,49.0,32.0
+Rock Howard,40,40.0,5.0,3.0,9.0
+Rock Howard,40,40.0,5.0,4.0,9.0
+Rock Howard,40,40.0,6.0,5.0,2.0
+Rock Howard,451 (88+363),451.0,6.0,6.0,56.0
+Rock Howard,50,50.0,3.0,7.0,2.0
+Rock Howard,50,50.0,4.0,8.0,2.0
+Rock Howard,50,50.0,6.0,5.0,5.0
+Rock Howard,50,50.0,12.0,3.0,24.0
+Rock Howard,60,60.0,8.0,4.0,17.0
+Rock Howard,60,60.0,13.0,47.0,6.0
+Rock Howard,60,60.0,11.0,15.0,6.0
+Rock Howard,60,60.0,12.0,4.0,19.0
+Rock Howard,70,70.0,9.0,3.0,23.0
+Rock Howard,70,70.0,7.0,5.0,21.0
+Rock Howard,70,70.0,6.0,4.0,20.0
+Rock Howard,70,70.0,9.0,4.0,2.0
+Rock Howard,70,70.0,11.0,3.0,20.0
+Rock Howard,70,70.0,12.0,4.0,19.0
+Rock Howard,70,70.0,20.0,5.0,19.0
+Rock Howard,75,75.0,6.0,3.0,21.0
+Rock Howard,80,80.0,7.0,6.0,2.0
+Rock Howard,80,80.0,10.0,4.0,24.0
+Rock Howard,80,80.0,24.0,3.0,14.0
+Rock Howard,80,80.0,24.0,4.0,13.0
+Rock Howard,80,80.0,11.0,9.0,21.0
+Rock Howard,80,80.0,20.0,5.0,17.0
+Rock Howard,80,80.0,11.0,2.0,91.0
+Rock Howard,80 (30+10x2+30),80.0,5.0,3.0,53.0
+Rock Howard,80 (40x2),80.0,11.0,15.0,8.0
+Rock Howard,90,90.0,11.0,3.0,18.0
+Rock Howard,90,90.0,31.0,5.0,15.0
+Rock Howard,90,90.0,16.0,2.0,91.0
+Salvatore Ganacci,-,,21.0,345.0,
+Salvatore Ganacci,-,,17.0,,
+Salvatore Ganacci,-,,11.0,97.0,
+Salvatore Ganacci,-,,11.0,98.0,
+Salvatore Ganacci,-,,25.0,,
+Salvatore Ganacci,-,,36.0,,
+Salvatore Ganacci,-,,37.0,,
+Salvatore Ganacci,-,,27.0,,
+Salvatore Ganacci,-,,16.0,,
+Salvatore Ganacci,100,100.0,11.0,4.0,23.0
+Salvatore Ganacci,100,100.0,8.0,6.0,18.0
+Salvatore Ganacci,100,100.0,11.0,10.0,53.0
+Salvatore Ganacci,100,100.0,11.0,9.0,53.0
+Salvatore Ganacci,100 (40+60),100.0,8.0,4.0,28.0
+Salvatore Ganacci,120,120.0,5.0,3.0,26.0
+Salvatore Ganacci,120 (20x2+30+50),120.0,5.0,3.0,26.0
+Salvatore Ganacci,120 (50+10+30x2),120.0,16.0,4.0,38.0
+Salvatore Ganacci,132,132.0,25.0,3.0,28.0
+Salvatore Ganacci,132,132.0,23.0,4.0,18.0
+Salvatore Ganacci,20,20.0,4.0,3.0,10.0
+Salvatore Ganacci,20,20.0,7.0,9.0,93.0
+Salvatore Ganacci,20,20.0,9.0,7.0,93.0
+Salvatore Ganacci,220 ((20x4)x2+60),220.0,9.0,112.0,76.0
+Salvatore Ganacci,25,25.0,4.0,4.0,8.0
+Salvatore Ganacci,25,25.0,5.0,3.0,11.0
+Salvatore Ganacci,25,25.0,6.0,3.0,11.0
+Salvatore Ganacci,25,25.0,11.0,3.0,18.0
+Salvatore Ganacci,250,250.0,1.0,26.0,66.0
+Salvatore Ganacci,30,30.0,5.0,3.0,9.0
+Salvatore Ganacci,30,30.0,26.0,8.0,23.0
+Salvatore Ganacci,30,30.0,6.0,10.0,89.0
+Salvatore Ganacci,30 (10x3),30.0,2.0,3.0,21.0
+Salvatore Ganacci,300,300.0,1.0,29.0,132.0
+Salvatore Ganacci,310 (10x19+20+100),310.0,8.0,250.0,74.0
+Salvatore Ganacci,35,35.0,5.0,3.0,8.0
+Salvatore Ganacci,35,35.0,6.0,4.0,17.0
+Salvatore Ganacci,40,40.0,5.0,13.0,2.0
+Salvatore Ganacci,40,40.0,6.0,8.0,2.0
+Salvatore Ganacci,40,40.0,12.0,4.0,26.0
+Salvatore Ganacci,40,40.0,25.0,7.0,38.0
+Salvatore Ganacci,40,40.0,22.0,8.0,23.0
+Salvatore Ganacci,40,40.0,33.0,7.0,24.0
+Salvatore Ganacci,40,40.0,12.0,10.0,4.0
+Salvatore Ganacci,40 (20x2),40.0,17.0,3.0,61.0
+Salvatore Ganacci,40 (20x2),40.0,14.0,3.0,53.0
+Salvatore Ganacci,451 (88+11x25+88),451.0,6.0,8.0,177.0
+Salvatore Ganacci,50,50.0,5.0,13.0,2.0
+Salvatore Ganacci,50,50.0,21.0,3.0,20.0
+Salvatore Ganacci,50,50.0,12.0,3.0,17.0
+Salvatore Ganacci,50,50.0,11.0,10.0,5.0
+Salvatore Ganacci,55,55.0,9.0,3.0,22.0
+Salvatore Ganacci,55,55.0,8.0,4.0,21.0
+Salvatore Ganacci,60,60.0,7.0,3.0,15.0
+Salvatore Ganacci,60,60.0,42.0,6.0,34.0
+Salvatore Ganacci,60,60.0,14.0,8.0,20.0
+Salvatore Ganacci,60,60.0,14.0,8.0,51.0
+Salvatore Ganacci,60,60.0,12.0,6.0,26.0
+Salvatore Ganacci,60 (20x3),60.0,2.0,3.0,21.0
+Salvatore Ganacci,60 (30x2),60.0,10.0,3.0,12.0
+Salvatore Ganacci,60 (30x2),60.0,7.0,3.0,17.0
+Salvatore Ganacci,65 (15+15+35),65.0,11.0,3.0,19.0
+Salvatore Ganacci,70,70.0,11.0,4.0,20.0
+Salvatore Ganacci,70,70.0,10.0,2.0,6.0
+Salvatore Ganacci,70,70.0,10.0,4.0,17.0
+Salvatore Ganacci,70,70.0,14.0,7.0,51.0
+Salvatore Ganacci,70 (10x7),70.0,11.0,2.0,3.0
+Salvatore Ganacci,80,80.0,13.0,4.0,21.0
+Salvatore Ganacci,80,80.0,21.0,3.0,19.0
+Salvatore Ganacci,80,80.0,12.0,8.0,22.0
+Salvatore Ganacci,90,90.0,9.0,4.0,23.0
+Salvatore Ganacci,90,90.0,8.0,6.0,22.0
+Salvatore Ganacci,90 (60 far),90.0,25.0,6.0,17.0
+Terry Bogard,-,,25.0,,
+Terry Bogard,-,,14.0,,
+Terry Bogard,-,,19.0,,
+Terry Bogard,100,100.0,9.0,4.0,23.0
+Terry Bogard,100,100.0,27.0,4.0,16.0
+Terry Bogard,110,110.0,13.0,11.0,21.0
+Terry Bogard,110,110.0,20.0,4.0,17.0
+Terry Bogard,110 (50+5x4+40),110.0,1.0,6.0,3.0
+Terry Bogard,120,120.0,5.0,3.0,26.0
+Terry Bogard,120,120.0,17.0,12.0,24.0
+Terry Bogard,132 (50 + 20 + 50 [120]),132.0,25.0,8.0,36.0
+Terry Bogard,132 (50 + 70 [120]),132.0,8.0,2.0,21.0
+Terry Bogard,132 (50 + 70 [120]),132.0,8.0,3.0,12.0
+Terry Bogard,140,140.0,25.0,12.0,18.0
+Terry Bogard,20,20.0,7.0,5.0,18.0
+Terry Bogard,20,20.0,12.0,4.0,19.0
+Terry Bogard,20,20.0,18.0,4.0,19.0
+Terry Bogard,20,20.0,16.0,4.0,17.0
+Terry Bogard,20,20.0,20.0,3.0,23.0
+Terry Bogard,20,20.0,25.0,4.0,24.0
+Terry Bogard,20,20.0,22.0,4.0,19.0
+Terry Bogard,200 (40+160),200.0,10.0,16.0,55.0
+Terry Bogard,240,240.0,9.0,72.0,61.0
+Terry Bogard,25,25.0,4.0,4.0,8.0
+Terry Bogard,25,25.0,6.0,4.0,9.0
+Terry Bogard,30,30.0,5.0,3.0,10.0
+Terry Bogard,30,30.0,5.0,3.0,10.0
+Terry Bogard,300 (50+15*10+100),300.0,10.0,15.0,38.0
+Terry Bogard,330 (70+100+160),330.0,2.0,8.0,115.0
+Terry Bogard,35,35.0,7.0,4.0,20.0
+Terry Bogard,40,40.0,7.0,3.0,15.0
+Terry Bogard,40,40.0,6.0,5.0,10.0
+Terry Bogard,40,40.0,6.0,9.0,2.0
+Terry Bogard,40,40.0,6.0,6.0,2.0
+Terry Bogard,"434 Min: 208, (80+35+15*10+135)",434.0,6.0,5.0,27.0
+Terry Bogard,50,50.0,6.0,4.0,18.0
+Terry Bogard,50,50.0,4.0,6.0,2.0
+Terry Bogard,50,50.0,4.0,7.0,2.0
+Terry Bogard,50,50.0,22.0,4.0,13.0
+Terry Bogard,50,50.0,19.0,4.0,20.0
+Terry Bogard,50,50.0,12.0,3.0,23.0
+Terry Bogard,50,50.0,18.0,1.0,34.0
+Terry Bogard,60,60.0,10.0,4.0,15.0
+Terry Bogard,60,60.0,14.0,49.0,5.0
+Terry Bogard,60,60.0,20.0,1.0,34.0
+Terry Bogard,60,60.0,20.0,1.0,25.0
+Terry Bogard,60 (30x2) [90 (30x3)],60.0,16.0,43.0,4.0
+Terry Bogard,60 [80],60.0,18.0,49.0,1.0
+Terry Bogard,65,65.0,9.0,3.0,16.0
+Terry Bogard,70,70.0,9.0,4.0,2.0
+Terry Bogard,70,70.0,10.0,5.0,16.0
+Terry Bogard,80,80.0,9.0,4.0,18.0
+Terry Bogard,80,80.0,7.0,5.0,2.0
+Terry Bogard,80,80.0,9.0,4.0,23.0
+Terry Bogard,80,80.0,26.0,4.0,17.0
+Terry Bogard,90,90.0,10.0,4.0,18.0
+Terry Bogard,90,90.0,21.0,4.0,17.0
+Terry Bogard,90 (30+10+50),90.0,5.0,6.0,22.0
+Terry Bogard,90 (30+10+50),90.0,1.0,7.0,3.0
+Terry Bogard,95 (40+55),95.0,11.0,4.0,16.0
+Tizoc,-,,15.0,,
+Tizoc,-,,11.0,28.0,
+Tizoc,-,,28.0,10.0,
+Tizoc,-,,14.0,21.0,
+Tizoc,-,,17.0,20.0,
+Tizoc,-,,19.0,20.0,
+Tizoc,-,,13.0,1.0,20.0
+Tizoc,100,100.0,24.0,3.0,17.0
+Tizoc,100,100.0,11.0,3.0,24.0
+Tizoc,100,100.0,4.0,5.0,3.0
+Tizoc,100,100.0,26.0,4.0,21.0
+Tizoc,100,100.0,15.0,3.0,18.0
+Tizoc,100,100.0,19.0,3.0,23.0
+Tizoc,100 (40+60),100.0,9.0,6.0,22.0
+Tizoc,110,110.0,11.0,4.0,20.0
+Tizoc,110,110.0,23.0,8.0,14.0
+Tizoc,120 (10x3+90),120.0,5.0,3.0,26.0
+Tizoc,120 (40+80),120.0,25.0,6.0,20.0
+Tizoc,120 (40+80),120.0,9.0,5.0,22.0
+Tizoc,132 (120),132.0,25.0,6.0,26.0
+Tizoc,132 (120),132.0,23.0,18.0,55.0
+Tizoc,140,140.0,48.0,3.0,17.0
+Tizoc,140,140.0,9.0,2.0,34.0
+Tizoc,140,140.0,20.0,10.0,39.0
+Tizoc,140,140.0,24.0,10.0,31.0
+Tizoc,140,140.0,14.0,11.0,37.0
+Tizoc,140,140.0,6.0,2.0,43.0
+Tizoc,160,160.0,8.0,2.0,43.0
+Tizoc,170,170.0,28.0,10.0,25.0
+Tizoc,170,170.0,28.0,8.0,23.0
+Tizoc,180,180.0,28.0,7.0,22.0
+Tizoc,180,180.0,4.0,2.0,45.0
+Tizoc,200,200.0,7.0,2.0,52.0
+Tizoc,200 (50x2+100),200.0,10.0,3.0,43.0
+Tizoc,240,240.0,5.0,2.0,54.0
+Tizoc,25,25.0,5.0,4.0,10.0
+Tizoc,30,30.0,4.0,4.0,9.0
+Tizoc,30,30.0,6.0,3.0,10.0
+Tizoc,310,310.0,5.0,2.0,50.0
+Tizoc,310 (30x6+130),310.0,6.0,93.0,66.0
+Tizoc,320 (100+220),320.0,1.0,2.0,44.0
+Tizoc,35,35.0,8.0,4.0,15.0
+Tizoc,40,40.0,7.0,4.0,16.0
+Tizoc,40,40.0,6.0,5.0,8.0
+Tizoc,40,40.0,5.0,2.0,26.0
+Tizoc,400 (100+300),400.0,1.0,2.0,55.0
+Tizoc,418 (88+110+220),418.0,6.0,4.0,37.0
+Tizoc,45,45.0,7.0,5.0,2.0
+Tizoc,50,50.0,7.0,10.0,2.0
+Tizoc,50,50.0,11.0,3.0,17.0
+Tizoc,50,50.0,23.0,4.0,20.0
+Tizoc,50,50.0,16.0,6.0,16.0
+Tizoc,60,60.0,11.0,3.0,19.0
+Tizoc,60,60.0,7.0,2.0,36.0
+Tizoc,70,70.0,9.0,3.0,18.0
+Tizoc,80,80.0,12.0,4.0,20.0
+Tizoc,80,80.0,10.0,4.0,14.0
+Tizoc,80,80.0,10.0,4.0,18.0
+Tizoc,80,80.0,11.0,6.0,2.0
+Tizoc,90,90.0,11.0,4.0,18.0
+Tizoc,90,90.0,10.0,6.0,2.0
+Tizoc,90,90.0,10.0,3.0,26.0
+Vox Reaper,-,,20.0,,
+Vox Reaper,-,,21.0,,
+Vox Reaper,100,100.0,10.0,4.0,22.0
+Vox Reaper,100,100.0,10.0,3.0,25.0
+Vox Reaper,100,100.0,0.0,23.0,3.0
+Vox Reaper,100 (40+60),100.0,16.0,8.0,18.0
+Vox Reaper,100 (50+20+30),100.0,9.0,2.0,33.0
+Vox Reaper,120,120.0,5.0,3.0,26.0
+Vox Reaper,120,120.0,5.0,3.0,26.0
+Vox Reaper,120,120.0,27.0,3.0,17.0
+Vox Reaper,132,132.0,25.0,3.0,23.0
+Vox Reaper,132,132.0,20.0,21.0,59.0
+Vox Reaper,180 (40x2+100),180.0,10.0,2.0,32.0
+Vox Reaper,240 (50+190),240.0,10.0,12.0,44.0
+Vox Reaper,25,25.0,5.0,3.0,10.0
+Vox Reaper,260 (50+20x5+110),260.0,8.0,52.0,51.0
+Vox Reaper,30,30.0,5.0,3.0,10.0
+Vox Reaper,30,30.0,4.0,4.0,8.0
+Vox Reaper,30,30.0,5.0,4.0,12.0
+Vox Reaper,320 (50+10x8+190),320.0,9.0,6.0,83.0
+Vox Reaper,35,35.0,6.0,3.0,16.0
+Vox Reaper,35,35.0,6.0,4.0,7.0
+Vox Reaper,375 (100+95+180),375.0,8.0,14.0,38.0
+Vox Reaper,40,40.0,6.0,8.0,2.0
+Vox Reaper,40,40.0,6.0,5.0,2.0
+Vox Reaper,40,40.0,6.0,10.0,44.0
+Vox Reaper,45688+33x2+55+44x2+55+11x8+16,45688.0,6.0,9.0,30.0
+Vox Reaper,50,50.0,6.0,8.0,2.0
+Vox Reaper,50,50.0,10.0,3.0,23.0
+Vox Reaper,50,50.0,7.0,13.0,49.0
+Vox Reaper,60,60.0,7.0,4.0,24.0
+Vox Reaper,60,60.0,6.0,4.0,17.0
+Vox Reaper,60,60.0,24.0,3.0,18.0
+Vox Reaper,60,60.0,5.0,15.0,56.0
+Vox Reaper,60,60.0,12.0,6.0,18.0
+Vox Reaper,70,70.0,9.0,4.0,20.0
+Vox Reaper,70,70.0,8.0,5.0,2.0
+Vox Reaper,70,70.0,10.0,4.0,2.0
+Vox Reaper,70,70.0,9.0,3.0,20.0
+Vox Reaper,75,75.0,8.0,3.0,22.0
+Vox Reaper,80,80.0,11.0,3.0,24.0
+Vox Reaper,80,80.0,24.0,3.0,18.0
+Vox Reaper,80,80.0,22.0,14.0,19.0
+Vox Reaper,80,80.0,17.0,16.0,4.0
+Vox Reaper,80,80.0,15.0,16.0,56.0
+Vox Reaper,80 / 50 (Far),80.0,17.0,14.0,19.0
+Vox Reaper,90,90.0,10.0,4.0,22.0
+Vox Reaper,90,90.0,9.0,3.0,19.0
+Wolfgang Krauser,-,,30.0,,
+Wolfgang Krauser,-,,19.0,,
+Wolfgang Krauser,100,100.0,11.0,1.0,21.0
+Wolfgang Krauser,100,100.0,10.0,4.0,25.0
+Wolfgang Krauser,100,100.0,10.0,4.0,22.0
+Wolfgang Krauser,100,100.0,24.0,6.0,25.0
+Wolfgang Krauser,110,110.0,25.0,6.0,15.0
+Wolfgang Krauser,120 (30 + 30 + 60),120.0,5.0,3.0,26.0
+Wolfgang Krauser,120 (30 + 30 + 60),120.0,5.0,3.0,26.0
+Wolfgang Krauser,130,130.0,25.0,4.0,114.0
+Wolfgang Krauser,132,132.0,25.0,4.0,26.0
+Wolfgang Krauser,132,132.0,19.0,20.0,58.0
+Wolfgang Krauser,140,140.0,9.0,5.0,70.0
+Wolfgang Krauser,140,140.0,11.0,5.0,70.0
+Wolfgang Krauser,150,150.0,22.0,4.0,114.0
+Wolfgang Krauser,170,170.0,11.0,5.0,70.0
+Wolfgang Krauser,180,180.0,27.0,4.0,114.0
+Wolfgang Krauser,"240 [260, 280]",240.0,10.0,61.0,68.0
+Wolfgang Krauser,2600 + 20*8 + 100,2600.0,8.0,2.0,62.0
+Wolfgang Krauser,30,30.0,4.0,4.0,10.0
+Wolfgang Krauser,30,30.0,6.0,3.0,10.0
+Wolfgang Krauser,30,30.0,5.0,4.0,11.0
+Wolfgang Krauser,30,30.0,11.0,8.0,17.0
+Wolfgang Krauser,30,30.0,1.0,6.0,25.0
+Wolfgang Krauser,"300 [320, 340]",300.0,9.0,61.0,68.0
+Wolfgang Krauser,3200 + 20*8 + 160,3200.0,7.0,2.0,78.0
+Wolfgang Krauser,35,35.0,6.0,5.0,6.0
+Wolfgang Krauser,40,40.0,7.0,4.0,14.0
+Wolfgang Krauser,40,40.0,7.0,4.0,11.0
+Wolfgang Krauser,40,40.0,11.0,8.0,17.0
+Wolfgang Krauser,45150 + 20*8 + 40 + 160,45150.0,6.0,5.0,52.0
+Wolfgang Krauser,50,50.0,9.0,6.0,2.0
+Wolfgang Krauser,50,50.0,23.0,4.0,15.0
+Wolfgang Krauser,50,50.0,8.0,3.0,26.0
+Wolfgang Krauser,50,50.0,12.0,3.0,22.0
+Wolfgang Krauser,50 [60],50.0,15.0,30.0,2.0
+Wolfgang Krauser,60,60.0,6.0,8.0,2.0
+Wolfgang Krauser,60,60.0,21.0,2.0,19.0
+Wolfgang Krauser,60,60.0,14.0,3.0,23.0
+Wolfgang Krauser,60 [70],60.0,17.0,4.0,6.0
+Wolfgang Krauser,66 (30+36),66.0,12.0,6.0,17.0
+Wolfgang Krauser,70,70.0,9.0,3.0,20.0
+Wolfgang Krauser,70,70.0,8.0,3.0,19.0
+Wolfgang Krauser,70 (30 + 40),70.0,1.0,7.0,6.0
+Wolfgang Krauser,80,80.0,10.0,6.0,2.0
+Wolfgang Krauser,80,80.0,12.0,3.0,26.0
+Wolfgang Krauser,80,80.0,13.0,4.0,19.0
+Wolfgang Krauser,80,80.0,23.0,4.0,16.0
+Wolfgang Krauser,80 [100],80.0,18.0,76.0,2.0
+Wolfgang Krauser,85,85.0,8.0,5.0,22.0
+Wolfgang Krauser,90,90.0,10.0,4.0,14.0
+Wolfgang Krauser,90,90.0,11.0,6.0,2.0
+Wolfgang Krauser,90,90.0,23.0,6.0,17.0
+Wolfgang Krauser,90 (30+60),90.0,14.0,3.0,23.0
+B.Jenet,"0 Stock, 1 Rev",0,1,623,174
+B.Jenet,"1 Stock, 2 Rev",1,2,236,236
+B.Jenet,30,30,6,3,16
+B.Jenet,30,30,6,3,16
+B.Jenet,35,35,6,4,12
+B.Jenet,35,35,6,4,12
+B.Jenet,50,50,7,3,21
+B.Jenet,50,50,7,3,21
+B.Jenet,85,85,9,4,17
+B.Jenet,85,85,9,4,17
+B.Jenet,25,25,4,3,8
+B.Jenet,25,25,4,3,8
+B.Jenet,30,30,5,4,7
+B.Jenet,30,30,5,4,7
+B.Jenet,70,70,6,4,23
+B.Jenet,70,70,6,4,23
+B.Jenet,70 (20+50),70,20,50,8
+B.Jenet,70 (20+50),70,20,50,8
+B.Jenet,30,30,5,3,8
+B.Jenet,30,30,5,3,8
+B.Jenet,25,25,5,4,10
+B.Jenet,25,25,5,4,10
+B.Jenet,80,80,9,3,24
+B.Jenet,80,80,9,3,24
+B.Jenet,90,90,10,4,22
+B.Jenet,90,90,10,4,22
+B.Jenet,35,35,4,9,2
+B.Jenet,35,35,4,9,2
+B.Jenet,35,35,4,9,2
+B.Jenet,35,35,4,9,2
+B.Jenet,30,30,5,6,2
+B.Jenet,30,30,5,6,2
+B.Jenet,70 (20+50),70,20,50,1
+B.Jenet,70 (20+50),70,20,50,1
+B.Jenet,75,75,9,4,2
+B.Jenet,75,75,9,4,2
+B.Jenet,60,60,9,3,17
+B.Jenet,70,70,7,4,18
+B.Jenet,90,90,9,4,21
+B.Jenet,80,80,23,3,12
+B.Jenet,100,100,10,3,20
+B.Jenet,60,60,9,3,17
+B.Jenet,70,70,7,4,18
+B.Jenet,90,90,9,4,21
+B.Jenet,80,80,23,3,12
+B.Jenet,100,100,10,3,20
+B.Jenet,20+100 (Total : 120),20,100,120,5
+B.Jenet,20+100 (Total : 120),20,100,120,5
+B.Jenet,120,120,5,3,26
+B.Jenet,120,120,5,3,26
+B.Jenet,20x5 (Total : 100),20,5,100,5
+B.Jenet,20x5 (Total : 100),20,5,100,5
+B.Jenet,25,25,5,4,20
+B.Jenet,25,25,5,4,20
+B.Jenet,75 (15x5),75,15,5,19
+B.Jenet,75 (15x5),75,15,5,19
+B.Jenet,132 (77+55),132,77,55,13
+B.Jenet,132 (77+55),132,77,55,13
+B.Jenet,132,132,19,6,54
+B.Jenet,132,132,19,6,54
+B.Jenet,-,18,,,
+B.Jenet,-,18,,,
+B.Jenet,-,30,,,
+B.Jenet,-,30,,,
+B.Jenet,50,50,12,3,23
+B.Jenet,50,50,12,3,23
+B.Jenet,80,80,22,4,15
+B.Jenet,80,80,22,4,15
+B.Jenet,70 (20+20+30),70,20,20,30
+B.Jenet,70 (20+20+30),70,20,20,30
+B.Jenet,80 (20+20+40),80,20,20,40
+B.Jenet,70 (20+20+30),70,20,20,30
+B.Jenet,70 (20+20+30),70,20,20,30
+B.Jenet,80 (20+20+40),80,20,20,40
+B.Jenet,80,80,14,4,21
+B.Jenet,90,90,18,4,23
+B.Jenet,90,90,19,4,20
+B.Jenet,80,80,14,4,21
+B.Jenet,90,90,18,4,23
+B.Jenet,90,90,19,4,20
+B.Jenet,90,90,25,21,7
+B.Jenet,110,110,38,31,8
+B.Jenet,120 (40+80),120,40,80,19
+B.Jenet,90,90,25,21,7
+B.Jenet,110,110,38,31,8
+B.Jenet,120 (40+80),120,40,80,19
+B.Jenet,7020+10+40,7020,10,40,9
+B.Jenet,10020+10x2+60,10020,10,2,60
+B.Jenet,11530+15+10x2+50,11530,15,10,2
+B.Jenet,7020+10+40,7020,10,40,9
+B.Jenet,10020+10x2+60,10020,10,2,60
+B.Jenet,11530+15+10x2+50,11530,15,10,2
+B.Jenet,-,54,,,
+B.Jenet,-,45,,,
+B.Jenet,-,36,,,
+B.Jenet,-,54,,,
+B.Jenet,-,45,,,
+B.Jenet,-,36,,,
+B.Jenet,20,20,8,6,11
+B.Jenet,20,20,8,6,12
+B.Jenet,20,20,8,6,11
+B.Jenet,20,20,8,6,12
+B.Jenet,20,20,7,6,10
+B.Jenet,20,20,8,6,8
+B.Jenet,20,20,7,6,10
+B.Jenet,20,20,8,6,8
+B.Jenet,30,30,7,6,10
+B.Jenet,30,30,8,6,63
+B.Jenet,30,30,7,6,10
+B.Jenet,30,30,8,6,63
+B.Jenet,50,50,6,6,32
+B.Jenet,50,50,7,6,86
+B.Jenet,50,50,6,6,32
+B.Jenet,50,50,7,6,86
+B.Jenet,150,150,3,5,40
+B.Jenet,140,140,3,5,38
+B.Jenet,140,140,5,3,23
+B.Jenet,150,150,3,5,40
+B.Jenet,140,140,3,5,38
+B.Jenet,140,140,5,3,23
+B.Jenet,22020x6+100,22020,6,100,8
+B.Jenet,30020x9+120,30020,9,120,7
+B.Jenet,22020x6+100,22020,6,100,8
+B.Jenet,30020x9+120,30020,9,120,7
+B.Jenet,24020+10x8+30+110,24020,10,8,30
+B.Jenet,33010x16+170,33010,16,170,16
+B.Jenet,24020+10x8+30+110,24020,10,8,30
+B.Jenet,33010x16+170,33010,16,170,16
+B.Jenet,434 (88+11x7+33x2+203),434,88,11,7
+B.Jenet,434 (88+11x7+33x2+203),434,88,11,7
